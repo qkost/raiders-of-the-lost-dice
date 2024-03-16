@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 32.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "README.md"
               }
             }
           },
@@ -188,11 +190,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f92f205f31d0ba58",
+  "active": "fa2ad829fac8adfc",
   "lastOpenFiles": [
-    "New Text Document.txt",
     "Session Notes/Session 32.md",
+    "2024-03-15.md",
     "Untitled.md",
+    "New Text Document.txt",
     "README.md",
     "PCs/Ember.md",
     "PCs/Shadowclaw.md",
@@ -233,7 +236,6 @@
     "Maps/carousel-cutout.webp.0.pdnSave",
     "Encounters/No Name Vision Quest",
     "Maps/funhouse.webp",
-    "Maps/funhouse.webp.0.pdnSave",
     "Maps/funhouse.jpg",
     "Pictures/bishop-monster.webp",
     "Untitled.canvas"
