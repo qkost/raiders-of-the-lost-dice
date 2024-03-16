@@ -4,43 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "910eb8ae832aa2aa",
+        "id": "2dca17e1551863b9",
         "type": "tabs",
         "children": [
           {
-            "id": "fa2ad829fac8adfc",
+            "id": "0d25c746122ea9da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f280bf6261376c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ships.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3c94d40438bb6fc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Darktow.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -154,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,11 +158,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f92f205f31d0ba58",
+  "active": "0d25c746122ea9da",
   "lastOpenFiles": [
-    "Templates",
+    "Locations/Darktow.md",
+    "Names.md",
     "README.md",
     "Untitled.md",
+    "Templates",
     "Session Notes/Session 32.md",
     "2024-03-15.md",
     "New Text Document.txt",
@@ -204,13 +176,12 @@
     "NPCs/Ungrudaal.md",
     "Encounters/09 Plank King.md",
     "Locations/Ships.md",
-    "Locations/Darktow.md",
     "NPCs/Ysolda Banne - Artificer.md",
     "Organizations/The Ill Hand.md",
     "Encounters/08 Ships & Islands.md",
     "Session Notes/Session 31 - Idok's Lair.md",
     "Encounters/10 Dragon Turtle.md",
-    "Prep Template.md",
+    "Templates/Prep Template.md",
     "Encounters/99 Ysolda Banne.md",
     "Pictures/ysolda.png",
     "Pictures/ysolda.png.crdownload",
@@ -232,7 +203,6 @@
     "Maps/carousel2-cutout.pdn.0.pdnSave",
     "Maps/carousel-cutout.webp",
     "Maps/carousel-cutout.webp.0.pdnSave",
-    "Encounters/No Name Vision Quest",
     "Maps/funhouse.webp",
     "Maps/funhouse.jpg",
     "Pictures/bishop-monster.webp",
