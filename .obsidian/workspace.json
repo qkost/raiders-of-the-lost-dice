@@ -117,7 +117,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -190,13 +188,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa2ad829fac8adfc",
+  "active": "f92f205f31d0ba58",
   "lastOpenFiles": [
+    "Templates",
+    "README.md",
+    "Untitled.md",
     "Session Notes/Session 32.md",
     "2024-03-15.md",
-    "Untitled.md",
     "New Text Document.txt",
-    "README.md",
     "PCs/Ember.md",
     "PCs/Shadowclaw.md",
     "PCs/attachments/638061092979929411.png",
@@ -223,7 +222,6 @@
     "Magic Items/Vestiges of Divergence.md",
     "Encounters/No Name Vision Quest/Carousel.md",
     "Encounters/No Name Vision Quest/Mirror Maze.md",
-    "Gods/No Name.md",
     "Maps/Untitled.png",
     "Maps/Untitled.png.0.pdnSave",
     "Pictures/displacer-beast.png.crdownload",
