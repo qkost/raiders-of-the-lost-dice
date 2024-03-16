@@ -1,0 +1,3 @@
+- _Stand as a paragon of honor and justice._
+- _Smite evil wherever it is found, yet show compassion to those who have strayed from righteousness._
+- _Defend the weak, bring freedom to the persecuted, and protect the ideals of justice and order._
