@@ -38,7 +38,9 @@
 
 * Loot by DC (when actively searching during combat)
 	* Kiss of the Changebringer (see above)
-	* DC 20 -  [Dragonhide Belt, +1](https://www.dndbeyond.com/magic-items/4047206-dragonhide-belt-1)
+	* DC 20 - either
+		* [Dragonhide Belt, +1](https://www.dndbeyond.com/magic-items/4047206-dragonhide-belt-1)
+		* [Dragonhide Belt of Martial Discipline, +1](https://www.dndbeyond.com/magic-items/8185389-dragonhide-belt-of-martial-discipline-1)
 	* DC 18 - [Boots of the Vigilant](https://www.dndbeyond.com/sources/tcsr/game-masters-toolkit#BootsoftheVigilant)
 	* DC 15 - Weapons, +1
 		* Mace
