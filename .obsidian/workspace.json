@@ -87,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/09 Plank King.md",
+                "file": "Encounters/10 Dragon Turtle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/09 Plank King.md",
+                "file": "Encounters/10 Dragon Turtle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/09 Plank King.md"
+                "file": "Encounters/10 Dragon Turtle.md"
               }
             }
           },
@@ -234,14 +234,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d25c746122ea9da",
+  "active": "46cde5dad0698fda",
   "lastOpenFiles": [
+    "Encounters/09 Plank King.md",
     "Encounters/10 Dragon Turtle.md",
     "Organizations/The Ill Hand.md",
     "Locations/Darktow.md",
     "Session Notes/Session 32.md",
     "Names.md",
-    "Encounters/09 Plank King.md",
     "README.md",
     "Untitled.md",
     "Templates",
