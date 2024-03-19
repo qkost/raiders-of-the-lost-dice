@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2dca17e1551863b9",
@@ -148,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Darktow.md",
+                "file": "Session Notes/Session 32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Darktow.md",
+                "file": "Session Notes/Session 32.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Darktow.md"
+                "file": "Session Notes/Session 32.md"
               }
             }
           },
@@ -221,13 +220,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e8586d2ea2e335d",
+  "active": "a304b09f6b5bd34b",
   "lastOpenFiles": [
+    "Locations/Darktow.md",
     "Names.md",
     "Encounters/09 Plank King.md",
     "Encounters/10 Dragon Turtle.md",
     "Session Notes/Session 32.md",
-    "Locations/Darktow.md",
     "README.md",
     "Untitled.md",
     "Templates",

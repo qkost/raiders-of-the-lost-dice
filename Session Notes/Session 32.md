@@ -26,6 +26,7 @@ As you fled back into the tunnels, [[Idok (Dragon Turtle)]] called out:
 	* Cleric - Lidya
 	* Orc Rampart
 	* Minion
+* Idok took 103 hit points in damage
 ## Prep
 
 ### Random Tidbits
