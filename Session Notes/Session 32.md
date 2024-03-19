@@ -1,7 +1,7 @@
 
 ## Recap
 
-Welcome friends back to Exandria! Last we left off our heros faced against the gargantuan dragon turtle, [[Idok (Dragon Turtle)]].
+Welcome friends back to Exandria! Last we left off our heroes faced against the gargantuan dragon turtle, [[Idok (Dragon Turtle)]].
 
 [[Tato]] and [[Grogar, The Ironshell]] approached the dragon and treated with him, which went... badly. It did, however, buy some time for [[Kelward]] to scour [[Idok (Dragon Turtle)]]'s hoard in search of the Kiss of the Changebringer.
 

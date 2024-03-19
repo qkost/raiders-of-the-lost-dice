@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 32.md",
+                "file": "Locations/Darktow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 32.md",
+                "file": "Locations/Darktow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 32.md"
+                "file": "Locations/Darktow.md"
               }
             }
           },
@@ -220,13 +220,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a304b09f6b5bd34b",
+  "active": "9e8586d2ea2e335d",
   "lastOpenFiles": [
+    "Session Notes/Session 32.md",
     "Locations/Darktow.md",
     "Names.md",
     "Encounters/09 Plank King.md",
     "Encounters/10 Dragon Turtle.md",
-    "Session Notes/Session 32.md",
     "README.md",
     "Untitled.md",
     "Templates",
