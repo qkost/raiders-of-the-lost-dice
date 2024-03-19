@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Darktow.md",
+                "file": "Organizations/The Ill Hand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Darktow.md",
+                "file": "Organizations/The Ill Hand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Darktow.md"
+                "file": "Organizations/The Ill Hand.md"
               }
             }
           },
@@ -233,10 +233,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e8586d2ea2e335d",
+  "active": "bca1079ccf99113b",
   "lastOpenFiles": [
-    "Organizations/The Ill Hand.md",
     "Locations/Darktow.md",
+    "Organizations/The Ill Hand.md",
     "Session Notes/Session 32.md",
     "Names.md",
     "Encounters/09 Plank King.md",
