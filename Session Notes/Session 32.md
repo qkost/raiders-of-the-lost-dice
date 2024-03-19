@@ -19,7 +19,7 @@ As you fled back into the tunnels, [[Idok (Dragon Turtle)]] called out:
 * [[Tosh Caro]] taking on Lyr for control of the Ill Hand
 * Deal with [[Ysolda Banne - Artificer]]
 	* Two clockwork oaken bolters
-	* 
+	* [[Ember]] is attuned
 
 ## Relevant Holdovers
 
@@ -29,7 +29,6 @@ As you fled back into the tunnels, [[Idok (Dragon Turtle)]] called out:
 	* Spells
 		* 1st
 		* 2nd
-		* 
 * Three people in prison
 	* Cleric - Lidya
 	* Orc Rampart

@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 32.md",
+                "file": "Session 33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 32.md",
+                "file": "Session 33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 32.md"
+                "file": "Session 33.md"
               }
             }
           },
@@ -245,14 +245,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a304b09f6b5bd34b",
+  "active": "14071dee968589da",
   "lastOpenFiles": [
+    "Session Notes/Session 32.md",
     "Session 33.md",
     "Locations/Darktow.md",
     "Encounters/09 Plank King.md",
     "Encounters/10 Dragon Turtle.md",
     "Organizations/The Ill Hand.md",
-    "Session Notes/Session 32.md",
     "Names.md",
     "README.md",
     "Templates",

@@ -2,6 +2,16 @@
 ## Recap
 
 
+
+## Relevant Holdovers
+
+* Paij
+	* 3 levels of exhaustion
+	* 60 hp
+	* Spells
+		* 1st
+		* 2nd
+
 ## Prep
 ### 1. Review Characters
 
