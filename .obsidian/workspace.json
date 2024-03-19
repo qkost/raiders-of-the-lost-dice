@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "2dca17e1551863b9",
@@ -85,9 +84,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "14071dee968589da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 33.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -161,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/10 Dragon Turtle.md",
+                "file": "Session Notes/Session 32.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/10 Dragon Turtle.md",
+                "file": "Session Notes/Session 32.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/10 Dragon Turtle.md"
+                "file": "Session Notes/Session 32.md"
               }
             }
           },
@@ -234,16 +245,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46cde5dad0698fda",
+  "active": "a304b09f6b5bd34b",
   "lastOpenFiles": [
+    "Session 33.md",
+    "Locations/Darktow.md",
     "Encounters/09 Plank King.md",
     "Encounters/10 Dragon Turtle.md",
     "Organizations/The Ill Hand.md",
-    "Locations/Darktow.md",
     "Session Notes/Session 32.md",
     "Names.md",
     "README.md",
-    "Untitled.md",
     "Templates",
     "2024-03-15.md",
     "New Text Document.txt",

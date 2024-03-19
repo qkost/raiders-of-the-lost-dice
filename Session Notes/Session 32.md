@@ -13,6 +13,14 @@ As you fled back into the tunnels, [[Idok (Dragon Turtle)]] called out:
 
 "Flee insects! We'll see how you fair without your precious ships!"
 
+## Notes
+
+* Shadowclaw informed [[The Ill Hand]] of coming danger
+* [[Tosh Caro]] taking on Lyr for control of the Ill Hand
+* Deal with [[Ysolda Banne - Artificer]]
+	* Two clockwork oaken bolters
+	* 
+
 ## Relevant Holdovers
 
 * Paij
