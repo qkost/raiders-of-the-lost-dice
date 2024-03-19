@@ -5,7 +5,9 @@ Welcome friends back to Exandria! Last we left off our heroes made their way bac
 
 After emerging from [[Darktow]], you immediately noticed the chaos and looting that has ensued after the fall of [[Plank King (Wyatt Maranoss)]] and [[Halvar Draang]].
 
-[[Shadowclaw]] went and warned the [[The Ill Hand]] of the coming dr
+[[Shadowclaw]] went and warned the [[The Ill Hand]] (currently under the control of Lyr) of the coming dragon turtle and then told [[Tosh Caro]] to gather her men to take the ship.
+
+Meanwhile, the rest of the gang treated with [[Ysolda Banne - Artificer]] in the Throne Roost. She seemed eager to take the gold and cut and run. She was in a full position of power seeing how exhausted you were with two shield guardians at her side; however, the incredible persuasiveness of [[Ember]] and [[Kelward]] got through to her in 
 
 ## Relevant Holdovers
 
