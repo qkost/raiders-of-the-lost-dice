@@ -1,7 +1,11 @@
 
 ## Recap
 
+Welcome friends back to Exandria! Last we left off our heroes made their way back from [[Idok (Dragon Turtle)]]'s lair into the heart of [[Darktow]], dispatching a few automatons on the way.
 
+After emerging from [[Darktow]], you immediately noticed the chaos and looting that has ensued after the fall of [[Plank King (Wyatt Maranoss)]] and [[Halvar Draang]].
+
+[[Shadowclaw]] went and warned the [[The Ill Hand]] of the coming dr
 
 ## Relevant Holdovers
 
