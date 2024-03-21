@@ -6,7 +6,8 @@
 * Longship: AC 15, 300 hp
 
 ## Combatants
-* Friendlies
-	* Woman Mustache: 23 HP
-	* 
+* Random Pirates
+	* 2 x 5 rolls + 6 (9)
+	* AC 14
+	* 40 HP
 * Enemies
