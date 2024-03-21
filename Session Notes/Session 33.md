@@ -39,7 +39,8 @@ What would you like to do?
 
 ### 2. Strong Start
 
-* 
+* Give Ember a second arcane recovery - themed as Avandra reaching out to her
+* Scene with people looting the gem shop
 
 ### 3. Scenes
 
