@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "a304b09f6b5bd34b",
+            "id": "2842683fbe043930",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 32.md",
+                "file": "Session Notes/Session 33.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2dca17e1551863b9",
@@ -196,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/11 Dragon Turtle Port.md",
+                "file": "Session Notes/Session 33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/11 Dragon Turtle Port.md",
+                "file": "Session Notes/Session 33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/11 Dragon Turtle Port.md"
+                "file": "Session Notes/Session 33.md"
               }
             }
           },
@@ -269,12 +270,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e49b38f47956efb6",
+  "active": "2842683fbe043930",
   "lastOpenFiles": [
-    "Locations/Ships.md",
     "Encounters/11 Dragon Turtle Port.md",
+    "Locations/Ships.md",
     "Organizations/The Ill Hand.md",
-    "Session 33.md",
+    "Session Notes/Session 33.md",
     "Session Notes/Session 32.md",
     "Locations/Darktow.md",
     "Encounters/09 Plank King.md",
