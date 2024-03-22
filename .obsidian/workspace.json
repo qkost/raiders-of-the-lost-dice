@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2dca17e1551863b9",
@@ -197,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 33.md",
+                "file": "Locations/Ships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 33.md",
+                "file": "Locations/Ships.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 33.md"
+                "file": "Locations/Ships.md"
               }
             }
           },
@@ -270,10 +269,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2842683fbe043930",
+  "active": "0a3f58325c11c75d",
   "lastOpenFiles": [
-    "Encounters/11 Dragon Turtle Port.md",
     "Session Notes/Session 33.md",
+    "Encounters/11 Dragon Turtle Port.md",
     "Locations/Ships.md",
     "Organizations/The Ill Hand.md",
     "Session Notes/Session 32.md",
