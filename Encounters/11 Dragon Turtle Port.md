@@ -11,3 +11,12 @@
 	* AC 14
 	* 40 HP
 * Enemies
+
+## Other Ships
+* Number of crew (minions)
+* 5 Hit Points / 14 AC
+* Crossbow (group attack) + 3 + number of attackers
+* 1 piercing damage per attacker
+* Killing soldiers
+	* Overkill with 5 HP
+	* Breath weapon: 
