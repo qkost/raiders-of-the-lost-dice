@@ -16,7 +16,7 @@
 * Number of crew (minions)
 * 5 Hit Points / 14 AC
 * Attacks
-	* 
+	* Range 100/400
 	* Crossbow (group attack) + 3 + number of attackers
 * 1 piercing damage per attacker
 * Killing soldiers
