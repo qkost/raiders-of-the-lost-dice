@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a3f58325c11c75d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ships.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2842683fbe043930",
+            "id": "14071dee968589da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Session Notes/Session 33.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cc9df8431ccbd06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Names.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bca1079ccf99113b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organizations/The Ill Hand.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,57 +36,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0d25c746122ea9da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/09 Plank King.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46cde5dad0698fda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/10 Dragon Turtle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14071dee968589da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organizations/The Ill Hand.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e49b38f47956efb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/11 Dragon Turtle Port.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/11 Dragon Turtle Port.md",
+                "file": "Session Notes/Session 33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/11 Dragon Turtle Port.md",
+                "file": "Session Notes/Session 33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/11 Dragon Turtle Port.md"
+                "file": "Session Notes/Session 33.md"
               }
             }
           },
@@ -269,14 +184,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e49b38f47956efb6",
+  "active": "14071dee968589da",
   "lastOpenFiles": [
-    "Locations/Ships.md",
-    "Session Notes/Session 33.md",
-    "Encounters/11 Dragon Turtle Port.md",
-    "Organizations/The Ill Hand.md",
-    "Session Notes/Session 32.md",
     "Locations/Darktow.md",
+    "Session Notes/Session 33.md",
+    "Encounters/99 Ysolda Banne.md",
+    "Encounters/99 Thinora's House.md",
+    "Organizations/The Ill Hand.md",
+    "Session Notes/Session 32 - Artificial Bargains.md",
+    "Encounters/11 Dragon Turtle Port.md",
+    "Locations/Ships.md",
     "Encounters/09 Plank King.md",
     "Encounters/10 Dragon Turtle.md",
     "Names.md",
@@ -294,7 +211,6 @@
     "Encounters/08 Ships & Islands.md",
     "Session Notes/Session 31 - Idok's Lair.md",
     "Templates/Prep Template.md",
-    "Encounters/99 Ysolda Banne.md",
     "Pictures/ysolda.png",
     "Pictures/ysolda.png.crdownload",
     "Session Notes/Session 28.md",
@@ -303,7 +219,6 @@
     "Magic Items/Magic Items.md",
     "Encounters/No Name Vision Quest/Chess Encounter.md",
     "Magic Items/Vestiges of Divergence.md",
-    "Encounters/No Name Vision Quest/Carousel.md",
     "Maps/Untitled.png",
     "Maps/Untitled.png.0.pdnSave",
     "Pictures/displacer-beast.png.crdownload",

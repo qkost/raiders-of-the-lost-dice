@@ -48,6 +48,9 @@ What would you like to do?
 
 ### 4. Secrets and Clues
 
+* [[Ysolda Banne - Artificer]] has portions of a mage hunter golem which she's been using for her research
+* Ysolda constructed the Disruptor as air defense for [[Darktow]]
+* Ysolda has been working on rebuilding an airship, which is her path off of the island
 * 
 
 ### 5. Fantastic Locations
