@@ -59,6 +59,11 @@ What would you like to do?
 
 ### 6. Important NPCs
 
+* [[Ysolda Banne - Artificer]]
+* [[Idok (Dragon Turtle)]]
+* [[Captain Alyson Paij]]
+* [[Grogar, The Ironshell]]
+* Vilya (tattoo artist)
 * 
 
 ### 7. Choose Relevant Monsters
