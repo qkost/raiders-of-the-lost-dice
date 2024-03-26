@@ -18,8 +18,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cf10b907a7c8a6e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ships.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "046457dce19ff0f7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Statblocks/ships/sailing-ship.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "2dca17e1551863b9",
@@ -111,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 33.md",
+                "file": "Statblocks/ships/sailing-ship.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 33.md",
+                "file": "Statblocks/ships/sailing-ship.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 33.md"
+                "file": "Statblocks/ships/sailing-ship.png"
               }
             }
           },
@@ -184,16 +207,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14071dee968589da",
+  "active": "046457dce19ff0f7",
   "lastOpenFiles": [
-    "Locations/Darktow.md",
+    "Locations/Ships.md",
     "Session Notes/Session 33.md",
+    "Locations/Darktow.md",
     "Encounters/99 Ysolda Banne.md",
     "Encounters/99 Thinora's House.md",
     "Organizations/The Ill Hand.md",
     "Session Notes/Session 32 - Artificial Bargains.md",
     "Encounters/11 Dragon Turtle Port.md",
-    "Locations/Ships.md",
     "Encounters/09 Plank King.md",
     "Encounters/10 Dragon Turtle.md",
     "Names.md",
