@@ -5,9 +5,9 @@ Welcome friends back to Exandria! Last we left off our heroes finished attuning 
 
 You then headed down to the docks, helping [[Tosh Caro]] in her duel with Lyr. You then prepared for battle as steam began to rise from the harbor and [[Idok (Dragon Turtle)]] burst through a boat.
 
-The dragon turt
+The dragon turtle landed one breath weapon, bringing some of you to the edge, but the combination of a well placed faerie fire and stun kept the dragon locked down while you tore it to pieces.
 
-
+We pick up in the aftermath of the fight as you were planning to head back into [[Darktow]] to finish up some business.
 
 ## Prep
 ### 1. Review Characters
