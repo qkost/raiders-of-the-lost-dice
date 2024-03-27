@@ -28,6 +28,9 @@ We pick up in the aftermath of the fight as you were planning to head back into 
 * Picking up Vilya from the Smelter's Nook
 * [[Captain Alyson Paij]] pulls aside [[Ember]] to thank her and give her some spells (see below)
 * [[Captain Alyson Paij]] offers to cast Legend Lore
+* Phone call from [[Lady Thinora Va'del, Archmage of Antiquity]]
+	* She knows they're lying
+	* If they continue in their path they may end up like [[Petyr (Pete) Archeron]]
 
 ### 4. Secrets and Clues
 

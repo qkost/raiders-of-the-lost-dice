@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Ysolda Banne - Artificer.md",
+                "file": "Session Notes/Session 34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Ysolda Banne - Artificer.md",
+                "file": "Session Notes/Session 34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Ysolda Banne - Artificer.md"
+                "file": "Session Notes/Session 34.md"
               }
             }
           },
@@ -233,11 +233,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5becd924fa0ade24",
+  "active": "8918ea51c4281208",
   "lastOpenFiles": [
+    "NPCs/Ysolda Banne - Artificer.md",
     "Session Notes/Session 34.md",
     "Encounters/08 Ships & Islands.md",
-    "NPCs/Ysolda Banne - Artificer.md",
     "Session Notes/Session 33 - Dockside Dragons.md",
     "Statblocks/ships/sailing-ship.png",
     "Locations/Ships.md",
