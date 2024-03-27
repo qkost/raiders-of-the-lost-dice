@@ -4,6 +4,8 @@
 * Published in some journals
 * Recent, mysterious, death
 
+## [Statblock](https://www.dndbeyond.com/monsters/2560883-necromancer-wizard)
+
 ## Description
 * Slender
 * Strong face

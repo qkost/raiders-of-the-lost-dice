@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 34.md",
+                "file": "NPCs/Petyr (Pete) Archeron.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 34.md",
+                "file": "NPCs/Petyr (Pete) Archeron.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 34.md",
+                "file": "NPCs/Petyr (Pete) Archeron.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 34.md"
+                "file": "NPCs/Petyr (Pete) Archeron.md"
               }
             }
           },
@@ -235,8 +235,8 @@
   },
   "active": "8918ea51c4281208",
   "lastOpenFiles": [
-    "NPCs/Ysolda Banne - Artificer.md",
     "Session Notes/Session 34.md",
+    "NPCs/Ysolda Banne - Artificer.md",
     "Encounters/08 Ships & Islands.md",
     "Session Notes/Session 33 - Dockside Dragons.md",
     "Statblocks/ships/sailing-ship.png",
