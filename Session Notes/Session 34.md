@@ -23,11 +23,14 @@ We pick up in the aftermath of the fight as you were planning to head back into 
 
 ### 3. Scenes
 
+* Negotiation with [[Ysolda Banne - Artificer]]
+	* She didn't find it
 * [[Captain Alyson Paij]] pulls aside [[Ember]] to thank her and give her some spells (see below)
+* [[Captain Alyson Paij]] offers to cast Legend Lore
 
 ### 4. Secrets and Clues
 
-* 
+* Clues related to [[Vestiges of Divergence]]
 
 ### 5. Fantastic Locations
 
@@ -36,7 +39,7 @@ We pick up in the aftermath of the fight as you were planning to head back into 
 ### 6. Important NPCs
 
 * [[Ysolda Banne - Artificer]]
-* [[]]
+* [[Captain Alyson Paij]]
 
 ### 7. Choose Relevant Monsters
 
