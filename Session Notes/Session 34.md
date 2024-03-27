@@ -23,7 +23,7 @@ We pick up in the aftermath of the fight as you were planning to head back into 
 
 ### 3. Scenes
 
-* 
+* [[Captain Alyson Paij]] pulls aside [[Ember]] to thank her and give her some spells (see below)
 
 ### 4. Secrets and Clues
 
@@ -35,7 +35,8 @@ We pick up in the aftermath of the fight as you were planning to head back into 
 
 ### 6. Important NPCs
 
-* 
+* [[Ysolda Banne - Artificer]]
+* [[]]
 
 ### 7. Choose Relevant Monsters
 
@@ -43,5 +44,7 @@ We pick up in the aftermath of the fight as you were planning to head back into 
 
 ### 8. Select Magic Item Rewards
 
-* 
+* Spells for Ember
+	* Shield
+	* Steel Wind Strike
 
