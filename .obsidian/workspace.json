@@ -6,6 +6,7 @@
       {
         "id": "df2ea74240c89a30",
         "type": "tabs",
+        "dimension": 46.84035476718403,
         "children": [
           {
             "id": "14071dee968589da",
@@ -59,6 +60,7 @@
       {
         "id": "2dca17e1551863b9",
         "type": "tabs",
+        "dimension": 53.15964523281597,
         "children": [
           {
             "id": "5becd924fa0ade24",
@@ -73,12 +75,12 @@
             }
           },
           {
-            "id": "9e8586d2ea2e335d",
+            "id": "a57359e3bb3dd052",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Darktow.md",
+                "file": "Encounters/08 Ships & Islands.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 34.md",
+                "file": "NPCs/Ysolda Banne - Artificer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 34.md",
+                "file": "NPCs/Ysolda Banne - Artificer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 34.md"
+                "file": "NPCs/Ysolda Banne - Artificer.md"
               }
             }
           },
@@ -231,10 +233,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8918ea51c4281208",
+  "active": "5becd924fa0ade24",
   "lastOpenFiles": [
-    "NPCs/Ysolda Banne - Artificer.md",
     "Session Notes/Session 34.md",
+    "Encounters/08 Ships & Islands.md",
+    "NPCs/Ysolda Banne - Artificer.md",
     "Session Notes/Session 33 - Dockside Dragons.md",
     "Statblocks/ships/sailing-ship.png",
     "Locations/Ships.md",
@@ -257,7 +260,6 @@
     "PCs/attachments",
     "PCs/638061092979929411.png",
     "NPCs/Ungrudaal.md",
-    "Encounters/08 Ships & Islands.md",
     "Session Notes/Session 31 - Idok's Lair.md",
     "Templates/Prep Template.md",
     "Pictures/ysolda.png",

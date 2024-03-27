@@ -25,6 +25,7 @@ We pick up in the aftermath of the fight as you were planning to head back into 
 
 * Negotiation with [[Ysolda Banne - Artificer]]
 	* She didn't find it
+* Picking up Vilya from the Smelter's Nook
 * [[Captain Alyson Paij]] pulls aside [[Ember]] to thank her and give her some spells (see below)
 * [[Captain Alyson Paij]] offers to cast Legend Lore
 

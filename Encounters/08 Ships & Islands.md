@@ -9,13 +9,17 @@
 18-20:   Tailwind; gain of a day
 ## Encounters
 
-1. On a pirate ship and encounter a civilian ship -- see 04 Drunken Dragon
+1. On a pirate ship and encounter a civilian ship -- see 04 Cerulean Sky
 2. Encounter with a Zhelezo Warship -- See 02 Royal Tide
 3. Sahuagin
-	* 1x Killer Whale
-	* 1x [Sahuagin High Priestess](https://www.dndbeyond.com/monsters/316516-sahuagin-high-priestess)
-	* 1x [Sahuagin Champion](https://www.dndbeyond.com/monsters/316122-sahuagin-champion)
-	* 3x [Sahuagin](https://www.dndbeyond.com/encounter-builder)
+	1. 1x Killer Whale
+	1. 1x [Sahuagin High Priestess](https://www.dndbeyond.com/monsters/316516-sahuagin-high-priestess)
+	1. 1x [Sahuagin Champion](https://www.dndbeyond.com/monsters/316122-sahuagin-champion)
+	1. 3x [Sahuagin](https://www.dndbeyond.com/encounter-builder)
+4. [[Krynn Dynasty]] ship
+
+## Completed
+
 4. [Young Sea Serpent](https://www.dndbeyond.com/monsters/2059767-young-sea-serpent)
 	1. Lair action: pull ship 30 ft, closer
 	2. 60 ft cone; 2d6 crew dead
