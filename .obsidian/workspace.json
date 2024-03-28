@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Petyr (Pete) Archeron.md",
+                "file": "Magic Items/Vestiges of Divergence.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,6 +75,18 @@
             }
           },
           {
+            "id": "d5b5d6fc2c46fea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic Items/tmp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a57359e3bb3dd052",
             "type": "leaf",
             "state": {
@@ -86,7 +98,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Petyr (Pete) Archeron.md",
+                "file": "Magic Items/Vestiges of Divergence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Petyr (Pete) Archeron.md",
+                "file": "Magic Items/Vestiges of Divergence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Petyr (Pete) Archeron.md"
+                "file": "Magic Items/Vestiges of Divergence.md"
               }
             }
           },
@@ -235,6 +248,9 @@
   },
   "active": "8918ea51c4281208",
   "lastOpenFiles": [
+    "Magic Items/tmp.md",
+    "Magic Items/Vestiges of Divergence.md",
+    "NPCs/Petyr (Pete) Archeron.md",
     "Session Notes/Session 34.md",
     "NPCs/Ysolda Banne - Artificer.md",
     "Encounters/08 Ships & Islands.md",
@@ -266,8 +282,6 @@
     "Pictures/ysolda.png.crdownload",
     "Session Notes/Session 28.md",
     "Session Notes/Session 29 - No Name.md",
-    "Session Notes/Session 30 - No Name.md",
-    "Magic Items/Magic Items.md",
     "Maps/Untitled.png",
     "Maps/Untitled.png.0.pdnSave",
     "Pictures/displacer-beast.png.crdownload",
