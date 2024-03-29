@@ -54,11 +54,12 @@
 - [ ] [Staff of Healing](https://www.dndbeyond.com/magic-items/4763-staff-of-healing)
 - [ ] [Belt of Dwarvenkind](https://www.dndbeyond.com/magic-items/4584-belt-of-dwarvenkind)
 - [ ] [Butcher's Bib](https://www.dndbeyond.com/magic-items/1434261-butchers-bib)
-- [ ] 
+- [ ] [Ring of Spell Storing](https://www.dndbeyond.com/magic-items/4730-ring-of-spell-storing)
 ## Very Rare
 
 - [ ] [Mirror of Infinite Transpondence](https://www.dndbeyond.com/sources/tcsr/game-masters-toolkit#MirrorofInfiniteTranspondence)
 - [ ] [Polymorph Blade](http://dnd5e.wikidot.com/wondrous-items:polymorph-blade)
+- [ ] [Amulet of the Planes](https://www.dndbeyond.com/magic-items/4570-amulet-of-the-planes)
 
 ## Potions
 - [ ] [Potion of Heroism](https://www.dndbeyond.com/magic-items/4709-potion-of-heroism)
@@ -154,7 +155,7 @@
 
 ## [[Tato]]
 
-- [ ] Dragonhide belt
+- [x] Dragonhide belt
 - [ ] Eldritch claw tattoo
 - [ ] Vestige - [Wraps of Dyamak](https://criticalrole.fandom.com/wiki/Wraps_of_Dyamak)
 - [x] Weapon of the Versatile Warrior

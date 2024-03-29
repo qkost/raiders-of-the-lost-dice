@@ -75,6 +75,18 @@
             }
           },
           {
+            "id": "8cb5587b2550f457",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic Items/Magic Items.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d5b5d6fc2c46fea1",
             "type": "leaf",
             "state": {
@@ -173,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence.md",
+                "file": "Magic Items/Magic Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence.md",
+                "file": "Magic Items/Magic Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence.md"
+                "file": "Magic Items/Magic Items.md"
               }
             }
           },
@@ -246,10 +258,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8918ea51c4281208",
+  "active": "8cb5587b2550f457",
   "lastOpenFiles": [
-    "Magic Items/tmp.md",
     "Magic Items/Vestiges of Divergence.md",
+    "Magic Items/tmp.md",
     "NPCs/Petyr (Pete) Archeron.md",
     "Session Notes/Session 34.md",
     "NPCs/Ysolda Banne - Artificer.md",
