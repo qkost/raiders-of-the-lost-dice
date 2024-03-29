@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Magic Items/Vestiges of Divergence.md",
                 "mode": "source",
                 "source": false
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Magic Items/Vestiges of Divergence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Magic Items/Vestiges of Divergence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Magic Items.md"
+                "file": "Magic Items/Vestiges of Divergence.md"
               }
             }
           },
@@ -260,6 +260,7 @@
   },
   "active": "8cb5587b2550f457",
   "lastOpenFiles": [
+    "Magic Items/Magic Items.md",
     "Magic Items/Vestiges of Divergence.md",
     "Magic Items/tmp.md",
     "NPCs/Petyr (Pete) Archeron.md",
@@ -293,7 +294,6 @@
     "Pictures/ysolda.png",
     "Pictures/ysolda.png.crdownload",
     "Session Notes/Session 28.md",
-    "Session Notes/Session 29 - No Name.md",
     "Maps/Untitled.png",
     "Maps/Untitled.png.0.pdnSave",
     "Pictures/displacer-beast.png.crdownload",
