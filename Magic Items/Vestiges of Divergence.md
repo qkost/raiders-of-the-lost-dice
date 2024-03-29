@@ -48,7 +48,7 @@ Potential locations
 * Abilities
 	* Construction not inhibit natural flight
 	* Immune to fear; aura that extends that ability to allies
-	* Reaction to deal radiant damage
+	* Channel the power of angels to heal, see through lies, and smite their foes
 
 * Adventure
 	* Strathfell (in Blightshore)
