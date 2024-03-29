@@ -6,42 +6,8 @@
       {
         "id": "df2ea74240c89a30",
         "type": "tabs",
-        "dimension": 46.84035476718404,
+        "dimension": 99.99999999999999,
         "children": [
-          {
-            "id": "14071dee968589da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 33 - Dockside Dragons.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf10b907a7c8a6e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ships.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "046457dce19ff0f7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Statblocks/ships/sailing-ship.png"
-              }
-            }
-          },
           {
             "id": "8918ea51c4281208",
             "type": "leaf",
@@ -54,64 +20,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "2dca17e1551863b9",
-        "type": "tabs",
-        "dimension": 53.15964523281596,
-        "children": [
-          {
-            "id": "5becd924fa0ade24",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Ysolda Banne - Artificer.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cb5587b2550f457",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic Items/Vestiges of Divergence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5b5d6fc2c46fea1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic Items/tmp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a57359e3bb3dd052",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/08 Ships & Islands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,18 +167,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cb5587b2550f457",
+  "active": "8918ea51c4281208",
   "lastOpenFiles": [
-    "Magic Items/Magic Items.md",
+    "Gods/Erathis, The Lawbearer.md",
     "Magic Items/Vestiges of Divergence.md",
+    "Statblocks/ships/sailing-ship.png",
+    "Locations/Ships.md",
+    "Session Notes/Session 33 - Dockside Dragons.md",
+    "Encounters/08 Ships & Islands.md",
     "Magic Items/tmp.md",
+    "Magic Items/Magic Items.md",
     "NPCs/Petyr (Pete) Archeron.md",
     "Session Notes/Session 34.md",
     "NPCs/Ysolda Banne - Artificer.md",
-    "Encounters/08 Ships & Islands.md",
-    "Session Notes/Session 33 - Dockside Dragons.md",
-    "Statblocks/ships/sailing-ship.png",
-    "Locations/Ships.md",
     "Locations/Darktow.md",
     "Encounters/99 Ysolda Banne.md",
     "Encounters/99 Thinora's House.md",
@@ -293,7 +203,6 @@
     "Templates/Prep Template.md",
     "Pictures/ysolda.png",
     "Pictures/ysolda.png.crdownload",
-    "Session Notes/Session 28.md",
     "Maps/Untitled.png",
     "Maps/Untitled.png.0.pdnSave",
     "Pictures/displacer-beast.png.crdownload",

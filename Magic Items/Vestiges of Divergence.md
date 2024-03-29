@@ -39,7 +39,7 @@ Potential locations
 ### Armor of the Valiant Soul
 
 * Lore
-	* Worn by a Solar of [[Pelor, The Dawn Father]], Bariel
+	* Worn by a Deva of [[Erathis, The Lawbearer]] named Bariel
 	* Aerial fight with devils and demons, smiting them down with holy power
 	* A massive dragon of silver and shadow approached, Karkethzerthzerus The Sable Despoiler
 	* The hero, emboldened by the armor was unafraid and faced the dragon and his close allies joined
