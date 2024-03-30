@@ -4,41 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "df2ea74240c89a30",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "8918ea51c4281208",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic Items/Vestiges of Divergence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a567fc7c9ce04be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 34.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "4201cfec44791502",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "63ecb0cee0d6e839",
@@ -63,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fdf8e4ffe42230a1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Encounters/TE_d100_encounters_at_sea_v1.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -139,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/08 Ships & Islands.md",
+                "file": "Encounters/TE_d100_encounters_at_sea_v1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/08 Ships & Islands.md",
+                "file": "Encounters/TE_d100_encounters_at_sea_v1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/08 Ships & Islands.md"
+                "file": "Encounters/TE_d100_encounters_at_sea_v1.pdf"
               }
             }
           },
@@ -212,8 +189,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93d612ae25509859",
+  "active": "fdf8e4ffe42230a1",
   "lastOpenFiles": [
+    "Encounters/08 Ships & Islands.md",
     "Encounters/TE_d100_encounters_at_sea_v1.pdf",
     "Session Notes/Session 34.md",
     "NPCs/Vilya.md",
@@ -223,7 +201,6 @@
     "Statblocks/ships/sailing-ship.png",
     "Locations/Ships.md",
     "Session Notes/Session 33 - Dockside Dragons.md",
-    "Encounters/08 Ships & Islands.md",
     "Magic Items/tmp.md",
     "Magic Items/Magic Items.md",
     "NPCs/Petyr (Pete) Archeron.md",
@@ -257,7 +234,6 @@
     "Maps/carousel2-cutout.pdn",
     "Maps/carousel2-cutout.pdn.0.pdnSave",
     "Maps/carousel-cutout.webp",
-    "Maps/carousel-cutout.webp.0.pdnSave",
     "Maps/funhouse.webp",
     "Maps/funhouse.jpg",
     "Untitled.canvas"
