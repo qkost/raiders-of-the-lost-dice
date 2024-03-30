@@ -1,4 +1,18 @@
 
+## Roll for Day
+
+* 1d6 - Weather
+	* 1. No wind, calm seas
+	1. Slight breeze, mostly calm seas
+	2. Gusty winds, rough patches
+	3. Windy, rough seas
+	4. Extremely windy, rough seas, 5-10ft waves
+	5. Dangerously windy, 10-20ft waves
+* d20 - Random Event
+	* 0-10 - Event
+	* 11-20 - Uneventful
+* [d100](https://www.dndspeak.com/2017/12/04/100-sea-travel-events/)
+
 ## Random Rolls
 
 1-5        Encounter
@@ -37,14 +51,6 @@
 8. **Sea Fog Mirage:** A thick sea fog rolls in, and as it does, the vague outlines of phantom ships can be seen in the distance. They're mere mirages, disappearing as the fog lifts.
 9. **Sleeping Leviathan:** Far in the distance, the silhouette of an enormous sea creature is seen resting at the surface, its steady breath sending up plumes of mist. It's peaceful and undisturbed, reminding the crew of the mysteries that lie beneath.
 10. **Starlit Reflection:** On a particularly clear night, the stars above mirror perfectly on the still waters below, creating an illusion that the ship is sailing through a vast expanse of the cosmos.
-## Weather
-
-1. No wind, calm seas
-2. Slight breeze, mostly calm seas
-3. Gusty winds, rough patches
-4. Windy, rough seas
-5. Extremely windy, rough seas, 5-10ft waves
-6. Dangerously windy, 10-20ft waves
 
 ## Ships
 
