@@ -9,9 +9,11 @@
 	4. Extremely windy, rough seas, 5-10ft waves
 	5. Dangerously windy, 10-20ft waves
 * d20 - Random Event
-	* 0-10 - Event
-	* 11-20 - Uneventful
-* [d100](https://www.dndspeak.com/2017/12/04/100-sea-travel-events/)
+	* 0-5- Event
+	* 6-20 - Uneventful
+* d100
+	* [d100 Sea Travel Events](https://www.dndspeak.com/2017/12/04/100-sea-travel-events/)
+	* ![[TE_d100_encounters_at_sea_v1.pdf]]
 
 ## Random Rolls
 
