@@ -2,12 +2,12 @@
 ## Roll for Day
 
 * 1d6 - Weather
-	* 1. No wind, calm seas
-	1. Slight breeze, mostly calm seas
-	2. Gusty winds, rough patches
-	3. Windy, rough seas
-	4. Extremely windy, rough seas, 5-10ft waves
-	5. Dangerously windy, 10-20ft waves
+	1. No wind, calm seas
+	2. Slight breeze, mostly calm seas
+	3. Gusty winds, rough patches
+	4. Windy, rough seas
+	5. Extremely windy, rough seas, 5-10ft waves
+	6. Dangerously windy, 10-20ft waves
 * d20 - Random Event
 	* 0-5- Event
 	* 6-20 - Uneventful
