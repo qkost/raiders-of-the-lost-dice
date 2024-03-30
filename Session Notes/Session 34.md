@@ -26,6 +26,9 @@ We pick up in the aftermath of the fight as you were planning to head back into 
 * Negotiation with [[Ysolda Banne - Artificer]]
 	* She didn't find it
 * Picking up Vilya from the Smelter's Nook
+	* She's harried by two pirates
+	* Insults them - "***I would draw a caricature of you, but I don't think I can make it any uglier than you already are!***"
+	* Defends herself with a canvass
 * [[Captain Alyson Paij]] pulls aside [[Ember]] to thank her and give her some spells (see below)
 * [[Captain Alyson Paij]] offers to cast Legend Lore
 * Phone call from [[Lady Thinora Va'del, Archmage of Antiquity]]

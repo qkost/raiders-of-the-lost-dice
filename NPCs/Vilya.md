@@ -1,4 +1,5 @@
 
+* [Statblock](https://www.dndbeyond.com/monsters/2560735-bard)
 * Tattoo artist
 * Captured by [[Ungrudaal]] and feebleminded
 * Healed by druid on [[Darktow]] due to party's help
@@ -7,7 +8,7 @@
 ## Personality
 
 * Quick talking - nervous
-* Sharp-tongu
+* Sharp-tongued
 
 ## Tattoos
 * [Can do tattoos](https://www.dndbeyond.com/sources/tcoe/magic-items#MagicTattoos)
