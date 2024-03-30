@@ -51,8 +51,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "93d612ae25509859",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encounters/08 Ships & Islands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Vilya.md",
+                "file": "Encounters/08 Ships & Islands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Vilya.md",
+                "file": "Encounters/08 Ships & Islands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Vilya.md"
+                "file": "Encounters/08 Ships & Islands.md"
               }
             }
           },
@@ -199,7 +212,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63ecb0cee0d6e839",
+  "active": "93d612ae25509859",
   "lastOpenFiles": [
     "Session Notes/Session 34.md",
     "NPCs/Vilya.md",

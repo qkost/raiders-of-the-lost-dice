@@ -17,6 +17,7 @@
 	1. 1x [Sahuagin Champion](https://www.dndbeyond.com/monsters/316122-sahuagin-champion)
 	1. 3x [Sahuagin](https://www.dndbeyond.com/encounter-builder)
 4. [[Krynn Dynasty]] ship
+5. 
 
 ## Completed
 
