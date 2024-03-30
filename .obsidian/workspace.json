@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/TE_d100_encounters_at_sea_v1.pdf",
+                "file": "Encounters/08 Ships & Islands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/TE_d100_encounters_at_sea_v1.pdf",
+                "file": "Encounters/08 Ships & Islands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/TE_d100_encounters_at_sea_v1.pdf"
+                "file": "Encounters/08 Ships & Islands.md"
               }
             }
           },
@@ -189,10 +189,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fdf8e4ffe42230a1",
+  "active": "93d612ae25509859",
   "lastOpenFiles": [
-    "Encounters/08 Ships & Islands.md",
     "Encounters/TE_d100_encounters_at_sea_v1.pdf",
+    "Encounters/08 Ships & Islands.md",
     "Session Notes/Session 34.md",
     "NPCs/Vilya.md",
     "Organizations/The Ill Hand.md",
