@@ -9,7 +9,8 @@
 	5. Extremely windy, rough seas, 5-10ft waves
 	6. Dangerously windy, 10-20ft waves
 * d20 - Random Event
-	* 0-5- Event
+	* 1 - Monster encounter
+	* 1-5 - Event
 	* 6-20 - Uneventful
 * d100
 	* [d100 Sea Travel Events](https://www.dndspeak.com/2017/12/04/100-sea-travel-events/)
@@ -33,10 +34,9 @@
 	1. 1x [Sahuagin Champion](https://www.dndbeyond.com/monsters/316122-sahuagin-champion)
 	1. 3x [Sahuagin](https://www.dndbeyond.com/encounter-builder)
 4. [[Krynn Dynasty]] ship
-5. 
+5. [Nihileth Aboleth](https://www.dndbeyond.com/monsters/4340159-nihileth-aboleth)
 
 ## Appropriate Monsters
-* [Nihileth Aboleth](https://www.dndbeyond.com/monsters/4340159-nihileth-aboleth)
 * 
 
 ## Completed
