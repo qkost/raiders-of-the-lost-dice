@@ -35,6 +35,10 @@
 4. [[Krynn Dynasty]] ship
 5. 
 
+## Appropriate Monsters
+* [Nihileth Aboleth](https://www.dndbeyond.com/monsters/4340159-nihileth-aboleth)
+* 
+
 ## Completed
 
 4. [Young Sea Serpent](https://www.dndbeyond.com/monsters/2059767-young-sea-serpent)
