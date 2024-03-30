@@ -6,7 +6,7 @@
       {
         "id": "df2ea74240c89a30",
         "type": "tabs",
-        "dimension": 99.99999999999999,
+        "dimension": 50,
         "children": [
           {
             "id": "8918ea51c4281208",
@@ -15,6 +15,25 @@
               "type": "markdown",
               "state": {
                 "file": "Magic Items/Vestiges of Divergence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4201cfec44791502",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "63ecb0cee0d6e839",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Vilya.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence.md",
+                "file": "NPCs/Vilya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence.md",
+                "file": "NPCs/Vilya.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence.md"
+                "file": "NPCs/Vilya.md"
               }
             }
           },
@@ -167,10 +186,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8918ea51c4281208",
+  "active": "63ecb0cee0d6e839",
   "lastOpenFiles": [
-    "Gods/Erathis, The Lawbearer.md",
+    "Organizations/The Ill Hand.md",
     "Magic Items/Vestiges of Divergence.md",
+    "Gods/Erathis, The Lawbearer.md",
     "Statblocks/ships/sailing-ship.png",
     "Locations/Ships.md",
     "Session Notes/Session 33 - Dockside Dragons.md",
@@ -183,7 +203,6 @@
     "Locations/Darktow.md",
     "Encounters/99 Ysolda Banne.md",
     "Encounters/99 Thinora's House.md",
-    "Organizations/The Ill Hand.md",
     "Session Notes/Session 32 - Artificial Bargains.md",
     "Encounters/11 Dragon Turtle Port.md",
     "Encounters/09 Plank King.md",

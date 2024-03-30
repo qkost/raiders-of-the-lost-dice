@@ -4,6 +4,11 @@
 * Healed by druid on [[Darktow]] due to party's help
 * Traveled on [[The Ill Hand]] with party
 
+## Personality
+
+* Quick talking - nervous
+* Sharp-tongu
+
 ## Tattoos
 * [Can do tattoos](https://www.dndbeyond.com/sources/tcoe/magic-items#MagicTattoos)
 * Stat boosts - maximum also increases by 1
