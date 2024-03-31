@@ -29,14 +29,12 @@
 
 ## Legend Lore
 
-You are cast into an era where the battle between celestial light and infernal darkness rages across Exandria. You witness a figure of vigilance and truth, Bariel, a Deva of Erathis, clad in the Armor of the Valiant Soul. Her wings, uninhibited due to the flexible construction of the armor, cut through the air; a streak of divine light against the shadow.
+You are cast into an era where the battle between celestial light and infernal darkness rages across Exandria. You witness a figure of vigilance and truth, Bariel, a Deva of Erathis, clad in the Armor of the Valiant Soul. Her wings, uninhibited due to the flexible construction of the armor, cut through the air; a streak of divine light against the shadow. Through the armor she commands powers to heal with a cleansing light and pierce through deception.
 
 Suddenly, the sky darkens, and from the depths of the void emerges a dragon of such immense power that its very presence weaves shadows into the air Karketh, The Sable Despoiler. The air trembles with the clash of holy light against darkened silver scales as Bariel, fearless and resolute, confronts this harbinger of doom. Embolded by her aura, allies rally by her side, their courage resolute.
 
 In a final, desperate gambit, Bariel lunges at the heart of darkness, only to be swathed in shadow. The vision fades on her fall, and the armor, a beacon of hope, is lost to the dragon's hoard.
 
-The scene shifts, bringing you to Strathfell, once a vibrant forest, now a petrified echo of its former self located on the shores of the Miscath Strand. Verdant life has succumbed to Karketh's blight, transforming it into a realm of grayscale shadows and twisted, petrified trees. Amongst this desolation, shadowy creatures roam, and the last of the centaurs mount a valiant, desperate resistance against the encroaching darkness of the Shadowfell.
+The scene shifts, bringing you to Strathfell, once a vibrant forest, now a petrified echo of its former self located on the shores of the Miscath Strand. Verdant life has succumbed to Karketh's blight, transforming it into a realm of grayscale shadows and twisted, petrified trees. Amongst this desolation, shadowy creatures roam, where the last of the inhabitants desperately resist the encroaching darkness of the Shadowfell.
 
-Deeper still, you are drawn to a lair where light fears to tread, a corrupted elven tower turned into a spire of despair by Karkethzerthzerus's will. Within its heart, amidst a trove of treasures dimmed by the dragon's shadow, the Armor of the Valiant Soul lies in wait. Its divine essence muted but undiminished, a silent call to those who would dare to reclaim its power and restore the balance of light.
-
-As the vision recedes, the challenge is clear: to venture into the heart of darkness, confront the shadows that have swallowed Strathfell, and retrieve the Armor of the Valiant Soul from the grasp of The Sable Despoiler. It is a journey not just for power, but for the hope that light might once again pierce the shadow.
+Deeper still, you are drawn to a lair where light fears to tread, a corrupted tower turned into a spire of despair by Karketh's will. Within its heart, amidst a trove of treasures dimmed by the dragon's shadow, the Armor of the Valiant Soul lies in wait. Its divine essence muted but undiminished, a silent call to those who would dare to reclaim its power and restore the balance of light.
