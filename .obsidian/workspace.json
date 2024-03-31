@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63ecb0cee0d6e839",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Vilya.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93d612ae25509859",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/08 Ships & Islands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e1bd84ad7019719d",
             "type": "leaf",
             "state": {
@@ -42,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fdf8e4ffe42230a1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Encounters/TE_d100_encounters_at_sea_v1.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,13 +168,20 @@
   },
   "active": "e1bd84ad7019719d",
   "lastOpenFiles": [
+    "Agony.md",
+    "Armor of the Valiant Soul.md",
+    "Wreath of the Prism.md",
+    "Wraps of Dyamak.md",
+    "Honor's Last Stand.md",
+    "Magic Items/Vestiges of Divergence.md",
+    "Magic Items/Vestiges of Divergence/Grimoire Infinitus.md",
+    "Magic Items/Vestiges of Divergence",
     "Pictures/dragon-token-outline.png",
     "Encounters/08 Ships & Islands.md",
     "Encounters/TE_d100_encounters_at_sea_v1.pdf",
     "Session Notes/Session 34.md",
     "NPCs/Vilya.md",
     "Organizations/The Ill Hand.md",
-    "Magic Items/Vestiges of Divergence.md",
     "Gods/Erathis, The Lawbearer.md",
     "Statblocks/ships/sailing-ship.png",
     "Locations/Ships.md",
@@ -226,16 +198,11 @@
     "Encounters/09 Plank King.md",
     "Encounters/10 Dragon Turtle.md",
     "Names.md",
-    "README.md",
     "Templates",
-    "2024-03-15.md",
     "New Text Document.txt",
-    "PCs/Ember.md",
-    "PCs/Shadowclaw.md",
     "PCs/attachments/638061092979929411.png",
     "PCs/attachments",
     "PCs/638061092979929411.png",
-    "NPCs/Ungrudaal.md",
     "Pictures/ysolda.png",
     "Pictures/ysolda.png.crdownload",
     "Maps/Untitled.png",
@@ -245,10 +212,8 @@
     "Maps/carousel2-cutout.webp",
     "Maps/carousel2-cutout.webp.0.pdnSave",
     "Maps/carousel2-cutout.pdn",
-    "Maps/carousel2-cutout.pdn.0.pdnSave",
     "Maps/carousel-cutout.webp",
     "Maps/funhouse.webp",
-    "Maps/funhouse.jpg",
     "Untitled.canvas"
   ]
 }
