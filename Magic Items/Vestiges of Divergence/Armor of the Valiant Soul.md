@@ -29,12 +29,12 @@
 
 ## Legend Lore
 
-You are cast into an era where the battle between celestial light and infernal darkness rages across Exandria. You witness a figure of vigilance and truth, Bariel, a Deva of Erathis, clad in the Armor of the Valiant Soul. Her wings, uninhibited due to the flexible construction of the armor, cut through the air; a streak of divine light against the shadow. Through the armor she commands powers to heal with a cleansing light and pierce through deception.
+You are cast into an era where the battle between celestial light and infernal darkness rages across Exandria. You witness a figure of vigilance and truth, Bariel, a Deva of Erathis, clad in the Armor of the Valiant Soul. Her wings, uninhibited due to the flexible construction of the armor, cut through the air; a streak of divine light against the shadow. Through the armor she commands powers to heal with a cleansing light and to pierce through deception.
 
-Suddenly, the sky darkens, and from the depths of the void emerges a dragon of such immense power that its very presence weaves shadows into the air Karketh, The Sable Despoiler. The air trembles with the clash of holy light against darkened silver scales as Bariel, fearless and resolute, confronts this harbinger of doom. Embolded by her aura, allies rally by her side, their courage resolute.
+Suddenly, the sky darkens, and from that void emerges a dragon of such immense power that its very presence weaves shadows into the air. The air trembles with the clash of holy light against darkened silver scales as Bariel confronts this harbinger of doom. Embolded by the armor's aura, allies rally by her side, their courage resolute.
 
-In a final, desperate gambit, Bariel lunges at the heart of darkness, only to be swathed in shadow. The vision fades on her fall, and the armor, a beacon of hope, is lost to the dragon's hoard.
+In a final, desperate gambit, Bariel lunges at the heart of darkness, only to be swallowed in shadow. The vision fades on her fall, and the armor, a beacon of hope, is lost and taken the dragon's hoard.
 
-The scene shifts, bringing you to Strathfell, once a vibrant forest, now a petrified echo of its former self located on the shores of the Miscath Strand. Verdant life has succumbed to Karketh's blight, transforming it into a realm of grayscale shadows and twisted, petrified trees. Amongst this desolation, shadowy creatures roam, where the last of the inhabitants desperately resist the encroaching darkness of the Shadowfell.
+The scene shifts, bringing you to Strathfell, once a vibrant forest, now a petrified echo of its former self located on the shores of the Miscath Strand. Verdant life has succumbed to blight of Karketh, The Sable Despoiler, transforming it into a realm of grayscale shadows and twisted, petrified trees. Amongst this desolation, shadowy creatures roam, and the last of the natural inhabitants desperately resist the encroaching darkness of the Shadowfell.
 
 Deeper still, you are drawn to a lair where light fears to tread, a corrupted tower turned into a spire of despair by Karketh's will. Within its heart, amidst a trove of treasures dimmed by the dragon's shadow, the Armor of the Valiant Soul lies in wait. Its divine essence muted but undiminished, a silent call to those who would dare to reclaim its power and restore the balance of light.
