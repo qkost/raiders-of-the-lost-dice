@@ -21,3 +21,17 @@
 	* Moving islands of shattered teeth orbiting large 'whirlpool'
 	* Floating pieces of earth, raw elemental energy
 	* A preserved cityscape; automatons patrolling -- one with a glowing blue face giant runic claw
+
+## Legend Lore
+
+You are transported to a time the arcane pursuits of mortals rivaled the power of the gods. Avalir, the City of Crowns, a floating metropolis on a mountain. It's a sight of unparalleled beauty, a testament to what once was.
+
+But the hubris of this age brought about its own end. A tree, ancient beyond measure, its branches adorned with glowing runes, splits open. From its heart emerges a form of impossible beauty and terror, horns red as blood; the betrayer God walks Exandria. His arrival heralds chaos and the beginning of the Calamity. Fire rains from the sky, and the once-floating paradise descends into catastrophe, its descent marking the end of an era. With a cataclysmic roar, Avalir crashes to the earth, the impact splintering the land into a myriad of isolated islands, each a whisper of the glory that once was.
+
+In the eye of this storm, amidst the ruin, an elven woman, her face a mask of determination and sorrow, enacts a spell of preservation. A field of protective energy envelops the Grimoire Infinitus, her life's work. Asmodeus’s wrath is unyielding, but in this moment, the tome is untouchable, suspended in time and shielded from the devastation that consumes the world.
+
+The vision shifts, and you now stand amidst the aftermath. The shattered remnants of Avalir are a landscape transformed — islands of jagged earth orbit a maelstrom, floating chunks of land hang suspended in a dance with gravity, surrounded by elemental fury. The city, though in ruins, breathes with the echo of ancient magics, guarded by automatons whose eyes glow with a fierce, blue light, their runic claws ready to defend against intruders.
+
+At the heart of this chaos, the Grimoire Infinitus waits. It is a beacon of hope and power, its pages filled with endless spells and incantations. Thunderous fireballs, whispers of wind that can alter the very fabric of reality, spells that offer glimpses into infinity — all lie within its grasp. To wield this tome is to touch the essence of magic itself, a promise of knowledge and power that spans the ages.
+
+Your vision concludes as the reality of your quest settles upon you. The path to the Grimoire Infinitus is fraught with danger, a journey through remnants of a world lost to time and guarded by forces beyond comprehension. Yet, for those who dare, the Grimoire offers not just power, but the key to unraveling the mysteries of the Age of Arcanum and the chance to shape the destiny of worlds yet to come.
