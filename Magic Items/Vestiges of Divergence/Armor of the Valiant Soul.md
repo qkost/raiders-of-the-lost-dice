@@ -29,9 +29,9 @@
 
 ## Legend Lore
 
-As the mists of time part before your eyes, a vision unfolds, casting you into an era where the battle between celestial light and infernal darkness rages across the heavens. You witness a figure of grace and fury, Bariel, a Deva of Erathis, clad in the Armor of the Valiant Soul. Her wings cut through the air, a streak of divine light against the shadow, smiting devils and demons with righteous fervor.
+You are cast into an era where the battle between celestial light and infernal darkness rages across Exandria. You witness a figure of vigil, Bariel, a Deva of Erathis, clad in the Armor of the Valiant Soul. Her wings, uninhibited due to the flexible construction of the armor, cut through the air; a streak of vigilance and truth against the shadow, smiting devils and demons with righteous fervor.
 
-Suddenly, the sky darkens, and from the depths of the void emerges Karkethzerthzerus, The Sable Despoiler, a dragon of such immense power that its very presence weaves shadows into the air. The air trembles with the clash of holy light against darkened silver scales as Bariel, fearless and resolute, confronts this harbinger of doom. Allies rally at her side, their courage unyielding, but the battle's tide is relentless.
+Suddenly, the sky darkens, and from the depths of the void emerges Karketh, The Sable Despoiler, a dragon of such immense power that its very presence weaves shadows into the air. The air trembles with the clash of holy light against darkened silver scales as Bariel, fearless and resolute, confronts this harbinger of doom. Allies rally at her side, their courage unyielding, but the battle's tide is relentless.
 
 In a final, desperate gambit, Bariel lunges at the heart of darkness, only to be swathed in shadow. The vision fades on her fall, and the armor, a beacon of hope, is lost to the dragon's hoard.
 
