@@ -1,3 +1,6 @@
+
+[Dndbeyond Link](https://www.dndbeyond.com/magic-items/8244165-_honors-last-stand-rotld)
+
 ### Honor's Last Stand
 
 * Lore

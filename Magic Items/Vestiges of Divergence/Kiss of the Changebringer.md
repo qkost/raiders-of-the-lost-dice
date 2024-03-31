@@ -1,0 +1,1 @@
+[Dndbeyond Link](https://www.dndbeyond.com/magic-items/7913243-_kiss-of-the-changebringer-rotld-exalted)
