@@ -36,3 +36,6 @@
 * https://www.forgotten-adventures.net/live-gallery/
 * https://5etools-mirror-1.github.io/bestiary.html#aarakocra_mm
 
+## Handouts
+
+* https://homebrewery.naturalcrit.com

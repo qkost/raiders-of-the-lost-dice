@@ -28,6 +28,8 @@ Potential locations
 * [[Wraps of Dyamak]]
 * [[Wreath of the Prism]]
 
+![[legend-lore-handout.pdf]]
+
 ## Preliminary Vestiges of Divergence Thoughts
 
 [Vestige list from CR](https://criticalrole.fandom.com/wiki/A_Name_Is_Earned)
