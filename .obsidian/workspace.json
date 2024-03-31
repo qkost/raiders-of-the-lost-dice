@@ -38,12 +38,12 @@
             }
           },
           {
-            "id": "dd7b7a8216f067ef",
+            "id": "6450b4fb179e8395",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
+                "file": "Magic Items/Vestiges of Divergence/Wreath of the Prism.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
+                "file": "Magic Items/Vestiges of Divergence/Wreath of the Prism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
+                "file": "Magic Items/Vestiges of Divergence/Wreath of the Prism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md"
+                "file": "Magic Items/Vestiges of Divergence/Wreath of the Prism.md"
               }
             }
           },
@@ -197,11 +197,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd7b7a8216f067ef",
+  "active": "6450b4fb179e8395",
   "lastOpenFiles": [
+    "Magic Items/Vestiges of Divergence/Vestiges of Divergence.md",
+    "Magic Items/Vestiges of Divergence/Wreath of the Prism.md",
     "Session Notes/Session 34.md",
     "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
-    "Magic Items/Vestiges of Divergence/Vestiges of Divergence.md",
     "Magic Items/Vestiges of Divergence/Honor's Last Stand.md",
     "Magic Items/Vestiges of Divergence/Armor of the Valiant Soul.md",
     "Magic Items/Vestiges of Divergence/Grimoire Infinitus.md",
@@ -209,7 +210,6 @@
     "Magic Items/Vestiges of Divergence/Agony.md",
     "Magic Items/Vestiges of Divergence/Blades of the Moonweaver.md",
     "Kiss of the Changebringer",
-    "Magic Items/Vestiges of Divergence/Wreath of the Prism.md",
     "Magic Items/Vestiges of Divergence",
     "Pictures/dragon-token-outline.png",
     "Encounters/08 Ships & Islands.md",

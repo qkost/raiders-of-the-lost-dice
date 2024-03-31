@@ -13,3 +13,6 @@
 	* You see a land of winter and stillness
 	* Shiver Keep - castle with towers, spires, ballistae, elven guardians in jagged armor, four-legged beasts with vaccuous faces
 	* Zathuda wielding a sword of black fier, perched upon a green fey dragonoid creature patrols skies, hunting for sport
+
+## Legend Lore
+
