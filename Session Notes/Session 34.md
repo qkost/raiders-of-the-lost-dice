@@ -31,6 +31,9 @@ We pick up in the aftermath of the fight as you were planning to head back into 
 	* Defends herself with a canvass
 * [[Captain Alyson Paij]] pulls aside [[Ember]] to thank her and give her some spells (see below)
 * [[Captain Alyson Paij]] offers to cast Legend Lore
+	* [[Armor of the Valiant Soul#Legend Lore]]
+	* [[Grimoire Infinitus#Legend Lore]]
+	* [[Honor's Last Stand#Legend Lore]]
 * Phone call from [[Lady Thinora Va'del, Archmage of Antiquity]]
 	* She knows they're lying
 	* If they continue in their path they may end up like [[Petyr (Pete) Archeron]]

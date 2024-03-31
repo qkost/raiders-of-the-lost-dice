@@ -28,3 +28,7 @@
 	* Barbed Ruin
 		* Purple-skinned horned creature with bat-like wings
 		* Wearing military garb (Napolean-era) with numerous medals; ceremonial rapier by his side
+
+## Legend Lore
+
+
