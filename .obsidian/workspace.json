@@ -38,12 +38,24 @@
             }
           },
           {
+            "id": "687a518e509943fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic Items/Vestiges of Divergence/Armor of the Valiant Soul.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6450b4fb179e8395",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/Wreath of the Prism.md",
+                "file": "Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/Wreath of the Prism.md",
+                "file": "Magic Items/Vestiges of Divergence/Armor of the Valiant Soul.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/Wreath of the Prism.md",
+                "file": "Magic Items/Vestiges of Divergence/Armor of the Valiant Soul.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/Wreath of the Prism.md"
+                "file": "Magic Items/Vestiges of Divergence/Armor of the Valiant Soul.md"
               }
             }
           },
@@ -197,9 +209,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6450b4fb179e8395",
+  "active": "687a518e509943fe",
   "lastOpenFiles": [
     "Magic Items/Vestiges of Divergence/Vestiges of Divergence.md",
+    "Resources.md",
     "Magic Items/Vestiges of Divergence/Wreath of the Prism.md",
     "Session Notes/Session 34.md",
     "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
@@ -229,7 +242,6 @@
     "Encounters/99 Thinora's House.md",
     "Session Notes/Session 32 - Artificial Bargains.md",
     "Encounters/11 Dragon Turtle Port.md",
-    "Encounters/09 Plank King.md",
     "Templates",
     "New Text Document.txt",
     "PCs/attachments/638061092979929411.png",
