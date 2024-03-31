@@ -29,6 +29,8 @@
 
 ## Legend Lore
 
+
+
 You are cast into an era where the battle between celestial light and infernal darkness rages across Exandria. You witness a figure of vigilance and truth, Bariel, a Deva of Erathis, clad in the Armor of the Valiant Soul. Her wings, uninhibited due to the flexible construction of the armor, cut through the air; a streak of divine light against the shadow. Through the armor she commands powers to heal with a cleansing light and to unveil truth hidden by deceipt.
 
 Suddenly, the sky darkens, and from that void emerges a dragon of such immense power that its very presence weaves shadows into the sky. The air trembles with the clash of holy light against the darkened silver scales as Bariel confronts this harbinger of doom. Embolded by the armor's aura, allies rally by her side, their courage resolute.
