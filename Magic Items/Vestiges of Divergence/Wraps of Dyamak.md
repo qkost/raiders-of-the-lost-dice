@@ -20,7 +20,7 @@
 
 ## Legend Lore
 
-Visions of an ancient time swirl before you, where the fabric of reality itself trembled under the strain of primordial forces unleashed during the calamity. Amidst this maelstrom of elemental chaos, a figure stands resolute: Dyamak, a warrior monk whose mastery over the elements was unparalleled. With movements as fluid as the rivers and strikes as forceful as the earth itself, Dyamak turned the tide against the incursion, his hands wrapped in bands of power, the very essence of the elements woven into their fabric.
+Looming thousands of feet tall, the primordial empress of earth, Ka'Mort, faced off against the p. Amidst this maelstrom of elemental chaos, a figure stands resolute: Dyamak, a warrior monk whose mastery over the elements was unparalleled. With movements as fluid as the rivers and strikes as forceful as the earth itself, Dyamak turned the tide against the incursion, his hands wrapped in bands of power, the very essence of the elements woven into their fabric.
 
 As the turmoil subsided, Dyamak retreated into the sanctity of meditation, his spirit eventually merging with the elements he had so fiercely protected. The wraps, imbued with his essence and strength, were lost to the sands of time, their power a mere whisper on the winds until they found their way into the clutches of a colony of mind flayers. Seeking to appease a magnificent dragon made of sparkling purple-amethyst gems, the mind flayers offered the wraps as a token of peace.
 
