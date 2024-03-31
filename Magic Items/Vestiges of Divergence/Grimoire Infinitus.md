@@ -1,3 +1,6 @@
+
+[DndBeyond Link](https://www.dndbeyond.com/magic-items/7771315-_grimoire-infinitus-rotld)
+
 ### Grimoire Infinitus
 
 * Lore

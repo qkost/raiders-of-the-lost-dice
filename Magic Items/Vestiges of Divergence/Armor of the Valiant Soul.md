@@ -1,3 +1,6 @@
+
+[DndBeyond Link](https://www.dndbeyond.com/magic-items/7776811-_armor-of-the-valiant-soul-rotld)
+
 ### Armor of the Valiant Soul
 
 * Lore

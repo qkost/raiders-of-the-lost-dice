@@ -17,22 +17,18 @@ Potential locations
 * Protected by [Illusory Script](https://www.dndbeyond.com/spells/illusory-script)
 * List in  journal (currently owned by [[Lady Thinora Va'del, Archmage of Antiquity]])
 
-## Vestiges Legend Lore Hints
-
-[[Agony]]
-
-[[Armor of the Valiant Soul]]
-
-[[Grimoire Infinitus]]
-
-[[Honor's Last Stand]]
-
-[[Wraps of Dyamak]]
-
-[[Wreath of the Prism]]
-
-
 ## Vestiges of Divergence
+
+* [[Agony]]
+* [[Armor of the Valiant Soul]]
+* [[Blades of the Moonweaver]]
+* [[Grimoire Infinitus]]
+* [[Honor's Last Stand]]
+* [[Kiss of the Changebringer]]
+* [[Wraps of Dyamak]]
+* [[Wreath of the Prism]]
+
+## Preliminary Vestiges of Divergence Thoughts
 
 [Vestige list from CR](https://criticalrole.fandom.com/wiki/A_Name_Is_Earned)
 
@@ -155,36 +151,3 @@ Potential locations
 ## Other Ideas
 
 * Spellsword - Something that alternates between boosting spells and physical attacks
-
-## Original Descriptions
-
-> ***Wreath of the Prism***, created by the Archfey Daemoth the Mad, is now in the possession of Zathuda the Sorrow Lord of the Unseelie court. It is said that they use it to exert dominance of will over any rivals to their power.
-> 
-> ***Grimoire Infinitus***, crafted by Patia Por'co to forever protect the knowledge of the Age of Arcanum, lays nearly forgotten in the ruins of Avalir.
-> 
-> ***Infiltrator's Key***, said to be forged from the blood of twelve master thieves executed during the Age of Arcanum. It has been lost in the ruins of Ghor Veles (Vault of Shadows in Infernal).
->
-> ***Wraps of Dyamak***, wielded by its eponymous champion during the Calamity, rests in the horde of the dragon [[Zunda'i-Miir]] in the heights of the 
-> Stonecage Cliffs.
-> 
-> ***Danoth's Visor***, mithral-frame goggles crafted by the evoker Danoth Oro of Aeor, are said to extend the wearer's perception beyond the material realm, rivaling the divination of the Gods
-> 
-> ***Hide of the Feral Guardian***, a gift from Melora to her champion during the Calamity, this armor lies resting in the Ruins of Sepesca, protected by ancient beasts appointed by Melora herself.
-> 
-> ***Stormgirdle***, worn by the champion of Kord during the Calamity, it is said the wielder can channel the power of the storm. It lies in waiting for one who is worthy to claim it from the highest peak of the Dunrock Mountains.
-> 
-> ***Armor of the Valiant Soul***, scale armor said to imbue the wearer with unyielding bravery and fortitude, is currently by the side of Karkethzerethzerus (Karketh) in the petrified woodland of Strathfell.
-> 
-> ***Agony***, this hooked flail enables it's wielder to inflict excruciating pain on their enemies. It is said to be buried with the scion of Yeenoghu in the Barbed FIelds of Xhorhas.
-> 
-> ***Condemner***, a shadow-touched crossbow that once served as the weapon of the legendary assassin Todora, is now claimed by Ixrattu Khar, famed escapee of the Black Bastille prison in Emon.
-> 
-> ***Honor's Last Stand***, the platinum shield of Bahamut's champion who embodies justice and order, was lost to the devil Malachai though an act of deceit and now is horded in the Iron City of Dis.
-> 
-> ***Kiss of the Changebringer***, a beautiful glittering emerald set in a silver chain that hums with power and possibility. It is said to bring good fortune to the wearer especially on times when their luck is against them. It is currently worn by Wyatt Maranoss, The Plank King.
-> 
-> ***Blades of Sehanine***, a pair of rapiers wielded by the Champion of the Moon Weaver. They were forged from the two moons of Exandria: Catha and Ruidus. Their power has waned since they were separated shortly after the Calamity and they continually yearn to be reunited.
-> 
-> ***Tears of Desirat***, three keys to the sealing of [[Desirat, The Twilight Phoenix]]. It is said that these were shed when the Divine gate forever separated her from her master.
->  
-> ***Mace of the Black Crown***, forged from the soul of the devil Xartaza by Asmodeus himself, is wielded by his unwilling champion Zerxus who was banished to the deepest layer of the Nine Hells during the Calamity.

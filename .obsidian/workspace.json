@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence.md",
+                "file": "Magic Items/Vestiges of Divergence/Vestiges of Divergence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5317acd7642315cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic Items/Vestiges of Divergence/Honor's Last Stand.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence.md",
+                "file": "Magic Items/Vestiges of Divergence/Honor's Last Stand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence.md",
+                "file": "Magic Items/Vestiges of Divergence/Honor's Last Stand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence.md"
+                "file": "Magic Items/Vestiges of Divergence/Honor's Last Stand.md"
               }
             }
           },
@@ -166,15 +179,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1bd84ad7019719d",
+  "active": "5317acd7642315cd",
   "lastOpenFiles": [
-    "Agony.md",
-    "Armor of the Valiant Soul.md",
-    "Wreath of the Prism.md",
-    "Wraps of Dyamak.md",
-    "Honor's Last Stand.md",
-    "Magic Items/Vestiges of Divergence.md",
+    "Magic Items/Vestiges of Divergence/Vestiges of Divergence.md",
+    "Magic Items/Vestiges of Divergence/Agony.md",
     "Magic Items/Vestiges of Divergence/Grimoire Infinitus.md",
+    "Magic Items/Vestiges of Divergence/Armor of the Valiant Soul.md",
+    "Magic Items/Vestiges of Divergence/Blades of the Moonweaver.md",
+    "Magic Items/Vestiges of Divergence/Kiss of the Changebringer.md",
+    "Kiss of the Changebringer",
+    "Magic Items/Vestiges of Divergence/Honor's Last Stand.md",
+    "Magic Items/Vestiges of Divergence/Wreath of the Prism.md",
+    "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
     "Magic Items/Vestiges of Divergence",
     "Pictures/dragon-token-outline.png",
     "Encounters/08 Ships & Islands.md",
@@ -196,8 +212,6 @@
     "Session Notes/Session 32 - Artificial Bargains.md",
     "Encounters/11 Dragon Turtle Port.md",
     "Encounters/09 Plank King.md",
-    "Encounters/10 Dragon Turtle.md",
-    "Names.md",
     "Templates",
     "New Text Document.txt",
     "PCs/attachments/638061092979929411.png",
@@ -211,7 +225,6 @@
     "Pictures/displacer-beast.png",
     "Maps/carousel2-cutout.webp",
     "Maps/carousel2-cutout.webp.0.pdnSave",
-    "Maps/carousel2-cutout.pdn",
     "Maps/carousel-cutout.webp",
     "Maps/funhouse.webp",
     "Untitled.canvas"
