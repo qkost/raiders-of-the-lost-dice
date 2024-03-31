@@ -34,4 +34,4 @@ In the eye of this storm, amidst the ruin, the elven woman desperately enacts a 
 
 The vision shifts, and you find yourself amidst the aftermath. The shattered remnants of Avalir transform the landscape — islands of jagged earth orbit a maelstrom, while chunks of land float, defying gravity, surrounded by elemental fury. The city, in ruins, echoes with ancient magic, guarded by automatons with glowing blue eyes and runic claws, ready to defend against intruders.
 
-At the heart of this chaos waits the Grimoire Infinitus, its pages filled with a countless number of spells and incantations. A mage could spend endless lifetimes perusing its contents. To wield this tome is to touch the essence of magic itself, offering a promise of knowledge and power that spans the ages.
+At the heart of this chaos waits the Grimoire Infinitus, its pages filled with a countless number of spells and incantations. A mage could spend endless lifetimes studying its pages. To wield this tome is to touch the essence of magic itself, offering a promise of knowledge and power that spans the ages.
