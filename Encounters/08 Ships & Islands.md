@@ -36,6 +36,8 @@
 4. [[Krynn Dynasty]] ship
 5. [Nihileth Aboleth](https://www.dndbeyond.com/monsters/4340159-nihileth-aboleth)
 6. [Dragon Eel](https://www.dndbeyond.com/monsters/4340018-dragon-eel) possibly electric eel from Flee Mortals!
+7. [Rum Gremlin](https://www.dndbeyond.com/monsters/4340203-rum-gremlin)
+8. 
 
 ## Appropriate Monsters
 * 
