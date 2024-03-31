@@ -35,6 +35,7 @@
 	1. 3x [Sahuagin](https://www.dndbeyond.com/encounter-builder)
 4. [[Krynn Dynasty]] ship
 5. [Nihileth Aboleth](https://www.dndbeyond.com/monsters/4340159-nihileth-aboleth)
+6. [Dragon Eel](https://www.dndbeyond.com/monsters/4340018-dragon-eel) possibly electric eel from Flee Mortals!
 
 ## Appropriate Monsters
 * 
