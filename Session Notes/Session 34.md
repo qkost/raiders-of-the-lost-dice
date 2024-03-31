@@ -34,6 +34,7 @@ We pick up in the aftermath of the fight as you were planning to head back into 
 	* [[Armor of the Valiant Soul#Legend Lore]]
 	* [[Grimoire Infinitus#Legend Lore]]
 	* [[Honor's Last Stand#Legend Lore]]
+	* [[Wraps of Dyamak#Legend Lore]]
 * Phone call from [[Lady Thinora Va'del, Archmage of Antiquity]]
 	* She knows they're lying
 	* If they continue in their path they may end up like [[Petyr (Pete) Archeron]]
