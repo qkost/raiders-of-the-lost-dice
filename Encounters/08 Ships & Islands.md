@@ -40,7 +40,8 @@
 8. [Isonade](https://www.dndbeyond.com/monsters/4340098-isonade)
 	1. Start with a bunch of fish near the surface (maybe a fishing boat)
 9. [Krake Spawn](https://www.dndbeyond.com/monsters/4340112-krake-spawn)
-10. 
+10. [Sharkjaw Skeletons](https://www.dndbeyond.com/monsters/4340230-sharkjaw-skeleton) (probably like 4-5 of these bad boys)
+11. 
 
 ## Appropriate Monsters
 * 
