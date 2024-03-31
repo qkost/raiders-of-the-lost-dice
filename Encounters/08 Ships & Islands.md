@@ -39,7 +39,8 @@
 7. [Rum Gremlin](https://www.dndbeyond.com/monsters/4340203-rum-gremlin)
 8. [Isonade](https://www.dndbeyond.com/monsters/4340098-isonade)
 	1. Start with a bunch of fish near the surface (maybe a fishing boat)
-9. 
+9. [Krake Spawn](https://www.dndbeyond.com/monsters/4340112-krake-spawn)
+10. 
 
 ## Appropriate Monsters
 * 
