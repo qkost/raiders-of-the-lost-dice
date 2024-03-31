@@ -56,10 +56,11 @@ Potential locations
 		* Corrupted by Karketh, which turned it in a grascale petrified woodland
 		* Creatures of shadow and death freely travel to and from Karketh's domain
 		* Some centaurs remain, resisting this influence of the Shadowfell
-  * Lair
-    * All light is muted and distorted; creatures in the area feel forlorn and helpless
-    * Corrupted tree tower of elven make turned petrified, jagged, and black
-    * The armor is a prized piece, prominently placed at the top of the dragon's horde
+	  * Served by vampires
+	  * Lair
+		* All light is muted and distorted; creatures in the area feel forlorn and helpless
+		* Corrupted tree tower of elven make turned petrified, jagged, and black
+		* The armor is a prized piece, prominently placed at the top of the dragon's horde
 
 ### Grimoire Infinitus
 

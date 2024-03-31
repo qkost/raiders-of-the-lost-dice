@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "e1bd84ad7019719d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic Items/Vestiges of Divergence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fdf8e4ffe42230a1",
             "type": "leaf",
             "state": {
@@ -42,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/08 Ships & Islands.md",
+                "file": "Magic Items/Vestiges of Divergence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/08 Ships & Islands.md",
+                "file": "Magic Items/Vestiges of Divergence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/08 Ships & Islands.md"
+                "file": "Magic Items/Vestiges of Divergence.md"
               }
             }
           },
@@ -189,10 +201,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93d612ae25509859",
+  "active": "e1bd84ad7019719d",
   "lastOpenFiles": [
-    "Encounters/TE_d100_encounters_at_sea_v1.pdf",
     "Encounters/08 Ships & Islands.md",
+    "Encounters/TE_d100_encounters_at_sea_v1.pdf",
     "Session Notes/Session 34.md",
     "NPCs/Vilya.md",
     "Organizations/The Ill Hand.md",
