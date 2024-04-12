@@ -44,6 +44,16 @@
             }
           },
           {
+            "id": "094082ea02f9538f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "70f5e28d91546236",
             "type": "leaf",
             "state": {
@@ -92,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -239,7 +249,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "426a7bb67155faca",
+  "active": "094082ea02f9538f",
   "lastOpenFiles": [
     "Pictures/tokens/level_up_mome_tokens/Ooze, Black Pudding.png",
     "Pictures/tokens/level_up_mome_tokens/Ooze, Gelatinous Cube.png",
