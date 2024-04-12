@@ -10,7 +10,18 @@
 ### Uncommon
 
 - [ ] [Immovable rod](https://www.dndbeyond.com/magic-items/4662-immovable-rod)
-
+- [ ] [Cloak of Protection](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection)
+- [ ] [Gloves of Thievery](https://www.dndbeyond.com/magic-items/5352-gloves-of-thievery)
+- [ ] [Helm of Underwater Action](https://www.dndbeyond.com/magic-items/602376-helm-of-underwater-action)
+- [ ] [Boots of Elven Kind](https://www.dndbeyond.com/magic-items/4587-boots-of-elvenkind)
+- [ ] [Goggles of Night](https://www.dndbeyond.com/magic-items/4648-goggles-of-night)
+- [ ] [Decanter of Endless Water](https://www.dndbeyond.com/magic-items/4615-decanter-of-endless-water)
+- [ ] [Ring of Water Walking](https://www.dndbeyond.com/magic-items/4737-ring-of-water-walking)
+- [ ] [Slippers of Spider Climbing](https://www.dndbeyond.com/magic-items/4755-slippers-of-spider-climbing)
+- [ ] [Adamantine Armor](https://www.dndbeyond.com/magic-items/5370-adamantine-armor)
+- [ ] [Mithral Breastplate](https://www.dndbeyond.com/magic-items/4681-mithral-breastplate)
+- [ ] [Goggles of Object Reading](https://www.dndbeyond.com/magic-items/1434310-goggles-of-object-reading)
+- [ ] [Wand of Magic Missiles](https://www.dndbeyond.com/magic-items/4794-wand-of-magic-missiles)
 - [ ] [Robe of Useful Items](https://www.dndbeyond.com/magic-items/4743-robe-of-useful-items)
 	* Default
 		* 2x Dagger
@@ -26,27 +37,15 @@
 		* 4x Potion of Healing
 		* Silver coffer worth 500 gp
 		* Spell scroll -- [Major Image](https://www.dndbeyond.com/spells/major-image)
-
-- [ ] [Cloak of Protection](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection)
-- [x] [Portable Hole](https://www.dndbeyond.com/magic-items/4699-portable-hole)
-- [ ] [Boots of the Vigilant](https://www.dndbeyond.com/sources/tcsr/game-masters-toolkit#BootsoftheVigilant)
-- [ ] [Gloves of Thievery](https://www.dndbeyond.com/magic-items/5352-gloves-of-thievery)
-- [ ] [Helm of Underwater Action](https://www.dndbeyond.com/magic-items/602376-helm-of-underwater-action)
-- [ ] [Boots of Elven Kind](https://www.dndbeyond.com/magic-items/4587-boots-of-elvenkind)
-- [ ] [Goggles of Night](https://www.dndbeyond.com/magic-items/4648-goggles-of-night)
-- [ ] [Decanter of Endless Water](https://www.dndbeyond.com/magic-items/4615-decanter-of-endless-water)
-- [ ] [Ring of Water Walking](https://www.dndbeyond.com/magic-items/4737-ring-of-water-walking)
-- [ ] [Slippers of Spider Climbing](https://www.dndbeyond.com/magic-items/4755-slippers-of-spider-climbing)
-- [ ] [Adamantine Armor](https://www.dndbeyond.com/magic-items/5370-adamantine-armor)
-- [ ] [Mithral Breastplate](https://www.dndbeyond.com/magic-items/4681-mithral-breastplate)
-- [ ] [Goggles of Object Reading](https://www.dndbeyond.com/magic-items/1434310-goggles-of-object-reading)
 - [x] [Elven Chain](https://www.dndbeyond.com/magic-items/4631-elven-chain)
+- [x] [Portable Hole](https://www.dndbeyond.com/magic-items/4699-portable-hole)
 - [x] [Bracer's of Defense](https://www.dndbeyond.com/magic-items/4594-bracers-of-defense)
 - [x] [Periapt of Wound Closure](https://www.dndbeyond.com/magic-items/4694-periapt-of-wound-closure)
 - [x] [Marvelous Pigments](https://www.dndbeyond.com/magic-items/4678-marvelous-pigments)
 - [x] [Amulet of the Drunkard](https://www.dndbeyond.com/magic-items/1434251-amulet-of-the-drunkard)
 - [x] [Deck of Illusions] [Deck of illusions](https://www.dndbeyond.com/magic-items/4616-deck-of-illusions)
 - [x] [Longsword of Sharpness](https://www.dndbeyond.com/magic-items/5174-longsword-of-sharpness)
+- [ ] - [x] [Boots of the Vigilant](https://www.dndbeyond.com/sources/tcsr/game-masters-toolkit#BootsoftheVigilant)
 
 ## Rare
 
@@ -57,7 +56,8 @@
 - [ ] [Butcher's Bib](https://www.dndbeyond.com/magic-items/1434261-butchers-bib)
 - [ ] [Ring of Spell Storing](https://www.dndbeyond.com/magic-items/4730-ring-of-spell-storing)
 - [ ] [Glamoured Studded Leather](https://www.dndbeyond.com/magic-items/4645-glamoured-studded-leather)
-- [ ] [
+- [ ] [Quaal's Feather Token](https://www.dndbeyond.com/magic-items/13584-quaals-feather-token)
+- [ ] [Ring of Animal Influence](https://www.dndbeyond.com/magic-items/4717-ring-of-animal-influence)
 ## Very Rare
 
 - [ ] [Mirror of Infinite Transpondence](https://www.dndbeyond.com/sources/tcsr/game-masters-toolkit#MirrorofInfiniteTranspondence)
