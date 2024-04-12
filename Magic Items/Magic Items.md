@@ -1,14 +1,16 @@
 
 ### Common
 
-- [ ] 1. [Glamerweave](http://dnd5e.wikidot.com/wondrous-items:glamerweave)
-- [ ] 3. [Cleaning Cube](https://www.reddit.com/r/TheGriffonsSaddlebag/comments/jp7n6i/the_griffons_saddlebag_cleaning_cube_wondrous_item/)
+- [ ] [Glamerweave](http://dnd5e.wikidot.com/wondrous-items:glamerweave)
+- [ ] [Cleaning Cube](https://www.reddit.com/r/TheGriffonsSaddlebag/comments/jp7n6i/the_griffons_saddlebag_cleaning_cube_wondrous_item/)
+- [ ] [Mystery Key](https://www.dndbeyond.com/magic-items/27076-mystery-key)
+- [ ] [Pole of Angling](https://www.dndbeyond.com/search?q=pole%20of%20angling)
 - [x] Celebone
 - [x] Potion of Climbing (Kobolds)
 ### Uncommon
 
 - [ ] [Immovable rod](https://www.dndbeyond.com/magic-items/4662-immovable-rod)
-- [x] [Deck of illusions](https://www.dndbeyond.com/magic-items/4616-deck-of-illusions)
+
 - [ ] [Robe of Useful Items](https://www.dndbeyond.com/magic-items/4743-robe-of-useful-items)
 	* Default
 		* 2x Dagger
@@ -35,17 +37,16 @@
 - [ ] [Decanter of Endless Water](https://www.dndbeyond.com/magic-items/4615-decanter-of-endless-water)
 - [ ] [Ring of Water Walking](https://www.dndbeyond.com/magic-items/4737-ring-of-water-walking)
 - [ ] [Slippers of Spider Climbing](https://www.dndbeyond.com/magic-items/4755-slippers-of-spider-climbing)
-
-- [x] [Elven Chain](https://www.dndbeyond.com/magic-items/4631-elven-chain)
-
-- [x] [Bracer's of Defense](https://www.dndbeyond.com/magic-items/4594-bracers-of-defense)
 - [ ] [Adamantine Armor](https://www.dndbeyond.com/magic-items/5370-adamantine-armor)
+- [ ] [Mithral Breastplate](https://www.dndbeyond.com/magic-items/4681-mithral-breastplate)
+- [ ] [Goggles of Object Reading](https://www.dndbeyond.com/magic-items/1434310-goggles-of-object-reading)
+- [x] [Elven Chain](https://www.dndbeyond.com/magic-items/4631-elven-chain)
+- [x] [Bracer's of Defense](https://www.dndbeyond.com/magic-items/4594-bracers-of-defense)
 - [x] [Periapt of Wound Closure](https://www.dndbeyond.com/magic-items/4694-periapt-of-wound-closure)
 - [x] [Marvelous Pigments](https://www.dndbeyond.com/magic-items/4678-marvelous-pigments)
 - [x] [Amulet of the Drunkard](https://www.dndbeyond.com/magic-items/1434251-amulet-of-the-drunkard)
-- [ ] [Goggles of Object Reading](https://www.dndbeyond.com/magic-items/1434310-goggles-of-object-reading)
+- [x] [Deck of Illusions] [Deck of illusions](https://www.dndbeyond.com/magic-items/4616-deck-of-illusions)
 - [x] [Longsword of Sharpness](https://www.dndbeyond.com/magic-items/5174-longsword-of-sharpness)
-
 
 ## Rare
 
@@ -55,12 +56,13 @@
 - [ ] [Belt of Dwarvenkind](https://www.dndbeyond.com/magic-items/4584-belt-of-dwarvenkind)
 - [ ] [Butcher's Bib](https://www.dndbeyond.com/magic-items/1434261-butchers-bib)
 - [ ] [Ring of Spell Storing](https://www.dndbeyond.com/magic-items/4730-ring-of-spell-storing)
+- [ ] [Glamoured Studded Leather](https://www.dndbeyond.com/magic-items/4645-glamoured-studded-leather)
+- [ ] [
 ## Very Rare
 
 - [ ] [Mirror of Infinite Transpondence](https://www.dndbeyond.com/sources/tcsr/game-masters-toolkit#MirrorofInfiniteTranspondence)
 - [ ] [Polymorph Blade](http://dnd5e.wikidot.com/wondrous-items:polymorph-blade)
 - [ ] [Amulet of the Planes](https://www.dndbeyond.com/magic-items/4570-amulet-of-the-planes)
-
 ## Potions
 - [ ] [Potion of Heroism](https://www.dndbeyond.com/magic-items/4709-potion-of-heroism)
 - [ ] [Potion of Growth](https://www.dndbeyond.com/magic-items/4707-potion-of-growth)
