@@ -4,7 +4,7 @@
 - [ ] [Glamerweave](http://dnd5e.wikidot.com/wondrous-items:glamerweave)
 - [ ] [Cleaning Cube](https://www.reddit.com/r/TheGriffonsSaddlebag/comments/jp7n6i/the_griffons_saddlebag_cleaning_cube_wondrous_item/)
 - [ ] [Mystery Key](https://www.dndbeyond.com/magic-items/27076-mystery-key)
-- [ ] [Pole of Angling](https://www.dndbeyond.com/search?q=pole%20of%20angling)
+- [ ] [Pole of Angling](https://www.dndbeyond.com/magic-items/27108-pole-of-angling)
 - [x] Celebone
 - [x] Potion of Climbing (Kobolds)
 ### Uncommon

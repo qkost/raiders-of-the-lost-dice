@@ -43,8 +43,12 @@ The busy port consists of a curved main street that follows the shape of the inl
     - **Personality:** Shrewd, business-minded, doesn't tolerate cheaters.
 - Siren's Strings
 - The Trove
+	- Balazar (Bengal Tabaxi)
 	- Salvaged goods
-	- 
+	- Goods
+		- [ ] [Pole of Angling](https://www.dndbeyond.com/magic-items/27108-pole-of-angling) - 20 gp
+		- [ ] 
+
 
 **Dockmaster's Office**
 
