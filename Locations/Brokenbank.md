@@ -47,8 +47,11 @@ The busy port consists of a curved main street that follows the shape of the inl
 	- Salvaged goods
 	- Goods
 		- [ ] [Pole of Angling](https://www.dndbeyond.com/magic-items/27108-pole-of-angling) - 20 gp
-		- [ ] 
-
+		- [ ] [Boots of False Tracks](https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks)
+		- [ ] [Decanter of Endless Water](https://www.dndbeyond.com/magic-items/4615-decanter-of-endless-water)
+		- [ ] [Slippers of Spider Climbing](https://www.dndbeyond.com/magic-items/4755-slippers-of-spider-climbing)
+		- [ ] [Quaal's Feather Token](https://www.dndbeyond.com/magic-items/13584-quaals-feather-token)
+		- [ ] [Glamoured Studded Leather](https://www.dndbeyond.com/magic-items/4645-glamoured-studded-leather)
 
 **Dockmaster's Office**
 
