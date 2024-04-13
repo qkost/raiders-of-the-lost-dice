@@ -26,19 +26,25 @@ The busy port consists of a curved main street that follows the shape of the inl
     - **Profession:** Tavern owner and retired sea captain.
     - **Personality:** Commanding, jovial, loves hosting arm-wrestling contests.
 
-**Inn: The Ship's Rest**
+**Inn: The Berth Deck**
 
 - **Whiskerfoot (Tabaxi)**
     - **Description:** Sleek black fur with white patches resembling sea foam, golden eyes.
     - **Profession:** Innkeeper
     - **Personality:** Curious, always seen with a feathered quill, collects tales from travelers.
 
-**Trade Post: The Tacklebox**
+**Market: The Tacklebox**
 
-- **Anila Fahreed (Tabaxi)**
+- Hook, Line, and Sinker
+	- Anila Fahreed (Tabaxi)
+    - General goods
     - **Description:** Brown fur, dark hair, sharp features, always seen wearing elaborate gold jewelry.
     - **Profession:** Chief Trader, related to Portcaller Mazin Fahreed.
     - **Personality:** Shrewd, business-minded, doesn't tolerate cheaters.
+- Siren's Strings
+- The Trove
+	- Salvaged goods
+	- 
 
 **Dockmaster's Office**
 
