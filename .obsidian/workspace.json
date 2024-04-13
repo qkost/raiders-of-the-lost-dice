@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Locations/Brokenbank.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Locations/Brokenbank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Locations/Brokenbank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Magic Items.md"
+                "file": "Locations/Brokenbank.md"
               }
             }
           },
@@ -241,6 +241,7 @@
   },
   "active": "426a7bb67155faca",
   "lastOpenFiles": [
+    "Magic Items/Magic Items.md",
     "NPCs/Zunda'i-Miir.md",
     "Pictures/tokens/level_up_mome_tokens/Ooze, Black Pudding.png",
     "Pictures/tokens/level_up_mome_tokens/Ooze, Gelatinous Cube.png",
@@ -278,7 +279,6 @@
     "Locations/Ships.md",
     "Session Notes/Session 33 - Dockside Dragons.md",
     "Magic Items/tmp.md",
-    "Magic Items/Magic Items.md",
     "NPCs/Petyr (Pete) Archeron.md",
     "NPCs/Ysolda Banne - Artificer.md",
     "Locations/Darktow.md",

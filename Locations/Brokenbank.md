@@ -42,7 +42,7 @@ The busy port consists of a curved main street that follows the shape of the inl
 
 **Dockmaster's Office**
 
-- **Grundar Earthfoot (Dwarf)**
+- **Gundrar Earthfoot (Dwarf)**
     - **Description:** Stout with a braided beard decorated with sea trinkets.
     - **Profession:** Dockmaster, manages dock fees and ship placements.
     - **Personality:** Firm, meticulous about dock records, has a secret love for sea shanties.
