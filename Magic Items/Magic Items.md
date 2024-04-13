@@ -48,7 +48,7 @@
 - [x] [Amulet of the Drunkard](https://www.dndbeyond.com/magic-items/1434251-amulet-of-the-drunkard)
 - [x] [Deck of Illusions] [Deck of illusions](https://www.dndbeyond.com/magic-items/4616-deck-of-illusions)
 - [x] [Longsword of Sharpness](https://www.dndbeyond.com/magic-items/5174-longsword-of-sharpness)
-- [ ] - [x] [Boots of the Vigilant](https://www.dndbeyond.com/sources/tcsr/game-masters-toolkit#BootsoftheVigilant)
+- [x] [Boots of the Vigilant](https://www.dndbeyond.com/sources/tcsr/game-masters-toolkit#BootsoftheVigilant)
 
 ## Rare
 

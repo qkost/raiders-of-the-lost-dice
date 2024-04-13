@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Brokenbank.md",
+                "file": "Magic Items/Magic Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Brokenbank.md",
+                "file": "Magic Items/Magic Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Brokenbank.md"
+                "file": "Magic Items/Magic Items.md"
               }
             }
           },
@@ -209,10 +209,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "426a7bb67155faca",
+  "active": "d9189410897ff3b4",
   "lastOpenFiles": [
-    "Magic Items/Magic Items.md",
     "Locations/Brokenbank.md",
+    "Magic Items/Magic Items.md",
     "Session Notes/Session 15.md",
     "Session Notes/Session 16.md",
     "Session Notes/Session 14.md",
