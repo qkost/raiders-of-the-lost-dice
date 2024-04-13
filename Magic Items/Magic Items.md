@@ -6,6 +6,8 @@
 - [ ] [Mystery Key](https://www.dndbeyond.com/magic-items/27076-mystery-key)
 - [ ] [Pole of Angling](https://www.dndbeyond.com/magic-items/27108-pole-of-angling)
 - [ ] [Boots of False Tracks](https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks)
+- [ ] [Cast-Off Armor, Breastplate](https://www.dndbeyond.com/magic-items/36575-cast-off-armor-breastplate)
+- [ ] [Walloping Ammunition](https://www.dndbeyond.com/magic-items/36839-walloping-ammunition)
 - [x] Celebone
 - [x] Potion of Climbing (Kobolds)
 ### Uncommon
