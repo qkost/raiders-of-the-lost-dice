@@ -46,12 +46,14 @@ The busy port consists of a curved main street that follows the shape of the inl
 	- Balazar (Bengal Tabaxi)
 	- Salvaged goods
 	- Goods
+		- Scrolls
+		- Potions
 		- [ ] [Pole of Angling](https://www.dndbeyond.com/magic-items/27108-pole-of-angling) - 20 gp
 		- [ ] [Boots of False Tracks](https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks) - 100 gp
 		- [ ] [Quaal's Feather Token (bird)](https://www.dndbeyond.com/magic-items/13584-quaals-feather-token) - 750 gp
+		- [ ] [Slippers of Spider Climbing](https://www.dndbeyond.com/magic-items/4755-slippers-of-spider-climbing) - 1200 gp
 		- [ ] [Decanter of Endless Water](https://www.dndbeyond.com/magic-items/4615-decanter-of-endless-water) - 1500 gp
-		- [ ] [Slippers of Spider Climbing](https://www.dndbeyond.com/magic-items/4755-slippers-of-spider-climbing) - 1500 gp
-		- [ ] [Glamoured Studded Leather](https://www.dndbeyond.com/magic-items/4645-glamoured-studded-leather) - 2200 gp
+		- [ ] [Glamoured Studded Leather](https://www.dndbeyond.com/magic-items/4645-glamoured-studded-leather) - 2800 gp
 
 **Dockmaster's Office**
 
