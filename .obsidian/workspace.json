@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 35.md",
+                "file": "Session Notes/Session 35.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "297e61726f7299bb",
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Brokenbank.md",
+                "file": "Session Notes/Session 35.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Brokenbank.md",
+                "file": "Session Notes/Session 35.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Brokenbank.md"
+                "file": "Session Notes/Session 35.md"
               }
             }
           },
@@ -209,10 +209,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "426a7bb67155faca",
+  "active": "f92f205f31d0ba58",
   "lastOpenFiles": [
-    "Magic Items/Magic Items.md",
     "Locations/Brokenbank.md",
+    "Magic Items/Magic Items.md",
     "Session Notes/Session 15.md",
     "Session Notes/Session 16.md",
     "Session Notes/Session 14.md",
@@ -230,7 +230,7 @@
     "Pictures/tokens/level_up_mome_tokens/Wraith.png",
     "Pictures/tokens/level_up_mome_tokens/Will-O-Wisp.png",
     "Pictures/tokens/level_up_mome_tokens",
-    "Session 35.md",
+    "Session Notes/Session 35.md",
     "Magic Items/Vestiges of Divergence/Vestiges of Divergence.md",
     "Magic Items/Vestiges of Divergence/legend-lore-for-homebrewery.md",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
