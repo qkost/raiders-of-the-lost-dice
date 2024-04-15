@@ -4,9 +4,7 @@
 Part of powers rubbed off on [[Shadowclaw]]
 ## Method to get back Marya
 
-1. Kill Ungrudaal - gets absorbed into periapt
-	* Prevent it from getting back into the periapt via Magic Circle
-2. Get body 
-3. Dispel
-	* If Ungrudaal is in the periapt, it will attempt to take over the body
-	* Use magic circle to contain Undead
+1. Kill ungradaal
+2. Dispel periapt shortly after
+3. Soul is released - can capture with magic jar or magic circle
+4. Perform a ritual with suitable host to return the soul to a body

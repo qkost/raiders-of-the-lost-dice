@@ -30,6 +30,25 @@
                 "source": false
               }
             }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "297e61726f7299bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ae1adededc25342",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encounters/08 Ships & Islands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           },
           {
             "id": "426a7bb67155faca",
@@ -42,14 +61,7 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "297e61726f7299bb",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "d9189410897ff3b4",
             "type": "leaf",
@@ -57,6 +69,18 @@
               "type": "markdown",
               "state": {
                 "file": "Magic Items/Magic Items.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f2fb6230a2b00e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Ungrudaal.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 35.md",
+                "file": "Encounters/08 Ships & Islands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 35.md",
+                "file": "Encounters/08 Ships & Islands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 35.md"
+                "file": "Encounters/08 Ships & Islands.md"
               }
             }
           },
@@ -209,10 +233,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f92f205f31d0ba58",
+  "active": "7ae1adededc25342",
   "lastOpenFiles": [
-    "Locations/Brokenbank.md",
+    "Session Notes/Session 35.md",
+    "Encounters/TE_d100_encounters_at_sea_v1.pdf",
     "Magic Items/Magic Items.md",
+    "NPCs/Ungrudaal.md",
+    "Locations/Brokenbank.md",
     "Session Notes/Session 15.md",
     "Session Notes/Session 16.md",
     "Session Notes/Session 14.md",
@@ -230,7 +257,6 @@
     "Pictures/tokens/level_up_mome_tokens/Wraith.png",
     "Pictures/tokens/level_up_mome_tokens/Will-O-Wisp.png",
     "Pictures/tokens/level_up_mome_tokens",
-    "Session Notes/Session 35.md",
     "Magic Items/Vestiges of Divergence/Vestiges of Divergence.md",
     "Magic Items/Vestiges of Divergence/legend-lore-for-homebrewery.md",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
@@ -247,12 +273,9 @@
     "Kiss of the Changebringer",
     "Magic Items/Vestiges of Divergence",
     "Encounters/08 Ships & Islands.md",
-    "Encounters/TE_d100_encounters_at_sea_v1.pdf",
     "NPCs/Vilya.md",
     "Organizations/The Ill Hand.md",
     "Gods/Erathis, The Lawbearer.md",
-    "Locations/Ships.md",
-    "Session Notes/Session 33 - Dockside Dragons.md",
     "Templates",
     "New Text Document.txt",
     "PCs/attachments",
