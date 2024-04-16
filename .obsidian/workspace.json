@@ -122,7 +122,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/08 Ships & Islands.md",
+                "file": "Locations/Brokenbank.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/08 Ships & Islands.md",
+                "file": "Locations/Brokenbank.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/08 Ships & Islands.md"
+                "file": "Locations/Brokenbank.md"
               }
             }
           },
@@ -269,10 +270,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ae1adededc25342",
+  "active": "426a7bb67155faca",
   "lastOpenFiles": [
-    "Encounters/09 Plank King.md",
     "Encounters/08 Ships & Islands.md",
+    "Encounters/09 Plank King.md",
     "NPCs/Vilya.md",
     "Organizations/The Ill Hand.md",
     "Session Notes/Session 35.md",
