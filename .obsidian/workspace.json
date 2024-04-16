@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Vilya.md",
+                "file": "Encounters/08 Ships & Islands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Vilya.md",
+                "file": "Encounters/08 Ships & Islands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Vilya.md"
+                "file": "Encounters/08 Ships & Islands.md"
               }
             }
           },
@@ -257,8 +257,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff2dce3ddad30b65",
+  "active": "7ae1adededc25342",
   "lastOpenFiles": [
+    "NPCs/Vilya.md",
     "Organizations/The Ill Hand.md",
     "Session Notes/Session 35.md",
     "Locations/Ships.md",
@@ -299,7 +300,6 @@
     "Magic Items/Vestiges of Divergence/Blades of the Moonweaver.md",
     "Kiss of the Changebringer",
     "Magic Items/Vestiges of Divergence",
-    "NPCs/Vilya.md",
     "Gods/Erathis, The Lawbearer.md",
     "Templates",
     "New Text Document.txt",
