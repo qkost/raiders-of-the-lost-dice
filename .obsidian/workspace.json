@@ -101,6 +101,30 @@
             }
           },
           {
+            "id": "581ceaea91bd2678",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizations/Order of the Ascendant Dragon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0098ebe3be69db3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizations/Order of Bahamut.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "d9189410897ff3b4",
             "type": "leaf",
             "state": {
@@ -274,6 +298,9 @@
   },
   "active": "426a7bb67155faca",
   "lastOpenFiles": [
+    "Organizations/Order of the Ascendant Dragon.md",
+    "Organizations/Order of Bahamut.md",
+    "Locations/Brokenbank.md",
     "Encounters/08 Ships & Islands.md",
     "Encounters/09 Plank King.md",
     "NPCs/Vilya.md",
@@ -283,7 +310,6 @@
     "Encounters/TE_d100_encounters_at_sea_v1.pdf",
     "Magic Items/Magic Items.md",
     "NPCs/Ungrudaal.md",
-    "Locations/Brokenbank.md",
     "Session Notes/Session 15.md",
     "Session Notes/Session 16.md",
     "Session Notes/Session 14.md",
@@ -312,8 +338,6 @@
     "Magic Items/Vestiges of Divergence/Armor of the Valiant Soul.md",
     "Session Notes/Session 34.md",
     "Magic Items/Vestiges of Divergence/Kiss of the Changebringer.md",
-    "Magic Items/Vestiges of Divergence/Agony.md",
-    "Magic Items/Vestiges of Divergence/Blades of the Moonweaver.md",
     "Kiss of the Changebringer",
     "Magic Items/Vestiges of Divergence",
     "Templates",
