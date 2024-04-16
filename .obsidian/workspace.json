@@ -122,8 +122,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/09 Plank King.md",
+                "file": "Encounters/08 Ships & Islands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/09 Plank King.md",
+                "file": "Encounters/08 Ships & Islands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/09 Plank King.md"
+                "file": "Encounters/08 Ships & Islands.md"
               }
             }
           },
@@ -270,8 +269,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fd8a348cb86e0d2",
+  "active": "7ae1adededc25342",
   "lastOpenFiles": [
+    "Encounters/09 Plank King.md",
     "Encounters/08 Ships & Islands.md",
     "NPCs/Vilya.md",
     "Organizations/The Ill Hand.md",
@@ -313,7 +313,6 @@
     "Magic Items/Vestiges of Divergence/Blades of the Moonweaver.md",
     "Kiss of the Changebringer",
     "Magic Items/Vestiges of Divergence",
-    "Gods/Erathis, The Lawbearer.md",
     "Templates",
     "New Text Document.txt",
     "PCs/attachments",
