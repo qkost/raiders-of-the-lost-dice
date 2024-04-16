@@ -45,51 +45,7 @@
             }
           },
           {
-            "id": "265580c98a60d46f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ships.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "297e61726f7299bb",
-        "type": "tabs",
-        "dimension": 57.27554179566563,
-        "children": [
-          {
-            "id": "7ae1adededc25342",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/08 Ships & Islands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fd8a348cb86e0d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/09 Plank King.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "426a7bb67155faca",
+            "id": "13b3a1cf11acb626",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -101,7 +57,19 @@
             }
           },
           {
-            "id": "581ceaea91bd2678",
+            "id": "265580c98a60d46f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ships.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a47ab0733914494",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -111,45 +79,28 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "297e61726f7299bb",
+        "type": "tabs",
+        "dimension": 57.27554179566563,
+        "children": [
           {
-            "id": "0098ebe3be69db3d",
+            "id": "a3a3ac8840abb8ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organizations/Order of Bahamut.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9189410897ff3b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic Items/Magic Items.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f2fb6230a2b00e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Ungrudaal.md",
+                "file": "Session Notes/Session 36.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Brokenbank.md",
+                "file": "Session Notes/Session 36.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Brokenbank.md",
+                "file": "Session Notes/Session 36.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Brokenbank.md"
+                "file": "Session Notes/Session 36.md"
               }
             }
           },
@@ -296,17 +247,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "426a7bb67155faca",
+  "active": "a3a3ac8840abb8ba",
   "lastOpenFiles": [
     "Organizations/Order of the Ascendant Dragon.md",
-    "Organizations/Order of Bahamut.md",
+    "Session Notes/Session 36.md",
     "Locations/Brokenbank.md",
+    "Locations/Ships.md",
+    "Organizations/Order of Bahamut.md",
     "Encounters/08 Ships & Islands.md",
     "Encounters/09 Plank King.md",
     "NPCs/Vilya.md",
     "Organizations/The Ill Hand.md",
     "Session Notes/Session 35.md",
-    "Locations/Ships.md",
     "Encounters/TE_d100_encounters_at_sea_v1.pdf",
     "Magic Items/Magic Items.md",
     "NPCs/Ungrudaal.md",
@@ -337,7 +289,6 @@
     "Magic Items/Vestiges of Divergence/Grimoire Infinitus.md",
     "Magic Items/Vestiges of Divergence/Armor of the Valiant Soul.md",
     "Session Notes/Session 34.md",
-    "Magic Items/Vestiges of Divergence/Kiss of the Changebringer.md",
     "Kiss of the Changebringer",
     "Magic Items/Vestiges of Divergence",
     "Templates",
