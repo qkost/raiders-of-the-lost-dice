@@ -1,7 +1,7 @@
 
 ## Recap
 
-
+## Notes
 ## Prep
 ### 1. Review Characters
 
