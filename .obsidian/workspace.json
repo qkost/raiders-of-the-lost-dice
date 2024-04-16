@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "297e61726f7299bb",
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ships.md",
+                "file": "Session Notes/Session 35.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ships.md",
+                "file": "Session Notes/Session 35.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ships.md"
+                "file": "Session Notes/Session 35.md"
               }
             }
           },
@@ -245,8 +245,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "265580c98a60d46f",
+  "active": "c28f546a68683216",
   "lastOpenFiles": [
+    "Locations/Ships.md",
     "Session Notes/Session 35.md",
     "Encounters/08 Ships & Islands.md",
     "Encounters/TE_d100_encounters_at_sea_v1.pdf",
