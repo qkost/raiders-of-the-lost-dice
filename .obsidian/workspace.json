@@ -75,6 +75,18 @@
             }
           },
           {
+            "id": "4fd8a348cb86e0d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encounters/09 Plank King.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "426a7bb67155faca",
             "type": "leaf",
             "state": {
@@ -110,7 +122,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/08 Ships & Islands.md",
+                "file": "Encounters/09 Plank King.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/08 Ships & Islands.md",
+                "file": "Encounters/09 Plank King.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/08 Ships & Islands.md"
+                "file": "Encounters/09 Plank King.md"
               }
             }
           },
@@ -257,13 +270,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ae1adededc25342",
+  "active": "4fd8a348cb86e0d2",
   "lastOpenFiles": [
+    "Encounters/08 Ships & Islands.md",
     "NPCs/Vilya.md",
     "Organizations/The Ill Hand.md",
     "Session Notes/Session 35.md",
     "Locations/Ships.md",
-    "Encounters/08 Ships & Islands.md",
     "Encounters/TE_d100_encounters_at_sea_v1.pdf",
     "Magic Items/Magic Items.md",
     "NPCs/Ungrudaal.md",
