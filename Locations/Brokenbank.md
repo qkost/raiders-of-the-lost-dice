@@ -54,7 +54,7 @@ The busy port consists of a curved main street that follows the shape of the inl
 		- [ ] [Cast-Off Armor, Breastplate](https://www.dndbeyond.com/magic-items/36575-cast-off-armor-breastplate) - 600 gp
 		- [ ] [Quaal's Feather Token (bird)](https://www.dndbeyond.com/magic-items/13584-quaals-feather-token) - 750 gp
 		- [ ] [Slippers of Spider Climbing](https://www.dndbeyond.com/magic-items/4755-slippers-of-spider-climbing) - 1200 gp
-		- [ ] [Decanter of Endless Water](https://www.dndbeyond.com/magic-items/4615-decanter-of-endless-water) - 1800 gp
+		- [ ] [Decanter of Endless Water](https://www.dndbeyond.com/magic-items/4615-decanter-of-endless-water) - 800 gp
 		- [ ] [Ring of Animal Influence](https://www.dndbeyond.com/magic-items/4717-ring-of-animal-influence) - 2000 gp
 		- [ ] [Glamoured Studded Leather](https://www.dndbeyond.com/magic-items/4645-glamoured-studded-leather) - 3800 gp
 
