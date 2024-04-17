@@ -62,5 +62,12 @@
 	* Artifacts
 	* Records
 	* Statues
+	* Potion of Cloud Giant Strength
+	* Book titles
+		1. "Wings of Benevolence: Teachings of Bahamut"
+		2. "Echoes of Arcanum: The Rise and Fall of Magical Empires"
+		5. "Silver Scales of Justice: A Treatise on Divine Law"
+		6. "Shadows Over Tal'Dorei: The History of the Chroma Conclave"
+		11. "The Birth of a Dynasty: The History of the Dwendalian Empire"
 	* Copy of *Crog's Guide to Disarming Magical Traps*
 		* This book describes various mundane techniques and theories related to foiling magic traps. If you spend 48 hours studying this book, you learn how to overcome certain types of magic traps with your thieves’ tools. If a trap’s magic can be dispelled or suppressed by a dispel magic spell, you can make a Dexterity check using thieves’ tools to achieve the same result. The DC of the Dexterity check is equal to 5 + the DC required to dispel or suppress the trap with dispel magic (minimum DC 18). On a failed check, the trap triggers.
