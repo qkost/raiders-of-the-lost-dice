@@ -44,6 +44,7 @@
 
 * "A 10-foot-diameter circle of blue energy hums on the north wall. It emits a thin but steady stream of water that sends ripples across the lake dominating the east of the room."
 * Portal connected to water plane
-* 
+* Combat
+	* 10 air sparks emerge
 
 # W5: Throne Room
