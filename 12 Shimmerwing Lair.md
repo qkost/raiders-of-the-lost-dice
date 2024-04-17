@@ -14,7 +14,7 @@
 * Description
 	* "Long ice spikes protrude from the floor, walls, and ceiling of this chamber"
 * Enemies
-	* 2x Air elemental
+	* 2x [Air Elemental](https://www.dndbeyond.com/monsters/16774-air-elemental)
 * Spikes are difficult terrain
 * 2d4/5ft for forced movement
 # W3: Memory Hall
@@ -45,6 +45,10 @@
 * "A 10-foot-diameter circle of blue energy hums on the north wall. It emits a thin but steady stream of water that sends ripples across the lake dominating the east of the room."
 * Portal connected to water plane
 * Combat
-	* 10 air sparks emerge
+	* 8 air sparks (+8 and 5 damage)
+	* 2 [Water Weird](https://www.dndbeyond.com/monsters/17208-water-weird)
+* Lake
+	* DC12 CON Save on start of turn - 1d10 save for
+* Tunnel submerged on east wall to throne room
 
 # W5: Throne Room
