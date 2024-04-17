@@ -38,8 +38,12 @@
 	* Disable by knocking over pillars
 	* Trigger
 		* DC12 STR save or knock back 2d6 bludgeoning & prone
-		* 
+		* Triggers other traps!!!!!
 
 # W4: Figid Lake
+
+* "A 10-foot-diameter circle of blue energy hums on the north wall. It emits a thin but steady stream of water that sends ripples across the lake dominating the east of the room."
+* Portal connected to water plane
+* 
 
 # W5: Throne Room
