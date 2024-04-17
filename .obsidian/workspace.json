@@ -6,107 +6,14 @@
       {
         "id": "4201cfec44791502",
         "type": "tabs",
-        "dimension": 42.72445820433436,
         "children": [
           {
-            "id": "e1bd84ad7019719d",
+            "id": "cc0b54595da3dac5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/Vestiges of Divergence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c28f546a68683216",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 35.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "116ca9d64a0f9dd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Prep Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ff2dce3ddad30b65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Vilya.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "13b3a1cf11acb626",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Brokenbank.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "265580c98a60d46f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ships.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a47ab0733914494",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organizations/Order of the Ascendant Dragon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "297e61726f7299bb",
-        "type": "tabs",
-        "dimension": 57.27554179566563,
-        "children": [
-          {
-            "id": "a3a3ac8840abb8ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 36.md",
+                "file": "12 Shimmerwing Lair.md",
                 "mode": "source",
                 "source": false
               }
@@ -186,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 35.md",
+                "file": "12 Shimmerwing Lair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 35.md",
+                "file": "12 Shimmerwing Lair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 35.md"
+                "file": "12 Shimmerwing Lair.md"
               }
             }
           },
@@ -259,8 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c28f546a68683216",
+  "active": "cc0b54595da3dac5",
   "lastOpenFiles": [
+    "Session Notes/Session 35.md",
+    "12 Shimmerwing Lair.md",
     "Maps/WhereEvilLivesResources/Tokens/webp/Zombie.webp",
     "Maps/WhereEvilLivesResources/Tokens/webp/Zenith Aastrika.webp",
     "Maps/WhereEvilLivesResources/Tokens/webp/Yumgrub.webp",
@@ -271,7 +180,6 @@
     "Maps/WhereEvilLivesResources/Tokens/webp/Worg.webp",
     "Maps/WhereEvilLivesResources/Tokens/webp/Wobalas.webp",
     "Maps/WhereEvilLivesResources/Tokens/webp/Wilderkith - Vali.webp",
-    "Maps/WhereEvilLivesResources/Tokens/webp/Wilderkith - Tuval.webp",
     "Maps/WhereEvilLivesResources/Tokens/webp",
     "Maps/WhereEvilLivesResources/Tokens/png",
     "Maps/WhereEvilLivesResources/Tokens",
@@ -281,7 +189,6 @@
     "Maps/Dragon's Hoard [29x59] - $5 Rewards (Gridless)/Gridless",
     "Maps/Dragon's Hoard [29x59] - $5 Rewards (Gridless)",
     "Templates/Prep Template.md",
-    "Session Notes/Session 35.md",
     "Session Notes/Session 36.md",
     "Organizations/Order of the Ascendant Dragon.md",
     "Locations/Brokenbank.md",
