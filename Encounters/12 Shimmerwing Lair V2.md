@@ -33,6 +33,11 @@
 
 * Description
 	* From the antechamber, visitors travel upward along a path of clouds. The impressive route is not as dangerous as its lack of railings and the literal airiness of each footstep might suggest.
+
+# R5: Open Court
+
+* Description
+	* Past the cloud bridge is an enormous expanse of smooth stone ringed with broken pillars, where the silver dragon hosts visitors in grand style. Though this court is often surrounded by clouds, the dragon can clear them away with a moment’s thought, revealing a breathtaking view of the surrounding region.
 * Dragon statue
 	* Two gems for eyes
 	* Open mouth
@@ -42,28 +47,13 @@
 	* DC15 DEX Save
 	* 4d10, save for half
 
-# R5: Open Court
-
-* Description
-	* Past the cloud bridge is an enormous expanse of smooth stone ringed with broken pillars, where the silver dragon hosts visitors in grand style. Though this court is often surrounded by clouds, the dragon can clear them away with a moment’s thought, revealing a breathtaking view of the surrounding region.
 ## R6: Temple
 
 * Description
-	* The final section of the lair is a grand domed temple set with a plethora of comfortable furnishings. Here and there, souvenirs from the silver dragon’s long life are positioned with great care.
 	* Each of the 12 pillars depict the one of the 12 prime deities
-		* Avandra, The Changebringer
-		* Bahamut, The Platinum Dragon
-		* Corellon, The Archeart
-		* Erathis, The Lawbearer
-		* Ioun, The Knowing Mentor
-		* Kord, The Stormlord
-		* Melora, The Wildmother
-		* Moradin, The Allhammer
-		* Pelor, The Dawnfather
-		* Rai, The Everlight
-		* Raven Queen, The Matron of Ravens
-		* Sehanine, The Moonweaver
-	* 
+	* Carving of Bahamut in the center -- missing two divots for its eyes
+* Combat
+	* Empyrean Stag
 
 ## R7: Under Temple
 
