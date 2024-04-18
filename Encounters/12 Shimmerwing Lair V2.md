@@ -2,6 +2,8 @@
 
 * Guardian statues
 * "Those who follow the word of Bahamut must smite evil where it is found. Only those with his strength shall pass!"
+* Combat
+	* [Dragonborn of Bahamut](https://www.dndbeyond.com/monsters/2059728-dragonborn-of-bahamut)
 
 # R2: Antechamber
 
