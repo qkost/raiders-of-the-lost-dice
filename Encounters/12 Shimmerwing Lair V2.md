@@ -46,6 +46,7 @@
 	* Restrained
 	* DC15 DEX Save
 	* 4d10, save for half
+	* Turns off when gems are placed in eyes of 
 
 ## R6: Temple
 
