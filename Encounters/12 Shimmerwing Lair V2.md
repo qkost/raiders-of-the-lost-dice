@@ -33,6 +33,15 @@
 
 * Description
 	* From the antechamber, visitors travel upward along a path of clouds. The impressive route is not as dangerous as its lack of railings and the literal airiness of each footstep might suggest.
+* Couatl
+	* Serpentine creatures
+	* Brilliantly-colored bird like wings
+	* Tail w
+* What make you deserving?
+	* Honesty
+	* Justice
+	* Compassion
+	* Righteousness
 
 # R5: Open Court
 
@@ -46,7 +55,7 @@
 	* Restrained
 	* DC15 DEX Save
 	* 4d10, save for half
-	* Turns off when gems are placed in eyes of 
+	* Turns off when gems are placed in eyes of dragon on floor of temple
 
 ## R6: Temple
 
@@ -56,7 +65,7 @@
 	* Constellations on the ceiling
 * Combat
 	* Empyrean Stag - nerfed
-	* Air spark - nerfted
+	* Air spark - nerfed
 
 ## R7: Under Temple
 

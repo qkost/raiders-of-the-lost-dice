@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md",
+                "file": "Encounters/12 Shimmerwing Lair V1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md",
+                "file": "Encounters/12 Shimmerwing Lair V1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md"
+                "file": "Encounters/12 Shimmerwing Lair V1.md"
               }
             }
           },
@@ -179,10 +178,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc0b54595da3dac5",
+  "active": "dc1470d1b5cf5ef9",
   "lastOpenFiles": [
-    "Encounters/12 Shimmerwing Lair V1.md",
     "Encounters/12 Shimmerwing Lair V2.md",
+    "Encounters/12 Shimmerwing Lair V1.md",
     "Encounters/02 Magic Shop Shadow Demon.md",
     "Session Notes/Session 35.md",
     "Maps/WhereEvilLivesResources/Tokens/webp/Zombie.webp",
