@@ -8,6 +8,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "dc1470d1b5cf5ef9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encounters/12 Shimmerwing Lair V1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cc0b54595da3dac5",
             "type": "leaf",
             "state": {
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,11 +180,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f92f205f31d0ba58",
+  "active": "cc0b54595da3dac5",
   "lastOpenFiles": [
-    "Encounters/02 Magic Shop Shadow Demon.md",
-    "Encounters/12 Shimmerwing Lair V2.md",
     "Encounters/12 Shimmerwing Lair V1.md",
+    "Encounters/12 Shimmerwing Lair V2.md",
+    "Encounters/02 Magic Shop Shadow Demon.md",
     "Session Notes/Session 35.md",
     "Maps/WhereEvilLivesResources/Tokens/webp/Zombie.webp",
     "Maps/WhereEvilLivesResources/Tokens/webp/Zenith Aastrika.webp",

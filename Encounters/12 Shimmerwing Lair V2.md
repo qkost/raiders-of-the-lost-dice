@@ -1,11 +1,11 @@
-# W1: Chasm
+# W1: Cliff
 
 * Glyph
 	* DC16 Investigation
-	* DC18 Thieves tool
+	* DC16 Thieves tool
 	* Trigger
 		* DC14 DEX Save - 2d8 piercing
-		* DC14 STR Save - fall 5d6 (slowed by cloud aura) - disadvantage if climbing
+		* DC14 STR Save - knocked off
 * Chasm
 	* 200 ft deep
 
