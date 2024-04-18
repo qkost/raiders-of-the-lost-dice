@@ -16,6 +16,11 @@
 	* DC18 slight of hand to disarm the trap
 	* Trigger
 		* DC15 CON Save - 3d6 cold damage and restrained (or half)
+* Trip wire
+	* Like alarm spell
+	* Trigger
+		* Darts come from pillars
+		* DC13 DEX Save - 5d4 save for half (every round)
 * Freezing wind
 	* Runes between statues
 	* DC20 Arcana
