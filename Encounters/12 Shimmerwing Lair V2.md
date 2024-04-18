@@ -1,4 +1,4 @@
-# W1: Cliff
+# R1: Cliff
 
 * Glyph
 	* DC16 Investigation
@@ -7,36 +7,15 @@
 		* DC14 DEX Save - 2d8 piercing
 		* DC14 STR Save - knocked off cliff; slowed by clouds
 
-# W2: Antechamber
+# R2: Antechamber
 
 * Description
 	* The antechamber was once an ancient throne room or mountain shrine, but time has eroded any clues as to its original builders. Its walls are hung with velvet tapestries featuring heroic figures performing a variety of glorious acts.
-* Enemies
-	* 2x [Air Elemental](https://www.dndbeyond.com/monsters/16774-air-elemental)
-* Spikes are difficult terrain
-* 2d4/5ft for forced movement
-# W3: Memory Hall
 
-* "Snow covers the floor of this chamber"
-* "Two massive ice-covered pillars flank the room’s north exit and extend from floor to ceiling. The pillars are carved with images of dragons creating art, music, poetry, and spells"
-* Snow floors - difficult terrain
-* Freezing runes
-	* DC25 perception w/ snow, obvious without
-	* DC15 slight of hand to disarm the trap
-	* Trigger
-		* DC15 CON Save - 3d6 cold damage and restrained (or half)
-* Spear trap
-	* Line of icicles on ceiling
-	* DC18 investigation
-	* Trigger
-		* DC13 DEX save or 2d10
-* Freezing wind
-	* Runes between pillars
-	* DC20 Arcana
-	* Disable by knocking over pillars
-	* Trigger
-		* DC12 STR save or knock back 2d6 bludgeoning & prone
-		* Triggers other traps!!!!!
+# R3: Side Chambers
+
+* Description
+	*  A few small private side chambers allow the dragon (usually in Humanoid guise) to meet with visitors.
 
 # W4: Figid Lake
 
