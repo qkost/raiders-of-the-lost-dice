@@ -29,12 +29,40 @@
 * Description
 	*  A few small private side chambers allow the dragon (usually in Humanoid guise) to meet with visitors.
 
-# W4: Cloud Bridge
+# R4: Cloud Bridge
 
 * Description
 	* From the antechamber, visitors travel upward along a path of clouds. The impressive route is not as dangerous as its lack of railings and the literal airiness of each footstep might suggest.
 
-# W5: Open Court
+# R5: Open Court
 
 * Description
 	* Past the cloud bridge is an enormous expanse of smooth stone ringed with broken pillars, where the silver dragon hosts visitors in grand style. Though this court is often surrounded by clouds, the dragon can clear them away with a moment’s thought, revealing a breathtaking view of the surrounding region.
+## R6: Temple
+
+* Description
+	* The final section of the lair is a grand domed temple set with a plethora of comfortable furnishings. Here and there, souvenirs from the silver dragon’s long life are positioned with great care.
+
+## R7: Under Temple
+
+* Description
+	* A broad shaft in the temple opens into a treasury chamber below, where the dragon’s hoard is arranged in gleaming splendor.
+* Draconimicon
+* Other loot
+	* Historical art objects
+		* Suit of mithral full-plate
+		* A cape studded with gemstones and featuring epaulets of egret feathers, set on the shoulders of a battered tailor’s mannequin
+	* Artifacts
+	* Records
+	* Statues
+	* Potion of Cloud Giant Strength
+	* Book titles
+		1. "Wings of Benevolence: Teachings of Bahamut"
+		2. "Echoes of Arcanum: The Rise and Fall of Magical Empires"
+		5. "Silver Scales of Justice: A Treatise on Divine Law"
+		6. "Ruin: The Chronicles of the Chroma Conclave"
+		11. "The Birth of a Dynasty: The History of the Dwendalian Empire"
+		12. "Theories Regarding the Rise of the Krynn Dynasty"
+		13. "A Complete Guide to Notable Dragons of Exandria"
+	* Copy of *Crog's Guide to Disarming Magical Traps*
+		* This book describes various mundane techniques and theories related to foiling magic traps. If you spend 48 hours studying this book, you learn how to overcome certain types of magic traps with your thieves’ tools. If a trap’s magic can be dispelled or suppressed by a dispel magic spell, you can make a Dexterity check using thieves’ tools to achieve the same result. The DC of the Dexterity check is equal to 5 + the DC required to dispel or suppress the trap with dispel magic (minimum DC 18). On a failed check, the trap triggers.
