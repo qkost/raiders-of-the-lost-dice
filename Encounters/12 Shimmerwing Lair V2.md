@@ -1,11 +1,7 @@
 # R1: Cliff
 
-* Glyph
-	* DC16 Investigation
-	* DC16 Thieves tool
-	* Trigger
-		* DC14 DEX Save - 2d8 piercing
-		* DC14 STR Save - knocked off cliff; slowed by clouds
+* Guardian statues
+* "Those who follow the word of Bahamut must smite evil where it is found. Only those with his strength shall pass!"
 
 # R2: Antechamber
 
