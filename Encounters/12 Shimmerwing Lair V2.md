@@ -42,6 +42,20 @@
 
 * Description
 	* The final section of the lair is a grand domed temple set with a plethora of comfortable furnishings. Here and there, souvenirs from the silver dragon’s long life are positioned with great care.
+	* Each of the 12 pillars depict the one of the 12 prime deities
+		* Avandra, The Changebringer
+		* Bahamut, The Platinum Dragon
+		* Corellon, The Archeart
+		* Erathis, The Lawbearer
+		* Ioun, The Knowing Mentor
+		* Kord, The Stormlord
+		* Melora, The Wildmother
+		* Moradin, The Allhammer
+		* Pelor, The Dawnfather
+		* Rai, The Everlight
+		* Raven Queen, The Matron of Ravens
+		* Sehanine, The Moonweaver
+	* 
 
 ## R7: Under Temple
 
@@ -50,8 +64,9 @@
 * Draconimicon
 * Other loot
 	* Historical art objects
-		* Suit of mithral full-plate
+		* A full suit of mithral plate armor, its breastplate scrimshawed with draconic faces
 		* A cape studded with gemstones and featuring epaulets of egret feathers, set on the shoulders of a battered tailor’s mannequin
+		* A series of detailed obsidian sculptures depicting a human transitioning from childhood to old age
 	* Artifacts
 	* Records
 	* Statues
