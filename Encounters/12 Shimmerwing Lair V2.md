@@ -34,7 +34,13 @@
 * Description
 	* From the antechamber, visitors travel upward along a path of clouds. The impressive route is not as dangerous as its lack of railings and the literal airiness of each footstep might suggest.
 * Dragon statue
-	* Two 
+	* Two gems for eyes
+	* Open mouth
+	* Two claws open, facing you
+* Trap
+	* Restrained
+	* DC15 DEX Save
+	* 4d10, save for half
 
 # R5: Open Court
 
