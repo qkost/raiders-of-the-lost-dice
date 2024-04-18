@@ -52,8 +52,10 @@
 * Description
 	* Each of the 12 pillars depict the one of the 12 prime deities
 	* Carving of Bahamut in the center -- missing two divots for its eyes
+	* Constellations on the ceiling
 * Combat
-	* Empyrean Stag
+	* Empyrean Stag - nerfed
+	* Air spark - nerfted
 
 ## R7: Under Temple
 
