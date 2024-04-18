@@ -5,14 +5,12 @@
 	* DC16 Thieves tool
 	* Trigger
 		* DC14 DEX Save - 2d8 piercing
-		* DC14 STR Save - knocked off
-* Chasm
-	* 200 ft deep
+		* DC14 STR Save - knocked off cliff; slowed by clouds
 
-# W2: Guard Room
+# W2: Antechamber
 
 * Description
-	* "Long ice spikes protrude from the floor, walls, and ceiling of this chamber"
+	* The antechamber was once an ancient throne room or mountain shrine, but time has eroded any clues as to its original builders. Its walls are hung with velvet tapestries featuring heroic figures performing a variety of glorious acts.
 * Enemies
 	* 2x [Air Elemental](https://www.dndbeyond.com/monsters/16774-air-elemental)
 * Spikes are difficult terrain
