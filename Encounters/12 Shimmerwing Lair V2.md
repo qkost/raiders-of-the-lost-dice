@@ -11,42 +11,30 @@
 
 * Description
 	* The antechamber was once an ancient throne room or mountain shrine, but time has eroded any clues as to its original builders. Its walls are hung with velvet tapestries featuring heroic figures performing a variety of glorious acts.
-
+* Freezing runes
+	* DC18 perception
+	* DC18 slight of hand to disarm the trap
+	* Trigger
+		* DC15 CON Save - 3d6 cold damage and restrained (or half)
+* Freezing wind
+	* Runes between statues
+	* DC20 Arcana
+	* Disable by knocking over pillars
+	* Trigger
+		* DC12 STR save or knock back 2d6 bludgeoning & prone
+		* Triggers other traps!!!!!
+	
 # R3: Side Chambers
 
 * Description
 	*  A few small private side chambers allow the dragon (usually in Humanoid guise) to meet with visitors.
 
-# W4: Figid Lake
+# W4: Cloud Bridge
 
-* "A 10-foot-diameter circle of blue energy hums on the north wall. It emits a thin but steady stream of water that sends ripples across the lake dominating the east of the room."
-* Portal connected to water plane
-* Combat
-	* 8 air sparks (+8 and 5 damage)
-	* 2 [Water Weird](https://www.dndbeyond.com/monsters/17208-water-weird)
-* Lake
-	* DC12 CON Save on start of turn - 1d10 save for
-* Tunnel submerged on east wall to throne room
+* Description
+	* From the antechamber, visitors travel upward along a path of clouds. The impressive route is not as dangerous as its lack of railings and the literal airiness of each footstep might suggest.
 
-# W5: Throne Room
+# W5: Open Court
 
-* Draconimicon
-* Combat
-	* Crux of Frost
-	* Essence of Mist (no psychic damage)
-* Other loot
-	* Historical art objects
-	* Artifacts
-	* Records
-	* Statues
-	* Potion of Cloud Giant Strength
-	* Book titles
-		1. "Wings of Benevolence: Teachings of Bahamut"
-		2. "Echoes of Arcanum: The Rise and Fall of Magical Empires"
-		5. "Silver Scales of Justice: A Treatise on Divine Law"
-		6. "Ruin: The Chronicles of the Chroma Conclave"
-		11. "The Birth of a Dynasty: The History of the Dwendalian Empire"
-		12. "Theories Regarding the Rise of the Krynn Dynasty"
-		13. "A Complete Guide to Notable Dragons of Exandria"
-	* Copy of *Crog's Guide to Disarming Magical Traps*
-		* This book describes various mundane techniques and theories related to foiling magic traps. If you spend 48 hours studying this book, you learn how to overcome certain types of magic traps with your thieves’ tools. If a trap’s magic can be dispelled or suppressed by a dispel magic spell, you can make a Dexterity check using thieves’ tools to achieve the same result. The DC of the Dexterity check is equal to 5 + the DC required to dispel or suppress the trap with dispel magic (minimum DC 18). On a failed check, the trap triggers.
+* Description
+	* Past the cloud bridge is an enormous expanse of smooth stone ringed with broken pillars, where the silver dragon hosts visitors in grand style. Though this court is often surrounded by clouds, the dragon can clear them away with a moment’s thought, revealing a breathtaking view of the surrounding region.
