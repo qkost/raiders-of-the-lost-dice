@@ -13,4 +13,4 @@
 		* Wrapped arms/hands
 * Reinforcements through gate
 	* [[Petyr (Pete) Archeron]] - [Statblock](https://www.dndbeyond.com/monsters/2560883-necromancer-wizard)
-	* 
+	* Wight Siphoner Minions
