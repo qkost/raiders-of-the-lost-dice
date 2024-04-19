@@ -20,19 +20,19 @@
 
 ### 2. Strong Start
 
-* 
+* Climbing mountain - meets Daiko who tells them people are coming to visit and he is getting supplies for a nice meal
 
 ### 3. Scenes
 
-* Climbing mountain - meets somebody who tells them people are coming to visit
 * Ruta training with [[Abbot Bok]]
 * Meeting with [[Abbot Bok]]
-
+	* Mention [[Lady Thinora Va'del, Archmage of Antiquity]] is coming
 
 ### 4. Secrets and Clues
 
 * [[Lady Thinora Va'del, Archmage of Antiquity]] is due to meet with [[Abbot Bok]] in a few days
-	* 
+	* Her ruse is to use [[Brokenbank]] as an outpost for war with the [[Krynn Dynasty]]
+	* She tracked players to time her arrival with theirs
 * [[Abbot Bok]] has a "draconimicon" with detailed history of many notable dragons in his lair
 
 ### 5. Fantastic Locations
@@ -49,4 +49,4 @@
 
 ### 8. Select Magic Item Rewards
 
-* 
+* [Improved Breath of the Dragon](https://www.dndbeyond.com/feats/1658027-improved-breath-of-the-dragon)

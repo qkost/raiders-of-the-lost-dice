@@ -62,8 +62,13 @@ Other members
 Based on vegetables
 
 - [ ] Daiko - Warrior
+	- [ ] Human
+	- [ ] High fade
+	- [ ] Bo staff
 * [ ] Caro
-* [ ] Ruta - Little girl
+* [ ] Ruta
+	* [ ] Little girl
+	* [ ] Pig tails
 * [ ] Yama
 * [ ] Arli - Sage
 * [ ] Snips - dead Goat
