@@ -1,5 +1,8 @@
 
 * [Thinora Va'Del](https://www.dndbeyond.com/monsters/3838148-lady-thinora-va-del-archmage-of-antiquity)
+	* [Warding bond](https://www.dndbeyond.com/spells/warding-bond) with Rin
+		* Resistance (both take the damage)
+		* +1 AC and saving throws
 * [Abbot Bok](https://www.dndbeyond.com/monsters/3821866-abbot-bok)
 * Assistants
 	* [Rin Monisk](https://www.dndbeyond.com/monsters/744302-blood-hunter)

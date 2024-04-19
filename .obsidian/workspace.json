@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 36.md",
+                "file": "Encounters/99 Thinora at Monastary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 36.md",
+                "file": "Encounters/99 Thinora at Monastary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 36.md"
+                "file": "Encounters/99 Thinora at Monastary.md"
               }
             }
           },
@@ -199,13 +198,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adf7da9c430f938a",
+  "active": "efb5b96851b92c0e",
   "lastOpenFiles": [
+    "Session Notes/Session 36.md",
     "Encounters/99 Thinora at Monastary.md",
     "Pictures/portal.png.0.pdnSave",
     "Pictures/portal.png",
     "NPCs/Petyr (Pete) Archeron.md",
-    "Session Notes/Session 36.md",
     "Organizations/Order of the Ascendant Dragon.md",
     "Encounters/12 Shimmerwing Lair V2.md",
     "Encounters/12 Shimmerwing Lair V1.md",
