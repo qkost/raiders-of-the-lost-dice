@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d9f8d206c3af9db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ce04d5bcb3b82393",
@@ -200,12 +213,13 @@
   },
   "active": "efb5b96851b92c0e",
   "lastOpenFiles": [
+    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+    "Encounters/99 Thinora at Monastary.md",
     "Pictures/kefra.png",
     "Pictures/638278123808885835.png",
     "Pictures/rin.png",
     "Pictures/637199798853992915.jpeg",
     "Session Notes/Session 36.md",
-    "Encounters/99 Thinora at Monastary.md",
     "Pictures/portal.png.0.pdnSave",
     "Pictures/portal.png",
     "NPCs/Petyr (Pete) Archeron.md",
@@ -219,7 +233,6 @@
     "Maps/WhereEvilLivesResources/Tokens/webp/Yumgrub.webp",
     "Maps/WhereEvilLivesResources/Tokens/webp/Yserthrax.webp",
     "Maps/WhereEvilLivesResources/Tokens/webp/Xaantikoriek.webp",
-    "Maps/WhereEvilLivesResources/Tokens/webp/Wyvern.webp",
     "Maps/WhereEvilLivesResources/Tokens/webp",
     "Maps/WhereEvilLivesResources/Tokens/png",
     "Maps/WhereEvilLivesResources/Tokens",

@@ -5,7 +5,7 @@
 		* +1 AC and saving throws
 * [Abbot Bok](https://www.dndbeyond.com/monsters/3821866-abbot-bok)
 * Assistants
-	* [Rin Monisk](https://www.dndbeyond.com/monsters/744302-blood-hunter)
+	* [Rin Monisk](https://www.dndbeyond.com/monsters/4423157-rin-monisk)
 		* Warrior
 		* Neat, white hair
 		* Dark leathers
