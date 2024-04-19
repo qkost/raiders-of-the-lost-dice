@@ -3,7 +3,7 @@
 * Assistants
 	* [Rin Monisk](https://www.dndbeyond.com/monsters/744302-blood-hunter)
 		* Warrior
-		* Hair pulled back in bun
+		* Neat, white hair
 		* Dark leathers
 		* Flaming sword
 	* [Kefra Dhes](https://www.dndbeyond.com/monsters/3768360-remnant-cultist)
