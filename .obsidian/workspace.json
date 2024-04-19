@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/99 Thinora at Monastary.md",
+                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/99 Thinora at Monastary.md",
+                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/99 Thinora at Monastary.md"
+                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md"
               }
             }
           },
@@ -211,10 +211,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efb5b96851b92c0e",
+  "active": "4d9f8d206c3af9db",
   "lastOpenFiles": [
-    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Encounters/99 Thinora at Monastary.md",
+    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Pictures/kefra.png",
     "Pictures/638278123808885835.png",
     "Pictures/rin.png",

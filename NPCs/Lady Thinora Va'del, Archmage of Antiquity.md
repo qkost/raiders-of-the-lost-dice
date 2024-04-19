@@ -37,16 +37,17 @@ Her robes are exquisite royal blue and silver robes that shimmer as she walks. S
 
 ## Associates
 
-* [Rin Monisk](https://www.dndbeyond.com/monsters/744302-blood-hunter)
-	* Warrior
-	* Neat, white hair
-	* Dark leathers
-	* Flaming sword
-* [Kefra Dhes](https://www.dndbeyond.com/monsters/3768360-remnant-cultist)
-	* Mage
-	* Flowing robes
-	* Blue hair
-	* Wrapped arms/hands
+* Assistants
+	* [Rin Monisk](https://www.dndbeyond.com/monsters/4423157-rin-monisk)
+		* Warrior
+		* Neat, white hair
+		* Dark leathers
+		* Flaming sword
+	* [Kefra Dhes](https://www.dndbeyond.com/monsters/4423204-kefra-dres)
+		* Mage
+		* Flowing robes
+		* Blue hair
+		* Wrapped arms/hands
 ## Additional spells
 * 1st level: [Sleep](https://www.dndbeyond.com/spells/sleep), [Shield](https://www.dndbeyond.com/spells/shield)
 * 2nd level: [Arcane Lock](https://www.dndbeyond.com/spells/arcane-lock)

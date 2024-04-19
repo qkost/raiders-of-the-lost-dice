@@ -10,7 +10,7 @@
 		* Neat, white hair
 		* Dark leathers
 		* Flaming sword
-	* [Kefra Dhes](https://www.dndbeyond.com/monsters/3768360-remnant-cultist)
+	* [Kefra Dhes](https://www.dndbeyond.com/monsters/4423204-kefra-dres)
 		* Mage
 		* Flowing robes
 		* Blue hair
