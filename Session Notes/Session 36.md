@@ -24,11 +24,16 @@
 
 ### 3. Scenes
 
-* 
+* Climbing mountain - meets somebody who tells them people are coming to visit
+* Ruta training with [[Abbot Bok]]
+* Meeting with [[Abbot Bok]]
+
 
 ### 4. Secrets and Clues
 
-* 
+* [[Lady Thinora Va'del, Archmage of Antiquity]] is due to meet with [[Abbot Bok]] in a few days
+	* 
+* [[Abbot Bok]] has a "draconimicon" with detailed history of many notable dragons in his lair
 
 ### 5. Fantastic Locations
 
