@@ -34,6 +34,8 @@ Her robes are exquisite royal blue and silver robes that shimmer as she walks. S
 
 * Items
 	* [Robe of the Archmagi](https://www.dndbeyond.com/magic-items/4742-robe-of-the-archmagi)
+	* [Winged Boots](https://www.dndbeyond.com/magic-items/4804-winged-boots)
+	* [Staff of Power]()
 
 ## Associates
 
