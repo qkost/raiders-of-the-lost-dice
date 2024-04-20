@@ -17,6 +17,8 @@
 		* Wrapped arms/hands
 * Reinforcements through gate
 	* [[Petyr (Pete) Archeron]] - [Statblock](https://www.dndbeyond.com/monsters/2560883-necromancer-wizard)
+	* Wights (x5) 
+		* If Rin and Kefra left
 	* Wight Siphoner Minions (Flee Mortals)
 		* 5 first round
 		* Initiative 20 - 2d4 more
