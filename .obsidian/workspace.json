@@ -63,9 +63,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e062781c0fca65eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Brokenbank.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad2c25618b00cafd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizations/Order of the Ascendant Dragon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md",
+                "file": "Organizations/Order of the Ascendant Dragon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md",
+                "file": "Organizations/Order of the Ascendant Dragon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md"
+                "file": "Organizations/Order of the Ascendant Dragon.md"
               }
             }
           },
@@ -212,8 +236,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc0b54595da3dac5",
+  "active": "ad2c25618b00cafd",
   "lastOpenFiles": [
+    "Locations/Brokenbank.md",
+    "Encounters/12 Shimmerwing Lair V2.md",
     "Encounters/99 Thinora at Monastary.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Pictures/kefra.png",
@@ -225,7 +251,6 @@
     "Pictures/portal.png",
     "NPCs/Petyr (Pete) Archeron.md",
     "Organizations/Order of the Ascendant Dragon.md",
-    "Encounters/12 Shimmerwing Lair V2.md",
     "Encounters/12 Shimmerwing Lair V1.md",
     "Encounters/02 Magic Shop Shadow Demon.md",
     "Session Notes/Session 35.md",
@@ -243,7 +268,6 @@
     "Maps/Dragon's Hoard [29x59] - $5 Rewards (Gridless)/Gridless",
     "Maps/Dragon's Hoard [29x59] - $5 Rewards (Gridless)",
     "Templates/Prep Template.md",
-    "Locations/Brokenbank.md",
     "Locations/Ships.md",
     "Organizations/Order of Bahamut.md",
     "Encounters/08 Ships & Islands.md",
