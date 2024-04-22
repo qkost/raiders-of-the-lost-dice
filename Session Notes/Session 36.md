@@ -58,3 +58,9 @@
 * Draconic Gifts
 	* Draconic Familiar
 	* Draconic Senses (Blindsight, Keen Senses)
+* Individual gifts
+	* Ember - [Emerald Pen](https://www.dndbeyond.com/magic-items/4047218-emerald-pen), [Scroll of Rime's Binding Ice](https://www.dndbeyond.com/spells/rimes-binding-ice)
+	* Kelward - Crog's Guide to Disarming Magical Traps
+	* Shadowclaw - 
+	* Tato - [Improved Breath of the Dragon](https://www.dndbeyond.com/feats/1658027-improved-breath-of-the-dragon)
+	* 

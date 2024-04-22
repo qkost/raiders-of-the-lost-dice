@@ -11,7 +11,7 @@
 - [ ] [Emerald Pen](https://www.dndbeyond.com/magic-items/4047218-emerald-pen)
 - [x] Celebone
 - [x] Potion of Climbing (Kobolds)
-### Uncommon
+### Uncommon.0
 
 - [ ] [Immovable rod](https://www.dndbeyond.com/magic-items/4662-immovable-rod)
 - [ ] [Cloak of Protection](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection)
