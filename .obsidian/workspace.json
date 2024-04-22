@@ -99,7 +99,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -248,11 +249,11 @@
   },
   "active": "adf7da9c430f938a",
   "lastOpenFiles": [
-    "Magic Items/Magic Items.md",
-    "Session Notes/Session 36.md",
-    "Encounters/12 Shimmerwing Lair V2.md",
     "Organizations/Order of the Ascendant Dragon.md",
+    "Session Notes/Session 36.md",
     "Locations/Brokenbank.md",
+    "Magic Items/Magic Items.md",
+    "Encounters/12 Shimmerwing Lair V2.md",
     "Encounters/99 Thinora at Monastary.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Pictures/kefra.png",

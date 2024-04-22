@@ -20,7 +20,7 @@
 
 ### 2. Strong Start
 
-* Climbing mountain - meets Daiko who tells them people are coming to visit and he is getting supplies for a nice meal
+* Meet [[Chives]] in *Cliffhaven*
 
 ### 3. Scenes
 
@@ -50,14 +50,6 @@
 
 ### 8. Select Magic Item Rewards
 
-* [Improved Breath of the Dragon](https://www.dndbeyond.com/feats/1658027-improved-breath-of-the-dragon)
-* [Potion of Dragon's Magesty](https://www.dndbeyond.com/magic-items/4047222-potion-of-dragons-majesty)
-* [Emerald Pen](https://www.dndbeyond.com/magic-items/4047218-emerald-pen)
-* Draconomicon
-* Crog's Guide to Disarming Magical Traps
-* Draconic Gifts
-	* Draconic Familiar
-	* Draconic Senses (Blindsight, Keen Senses)
 * Individual gifts
 	* Ember - [Emerald Pen](https://www.dndbeyond.com/magic-items/4047218-emerald-pen), [Scroll of Rime's Binding Ice](https://www.dndbeyond.com/spells/rimes-binding-ice)
 	* Kelward - Crog's Guide to Disarming Magical Traps
