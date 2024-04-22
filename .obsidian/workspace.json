@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Session Notes/Session 36.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Session Notes/Session 36.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Magic Items.md"
+                "file": "Session Notes/Session 36.md"
               }
             }
           },
@@ -246,10 +246,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4fe665e1a1ff165",
+  "active": "adf7da9c430f938a",
   "lastOpenFiles": [
-    "Session Notes/Session 36.md",
     "Magic Items/Magic Items.md",
+    "Session Notes/Session 36.md",
     "Organizations/Order of the Ascendant Dragon.md",
     "Locations/Brokenbank.md",
     "Encounters/12 Shimmerwing Lair V2.md",

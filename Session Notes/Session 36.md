@@ -55,3 +55,6 @@
 * [Emerald Pen](https://www.dndbeyond.com/magic-items/4047218-emerald-pen)
 * Draconomicon
 * Crog's Guide to Disarming Magical Traps
+* Draconic Gifts
+	* Draconic Familiar
+	* 
