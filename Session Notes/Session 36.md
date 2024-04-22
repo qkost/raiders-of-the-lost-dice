@@ -57,4 +57,4 @@
 * Crog's Guide to Disarming Magical Traps
 * Draconic Gifts
 	* Draconic Familiar
-	* 
+	* Draconic Senses (Blindsight, Keen Senses)
