@@ -174,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md",
+                "file": "Session Notes/Session 36.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md",
+                "file": "Session Notes/Session 36.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +214,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md"
+                "file": "Session Notes/Session 36.md"
               }
             }
           },
@@ -247,13 +247,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc0b54595da3dac5",
+  "active": "adf7da9c430f938a",
   "lastOpenFiles": [
+    "Encounters/12 Shimmerwing Lair V2.md",
     "Session Notes/Session 36.md",
     "Magic Items/Magic Items.md",
     "Organizations/Order of the Ascendant Dragon.md",
     "Locations/Brokenbank.md",
-    "Encounters/12 Shimmerwing Lair V2.md",
     "Encounters/99 Thinora at Monastary.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Pictures/kefra.png",
