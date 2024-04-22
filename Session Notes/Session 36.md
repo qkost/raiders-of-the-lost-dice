@@ -27,6 +27,7 @@
 * Ruta training with [[Abbot Bok]]
 * Meeting with [[Abbot Bok]]
 	* Mention [[Lady Thinora Va'del, Archmage of Antiquity]] is coming
+* [[12 Shimmerwing Lair V2]]
 
 ### 4. Secrets and Clues
 
