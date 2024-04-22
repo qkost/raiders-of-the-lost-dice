@@ -40,6 +40,18 @@
         "dimension": 53.41928251121077,
         "children": [
           {
+            "id": "e4fe665e1a1ff165",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic Items/Magic Items.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "efb5b96851b92c0e",
             "type": "leaf",
             "state": {
@@ -87,8 +99,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 36.md",
+                "file": "Magic Items/Magic Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 36.md",
+                "file": "Magic Items/Magic Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 36.md"
+                "file": "Magic Items/Magic Items.md"
               }
             }
           },
@@ -235,8 +246,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adf7da9c430f938a",
+  "active": "e4fe665e1a1ff165",
   "lastOpenFiles": [
+    "Session Notes/Session 36.md",
+    "Magic Items/Magic Items.md",
     "Organizations/Order of the Ascendant Dragon.md",
     "Locations/Brokenbank.md",
     "Encounters/12 Shimmerwing Lair V2.md",
@@ -246,7 +259,6 @@
     "Pictures/638278123808885835.png",
     "Pictures/rin.png",
     "Pictures/637199798853992915.jpeg",
-    "Session Notes/Session 36.md",
     "Pictures/portal.png.0.pdnSave",
     "Pictures/portal.png",
     "NPCs/Petyr (Pete) Archeron.md",
@@ -274,7 +286,6 @@
     "NPCs/Vilya.md",
     "Organizations/The Ill Hand.md",
     "Encounters/TE_d100_encounters_at_sea_v1.pdf",
-    "Magic Items/Magic Items.md",
     "NPCs/Ungrudaal.md",
     "Session Notes/Session 15.md",
     "Session Notes/Session 16.md",

@@ -51,6 +51,7 @@
 ### 8. Select Magic Item Rewards
 
 * [Improved Breath of the Dragon](https://www.dndbeyond.com/feats/1658027-improved-breath-of-the-dragon)
-* 
+* [Potion of Dragon's Magesty](https://www.dndbeyond.com/magic-items/4047222-potion-of-dragons-majesty)
+* [Emerald Pen](https://www.dndbeyond.com/magic-items/4047218-emerald-pen)
 * Draconomicon
 * Crog's Guide to Disarming Magical Traps

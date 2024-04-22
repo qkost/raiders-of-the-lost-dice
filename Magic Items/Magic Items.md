@@ -8,6 +8,7 @@
 - [ ] [Boots of False Tracks](https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks)
 - [ ] [Cast-Off Armor, Breastplate](https://www.dndbeyond.com/magic-items/36575-cast-off-armor-breastplate)
 - [ ] [Walloping Ammunition](https://www.dndbeyond.com/magic-items/36839-walloping-ammunition)
+- [ ] [Emerald Pen](https://www.dndbeyond.com/magic-items/4047218-emerald-pen)
 - [x] Celebone
 - [x] Potion of Climbing (Kobolds)
 ### Uncommon
@@ -61,6 +62,7 @@
 - [ ] [Glamoured Studded Leather](https://www.dndbeyond.com/magic-items/4645-glamoured-studded-leather)
 - [ ] [Quaal's Feather Token](https://www.dndbeyond.com/magic-items/13584-quaals-feather-token)
 - [ ] [Ring of Animal Influence](https://www.dndbeyond.com/magic-items/4717-ring-of-animal-influence)
+- [ ] [Crystal Blade](https://www.dndbeyond.com/magic-items/4047184-crystal-blade)
 ## Very Rare
 
 - [ ] [Mirror of Infinite Transpondence](https://www.dndbeyond.com/sources/tcsr/game-masters-toolkit#MirrorofInfiniteTranspondence)
