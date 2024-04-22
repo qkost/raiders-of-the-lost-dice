@@ -61,6 +61,5 @@
 * Individual gifts
 	* Ember - [Emerald Pen](https://www.dndbeyond.com/magic-items/4047218-emerald-pen), [Scroll of Rime's Binding Ice](https://www.dndbeyond.com/spells/rimes-binding-ice)
 	* Kelward - Crog's Guide to Disarming Magical Traps
-	* Shadowclaw - 
-	* Tato - [Improved Breath of the Dragon](https://www.dndbeyond.com/feats/1658027-improved-breath-of-the-dragon)
-	* 
+	* Shadowclaw - [Dragon Vessel (Stirring)](https://www.dndbeyond.com/magic-items/4047197-dragon-vessel-stirring)
+	* Tato - [Improved Breath of the Dragon](https://www.dndbeyond.com/feats/1658027-improved-breath-of-the-dragon), Draconic Familiar (if Ember didn't choose conjuration)
