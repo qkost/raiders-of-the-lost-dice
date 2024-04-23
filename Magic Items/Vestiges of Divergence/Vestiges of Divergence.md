@@ -149,7 +149,6 @@ Potential locations
 	* Lolth
 	* Poison resistance, truesight, bonus to attacks
 
-
 ## Other Ideas
 
 * Spellsword - Something that alternates between boosting spells and physical attacks
