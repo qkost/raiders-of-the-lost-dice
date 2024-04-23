@@ -101,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/Vestiges of Divergence.md",
+                "file": "Encounters/12 Shimmerwing Lair V2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/Vestiges of Divergence.md",
+                "file": "Encounters/12 Shimmerwing Lair V2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/Vestiges of Divergence.md"
+                "file": "Encounters/12 Shimmerwing Lair V2.md"
               }
             }
           },
@@ -248,8 +248,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b49872b80cdb4166",
+  "active": "cc0b54595da3dac5",
   "lastOpenFiles": [
+    "Magic Items/Vestiges of Divergence/Vestiges of Divergence.md",
     "Session Notes/Session 36.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Organizations/Order of the Ascendant Dragon.md",
@@ -294,7 +295,6 @@
     "Session Notes/Session 14.md",
     "Session Notes/Session 18.md",
     "NPCs/Zunda'i-Miir.md",
-    "Magic Items/Vestiges of Divergence/Vestiges of Divergence.md",
     "Magic Items/Vestiges of Divergence/legend-lore-for-homebrewery.md",
     "Untitled.canvas"
   ]
