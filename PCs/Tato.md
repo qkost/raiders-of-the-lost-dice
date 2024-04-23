@@ -12,6 +12,7 @@
 	1. Search out the toughest foes you can find, challenge them in combat, and become stronger with each victory or loss.
 	2. The journey must have a net positive effect on the outside world. (Leave it in a better state than you found it.)
 * Mule named Fenn
+* Pseudodragon named Parsnip
 
 ## Additional Training
 * Ship Cook

@@ -22,7 +22,10 @@
 	* Send off pearl of power
 	* Leave
 	* Stay and confront Thinora
-* Tato given pseudodragon familiar made fr
+* Tato given pseudodragon familiar made from [[Abbot Bok]]'s breath.
+	* Named Parsnip
+* Given quest to go to temple on top of the mountain
+	* Retrieve draconomicon and box on desk
 ## Prep
 ### 1. Review Characters
 
