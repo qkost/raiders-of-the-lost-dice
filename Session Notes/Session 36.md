@@ -22,7 +22,7 @@
 	* Send off pearl of power
 	* Leave
 	* Stay and confront Thinora
-* Tato given 
+* Tato given pseudodragon familiar made fr
 ## Prep
 ### 1. Review Characters
 
