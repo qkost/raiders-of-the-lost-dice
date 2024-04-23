@@ -101,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md",
+                "file": "Organizations/Order of the Ascendant Dragon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md",
+                "file": "Organizations/Order of the Ascendant Dragon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md"
+                "file": "Organizations/Order of the Ascendant Dragon.md"
               }
             }
           },
@@ -248,15 +248,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc0b54595da3dac5",
+  "active": "ad2c25618b00cafd",
   "lastOpenFiles": [
+    "Locations/Brokenbank.md",
+    "Encounters/12 Shimmerwing Lair V2.md",
     "Magic Items/Vestiges of Divergence/Vestiges of Divergence.md",
     "Session Notes/Session 36.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Organizations/Order of the Ascendant Dragon.md",
-    "Locations/Brokenbank.md",
     "Magic Items/Magic Items.md",
-    "Encounters/12 Shimmerwing Lair V2.md",
     "Encounters/99 Thinora at Monastary.md",
     "Pictures/kefra.png",
     "Pictures/638278123808885835.png",
