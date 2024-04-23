@@ -9,6 +9,20 @@
 	* The Trove - Balazar
 	* Potions, armor
 * Made it to Cliffhaven at the base of Brokenveil peak
+
+## Notes
+
+* Met [[Chives]] in Cliffhaven; took donkeys up
+* Met with [[Abbot Bok]]
+	* Told him about pirates
+	* Vestiges
+	* Thinora coming in a few days 3 people
+* Revealed being tracked by Pearl of Power
+* Discussion on what to do
+	* Send off pearl of power
+	* Leave
+	* Stay and confront Thinora
+* Tato given 
 ## Prep
 ### 1. Review Characters
 
