@@ -1,5 +1,4 @@
 
-
 ## Recap
 
 * Quiet days on sea
