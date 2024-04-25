@@ -124,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Encounters/12 Shimmerwing Lair V2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Encounters/12 Shimmerwing Lair V2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Magic Items.md"
+                "file": "Encounters/12 Shimmerwing Lair V2.md"
               }
             }
           },
@@ -271,8 +271,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4fe665e1a1ff165",
+  "active": "cc0b54595da3dac5",
   "lastOpenFiles": [
+    "Magic Items/Magic Items.md",
     "Pictures/dragon-puzzle-common.webp.0.pdnSave",
     "Pictures/dragon-puzzle.pdn.0.pdnSave",
     "Pictures/dragon-puzzle.pdn",
@@ -294,7 +295,6 @@
     "Encounters/12 Shimmerwing Lair V2.md",
     "Magic Items/Vestiges of Divergence/Vestiges of Divergence.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
-    "Magic Items/Magic Items.md",
     "Encounters/99 Thinora at Monastary.md",
     "Pictures/kefra.png",
     "Pictures/638278123808885835.png",
@@ -307,7 +307,6 @@
     "Encounters/02 Magic Shop Shadow Demon.md",
     "Session Notes/Session 35.md",
     "Maps/WhereEvilLivesResources/Tokens/webp",
-    "Maps/WhereEvilLivesResources/Tokens/png",
     "Templates/Prep Template.md",
     "Locations/Ships.md",
     "Organizations/Order of Bahamut.md",
