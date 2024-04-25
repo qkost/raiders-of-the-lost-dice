@@ -14,6 +14,12 @@ Breath and color reveal the path,
 Align their power or feel their wrath.
 ```
 
+```
+In this chamber where dragons’ secrets hide,
+Three guardians absent from the stride.
+One of each breed, their essence erased,
+Name chromatic, metallic, and gemstone-faced.
+```
 
 * Description
 	* The antechamber was once an ancient throne room or mountain shrine, but time has eroded any clues as to its original builders. Its walls are hung with velvet tapestries featuring heroic figures performing a variety of glorious acts.
