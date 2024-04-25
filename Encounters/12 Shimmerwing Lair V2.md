@@ -49,13 +49,15 @@ Name chromatic, metallic, and gem for reward.
 	*  A few small private side chambers allow the dragon (usually in Humanoid guise) to meet with visitors.
 * Study
 * Book titles
-	1. "Wings of Benevolence: Teachings of Bahamut"
-	2. "The Rise and Fall of Magocracies during the Age of Arcanum"
-	3. "A Treatise on Divine Law"
-	4. "Fire & Ruin: The Chronicles of the Chroma Conclave"
-	5. "The Birth of a Dynasty: The History of the Dwendalian Empire"
-	6. 	7. "The Great Battles of the Calamity"
-	7. "Theories Regarding the Rise of the Krynn Dynasty"
+	1. "A Collection of Bahamut's Teachings"
+	2. "Ancient forms of Martial Discipline"
+	3. "The Rise and Fall of Magocracies during the Age of Arcanum"
+	4. "A Treatise on Divine Law"
+	5. "Fire & Ruin: The Chronicles of the Chroma Conclave"
+	6. "[Manual of Gainful Exercise](https://www.dndbeyond.com/magic-items/4675-manual-of-gainful-exercise)"
+	7. "The Birth of a Dynasty: The History of the Dwendalian Empire"
+	8. "The Great Battles of the Calamity"
+	9. "Theories Regarding the Rise of the Krynn Dynasty"
 
 
 # R4: Cloud Bridge
