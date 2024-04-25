@@ -16,13 +16,18 @@ Align their power or feel their wrath.
 
 ```
 In this chamber where dragons lie,
-Three guardians absent from the stride.
+Three guardians are absent from your stride.
 One of each breed has a missing member,
-Speak now if you can remember.
+Name them now, if you can remember.
+
+Answer:
+* Gold
+* Emerald
+* White
 ```
 
 * Description
-	* The antechamber was once an ancient throne room or mountain shrine, but time has eroded any clues as to its original builders. Its walls are hung with velvet tapestries featuring heroic figures performing a variety of glorious acts.
+	* Large room with a map of Exandria on the floor. In a neat grid you notice a series of runes. 10 pillars line the room -- 2 each at the back and front and three each on the sides
 * Riddle (above on nearby pillar)
 * Traps
 	* Runes on Ground
