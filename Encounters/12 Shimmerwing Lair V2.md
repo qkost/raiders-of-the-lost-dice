@@ -23,6 +23,7 @@ Name chromatic, metallic, and gem for reward.
 
 * Description
 	* The antechamber was once an ancient throne room or mountain shrine, but time has eroded any clues as to its original builders. Its walls are hung with velvet tapestries featuring heroic figures performing a variety of glorious acts.
+* Riddle (above on nearby pillar)
 * Traps
 	* Runes on Ground
 		* DC15 Dex Save 2d10/half
@@ -46,6 +47,16 @@ Name chromatic, metallic, and gem for reward.
 
 * Description
 	*  A few small private side chambers allow the dragon (usually in Humanoid guise) to meet with visitors.
+* Study
+* Book titles
+	1. "Wings of Benevolence: Teachings of Bahamut"
+	2. "The Rise and Fall of Magocracies during the Age of Arcanum"
+	3. "A Treatise on Divine Law"
+	4. "Fire & Ruin: The Chronicles of the Chroma Conclave"
+	5. "The Birth of a Dynasty: The History of the Dwendalian Empire"
+	6. 	7. "The Great Battles of the Calamity"
+	7. "Theories Regarding the Rise of the Krynn Dynasty"
+
 
 # R4: Cloud Bridge
 
@@ -99,13 +110,5 @@ Name chromatic, metallic, and gem for reward.
 	* Records
 	* Statues
 	* Potion of Cloud Giant Strength
-	* Book titles
-		1. "Wings of Benevolence: Teachings of Bahamut"
-		2. "Echoes of Arcanum: The Rise and Fall of Magical Empires"
-		5. "Silver Scales of Justice: A Treatise on Divine Law"
-		6. "Ruin: The Chronicles of the Chroma Conclave"
-		11. "The Birth of a Dynasty: The History of the Dwendalian Empire"
-		12. "Theories Regarding the Rise of the Krynn Dynasty"
-		13. "A Complete Guide to Notable Dragons of Exandria"
 	* Copy of *Crog's Guide to Disarming Magical Traps*
 		* This book describes various mundane techniques and theories related to foiling magic traps. If you spend 48 hours studying this book, you learn how to overcome certain types of magic traps with your thieves’ tools. If a trap’s magic can be dispelled or suppressed by a dispel magic spell, you can make a Dexterity check using thieves’ tools to achieve the same result. The DC of the Dexterity check is equal to 5 + the DC required to dispel or suppress the trap with dispel magic (minimum DC 18). On a failed check, the trap triggers.
