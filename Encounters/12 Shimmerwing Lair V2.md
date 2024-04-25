@@ -23,23 +23,8 @@ Name chromatic, metallic, and gem for reward.
 
 * Description
 	* The antechamber was once an ancient throne room or mountain shrine, but time has eroded any clues as to its original builders. Its walls are hung with velvet tapestries featuring heroic figures performing a variety of glorious acts.
-* Freezing runes
-	* DC18 perception
-	* DC18 slight of hand to disarm the trap
-	* Trigger
-		* DC15 CON Save - 3d6 cold damage and restrained (or half)
-* Trip wire
-	* Like alarm spell
-	* Trigger
-		* Darts come from pillars
-		* DC13 DEX Save - 5d4 save for half (every round)
-* Freezing wind
-	* Runes between statues
-	* DC20 Arcana
-	* Disable by knocking over pillars
-	* Trigger
-		* DC12 STR save or knock back 2d6 bludgeoning & prone
-		* Triggers other traps!!!!!
+* Traps
+	* Runes on Ground - DC15 Dex Save 
 	
 # R3: Side Chambers
 
