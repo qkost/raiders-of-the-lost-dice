@@ -15,10 +15,10 @@ Align their power or feel their wrath.
 ```
 
 ```
-In this chamber where dragons’ secrets hide,
+In this chamber where dragons lie,
 Three guardians absent from the stride.
-One of each breed has a missing ward,
-Name chromatic, metallic, and gem for reward.
+One of each breed has a missing member,
+Speak now if you can remember.
 ```
 
 * Description
