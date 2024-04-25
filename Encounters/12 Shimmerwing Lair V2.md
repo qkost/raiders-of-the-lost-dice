@@ -7,6 +7,17 @@
 
 # R2: Antechamber
 
+```
+Twelve wyrms of fearsome might,  
+Their essence locked in eternal fight.  
+Breath and color reveal the path,
+Heed their call or feel their wrath.
+
+Chromatic fury, Metallic sheen,  
+Gem dragons' shimmer, in twilight they dream.  
+Align their scales with the power they wield,  
+Cross their nexus to see the door yield.
+```
 * Description
 	* The antechamber was once an ancient throne room or mountain shrine, but time has eroded any clues as to its original builders. Its walls are hung with velvet tapestries featuring heroic figures performing a variety of glorious acts.
 * Freezing runes
