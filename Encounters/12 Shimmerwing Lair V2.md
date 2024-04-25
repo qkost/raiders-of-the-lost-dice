@@ -24,7 +24,23 @@ Name chromatic, metallic, and gem for reward.
 * Description
 	* The antechamber was once an ancient throne room or mountain shrine, but time has eroded any clues as to its original builders. Its walls are hung with velvet tapestries featuring heroic figures performing a variety of glorious acts.
 * Traps
-	* Runes on Ground - DC15 Dex Save 
+	* Runes on Ground
+		* DC15 Dex Save 2d10/half
+		1. Cold
+		2. Lightning
+		3. Acid
+		4. Fire
+		5. Force
+		6. Radiant
+		7. Thunder
+		8. Necrotic
+		9. Fire
+		10. Poison
+		11. Lightning
+		12. Acid
+	* Pillars on side
+		* Earthbind (Transmutation)
+		* DC15 STR Save
 	
 # R3: Side Chambers
 
