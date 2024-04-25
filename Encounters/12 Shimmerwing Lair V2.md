@@ -17,8 +17,8 @@ Align their power or feel their wrath.
 ```
 In this chamber where dragons’ secrets hide,
 Three guardians absent from the stride.
-One of each breed, their essence erased,
-Name chromatic, metallic, and gemstone-faced.
+One of each breed has a missing ward,
+Name chromatic, metallic, and gem for reward.
 ```
 
 * Description
