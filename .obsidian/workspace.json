@@ -21,6 +21,16 @@
             }
           },
           {
+            "id": "d1fd41595685e775",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf"
+              }
+            }
+          },
+          {
             "id": "d7c56cd61f48b74a",
             "type": "leaf",
             "state": {
@@ -56,7 +66,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "ce04d5bcb3b82393",
@@ -124,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 37.md",
+                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 37.md",
+                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 37.md"
+                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf"
               }
             }
           },
@@ -271,12 +282,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adf7da9c430f938a",
+  "active": "d1fd41595685e775",
   "lastOpenFiles": [
-    "NPCs/Zunda'i-Miir.md",
-    "Session Notes/Session 37.md",
-    "Session Notes/Session 36.md",
     "Encounters/12 Shimmerwing Lair V2.md",
+    "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
+    "Session Notes/Session 37.md",
+    "NPCs/Zunda'i-Miir.md",
+    "Session Notes/Session 36.md",
     "Magic Items/Magic Items.md",
     "Encounters/99 Thinora at Monastary.md",
     "Pictures/dragon-puzzle-common.webp.0.pdnSave",
@@ -307,7 +319,6 @@
     "Encounters/12 Shimmerwing Lair V1.md",
     "Encounters/02 Magic Shop Shadow Demon.md",
     "Session Notes/Session 35.md",
-    "Maps/WhereEvilLivesResources/Tokens/webp",
     "Templates/Prep Template.md",
     "Locations/Ships.md",
     "Organizations/Order of Bahamut.md",
@@ -318,7 +329,6 @@
     "NPCs/Ungrudaal.md",
     "Session Notes/Session 15.md",
     "Session Notes/Session 16.md",
-    "Session Notes/Session 14.md",
     "Untitled.canvas"
   ]
 }

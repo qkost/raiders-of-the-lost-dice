@@ -116,6 +116,12 @@ Answer:
 * Description
 	* A broad shaft in the temple opens into a treasury chamber below, where the dragon’s hoard is arranged in gleaming splendor.
 * Draconimicon
+	* [History](https://criticalrole.fandom.com/wiki/Dragon) first two paragraphs
+		* Bahamut created metallic
+		* Tiamat created chromatic
+	* Notable dragons
+		* Karketh
+	* Chroma Conclave
 * Individual gifts
 	* Ember - [Emerald Pen](https://www.dndbeyond.com/magic-items/4047218-emerald-pen), [Scroll of Rime's Binding Ice](https://www.dndbeyond.com/spells/rimes-binding-ice)
 	* Kelward - Crog's Guide to Disarming Magical Traps
