@@ -116,21 +116,22 @@ Answer:
 * Description
 	* A broad shaft in the temple opens into a treasury chamber below, where the dragon’s hoard is arranged in gleaming splendor.
 * Draconimicon
-	* [History](https://criticalrole.fandom.com/wiki/Dragon) first two paragraphs
+	* [History](https://criticalrole.fandom.com/wiki/Dragon) first two paragraphs of history section
 		* Bahamut created metallic
 		* Tiamat created chromatic
 	* Notable dragons
 		* Karkethzerethzeruth
-		* [[Zunda'i-Miir]]
+		* [[Zunda'i-Miir]] - lots of detail
 		* [[Abbot Bok]] - Golos-bok'eir
 		* Devo'ssa
-		* [Vorvexis](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-blightshore#NewHaxon)
+		* [Vorvexis](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-blightshore#NewHaxon) - defender of New Haxon ([[Dwendalian Empire]]'s outpost on Blightshore)
 		* Chroma Conclave
 			* Thordak
 			* Vorugal
 			* Umbrasyl
 			* Brimscythe
 			* Raishan
+		* [Other dragons](https://criticalrole.fandom.com/wiki/Dragon)
 	* Chroma Conclave
 * Individual gifts
 	* Ember - [Emerald Pen](https://www.dndbeyond.com/magic-items/4047218-emerald-pen), [Scroll of Rime's Binding Ice](https://www.dndbeyond.com/spells/rimes-binding-ice)

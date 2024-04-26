@@ -21,7 +21,7 @@
             }
           },
           {
-            "id": "d1fd41595685e775",
+            "id": "213193921262ae5f",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -296,10 +296,10 @@
   },
   "active": "b800f0ad0c6074f8",
   "lastOpenFiles": [
-    "NPCs/Abbot Bok.md",
-    "Encounters/12 Shimmerwing Lair V2.md",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
     "Session Notes/Session 37.md",
+    "Encounters/12 Shimmerwing Lair V2.md",
+    "NPCs/Abbot Bok.md",
     "NPCs/Zunda'i-Miir.md",
     "Session Notes/Session 36.md",
     "Magic Items/Magic Items.md",
@@ -341,7 +341,6 @@
     "Organizations/The Ill Hand.md",
     "NPCs/Ungrudaal.md",
     "Session Notes/Session 15.md",
-    "Session Notes/Session 16.md",
     "Untitled.canvas"
   ]
 }
