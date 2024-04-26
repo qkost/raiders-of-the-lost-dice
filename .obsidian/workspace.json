@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md",
+                "file": "NPCs/Zunda'i-Miir.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md",
+                "file": "NPCs/Zunda'i-Miir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md",
+                "file": "NPCs/Zunda'i-Miir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md"
+                "file": "NPCs/Zunda'i-Miir.md"
               }
             }
           },
@@ -273,8 +273,8 @@
   },
   "active": "cc0b54595da3dac5",
   "lastOpenFiles": [
-    "Session Notes/Session 36.md",
     "Encounters/12 Shimmerwing Lair V2.md",
+    "Session Notes/Session 36.md",
     "Magic Items/Magic Items.md",
     "Pictures/dragon-puzzle-common.webp.0.pdnSave",
     "Pictures/dragon-puzzle.pdn.0.pdnSave",
