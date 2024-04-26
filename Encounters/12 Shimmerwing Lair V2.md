@@ -55,20 +55,22 @@ Answer:
 # R3: Side Chambers
 
 * Study 
+	* Desk
+	* Collection of books
+	* Maps - battles of the Calamity
 * Book titles
 	1. "A Collection of Bahamut's Teachings"
 	2. "Ancient forms of Martial Discipline"
-	3. "The Rise and Fall of Magocracies during the Age of Arcanum"
-	4. "A Treatise on Divine Law"
-	5. "Fire & Ruin: The Chronicles of the Chroma Conclave"
-	6. One of the following depending on who solves the puzzle
+	4. "The Rise and Fall of Magocracies during the Age of Arcanum"
+	5. "A Treatise on Divine Law"
+	6. "Fire & Ruin: The Chronicles of the Chroma Conclave"
+	7. One of the following depending on who solves the puzzle
 		* Ember - "[Tome of Clear Thought](https://www.dndbeyond.com/magic-items/4781-tome-of-clear-thought)"
 		* Kelward - "[Manual of Quickness of Action](https://www.dndbeyond.com/magic-items/4677-manual-of-quickness-of-action)"
 		* Tato - "[Manual of Gainful Exercise](https://www.dndbeyond.com/magic-items/4675-manual-of-gainful-exercise)"
 		* Shadowclaw - "[Tome of Leadership and Influence](https://www.dndbeyond.com/magic-items/4782-tome-of-leadership-and-influence)"
-	1. "The Birth of a Dynasty: The History of the Dwendalian Empire"
-	2. "The Great Battles of the Calamity"
-	3. "Theories Regarding the Rise of the Krynn Dynasty"
+	8. "The Birth of a Dynasty: The History of the Dwendalian Empire"
+	9. "The Great Battles of the Calamity"
 
 
 # R4: Cloud Bridge
