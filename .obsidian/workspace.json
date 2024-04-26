@@ -64,24 +64,24 @@
             }
           },
           {
-            "id": "e4fe665e1a1ff165",
+            "id": "b800f0ad0c6074f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Encounters/12 Shimmerwing Lair V2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "efb5b96851b92c0e",
+            "id": "3485df5d96230ae6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounters/99 Thinora at Monastary.md",
+                "file": "Magic Items/Magic Items.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,18 +100,6 @@
             }
           },
           {
-            "id": "e062781c0fca65eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Brokenbank.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ad2c25618b00cafd",
             "type": "leaf",
             "state": {
@@ -124,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Zunda'i-Miir.md",
+                "file": "Encounters/12 Shimmerwing Lair V2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Zunda'i-Miir.md",
+                "file": "Encounters/12 Shimmerwing Lair V2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Zunda'i-Miir.md"
+                "file": "Encounters/12 Shimmerwing Lair V2.md"
               }
             }
           },
@@ -271,11 +259,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc0b54595da3dac5",
+  "active": "b800f0ad0c6074f8",
   "lastOpenFiles": [
-    "Encounters/12 Shimmerwing Lair V2.md",
-    "Session Notes/Session 36.md",
     "Magic Items/Magic Items.md",
+    "Encounters/12 Shimmerwing Lair V2.md",
+    "Session 37.md",
+    "Encounters/99 Thinora at Monastary.md",
+    "NPCs/Zunda'i-Miir.md",
+    "Session Notes/Session 36.md",
     "Pictures/dragon-puzzle-common.webp.0.pdnSave",
     "Pictures/dragon-puzzle.pdn.0.pdnSave",
     "Pictures/dragon-puzzle.pdn",
@@ -287,7 +278,6 @@
     "Pictures/dragon-puzzle1.webp",
     "Pictures/dragon-puzzle1.webp.0.pdnSave",
     "Pictures/dragon-puzzle1.png",
-    "Session 37.md",
     "Organizations/Order of the Ascendant Dragon.md",
     "PCs/Tato.md",
     "Pictures/parsnip.png",
@@ -295,7 +285,6 @@
     "Locations/Brokenbank.md",
     "Magic Items/Vestiges of Divergence/Vestiges of Divergence.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
-    "Encounters/99 Thinora at Monastary.md",
     "Pictures/kefra.png",
     "Pictures/638278123808885835.png",
     "Pictures/rin.png",

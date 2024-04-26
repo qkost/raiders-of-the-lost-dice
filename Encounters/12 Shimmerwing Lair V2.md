@@ -126,6 +126,7 @@ Answer:
 		* A full suit of mithral plate armor, its breastplate scrimshawed with draconic faces
 		* A cape studded with gemstones and featuring epaulets of egret feathers, set on the shoulders of a battered tailor’s mannequin
 		* A series of detailed obsidian sculptures depicting a human transitioning from childhood to old age
+		* A complex orrery of the planes of existence made of engraved movable plates of precious metals and set with gemstones
 	* Artifacts
 	* Records
 	* Statues

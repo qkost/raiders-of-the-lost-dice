@@ -28,9 +28,14 @@
 
 ## Lair
 
-* Stonecage cliffs - Galehorn Peak
+### Location
+
+* Stonecage cliffs
+	* Galehorn Peak
+* Set beneath a mountain ridge between two deep tarns, with streams flowing down toward the lowlands.
 * Underground
 * Cathedral of Geodes
+* Space is warped in the lair
 
 ### Regional Effects
 * ***Crystal Profusion.** Amethyst crystals and geodes form along muddy shores and lake beds within 6 miles of the lair.
