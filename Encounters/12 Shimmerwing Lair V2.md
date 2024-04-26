@@ -54,9 +54,7 @@ Answer:
 	
 # R3: Side Chambers
 
-* Description
-	*  A few small private side chambers allow the dragon (usually in Humanoid guise) to meet with visitors.
-* Study
+* Study 
 * Book titles
 	1. "A Collection of Bahamut's Teachings"
 	2. "Ancient forms of Martial Discipline"
