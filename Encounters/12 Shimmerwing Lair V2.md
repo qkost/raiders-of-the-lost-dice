@@ -120,7 +120,17 @@ Answer:
 		* Bahamut created metallic
 		* Tiamat created chromatic
 	* Notable dragons
-		* Karketh
+		* Karkethzerethzeruth
+		* [[Zunda'i-Miir]]
+		* [[Abbot Bok]] - Golos-bok'eir
+		* Devo'ssa
+		* [Vorvexis](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-blightshore#NewHaxon)
+		* Chroma Conclave
+			* Thordak
+			* Vorugal
+			* Umbrasyl
+			* Brimscythe
+			* Raishan
 	* Chroma Conclave
 * Individual gifts
 	* Ember - [Emerald Pen](https://www.dndbeyond.com/magic-items/4047218-emerald-pen), [Scroll of Rime's Binding Ice](https://www.dndbeyond.com/spells/rimes-binding-ice)

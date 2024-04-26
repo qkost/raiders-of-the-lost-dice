@@ -99,6 +99,18 @@
             }
           },
           {
+            "id": "1ee2abcc0eaf9540",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Abbot Bok.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3485df5d96230ae6",
             "type": "leaf",
             "state": {
@@ -209,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
+                "file": "Encounters/12 Shimmerwing Lair V2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
+                "file": "Encounters/12 Shimmerwing Lair V2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +261,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf"
+                "file": "Encounters/12 Shimmerwing Lair V2.md"
               }
             }
           },
@@ -282,8 +294,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1fd41595685e775",
+  "active": "b800f0ad0c6074f8",
   "lastOpenFiles": [
+    "NPCs/Abbot Bok.md",
     "Encounters/12 Shimmerwing Lair V2.md",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
     "Session Notes/Session 37.md",
