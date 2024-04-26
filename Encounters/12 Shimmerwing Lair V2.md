@@ -116,6 +116,11 @@ Answer:
 * Description
 	* A broad shaft in the temple opens into a treasury chamber below, where the dragon’s hoard is arranged in gleaming splendor.
 * Draconimicon
+* Individual gifts
+	* Ember - [Emerald Pen](https://www.dndbeyond.com/magic-items/4047218-emerald-pen), [Scroll of Rime's Binding Ice](https://www.dndbeyond.com/spells/rimes-binding-ice)
+	* Kelward - Crog's Guide to Disarming Magical Traps
+	* Shadowclaw - [Dragon Vessel (Stirring)](https://www.dndbeyond.com/magic-items/4047197-dragon-vessel-stirring)
+	* Tato - [Improved Breath of the Dragon](https://www.dndbeyond.com/feats/1658027-improved-breath-of-the-dragon), Draconic Familiar (if Ember didn't choose conjuration)
 * Other loot
 	* Historical art objects
 		* A full suit of mithral plate armor, its breastplate scrimshawed with draconic faces
