@@ -34,7 +34,13 @@
 
 ### 4. Secrets and Clues
 
-* 
+* [[12 Shimmerwing Lair V2]]
+* [[Zunda'i-Miir]] secrets
+	* Galehorn Peak - thriving wildlife in the region
+	* Fights aberrations
+		* Portals ripped open to outer planes during Calamity
+		* A large one opened beneath the Stonecage Cliffs; which the dragon defends
+	* Troubled dreams
 
 ### 5. Fantastic Locations
 
