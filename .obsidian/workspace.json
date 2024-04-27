@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -220,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 35.md",
+                "file": "NPCs/Zunda'i-Miir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 35.md",
+                "file": "NPCs/Zunda'i-Miir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 35.md"
+                "file": "NPCs/Zunda'i-Miir.md"
               }
             }
           },
@@ -293,12 +293,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adf7da9c430f938a",
+  "active": "cc0b54595da3dac5",
   "lastOpenFiles": [
+    "Session Notes/Session 35.md",
     "Session Notes/Session 36.md",
     "Session Notes/Session 37.md",
     "Encounters/09 Plank King.md",
-    "Session Notes/Session 35.md",
     "Session Notes/Session 34.md",
     "Encounters/12 Shimmerwing Lair V2.md",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",

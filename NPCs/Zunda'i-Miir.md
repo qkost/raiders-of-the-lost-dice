@@ -48,4 +48,7 @@
 
 
 
+## Possible Conflicts
 
+* Dreams haunted by a beholder
+* Demonic incursion -- perhaps a demon beholder?
