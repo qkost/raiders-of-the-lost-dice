@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 37.md",
+                "file": "Session Notes/Session 35.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,8 +66,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ce04d5bcb3b82393",
@@ -92,7 +91,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md",
+                "file": "Encounters/09 Plank King.md",
                 "mode": "source",
                 "source": false
               }
@@ -221,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md",
+                "file": "Session Notes/Session 35.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md",
+                "file": "Session Notes/Session 35.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,7 +260,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md"
+                "file": "Session Notes/Session 35.md"
               }
             }
           },
@@ -294,14 +293,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b800f0ad0c6074f8",
+  "active": "adf7da9c430f938a",
   "lastOpenFiles": [
-    "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
+    "Session Notes/Session 36.md",
     "Session Notes/Session 37.md",
+    "Encounters/09 Plank King.md",
+    "Session Notes/Session 35.md",
+    "Session Notes/Session 34.md",
     "Encounters/12 Shimmerwing Lair V2.md",
+    "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
     "NPCs/Abbot Bok.md",
     "NPCs/Zunda'i-Miir.md",
-    "Session Notes/Session 36.md",
     "Magic Items/Magic Items.md",
     "Encounters/99 Thinora at Monastary.md",
     "Pictures/dragon-puzzle-common.webp.0.pdnSave",
@@ -331,12 +333,10 @@
     "NPCs/Petyr (Pete) Archeron.md",
     "Encounters/12 Shimmerwing Lair V1.md",
     "Encounters/02 Magic Shop Shadow Demon.md",
-    "Session Notes/Session 35.md",
     "Templates/Prep Template.md",
     "Locations/Ships.md",
     "Organizations/Order of Bahamut.md",
     "Encounters/08 Ships & Islands.md",
-    "Encounters/09 Plank King.md",
     "NPCs/Vilya.md",
     "Organizations/The Ill Hand.md",
     "NPCs/Ungrudaal.md",
