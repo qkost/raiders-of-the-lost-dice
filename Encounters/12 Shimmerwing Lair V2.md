@@ -27,8 +27,7 @@ Answer:
 ```
 
 * Description
-	* Large room with a map of Exandria on the floor. In a neat grid you notice a series of runes. 10 pillars line the room -- 2 each at the back and front and three each on the sides
-	* The map has a continent you don't recognize
+	* In a neat grid you notice a series of runes. 10 pillars line the room -- 2 each at the back and front and three each on the sides
 * Perception check
 	* Runes on ground
 	* Runes on pillars on the side
