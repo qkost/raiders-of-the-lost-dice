@@ -42,7 +42,7 @@ Her robes are exquisite royal blue and silver robes that shimmer as she walks. S
 * Assistants
 	* [Rin Monisk](https://www.dndbeyond.com/monsters/4423157-rin-monisk)
 		* Warrior
-		* Neat, white hair
+		* Neat, black hair pulled back into bun, beard
 		* Dark leathers
 		* Flaming sword (Flametongue)
 		* Vesige: Condemner
