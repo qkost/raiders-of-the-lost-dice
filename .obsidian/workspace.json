@@ -85,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md",
+                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md",
+                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md"
+                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md"
               }
             }
           },
@@ -232,13 +233,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9cc53c3df25e610",
+  "active": "c92fda275b66920c",
   "lastOpenFiles": [
+    "Encounters/12 Shimmerwing Lair V2.md",
     "Session Notes/Session 37.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "NPCs/Abbot Bok.md",
     "Magic Items/Magic Items.md",
-    "Encounters/12 Shimmerwing Lair V2.md",
     "NPCs/Zunda'i-Miir.md",
     "Session Notes/Session 35.md",
     "Session Notes/Session 36.md",
