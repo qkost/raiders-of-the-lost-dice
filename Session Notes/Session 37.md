@@ -41,6 +41,7 @@
 		* Portals ripped open to outer planes during Calamity
 		* A large one opened beneath the Stonecage Cliffs; which the dragon defends
 	* Troubled dreams
+* [[Lady Thinora Va'del, Archmage of Antiquity]] has two bodyguards [[rin]]
 
 ### 5. Fantastic Locations
 
@@ -56,4 +57,4 @@
 
 ### 8. Select Magic Item Rewards
 
-* 
+* [[12 Shimmerwing Lair V2]]

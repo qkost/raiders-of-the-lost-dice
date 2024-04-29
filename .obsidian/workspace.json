@@ -9,12 +9,12 @@
         "dimension": 46.58071748878923,
         "children": [
           {
-            "id": "adf7da9c430f938a",
+            "id": "74e965c5eb50a192",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 35.md",
+                "file": "Session Notes/Session 37.md",
                 "mode": "source",
                 "source": false
               }
@@ -27,30 +27,6 @@
               "type": "pdf",
               "state": {
                 "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf"
-              }
-            }
-          },
-          {
-            "id": "d7c56cd61f48b74a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 36.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4109a81eb7cd1bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PCs/Tato.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -74,24 +50,24 @@
         "dimension": 53.41928251121077,
         "children": [
           {
-            "id": "df57002ebbbbc5d1",
+            "id": "c9cc53c3df25e610",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 37.md",
+                "file": "Encounters/12 Shimmerwing Lair V2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b800f0ad0c6074f8",
+            "id": "c92fda275b66920c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounters/09 Plank King.md",
+                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,45 +84,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3485df5d96230ae6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic Items/Magic Items.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc0b54595da3dac5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Zunda'i-Miir.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad2c25618b00cafd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organizations/Order of the Ascendant Dragon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Zunda'i-Miir.md",
+                "file": "Session Notes/Session 37.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Zunda'i-Miir.md",
+                "file": "Session Notes/Session 37.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Zunda'i-Miir.md"
+                "file": "Session Notes/Session 37.md"
               }
             }
           },
@@ -293,18 +233,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc0b54595da3dac5",
+  "active": "74e965c5eb50a192",
   "lastOpenFiles": [
+    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+    "NPCs/Abbot Bok.md",
+    "Magic Items/Magic Items.md",
+    "Session Notes/Session 37.md",
+    "Encounters/12 Shimmerwing Lair V2.md",
+    "NPCs/Zunda'i-Miir.md",
     "Session Notes/Session 35.md",
     "Session Notes/Session 36.md",
-    "Session Notes/Session 37.md",
     "Encounters/09 Plank King.md",
     "Session Notes/Session 34.md",
-    "Encounters/12 Shimmerwing Lair V2.md",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
-    "NPCs/Abbot Bok.md",
-    "NPCs/Zunda'i-Miir.md",
-    "Magic Items/Magic Items.md",
     "Encounters/99 Thinora at Monastary.md",
     "Pictures/dragon-puzzle-common.webp.0.pdnSave",
     "Pictures/dragon-puzzle.pdn.0.pdnSave",
@@ -323,7 +264,6 @@
     "Pictures/parsnip.png.crdownload",
     "Locations/Brokenbank.md",
     "Magic Items/Vestiges of Divergence/Vestiges of Divergence.md",
-    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Pictures/kefra.png",
     "Pictures/638278123808885835.png",
     "Pictures/rin.png",
