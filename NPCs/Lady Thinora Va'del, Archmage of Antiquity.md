@@ -44,7 +44,8 @@ Her robes are exquisite royal blue and silver robes that shimmer as she walks. S
 		* Warrior
 		* Neat, white hair
 		* Dark leathers
-		* Flaming sword
+		* Flaming sword (Flametongue)
+		* Vesige: Condemner
 	* [Kefra Dhes](https://www.dndbeyond.com/monsters/4423204-kefra-dres)
 		* Mage
 		* Flowing robes
