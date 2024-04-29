@@ -42,6 +42,9 @@
 		* A large one opened beneath the Stonecage Cliffs; which the dragon defends
 	* Troubled dreams
 * [[Lady Thinora Va'del, Archmage of Antiquity]] has two bodyguards Rin Monisk and Kefra Dhes
+	* Rin has Condemner
+	* Rin uses Warding Bond
+	* Kefra is another high level spellcaster
 
 ### 5. Fantastic Locations
 
