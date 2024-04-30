@@ -25,7 +25,17 @@
 * Solved side puzzle
 	* Study
 	* Ember picked up [Tomb of Clear Thought](https://www.dndbeyond.com/magic-items/4781-tome-of-clear-thought)
-* 
+* Cloud bridge
+	* Tato and Ember crossed by answering introspective questions
+	* Shadowclaw flew over it
+	* Kelward did sweet dive and teleported with his swords
+* Dragon statue puzzle
+	* Tato dodged multiple breath weapons
+	* Shadowclaw flew down and placed gems in floor
+* Starlight dragon appeared
+	* Ember ziplined down
+	* Shadowclaw flying
+	* Tato and Kelward still on cliff
 
 ## Prep
 ### 1. Review Characters
