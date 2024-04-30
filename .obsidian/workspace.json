@@ -19,28 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "213193921262ae5f",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf"
-              }
-            }
-          },
-          {
-            "id": "b49872b80cdb4166",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic Items/Vestiges of Divergence/Vestiges of Divergence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       },
@@ -234,10 +212,10 @@
   },
   "active": "c9cc53c3df25e610",
   "lastOpenFiles": [
-    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
-    "Encounters/12 Shimmerwing Lair V2.md",
-    "Session Notes/Session 37.md",
     "NPCs/Abbot Bok.md",
+    "Encounters/12 Shimmerwing Lair V2.md",
+    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+    "Session Notes/Session 37.md",
     "Magic Items/Magic Items.md",
     "NPCs/Zunda'i-Miir.md",
     "Session Notes/Session 35.md",
