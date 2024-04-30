@@ -16,6 +16,17 @@
 * Given quest to go to temple on top of the mountain
 	* Retrieve draconomicon and box on desk
 ## Notes
+
+* Solved floor puzzle
+	* Tato jumping
+	* Kelward levitating
+	* Shadowclaw flying and jumping
+	* Ember climbing across a rope
+* Solved side puzzle
+	* Study
+	* Ember picked up [Tomb of Clear Thought](https://www.dndbeyond.com/magic-items/4781-tome-of-clear-thought)
+* 
+
 ## Prep
 ### 1. Review Characters
 

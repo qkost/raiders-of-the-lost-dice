@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md",
+                "file": "Session Notes/Session 37.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md",
+                "file": "Session Notes/Session 37.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md"
+                "file": "Session Notes/Session 37.md"
               }
             }
           },
@@ -210,10 +210,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9cc53c3df25e610",
+  "active": "74e965c5eb50a192",
   "lastOpenFiles": [
-    "NPCs/Abbot Bok.md",
     "Encounters/12 Shimmerwing Lair V2.md",
+    "NPCs/Abbot Bok.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Session Notes/Session 37.md",
     "Magic Items/Magic Items.md",
