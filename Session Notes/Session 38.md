@@ -32,12 +32,27 @@
 	* Loot
 * Discussion with [[Abbot Bok]]
 
-###[[Lady Thinora Va'del, Archmage of Antiquity]]
-	* Players stay for discussion
-		* (ruse) T
-		* Possible fight
-	* Players leave
-		* Thinora mess
+#### 3.1. [[Lady Thinora Va'del, Archmage of Antiquity]]
+
+##### Players stay for discussion
+* (ruse) Thinora discusses alliance with Bok against Xhorhas
+	* Monsterous races corrupted by the scars of the Calamity
+	* Countless lost Empire lives in the war
+* Tries to get players to give Vestiges
+	* Money
+	* Threats
+* Possible fight - [[99 Thinora at Monastary]]
+#### Players leave
+* Thinora messages [[Ember]]
+	* "Seems you are following the same foolish path as your father."
+	* "I guess I'll have to find another way to motivate you."
+* [[Tato]] vision
+	* Thinora, Rin, and Kefra arrive
+		* Kefra has wand
+		* Rin has flaming sword and crossbow without a string
+	* Discussion
+	* Fight
+		* Thinora -- True Polymoph, Forcecage, Gate
 
 ### 4. Secrets and Clues
 
