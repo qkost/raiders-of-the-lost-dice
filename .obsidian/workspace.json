@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tmp.md",
+                "file": "NPCs/Zunda'i-Miir.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "ce04d5bcb3b82393",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tmp.md",
+                "file": "Session Notes/Session 38.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tmp.md",
+                "file": "Session Notes/Session 38.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tmp.md"
+                "file": "Session Notes/Session 38.md"
               }
             }
           },
@@ -235,16 +235,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c0f3a5ca16ca496",
+  "active": "a2ab3d4c8efc3219",
   "lastOpenFiles": [
+    "NPCs/Zunda'i-Miir.md",
+    "Session Notes/Session 38.md",
     "Session Notes/Session 37.md",
     "tmp.md",
-    "Session Notes/Session 38.md",
     "Encounters/12 Shimmerwing Lair V2.md",
     "NPCs/Abbot Bok.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Magic Items/Magic Items.md",
-    "NPCs/Zunda'i-Miir.md",
     "Session Notes/Session 35.md",
     "Session Notes/Session 36.md",
     "Encounters/09 Plank King.md",
