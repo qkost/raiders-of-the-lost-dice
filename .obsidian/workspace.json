@@ -53,6 +53,14 @@
         "dimension": 55.15695067264574,
         "children": [
           {
+            "id": "aa3e2fa993e3f740",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
             "id": "5bf1ed18f90de9d1",
             "type": "leaf",
             "state": {
@@ -174,7 +182,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 38.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +198,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 38.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,9 +219,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Session Notes/Session 38.md"
-              }
+              "state": {}
             }
           },
           {
@@ -247,10 +251,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2ab3d4c8efc3219",
+  "active": "aa3e2fa993e3f740",
   "lastOpenFiles": [
-    "Encounters/99 Thinora at Monastary.md",
     "Session Notes/Session 38.md",
+    "Encounters/99 Thinora at Monastary.md",
     "NPCs/Zunda'i-Miir.md",
     "Session Notes/Session 37.md",
     "tmp.md",

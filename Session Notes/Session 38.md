@@ -51,8 +51,10 @@
 		* Kefra has wand
 		* Rin has flaming sword and crossbow without a string
 	* Discussion
+		* [[Chives]] recognizes Thinora
 	* Fight
 		* Thinora -- True Polymoph, Forcecage, Gate
+		* Bok -- Stuns, turn into dragon
 
 ### 4. Secrets and Clues
 
