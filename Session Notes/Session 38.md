@@ -56,13 +56,17 @@
 		* Thinora -- True Polymoph, Forcecage, Gate
 		* Bok -- Stuns, turn into dragon
 
+```
 1. "Ah, truly a pity we missed each other. Your silence, deception, and flight at my arrival suggest you have forsaken our agreement."
     
-2. "You will achieve nothing; become nothing. Inquire about your father's fate if you doubt my words."
+2. "I warn you, do not cross me. You will achieve nothing; become nothing. If you think this threat veiled, ask what's left of your father."
     
-3. "Regrettably, I must employ more persuasive methods now. If your verdant companion hopes to see his loved ones again,"
+3. "Regrettably, I must employ more persuasive methods now. If your green companion hopes to see his friends again,"
     
-4. "you know precisely where to find me. And importantly, you know the price that must be paid."
+4. "you know precisely where to find me and you know the cost of their return."
+```
+
+
 ### 4. Secrets and Clues
 
 * [[Zunda'i-Miir]] secrets
