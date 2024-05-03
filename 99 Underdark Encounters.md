@@ -6,6 +6,7 @@
 * Beholder
 * Aboleth
 * Bunch o' Demons
+* Drow
 
 ## Small Monsters
 
@@ -14,3 +15,5 @@
 * Underground lake
 * Cliffs
 * Fungus cave
+* Portal to the Abyss
+* Divine Shackles

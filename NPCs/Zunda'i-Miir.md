@@ -9,6 +9,14 @@
 * Hates aberrations from the Far Realm
 	* Possible conflict with [[Shadowclaw]] as he's an aberrant mind sorcerer?
 
+## Corruption
+
+* Dreams tormented by [[Xodhu]] on behalf of [[Tharizdun]]
+* Symptoms
+	* Uncontrollable hunger
+	* Uncharacteristic aggression
+	* Eventually violent mania
+
 ## Personality
 
 * Personality traits
