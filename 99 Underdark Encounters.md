@@ -10,6 +10,9 @@
 
 ## Small Monsters
 
+* Bulette
+* 
+
 ## Environment
 
 * Underground lake
