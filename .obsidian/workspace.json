@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 38.md",
+                "file": "NPCs/Zunda'i-Miir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 38.md",
+                "file": "NPCs/Zunda'i-Miir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 38.md"
+                "file": "NPCs/Zunda'i-Miir.md"
               }
             }
           },
@@ -259,13 +259,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f92f205f31d0ba58",
+  "active": "8c0f3a5ca16ca496",
   "lastOpenFiles": [
+    "Session Notes/Session 38.md",
+    "NPCs/Zunda'i-Miir.md",
     "Maps/underdark_map_by_repsesper_d3hs363-fullview.jpg",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
-    "Session Notes/Session 38.md",
     "Encounters/99 Thinora at Monastary.md",
-    "NPCs/Zunda'i-Miir.md",
     "Session Notes/Session 37.md",
     "tmp.md",
     "Encounters/12 Shimmerwing Lair V2.md",
@@ -298,7 +298,6 @@
     "Pictures/rin.png",
     "Pictures/637199798853992915.jpeg",
     "Pictures/portal.png.0.pdnSave",
-    "Pictures/portal.png",
     "NPCs/Petyr (Pete) Archeron.md",
     "Encounters/12 Shimmerwing Lair V1.md",
     "Encounters/02 Magic Shop Shadow Demon.md",

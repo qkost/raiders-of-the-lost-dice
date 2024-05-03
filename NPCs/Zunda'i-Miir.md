@@ -5,7 +5,7 @@
 * Being disturbed by beholder below lair
 * Horde contains [[Wraps of Dyamak]]
 * Lair in Stonecage Cliffs
-	* Mountain: Galehorn Peak
+	* Zunda'i-Miir's lair is underneath the westernmost of the three Azul Towers in the Stonecage Cliffs. The towers are not the tallest peaks in the range, but have unmistakable vertical nearly-idential spires. They are named after their turquoise blue tarns caved from their glaciers.
 * Hates aberrations from the Far Realm
 	* Possible conflict with [[Shadowclaw]] as he's an aberrant mind sorcerer?
 
@@ -27,6 +27,8 @@
 * During the Calamity, the Betrayers ripped open portals to the outer planes and, intentionally or otherwise, also narrowed the gap between the material plane and the far realm. This enabled aberrations to enter the world [[Zunda'i-Miir]]'s mission was to fight back against these forces of the Far Realm and creatures warped by its touch.
 
 ## Lair
+
+Zunda'i-Miir's lair is underneath the westernmost of the three Azul Towers in the Stonecage Cliffs. The towers are not the tallest peaks in the range, but have unmistakable vertical nearly-idential spires. They are named after their turquoise blue tarns caved from their glaciers.
 
 ### Location
 
