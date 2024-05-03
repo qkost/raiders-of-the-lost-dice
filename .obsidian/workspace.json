@@ -45,19 +45,31 @@
             }
           },
           {
+            "id": "19be8d5e79c3169f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Zunda'i-Miir.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9a88c2f779e41347",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Xodhu.md",
+                "file": "NPCs/Xodhu.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "ce04d5bcb3b82393",
@@ -210,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Xodhu.md",
+                "file": "Gods/Tharizdun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Xodhu.md",
+                "file": "Gods/Tharizdun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Xodhu.md"
+                "file": "Gods/Tharizdun.md"
               }
             }
           },
@@ -283,12 +295,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a88c2f779e41347",
+  "active": "8c0f3a5ca16ca496",
   "lastOpenFiles": [
-    "NPCs/Zunda'i-Miir.md",
-    "Xodhu.md",
+    "NPCs/Xodhu.md",
     "Gods/Tharizdun.md",
     "99 Underdark Encounters.md",
+    "NPCs/Zunda'i-Miir.md",
     "Session Notes/Session 38.md",
     "Maps/underdark_map_by_repsesper_d3hs363-fullview.jpg",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",

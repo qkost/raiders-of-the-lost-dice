@@ -5,7 +5,7 @@
 * Mind Flayers
 * Beholder
 * Aboleth
-* Demons
+* Bunch o' Demons
 
 ## Small Monsters
 
