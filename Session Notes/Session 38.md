@@ -61,9 +61,7 @@
     
 2. "I warn you, do not cross me. You will achieve nothing; become nothing. If you think this threat veiled, ask what's left of your father."
     
-3. "Regrettably, I must employ more persuasive methods now. If your green companion hopes to see his friends again,"
-    
-4. "you know precisely where to find me and you know the cost of their return."
+3. "Regrettably, I must employ more persuasive methods now.
 ```
 
 
