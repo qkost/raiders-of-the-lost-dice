@@ -57,7 +57,7 @@
 		* Bok -- Stuns, turn into dragon
 
 ```
-1. "Ah, pity we missed each other. Your flight at my arrival suggest you have forsaken our agreement. Regrettably, I must employ more persuasive methods now.
+1. "Ah, pity we missed each other. Your flight at my arrival suggest you have forsaken our agreement. It seems you are taking the foolish path of your father. Regrettably, I must employ more persuasive methods now.
 ```
 
 

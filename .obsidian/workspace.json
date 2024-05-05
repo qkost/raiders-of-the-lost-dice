@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Zunda'i-Miir.md",
+                "file": "Session Notes/Session 38.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Zunda'i-Miir.md",
+                "file": "Session Notes/Session 38.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Zunda'i-Miir.md"
+                "file": "Session Notes/Session 38.md"
               }
             }
           },
@@ -222,15 +222,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19be8d5e79c3169f",
+  "active": "a2ab3d4c8efc3219",
   "lastOpenFiles": [
+    "NPCs/Zunda'i-Miir.md",
     "Encounters/99 Thinora at Monastary.md",
     "Session Notes/Session 38.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Encounters/12 Shimmerwing Lair V2.md",
     "Gods/Tharizdun.md",
     "Encounters/99 Underdark Encounters.md",
-    "NPCs/Zunda'i-Miir.md",
     "NPCs/Xodhu.md",
     "Maps/underdark_map_by_repsesper_d3hs363-fullview.jpg",
     "Session Notes/Session 37.md",
