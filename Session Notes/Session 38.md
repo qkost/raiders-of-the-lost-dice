@@ -57,11 +57,7 @@
 		* Bok -- Stuns, turn into dragon
 
 ```
-1. "Ah, truly a pity we missed each other. Your silence, deception, and flight at my arrival suggest you have forsaken our agreement."
-    
-2. "I warn you, do not cross me. You will achieve nothing; become nothing. If you think this threat veiled, ask what's left of your father."
-    
-3. "Regrettably, I must employ more persuasive methods now.
+1. "Ah, pity we missed each other. Your flight at my arrival suggest you have forsaken our agreement. Regrettably, I must employ more persuasive methods now.
 ```
 
 
