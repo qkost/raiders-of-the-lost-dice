@@ -139,7 +139,8 @@ Answer:
 	* Tato
 		* Draconic Familiar (if Ember didn't choose conjuration)
 		* [Potion of Dragon's Magesty](https://www.dndbeyond.com/magic-items/4047222-potion-of-dragons-majesty)
-		* 
+		* [Mirror of Infinite Transpondence](https://www.dndbeyond.com/magic-items/7170952-mirror-of-infinite-transpondence)
+	
 * Other loot
 	* Historical art objects
 		* A full suit of mithral plate armor, its breastplate scrimshawed with draconic faces
