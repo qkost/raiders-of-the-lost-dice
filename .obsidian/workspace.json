@@ -9,18 +9,6 @@
         "dimension": 44.843049327354265,
         "children": [
           {
-            "id": "74e965c5eb50a192",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 37.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a2ab3d4c8efc3219",
             "type": "leaf",
             "state": {
@@ -31,33 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ff0bbbb5f9185396",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a88c2f779e41347",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Xodhu.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "ce04d5bcb3b82393",
@@ -71,30 +34,6 @@
               "type": "markdown",
               "state": {
                 "file": "NPCs/Zunda'i-Miir.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c0f3a5ca16ca496",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gods/Tharizdun.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5bf1ed18f90de9d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/99 Thinora at Monastary.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,8 +75,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 38.md",
+                "file": "NPCs/Zunda'i-Miir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 38.md",
+                "file": "NPCs/Zunda'i-Miir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 38.md"
+                "file": "NPCs/Zunda'i-Miir.md"
               }
             }
           },
@@ -284,17 +222,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2ab3d4c8efc3219",
+  "active": "19be8d5e79c3169f",
   "lastOpenFiles": [
-    "Encounters/12 Shimmerwing Lair V2.md",
+    "Encounters/99 Thinora at Monastary.md",
     "Session Notes/Session 38.md",
+    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+    "Encounters/12 Shimmerwing Lair V2.md",
     "Gods/Tharizdun.md",
     "Encounters/99 Underdark Encounters.md",
     "NPCs/Zunda'i-Miir.md",
     "NPCs/Xodhu.md",
     "Maps/underdark_map_by_repsesper_d3hs363-fullview.jpg",
-    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
-    "Encounters/99 Thinora at Monastary.md",
     "Session Notes/Session 37.md",
     "tmp.md",
     "NPCs/Abbot Bok.md",
