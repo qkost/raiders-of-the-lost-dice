@@ -64,7 +64,7 @@
 ### 4. Secrets and Clues
 
 * [[Zunda'i-Miir]] secrets
-	* Zunda'i-Miir's lair is underneath the westernmost of the three Azul Towers in the Stonecage Cliffs. The towers are not the tallest peaks in the range, but have unmistakable vertical nearly-idential spires. They are named after their turquoise blue tarns caved from their glaciers.
+	* Zunda'i-Miir's lair is underneath the westernmost of the three Azul Towers in the Stonecage Cliffs. The towers are not the tallest peaks in the range, but have unmistakable vertical nearly-identical spires. They are named after their turquoise blue tarns caved from their glaciers.
 	* Fights aberrations
 		* Portals ripped open to outer planes during Calamity
 		* A large one opened beneath the Stonecage Cliffs; which the dragon defends
