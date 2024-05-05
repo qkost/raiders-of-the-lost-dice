@@ -45,18 +45,6 @@
             }
           },
           {
-            "id": "19be8d5e79c3169f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Zunda'i-Miir.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9a88c2f779e41347",
             "type": "leaf",
             "state": {
@@ -69,13 +57,25 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "ce04d5bcb3b82393",
         "type": "tabs",
         "dimension": 55.15695067264574,
         "children": [
+          {
+            "id": "19be8d5e79c3169f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Zunda'i-Miir.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "8c0f3a5ca16ca496",
             "type": "leaf",
@@ -86,14 +86,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "7d5c9b56a0b04cbf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -144,8 +136,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,6 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Notes/Session 38.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,6 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Session Notes/Session 38.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,7 +249,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Session Notes/Session 38.md"
+              }
             }
           },
           {
@@ -288,11 +283,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7d5c9b56a0b04cbf",
+  "active": "a2ab3d4c8efc3219",
   "lastOpenFiles": [
-    "99 Underdark Encounters.md",
-    "NPCs/Zunda'i-Miir.md",
     "Gods/Tharizdun.md",
+    "Encounters/99 Underdark Encounters.md",
+    "NPCs/Zunda'i-Miir.md",
     "NPCs/Xodhu.md",
     "Session Notes/Session 38.md",
     "Maps/underdark_map_by_repsesper_d3hs363-fullview.jpg",
