@@ -26,8 +26,17 @@
 * Ride on Shimmerwing
 * Dinner
 * Lore
-	* 
-* Tooks
+	* Map of planes
+	* Draconomicon
+* Thinora
+	* Arrived on airship
+	* True Polymorph Abbot Bok
+	* Killed some monks, took [[Chives]] and Ruta as prisoners
+	* Threatening message to Ember -- 
+```
+"Ah, pity we missed each other. Your flight at my arrival suggest you have forsaken our agreement. It seems you are taking the foolish path of your father. Regrettably, I've had to employ more persuasive methods. If you'd either you or your green friend would ever like to see your families again; you know where to find me and you know the cost."
+```
+
 ## Prep
 ### 1. Review Characters
 
@@ -72,7 +81,7 @@
 		* Bok -- Stuns, turn into dragon
 
 ```
-1. "Ah, pity we missed each other. Your flight at my arrival suggest you have forsaken our agreement. It seems you are taking the foolish path of your father. Regrettably, I must employ more persuasive methods now.
+1. "Ah, pity we missed each other. Your flight at my arrival suggest you have forsaken our agreement. It seems you are taking the foolish path of your father. Regrettably, I've had to employ more persuasive methods. If you'd either you or your green friend would ever like to see your families again; you know where to find me and you know the cost."
 ```
 
 
