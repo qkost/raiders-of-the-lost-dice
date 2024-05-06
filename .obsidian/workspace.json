@@ -6,7 +6,6 @@
       {
         "id": "4201cfec44791502",
         "type": "tabs",
-        "dimension": 44.843049327354265,
         "children": [
           {
             "id": "a2ab3d4c8efc3219",
@@ -23,77 +22,16 @@
         ]
       },
       {
-        "id": "ce04d5bcb3b82393",
+        "id": "5b0b7d956c3e7142",
         "type": "tabs",
-        "dimension": 55.15695067264574,
         "children": [
           {
-            "id": "ceb45672e62f554c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19be8d5e79c3169f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Zunda'i-Miir.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "679f6314c8ed5984",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ships.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9cc53c3df25e610",
+            "id": "84ca32b2201b97e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Encounters/12 Shimmerwing Lair V2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c92fda275b66920c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ee2abcc0eaf9540",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Abbot Bok.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+                "file": "Session Notes/Session 38.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+                "file": "Session Notes/Session 38.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md"
+                "file": "Session Notes/Session 38.md"
               }
             }
           },
@@ -246,21 +184,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ceb45672e62f554c",
+  "active": "a2ab3d4c8efc3219",
   "lastOpenFiles": [
+    "Encounters/12 Shimmerwing Lair V2.md",
     "Session Notes/Session 38.md",
+    "NPCs/Abbot Bok.md",
+    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Locations/Ships.md",
     "NPCs/Zunda'i-Miir.md",
-    "Encounters/12 Shimmerwing Lair V2.md",
     "Encounters/99 Thinora at Monastary.md",
-    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Gods/Tharizdun.md",
     "Encounters/99 Underdark Encounters.md",
     "NPCs/Xodhu.md",
     "Maps/underdark_map_by_repsesper_d3hs363-fullview.jpg",
     "Session Notes/Session 37.md",
     "tmp.md",
-    "NPCs/Abbot Bok.md",
     "Magic Items/Magic Items.md",
     "Session Notes/Session 35.md",
     "Session Notes/Session 36.md",

@@ -13,6 +13,21 @@
 ## Recap
 
 ## Notes
+
+* Fight against starlight dragon
+	* Kelward and Ember pushed off -- potion of climbing and fly
+	* Tato knocked out
+* Rewards
+	* Potion of dragon mastery
+	* Crog's Guide to Disarming Magical Traps
+	* Dragon Vessel
+	* Mirror of Infinite Transpondence
+	* Emerald Pen, Scroll of Shimmerwing's Binding Ice
+* Ride on Shimmerwing
+* Dinner
+* Lore
+	* 
+* Tooks
 ## Prep
 ### 1. Review Characters
 
