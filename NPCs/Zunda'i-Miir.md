@@ -55,9 +55,6 @@ Zunda'i-Miir's lair is underneath the westernmost of the three Azul Towers in th
 
 * [DndBeyond Link](https://www.dndbeyond.com/sources/ftod/bestiary#AmethystDragons)
 
-
-
-
 ## Possible Conflicts
 
 * Dreams haunted by a Beholder
