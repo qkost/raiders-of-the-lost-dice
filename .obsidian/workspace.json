@@ -75,8 +75,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md",
+                "file": "NPCs/Zunda'i-Miir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md",
+                "file": "NPCs/Zunda'i-Miir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md"
+                "file": "NPCs/Zunda'i-Miir.md"
               }
             }
           },
@@ -223,13 +222,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9cc53c3df25e610",
+  "active": "19be8d5e79c3169f",
   "lastOpenFiles": [
+    "Encounters/12 Shimmerwing Lair V2.md",
     "NPCs/Zunda'i-Miir.md",
     "Session Notes/Session 38.md",
     "Encounters/99 Thinora at Monastary.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
-    "Encounters/12 Shimmerwing Lair V2.md",
     "Gods/Tharizdun.md",
     "Encounters/99 Underdark Encounters.md",
     "NPCs/Xodhu.md",
