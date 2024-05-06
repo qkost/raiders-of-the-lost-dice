@@ -28,6 +28,18 @@
         "dimension": 55.15695067264574,
         "children": [
           {
+            "id": "ceb45672e62f554c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "19be8d5e79c3169f",
             "type": "leaf",
             "state": {
@@ -87,8 +99,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ships.md",
+                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ships.md",
+                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ships.md"
+                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md"
               }
             }
           },
@@ -235,11 +246,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "679f6314c8ed5984",
+  "active": "ceb45672e62f554c",
   "lastOpenFiles": [
+    "Session Notes/Session 38.md",
+    "Locations/Ships.md",
     "NPCs/Zunda'i-Miir.md",
     "Encounters/12 Shimmerwing Lair V2.md",
-    "Session Notes/Session 38.md",
     "Encounters/99 Thinora at Monastary.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Gods/Tharizdun.md",
@@ -281,7 +293,6 @@
     "Encounters/12 Shimmerwing Lair V1.md",
     "Encounters/02 Magic Shop Shadow Demon.md",
     "Templates/Prep Template.md",
-    "Locations/Ships.md",
     "Organizations/Order of Bahamut.md",
     "Untitled.canvas"
   ]
