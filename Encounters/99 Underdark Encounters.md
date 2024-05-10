@@ -1,7 +1,13 @@
 
 ## History
-* Was Drow city -- worshipers of Lolth
-* Tharizdun
+* Was Drow city -- worshipers of [[Lolth, The Spider Queen]]
+* [[Tharizdun]] opened a portal
+* Demons corrupted Drow and turned to madness
+* Beholder named [[Xodhu]], corrupted by [[Tharizdun]] mind controlling Drow & [[Zunda'i-Miir]]
+* Drow corrupted
+	* Defaced temples to Lolth
+	* Grow tumors (eye-stalks?)
+* [[Xodhu]] means to attain the secrets to dispel a Divine Shackle that holds [[Tharizdun]]
 
 ## Big Monsters
 * Mind Flayers

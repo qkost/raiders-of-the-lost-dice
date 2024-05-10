@@ -18,6 +18,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ef2cc0749722dd05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Zathuda, The Sorrow Lord.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60a6d96c663ce564",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Xodhu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -168,6 +192,10 @@
   },
   "active": "ef3602396567f8a1",
   "lastOpenFiles": [
+    "NPCs/Xodhu.md",
+    "Encounters/99 Underdark Encounters.md",
+    "NPCs/Zathuda, The Sorrow Lord.md",
+    "Gods/Lolth, The Spider Queen.md",
     "NPCs/Zunda'i-Miir.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Encounters/12 Shimmerwing Lair V2.md",
@@ -177,8 +205,6 @@
     "Locations/Ships.md",
     "Encounters/99 Thinora at Monastary.md",
     "Gods/Tharizdun.md",
-    "Encounters/99 Underdark Encounters.md",
-    "NPCs/Xodhu.md",
     "Maps/underdark_map_by_repsesper_d3hs363-fullview.jpg",
     "Session Notes/Session 37.md",
     "tmp.md",
@@ -212,8 +238,6 @@
     "Pictures/portal.png.0.pdnSave",
     "NPCs/Petyr (Pete) Archeron.md",
     "Encounters/12 Shimmerwing Lair V1.md",
-    "Encounters/02 Magic Shop Shadow Demon.md",
-    "Templates/Prep Template.md",
     "Untitled.canvas"
   ]
 }
