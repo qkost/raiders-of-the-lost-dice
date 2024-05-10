@@ -66,7 +66,11 @@
 
 * One of six in Exandria
 * Four 1/4 mile long massive chains tied to a great obelisk that reaches up half a mile into the sky
-* 
+* Chains give off a divine light
+* Demons gathered at end of light
+	* Wobalas
+	* Tormenauk
+	* Nx Pitlings (minions)
 
 # 13. TBD
 
