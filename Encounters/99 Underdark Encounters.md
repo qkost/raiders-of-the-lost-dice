@@ -74,7 +74,11 @@
 
 # 9. TBD
 
-# 10. TBD
+# 10. Stalagmite Forest
+
+* Area of beautiful crystals
+	* Monster - 2x [Crystalline Devil](https://www.dndbeyond.com/monsters/4339992-crystalline-devil)
+* 
 
 # 11. Balhannoth's Lair/Stalagmite Forest - Upper
 
