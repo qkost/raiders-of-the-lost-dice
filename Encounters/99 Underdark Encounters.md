@@ -66,7 +66,9 @@
 
 # 5. TBD
 
-# 6. TBD
+# 6. Ilhara-Vel  - Drow City
+
+
 
 # 7. TBD
 
@@ -99,8 +101,8 @@
 * Four 1/4 mile long massive chains tied to a great obelisk that reaches up half a mile into the sky
 * Chains give off a divine light
 * Demons gathered at end of light
-	* Wobalas
-	* Tormenauk
+	* 1x Wobalas
+	* 1x Tormenauk
 	* Nx Pitlings (minions)
 
 # 13. TBD
@@ -126,10 +128,13 @@
 
 * [Neothelid](https://www.dndbeyond.com/monsters/2560887-neothelid) - worm allowed to grow to adulthood
 
-# 16. TBD
+# 16. Former Illithid Colony
 
-# 17. TBD
+See [[99 Underdark Encounters#14. Former Illithid Colony]]
 
+# 17. Former Illithid Colony
+
+See [[99 Underdark Encounters#14. Former Illithid Colony]]
 # 18. TBD
 
 # 19. TBD
