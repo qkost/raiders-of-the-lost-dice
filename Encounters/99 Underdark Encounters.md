@@ -7,6 +7,7 @@
 * Aboleth
 * Bunch o' Demons
 * Drow
+* Neothelid
 
 ## Small Monsters
 
