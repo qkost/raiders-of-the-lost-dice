@@ -105,9 +105,20 @@
 
 # 13. TBD
 
-# 14. TBD
+# 14. Former Illithid Colony
 
-# 15. TBD
+* Cylindrical rooms connected with tunnels
+* Fleshy walls - infected
+* Rooms
+	* Guard room
+	* Common Room
+	* Cleansing Chambers
+* Monsters
+	* 
+
+# 15. Brine Pool
+
+* [Neothelid](https://www.dndbeyond.com/monsters/2560887-neothelid) - worm allowed to grow to adulthood
 
 # 16. TBD
 
@@ -132,9 +143,10 @@
 	* Freelkad Jewelcutter
 	* Tiddlers Rocksnorter
 	* Tuskeih Opalfinder
-	* 
 # 24. Deep Drake Lair
 
+* Roaming undead
+* Possibly hear drake flying around looking for prey
 * Monsters
 	* [Deep Drake](https://www.dndbeyond.com/monsters/4339998-deep-drake)
-	* [Ghouls](https://www.dndbeyond.com/monsters/16872-ghoul)
+	* [Ghouls](https://www.dndbeyond.com/monsters/16872-ghoul) - up to like 3 or 4; maybe fight some ghouls before
