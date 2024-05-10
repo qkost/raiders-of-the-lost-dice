@@ -46,14 +46,9 @@
 * Pitlings (Flee Mortals)
 * 
 
-# 4. Aboleth Pool
+# 4. TBD
 
-* Description
-	* Large cavern is slimy and wet
-	* Water is supernaturally fouled; anyone who drinks it vomits bile
-	* Can create image of itself in cave
-* Monsters
-	* [Aboleth](https://www.dndbeyond.com/monsters/16762-aboleth)
+* 
 
 # 5. TBD
 
@@ -67,7 +62,7 @@
 
 # 10. TBD
 
-# 11. TBD
+# 11. Stalag
 
 # 12. Divine Shackle
 
