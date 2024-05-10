@@ -123,10 +123,18 @@
 
 # 22. TBD
 
-# 23. TBD
+# 23. Deep Gnomes
 
+* Small town
+* Gemstone harvesters
+* Hunted by Deep Drake (area 24)
+* Names
+	* Freelkad Jewelcutter
+	* Tiddlers Rocksnorter
+	* Tuskeih Opalfinder
+	* 
 # 24. Deep Drake Lair
 
 * Monsters
 	* [Deep Drake](https://www.dndbeyond.com/monsters/4339998-deep-drake)
-	* [Ghouls]
+	* [Ghouls](https://www.dndbeyond.com/monsters/16872-ghoul)
