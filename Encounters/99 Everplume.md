@@ -5,14 +5,18 @@ Those who brave the waters surrounding the Torrid Reef, south of the Shearing Ch
 
 * Merrow attack on surface
 * Ocean floor -- cracks of fire
+* Volcano
+* 
 ## Encounters
 
 * Merrow
 	* Attack ship on surface
 	* [Merrow Shallowpriest](https://www.dndbeyond.com/monsters/744322-merrow-shallowpriest)
 	* 5x [Merrow](https://www.dndbeyond.com/monsters/16956-merrow)
-* Earth and fire elementals
-	* 
+* Elementals
+	* [Earth Elemental](https://www.dndbeyond.com/monsters/16853-earth-elemental)
+	* [Fire Elemental](https://www.dndbeyond.com/monsters/16861-fire-elemental)
+	* [Water Elemental](https://www.dndbeyond.com/monsters/17051-water-elemental)
 * Ancient Fire Eel
 	* Ancient Lightning Eel (Flee Mortals)
 	* 3x Lightning Eel (Flee Mortals)
