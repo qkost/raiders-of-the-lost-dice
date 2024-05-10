@@ -96,11 +96,13 @@
 
 # 12. Divine Shackle
 
+* Extremely bright and well-lit
 * Shackles
 	* One of six in Exandria
-* Four 1/4 mile long massive chains tied to a great obelisk that reaches up half a mile into the sky
-* Chains give off a divine light
-* Demons gathered at end of light
+	* Four 1/4 mile long massive chains tied to a great obelisk that reaches up half a mile into the sky
+	* Chains give off a divine light
+	* Drawing demonic glyphs to weaken shackles
+* Monsters
 	* 1x Wobalas
 	* 1x Tormenauk
 	* Nx Pitlings (minions)
