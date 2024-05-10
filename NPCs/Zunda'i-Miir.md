@@ -58,4 +58,5 @@ Zunda'i-Miir's lair is underneath the westernmost of the three Azul Towers in th
 ## Possible Conflicts
 
 * Dreams haunted by a Beholder
+	* Dreams of eyes
 * Beholder [[Xodhu]] delved too deep; uncovered a temple to [[Tharizdun]]'
