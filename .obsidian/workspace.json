@@ -4,76 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "4201cfec44791502",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a2ab3d4c8efc3219",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 38.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78f242b27585e9fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 39.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "5b0b7d956c3e7142",
         "type": "tabs",
         "children": [
-          {
-            "id": "84ca32b2201b97e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/12 Shimmerwing Lair V2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7a40ac64f0b0897d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1fc0da0cd76da92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Zunda'i-Miir.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "ef3602396567f8a1",
             "type": "leaf",
@@ -86,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"

@@ -21,3 +21,7 @@
 * Fungus cave
 * Portal to the Abyss
 * Divine Shackles
+
+# 1. Ebon Lake
+
+# 2. Drow Ruin
