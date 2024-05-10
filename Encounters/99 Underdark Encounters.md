@@ -39,8 +39,12 @@
 # 2. Drow Ruin
 
 * Monument to [[Lolth, The Spider Queen]]
-	* Defaced by incomprehen
+	* Defaced by incomprehensible maze-like symbols
+	* Covered in webs
 * Tunnel hidden underneath (Underpassage)
+* Monsters
+	* 2x [Choldrith](https://www.dndbeyond.com/monsters/2560755-choldrith)
+	* 6x [Chitine](https://www.dndbeyond.com/monsters/2560753-chitine)
 * TODO Some sort of puzzle
 
 # 3. Underpassage and Steep Ascent
