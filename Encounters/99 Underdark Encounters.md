@@ -38,14 +38,19 @@
 
 # 2. Drow Ruin
 
+* Monument to [[Lolth, The Spider Queen]]
+	* Defaced by incomprehen
 * Tunnel hidden underneath (Underpassage)
 * TODO Some sort of puzzle
 
 # 3. Underpassage and Steep Ascent
 
+### 3.1 Underpassage
 * Pitlings (Flee Mortals)
-* 
 
+### 3.2 Steep Ascent
+* Two large steps of 40-foot cliffs
+* [Bulette](https://www.dndbeyond.com/monsters/16818-bulette) (2x)
 # 4. TBD
 
 * 
