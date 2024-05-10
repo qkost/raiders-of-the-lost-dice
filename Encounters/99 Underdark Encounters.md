@@ -55,9 +55,14 @@
 ### 3.2 Steep Ascent
 * Two large steps of 40-foot cliffs
 * [Bulette](https://www.dndbeyond.com/monsters/16818-bulette) (2x)
-# 4. TBD
+# 4. Aboleth Lair
 
-* 
+* Slimy and wet -- difficult terrain
+* Water sources are foul -- vomit bile if drank
+* Monsters
+	* [Aboleth](https://www.dndbeyond.com/monsters/16762-aboleth)
+	* [Chuul](https://www.dndbeyond.com/monsters/16824-chuul) (lobster aberrations corrupted by aboleths)
+	* 
 
 # 5. TBD
 
