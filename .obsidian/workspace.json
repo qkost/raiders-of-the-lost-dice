@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/99 Everplume.md",
+                "file": "Encounters/99 Underdark Encounters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/99 Everplume.md",
+                "file": "Encounters/99 Underdark Encounters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/99 Everplume.md"
+                "file": "Encounters/99 Underdark Encounters.md"
               }
             }
           },
@@ -215,8 +214,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "193e2c031e8b253c",
+  "active": "ef3602396567f8a1",
   "lastOpenFiles": [
+    "Encounters/99 Everplume.md",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/Eldritch Church [26x57] - $5 Rewards Pt.2/Gridless/GL_EldritchChurch_TheDoom.jpg",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/Eldritch Church [26x57] - $5 Rewards Pt.2/Gridless/GL_EldritchChurch_TheOutsider.jpg",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/__MACOSX/Eldritch Church [26x57] - $5 Rewards Pt.2/Gridless",
@@ -228,7 +228,6 @@
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/Eldritch Church [26x57] - $5 Rewards Pt.2/Gridless/GL_EldritchChurch_Sacrifice.jpg",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/Eldritch Church [26x57] - $5 Rewards Pt.2/Gridless/GL_EldritchChurch_Ryleh.jpg",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/Eldritch Church [26x57] - $5 Rewards Pt.2/Gridless/GL_EldritchChurch_RedWomb.jpg",
-    "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/Eldritch Church [26x57] - $5 Rewards Pt.2/Gridless/GL_EldritchChurch_Original.jpg",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/__MACOSX/Eldritch Church [26x57] - $5 Rewards Pt.2",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/Eldritch Church [26x57] - $5 Rewards Pt.2/Gridless",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/__MACOSX",
@@ -239,7 +238,6 @@
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.1/Eldritch Church [26x57] - $5 Rewards Pt.1/Gridded",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.1/__MACOSX",
     "Encounters/99 Underdark Encounters.md",
-    "Encounters/99 Everplume.md",
     "PCs/Kelward.md",
     "NPCs/Xodhu.md",
     "NPCs/Zathuda, The Sorrow Lord.md",
