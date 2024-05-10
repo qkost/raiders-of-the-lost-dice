@@ -108,7 +108,7 @@
 # 14. Former Illithid Colony
 
 * Cylindrical rooms connected with tunnels
-* Fleshy walls - infected
+* Fleshy walls - infected/corrupted by demonic influence
 * Rooms
 	* Guard room
 	* Common Room
