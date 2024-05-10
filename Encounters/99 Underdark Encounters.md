@@ -115,8 +115,12 @@
 	* Cleansing Chambers
 	* Transformation Chamber
 	* Prison
-* Monsters
-	* 
+* Monsters -- patrols (random encounters?)
+	* Tons of Pitlings (flee mortals)
+	* (1d4-1) Ruinant (flee mortals)
+	* Tormenauk
+	* Wobalas -- have ranged battle
+	* Chimeron
 
 # 15. Brine Pool
 
