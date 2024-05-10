@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "193e2c031e8b253c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encounters/99 Everplume.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "87858544b09778eb",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/99 Underdark Encounters.md",
+                "file": "Encounters/99 Everplume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/99 Underdark Encounters.md",
+                "file": "Encounters/99 Everplume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/99 Underdark Encounters.md"
+                "file": "Encounters/99 Everplume.md"
               }
             }
           },
@@ -202,10 +215,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef3602396567f8a1",
+  "active": "193e2c031e8b253c",
   "lastOpenFiles": [
-    "PCs/Kelward.md",
     "Encounters/99 Underdark Encounters.md",
+    "Encounters/99 Everplume.md",
+    "PCs/Kelward.md",
     "NPCs/Xodhu.md",
     "NPCs/Zathuda, The Sorrow Lord.md",
     "Gods/Lolth, The Spider Queen.md",
@@ -249,7 +263,6 @@
     "Pictures/rin.png",
     "Pictures/637199798853992915.jpeg",
     "Pictures/portal.png.0.pdnSave",
-    "NPCs/Petyr (Pete) Archeron.md",
     "Untitled.canvas"
   ]
 }
