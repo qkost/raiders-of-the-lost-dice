@@ -4,3 +4,6 @@ Those who brave the waters surrounding the Torrid Reef, south of the Shearing Ch
 ## Encounters
 
 * Merrow
+	* [Merrow Shallowpriest](https://www.dndbeyond.com/monsters/744322-merrow-shallowpriest)
+	* 5x [Merrow](https://www.dndbeyond.com/monsters/16956-merrow)
+* 
