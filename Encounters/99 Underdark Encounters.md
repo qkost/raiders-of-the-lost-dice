@@ -20,7 +20,7 @@
 ## Small Monsters
 
 * Bulette
-* 
+* Draegloth
 
 ## Environment
 
@@ -67,7 +67,10 @@
 
 # 6. Ilhara-Vel  - Drow City
 
-
+* Monsters
+	* Draegloth
+	* Driders
+	* Yochlol
 
 # 7. TBD
 
