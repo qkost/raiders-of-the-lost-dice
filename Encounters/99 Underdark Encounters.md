@@ -113,6 +113,8 @@
 	* Guard room
 	* Common Room
 	* Cleansing Chambers
+	* Transformation Chamber
+	* Prison
 * Monsters
 	* 
 
