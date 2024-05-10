@@ -62,7 +62,11 @@
 
 # 11. TBD
 
-# 12. TBD
+# 12. Divine Shackle
+
+* One of six in Exandria
+* Four 1/4 mile long massive chains tied to a great obelisk that reaches up half a mile into the sky
+* 
 
 # 13. TBD
 
