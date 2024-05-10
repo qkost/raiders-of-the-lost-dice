@@ -62,7 +62,6 @@
 * Monsters
 	* [Aboleth](https://www.dndbeyond.com/monsters/16762-aboleth)
 	* [Chuul](https://www.dndbeyond.com/monsters/16824-chuul) (lobster aberrations corrupted by aboleths)
-	* 
 
 # 5. TBD
 
@@ -97,13 +96,15 @@
 
 # 12. Divine Shackle
 
-* One of six in Exandria
+* Shackles
+	* One of six in Exandria
 * Four 1/4 mile long massive chains tied to a great obelisk that reaches up half a mile into the sky
 * Chains give off a divine light
 * Demons gathered at end of light
 	* 1x Wobalas
 	* 1x Tormenauk
 	* Nx Pitlings (minions)
+
 
 # 13. TBD
 
