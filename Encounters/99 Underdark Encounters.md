@@ -39,7 +39,7 @@
 # 2. Drow Ruin
 
 * Tunnel hidden underneath (Underpassage)
-* Some sort of puzzle
+* TODO Some sort of puzzle
 
 # 3. Underpassage and Steep Ascent
 
