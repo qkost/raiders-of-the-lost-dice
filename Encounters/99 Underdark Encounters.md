@@ -77,8 +77,9 @@
 # 10. Stalagmite Forest
 
 * Area of beautiful crystals
-	* Monster - 2x [Crystalline Devil](https://www.dndbeyond.com/monsters/4339992-crystalline-devil)
-* 
+	* Monsters
+		* 2x [Crystalline Devil](https://www.dndbeyond.com/monsters/4339991-crystalline-devil-devil-summoning-variant)
+		* 3x [Animated Armor -- Crystals though](https://www.dndbeyond.com/monsters/16786-animated-armor)
 
 # 11. Balhannoth's Lair/Stalagmite Forest - Upper
 
@@ -124,4 +125,8 @@
 
 # 23. TBD
 
-# 24. TBD
+# 24. Deep Drake Lair
+
+* Monsters
+	* [Deep Drake](https://www.dndbeyond.com/monsters/4339998-deep-drake)
+	* [Ghouls]
