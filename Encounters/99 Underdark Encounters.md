@@ -62,7 +62,17 @@
 
 # 10. TBD
 
-# 11. Stalag
+# 11. Balhannoth's Lair/Stalagmite Forest - Upper
+
+* Stalagmite forest gives way to a beautiful place
+	* Filled with clouds
+* Illusions
+	* Shimmerwing
+	* Petyr Archeron
+	* Ferrox (dragonborn)
+	* Marya (human woman)
+* Monsters
+	* [Balhannoth](https://www.dndbeyond.com/monsters/2560732-balhannoth)
 
 # 12. Divine Shackle
 

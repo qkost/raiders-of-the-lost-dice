@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "87858544b09778eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCs/Kelward.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ef2cc0749722dd05",
             "type": "leaf",
             "state": {
@@ -192,8 +204,9 @@
   },
   "active": "ef3602396567f8a1",
   "lastOpenFiles": [
-    "NPCs/Xodhu.md",
+    "PCs/Kelward.md",
     "Encounters/99 Underdark Encounters.md",
+    "NPCs/Xodhu.md",
     "NPCs/Zathuda, The Sorrow Lord.md",
     "Gods/Lolth, The Spider Queen.md",
     "NPCs/Zunda'i-Miir.md",
@@ -237,7 +250,6 @@
     "Pictures/637199798853992915.jpeg",
     "Pictures/portal.png.0.pdnSave",
     "NPCs/Petyr (Pete) Archeron.md",
-    "Encounters/12 Shimmerwing Lair V1.md",
     "Untitled.canvas"
   ]
 }
