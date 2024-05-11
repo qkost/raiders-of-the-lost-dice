@@ -145,7 +145,9 @@ See [[99 Underdark Encounters#14. Former Illithid Colony]]
 # 17. Former Illithid Colony
 
 See [[99 Underdark Encounters#14. Former Illithid Colony]]
-# 18. TBD
+# 18. Bridge
+
+![[bridge_55x40.webp]]
 
 # 19. TBD
 
