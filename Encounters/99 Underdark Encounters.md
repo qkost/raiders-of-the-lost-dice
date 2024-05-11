@@ -153,7 +153,8 @@ See [[99 Underdark Encounters#14. Former Illithid Colony]]
 
 # 19. Beholder Lair
 
-* 
+* [Beholder](https://www.dndbeyond.com/monsters/17099-beholder)
+* Gate to the Abyss
 
 ![[Maps/Lair of the Beholder God [29x30] - $5 Rewards/Gridded/G_LairOfTheBeholderGod_Cult.jpg]]
 
