@@ -40,6 +40,7 @@ https://www.reddit.com/r/dndmaps/comments/uquxxw/underdark_themed_maps_including
 * Monsters
 	* 
 
+![[docks_45x35.webp]]
 # 2. Drow Ruin
 
 * Monument to [[Lolth, The Spider Queen]]
@@ -76,6 +77,7 @@ https://www.reddit.com/r/dndmaps/comments/uquxxw/underdark_themed_maps_including
 	* Driders
 	* Yochlol
 
+![[drow_city_55x40.webp]]
 # 7. TBD
 
 # 8. TBD
@@ -153,7 +155,9 @@ See [[99 Underdark Encounters#14. Former Illithid Colony]]
 
 # 20. TBD
 
-# 21. TBD
+# 21. Illuminated Caves
+
+![[illuminated_caves_45,x40.webp]]
 
 # 22. TBD
 
