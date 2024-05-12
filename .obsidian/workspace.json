@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 01 - The Adventure Begins!.md",
+                "file": "Session Notes/Session 39.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 317.5
   },
   "right": {
     "id": "c0b9a18b1f8d4adb",
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 01 - The Adventure Begins!.md",
+                "file": "Session Notes/Session 39.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 01 - The Adventure Begins!.md",
+                "file": "Session Notes/Session 39.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 01 - The Adventure Begins!.md"
+                "file": "Session Notes/Session 39.md"
               }
             }
           },
@@ -258,10 +258,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f92f205f31d0ba58",
+  "active": "dfd59b66150baecb",
   "lastOpenFiles": [
-    "Locations/Port Damali/Port Damali Overview and Wards.md",
     "Session Notes/Session 01 - The Adventure Begins!.md",
+    "Session Notes/Session 30 - The Test of Wit.md",
+    "Session Notes/Session 29 - No Name's Carnival.md",
+    "Locations/Port Damali/Port Damali Overview and Wards.md",
     "Session Notes/Session 02 - Oddities.md",
     "Session Notes/Session 03 - Detective Work.md",
     "Session Notes/Session 04 - Uncovering a Conspiracy.md",
@@ -284,8 +286,6 @@
     "Session Notes/Session 20 - Charybdis.md",
     "Session Notes/Session 21 - A Pirate's Life for Me.md",
     "Session Notes/Session 22 - The Best Clam Chowder in Darktow.md",
-    "Session Notes/Session 23 - Trouble at the Tidepool Arena.md",
-    "Session Notes/Session 24 - Wanted in Darktow.md",
     "Maps/underdark/docks_45x35.webp",
     "Maps/underdark/bridge_55x40.webp",
     "Maps/underdark/flooded_caves_55x30.webp",

@@ -3,7 +3,7 @@
 
 * [[No Name]] stole [[Shadowclaw]]'s name
 * Carnival
-* Wagers  -- see [[Session 30 - No Name#8. Select Magic Item Rewards]]
+* Wagers  -- see [[Session 30 - The Test of Wit#8. Select Magic Item Rewards]]
 * Challenges
 	* Passed Test of Wimsy -- only failed on test of strength (faced displacer beasts)
 	* Passed Test of Wile -- [[Kelward]] quickly found his double; [[Shadowclaw]] was surprised
