@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 39.md",
+                "file": "Session Notes/Session 38 - Trial of Bahamut's Temple.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfd59b66150baecb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 34.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "3c95998dfd914eee",
@@ -173,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 39.md",
+                "file": "Session Notes/Session 34.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 39.md",
+                "file": "Session Notes/Session 34.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 39.md"
+                "file": "Session Notes/Session 34.md"
               }
             }
           },
@@ -246,10 +258,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3642f80518ab9873",
+  "active": "dfd59b66150baecb",
   "lastOpenFiles": [
-    "Locations/Port Damali/Port Damali Overview and Wards.md",
+    "Session Notes/Session 35 - Seas and Ports.md",
+    "Session Notes/Session 34.md",
+    "Session Notes/Session 33 - Dockside Dragons.md",
+    "Session Notes/Session 36 - Homecoming.md",
+    "Session Notes/Session 37 - Secrets of Brokenveil Peak.md",
     "Session Notes/Session 39.md",
+    "Session Notes/Session 38 - Trial of Bahamut's Temple.md",
+    "Locations/Port Damali/Port Damali Overview and Wards.md",
     "Locations/Palma Flora.md",
     "Encounters/99 Everplume.md",
     "Locations/Port Damali/Arcane Oddities.md",
@@ -284,16 +302,10 @@
     "NPCs/Zunda'i-Miir.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Encounters/12 Shimmerwing Lair V2.md",
-    "Session Notes/Session 38.md",
     "NPCs/Abbot Bok.md",
     "Locations/Ships.md",
     "Encounters/99 Thinora at Monastary.md",
     "Gods/Tharizdun.md",
-    "Session Notes/Session 37.md",
-    "tmp.md",
-    "Session Notes/Session 35.md",
-    "Session Notes/Session 36.md",
-    "Encounters/09 Plank King.md",
     "Untitled.canvas"
   ]
 }

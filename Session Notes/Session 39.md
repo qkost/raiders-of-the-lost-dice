@@ -37,6 +37,7 @@
 
 * Recap of battle
 	* Abbot Bok doing cool shit
+		* Damage to Thinora seems to be shared with Rin
 	* Rin - shoots someone with crossbow and silences them; engages with Bok with flametongue
 	* Kefra - One of the monks attacks her, but she appears in a different place; casts a spell of black energy that causes one of the monks to scream and flee
 	* Thinora
@@ -61,6 +62,17 @@
 	* Portals go to random location
 	* Controlled by Efreet
 	* Slavery, connection with the Hells
+* [[Zunda'i-Miir]] secrets
+	* Zunda'i-Miir's lair is underneath the westernmost of the three Azul Towers in the Stonecage Cliffs. The towers are not the tallest peaks in the range, but have unmistakable vertical nearly-identical spires. They are named after their turquoise blue tarns caved from their glaciers.
+	* Fights aberrations
+		* Portals ripped open to outer planes during Calamity
+		* A large one opened beneath the Stonecage Cliffs; which the dragon defends
+	* Underdark
+	* Troubled dreams
+* [[Lady Thinora Va'del, Archmage of Antiquity]] has two bodyguards Rin Monisk and Kefra Dhes
+	* Rin has Condemner
+	* Rin uses Warding Bond
+	* Kefra is another high level spellcaster
 
 ### 5. Fantastic Locations
 
