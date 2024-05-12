@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 38 - Trial of Bahamut's Temple.md",
+                "file": "Session Notes/Session 38 - Trial by Starlight.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 20.md",
+                "file": "Session Notes/Session 10 - Diverging Paths.md",
                 "mode": "source",
                 "source": false
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 20.md",
+                "file": "Session Notes/Session 10 - Diverging Paths.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 20.md",
+                "file": "Session Notes/Session 10 - Diverging Paths.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 20.md"
+                "file": "Session Notes/Session 10 - Diverging Paths.md"
               }
             }
           },
@@ -260,8 +260,18 @@
   },
   "active": "dfd59b66150baecb",
   "lastOpenFiles": [
+    "Session Notes/Session 11 - Ascent of Brokenveil Peak.md",
+    "Session Notes/Session 12 - Sanctuary of the Draconic Protector.md",
+    "Session Notes/Session 38 - Trial by Starlight.md",
+    "Session Notes/Session 13 - The Abbot's Secret.md",
+    "Session Notes/Session 15 - To the Depths!.md",
+    "Session Notes/Session 16 - Ghost Pirates.md",
+    "Session Notes/Session 14 - Old Friends.md",
+    "Session Notes/Session 17 - The Sickly Abyss.md",
+    "Session Notes/Session 18 - Ungradaal.md",
+    "Session Notes/Session 19 - Clash with the Captain.md",
+    "Session Notes/Session 20 - Charybdis.md",
     "Session Notes/Session 21 - A Pirate's Life for Me.md",
-    "Session Notes/Session 20.md",
     "Session Notes/Session 22 - The Best Clam Chowder in Darktow.md",
     "Session Notes/Session 23 - Trouble at the Tidepool Arena.md",
     "Session Notes/Session 24 - Wanted in Darktow.md",
@@ -276,15 +286,6 @@
     "Session Notes/Session 36 - Homecoming.md",
     "Session Notes/Session 37 - Secrets of Brokenveil Peak.md",
     "Session Notes/Session 39.md",
-    "Session Notes/Session 38 - Trial of Bahamut's Temple.md",
-    "Locations/Port Damali/Port Damali Overview and Wards.md",
-    "Locations/Palma Flora.md",
-    "Encounters/99 Everplume.md",
-    "Locations/Port Damali/Arcane Oddities.md",
-    "Names.md",
-    "NPCs/Dr. April Moors.md",
-    "Magic Items/Magic Items.md",
-    "Encounters/99 Underdark Encounters.md",
     "Maps/underdark/docks_45x35.webp",
     "Maps/underdark/bridge_55x40.webp",
     "Maps/underdark/flooded_caves_55x30.webp",
@@ -305,7 +306,6 @@
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.1/__MACOSX/Eldritch Church [26x57] - $5 Rewards Pt.1/Gridded",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.1/__MACOSX/Eldritch Church [26x57] - $5 Rewards Pt.1",
-    "PCs/Kelward.md",
     "Untitled.canvas"
   ]
 }
