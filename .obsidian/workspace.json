@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Port Damali/Arcane Oddities.md",
+                "file": "Magic Items/Magic Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Port Damali/Arcane Oddities.md",
+                "file": "Magic Items/Magic Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Port Damali/Arcane Oddities.md"
+                "file": "Magic Items/Magic Items.md"
               }
             }
           },
@@ -197,10 +197,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45cb05c81ecc0511",
+  "active": "a6c72ca2377ac429",
   "lastOpenFiles": [
-    "Magic Items/Magic Items.md",
     "Locations/Port Damali/Arcane Oddities.md",
+    "Magic Items/Magic Items.md",
     "Locations/Palma Flora.md",
     "Encounters/99 Underdark Encounters.md",
     "Maps/underdark/docks_45x35.webp",

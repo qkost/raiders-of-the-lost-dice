@@ -10,11 +10,12 @@
 	- [[Oops-Stone]] (x3) - 7 gp
 	- [Cloak of Billowing](http://dnd5e.wikidot.com/wondrous-items:cloak-of-billowing) (x1) - 30 gp
 	- [[Celebone]] (x2) - 25 gp
-	- [[Leading Rapier]] (x1) - 30 gp
+	- (sold) [[Leading Rapier]] (x1) - 30 gp
 	- Potion of healing (x3) - 50 gp
 	- Potion of greater healing (x1) - 150 gp
 	- [Potion of Climbing](https://www.dndbeyond.com/magic-items/4702-potion-of-climbing) (x1) - 180 gp
 	- Potion of Diminution (x1) - 270 gp
+	- [Potion of Resistance](https://www.dndbeyond.com/magic-items/5419-potion-of-resistance) - 300 gp
 	- Fine paper and ink (for copying books) - 870 gp worth
 	- Spell scrolls
 		- L0 - 30 gp (80% chance)
@@ -24,7 +25,10 @@
 	* [Sovereign Glue](https://www.dndbeyond.com/magic-items/4756-sovereign-glue) (x1) - 150 gp
 	* [Ioun Stone of Protection](https://www.dndbeyond.com/magic-items/4939-ioun-stone-of-protection) (x1) - 1000 gp
 	* [Immovable rod](https://www.dndbeyond.com/magic-items/4662-immovable-rod) - 750 gp
-	* 
+	* [Slippers of Spider Climbing](https://www.dndbeyond.com/magic-items/4755-slippers-of-spider-climbing) - 1000 gp
+	* [Ring of Spell Storing](https://www.dndbeyond.com/magic-items/4730-ring-of-spell-storing) - 5000 gp
+	* [Quaal's Feather Token](https://www.dndbeyond.com/magic-items/13584-quaals-feather-token) - 500 gp
+
 * Crafting spell scroll
 
 |Level|Time Cost|Gold Cost|
