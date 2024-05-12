@@ -10,7 +10,7 @@ Connection to [[Dr. April Moors]]
 - Items protected from theft by a [Glyph of Warding](https://roll20.net/compendium/dnd5e/Glyph%20of%20Warding#content)
 - Magic items
 	- [[Oops-Stone]] (x3) - 7 gp
-	- [Cloak of Billowing](http://dnd5e.wikidot.com/wondrous-items:cloak-of-billowing) (x1) - 30 gp
+	- (sold) [Cloak of Billowing](http://dnd5e.wikidot.com/wondrous-items:cloak-of-billowing) (x1) - 30 gp
 	- [[Celebone]] (x2) - 25 gp
 	- (sold) [[Leading Rapier]] (x1) - 30 gp
 	- Potion of healing (x3) - 50 gp
@@ -18,6 +18,7 @@ Connection to [[Dr. April Moors]]
 	- [Potion of Climbing](https://www.dndbeyond.com/magic-items/4702-potion-of-climbing) (x1) - 180 gp
 	- Potion of Diminution (x1) - 270 gp
 	- [Potion of Resistance](https://www.dndbeyond.com/magic-items/5419-potion-of-resistance) - 300 gp
+	- [Potion of Flying](https://www.dndbeyond.com/magic-items/4704-potion-of-flying) - 300 gp
 	- Fine paper and ink (for copying books) - 870 gp worth
 	- Spell scrolls
 		- L0 - 30 gp (80% chance)

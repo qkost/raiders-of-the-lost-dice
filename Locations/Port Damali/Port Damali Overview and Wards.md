@@ -86,6 +86,7 @@
 * Lavish as docks come
 * Dozens of ships come to port; perhaps hundreds docked
 * Fine establishments to enable high-end sailors live like kings for a short time
+* Dockmaster: Silvester Sygil - The Sea Snail
 
 ### Locations
 

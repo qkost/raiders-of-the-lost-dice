@@ -44,11 +44,19 @@
 
 ### 4. Secrets and Clues
 
-* 
+* [[Dr. April Moors]] is a Plane Walker
+* [[Lady Thinora Va'del, Archmage of Antiquity]] -  has many people turned into jewelry that she wears
+	* [[Petyr (Pete) Archeron]]
+	* [[Abbot Bok]]
+* Plane of Fire
+	* Extremely hot -- resting not possible outside the City of Brass
+	* Portals go to random location
+	* Controlled by Efreet
+	* Slavery, connection with the Hells
 
 ### 5. Fantastic Locations
 
-* 
+* Thaddeus Grimshaw - [[Arcane Oddities]]
 
 ### 6. Important NPCs
 

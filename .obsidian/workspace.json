@@ -39,6 +39,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "bb8b6af8d990b4c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Port Damali/Arcane Oddities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a6c72ca2377ac429",
             "type": "leaf",
             "state": {
@@ -74,8 +86,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Names.md",
+                "file": "Session Notes/Session 39.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Names.md",
+                "file": "Session Notes/Session 39.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Names.md"
+                "file": "Session Notes/Session 39.md"
               }
             }
           },
@@ -222,12 +233,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e1b3e2a5b28dc65",
+  "active": "3642f80518ab9873",
   "lastOpenFiles": [
-    "Locations/Port Damali/Port Damali Overview and Wards.md",
-    "Session Notes/Session 39.md",
-    "NPCs/Dr. April Moors.md",
     "Locations/Port Damali/Arcane Oddities.md",
+    "Session Notes/Session 39.md",
+    "Locations/Port Damali/Port Damali Overview and Wards.md",
+    "Names.md",
+    "NPCs/Dr. April Moors.md",
     "Magic Items/Magic Items.md",
     "Locations/Palma Flora.md",
     "Encounters/99 Underdark Encounters.md",
@@ -269,7 +281,6 @@
     "Session Notes/Session 35.md",
     "Session Notes/Session 36.md",
     "Encounters/09 Plank King.md",
-    "Session Notes/Session 34.md",
     "Untitled.canvas"
   ]
 }
