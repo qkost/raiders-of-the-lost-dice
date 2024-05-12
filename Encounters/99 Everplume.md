@@ -6,7 +6,6 @@ Those who brave the waters surrounding the Torrid Reef, south of the Shearing Ch
 * Merrow attack on surface
 * Ocean floor -- cracks of fire
 * Volcano
-* 
 ## Encounters
 
 * Merrow

@@ -35,12 +35,18 @@
 
 ### 2. Strong Start
 
-* 
+* Recap of battle
+	* Abbot Bok doing cool shit
+	* Rin - shoots someone with crossbow and silences them; engages with Bok with flametongue
+	* Kefra - One of the monks attacks her, but she appears in a different place; casts a spell of black energy that causes one of the monks to scream and flee
+	* Thinora
+		* True polymorph Abbot Bock into ring
+		* Silver wing with dragon scales -- [[abbot-bok.png]]
+		* Gold signet ring with a small spark -- [[Petyr (Pete) Archeron]]
 
 ### 3. Scenes
 
 * Thinora - message about taking over ship
-* 
 
 ### 4. Secrets and Clues
 
@@ -56,11 +62,11 @@
 
 ### 5. Fantastic Locations
 
-* Thaddeus Grimshaw - [[Arcane Oddities]]
+* [[99 Everplume]]
 
 ### 6. Important NPCs
 
-* 
+* Thaddeus Grimshaw - [[Arcane Oddities]]
 
 ### 7. Choose Relevant Monsters
 
