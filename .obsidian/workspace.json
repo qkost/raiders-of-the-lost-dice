@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 10 - Diverging Paths.md",
+                "file": "Session Notes/Session 01 - The Adventure Begins!.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 372.5
   },
   "right": {
     "id": "c0b9a18b1f8d4adb",
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 10 - Diverging Paths.md",
+                "file": "Session Notes/Session 01 - The Adventure Begins!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 10 - Diverging Paths.md",
+                "file": "Session Notes/Session 01 - The Adventure Begins!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 10 - Diverging Paths.md"
+                "file": "Session Notes/Session 01 - The Adventure Begins!.md"
               }
             }
           },
@@ -258,8 +258,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfd59b66150baecb",
+  "active": "f92f205f31d0ba58",
   "lastOpenFiles": [
+    "Locations/Port Damali/Port Damali Overview and Wards.md",
+    "Session Notes/Session 01 - The Adventure Begins!.md",
+    "Session Notes/Session 02 - Oddities.md",
+    "Session Notes/Session 03 - Detective Work.md",
+    "Session Notes/Session 04 - Uncovering a Conspiracy.md",
+    "Session Notes/Session 05 - A Blocked Path.md",
+    "Session Notes/Session 06 - The Concertina.md",
+    "Session Notes/Session 07 - Chase through the Sewers.md",
+    "Session Notes/Session 08 - We are the Many.md",
+    "Session Notes/Session 09 - The Archmage of Antiquity.md",
+    "Session Notes/Session 10 - Diverging Paths.md",
     "Session Notes/Session 11 - Ascent of Brokenveil Peak.md",
     "Session Notes/Session 12 - Sanctuary of the Draconic Protector.md",
     "Session Notes/Session 38 - Trial by Starlight.md",
@@ -275,17 +286,6 @@
     "Session Notes/Session 22 - The Best Clam Chowder in Darktow.md",
     "Session Notes/Session 23 - Trouble at the Tidepool Arena.md",
     "Session Notes/Session 24 - Wanted in Darktow.md",
-    "Session Notes/Session 25 - Tense Negotiations.md",
-    "Session Notes/Session 26 - Tortles All the Way Down.md",
-    "Session Notes/Session 27 - The Tunnel Entrance.md",
-    "Session Notes/Session 28 - The Plank King.md",
-    "Session Notes/Session 29 - No Name.md",
-    "Session Notes/Session 34 - Loose Ends.md",
-    "Session Notes/Session 35 - Seas and Ports.md",
-    "Session Notes/Session 33 - Dockside Dragons.md",
-    "Session Notes/Session 36 - Homecoming.md",
-    "Session Notes/Session 37 - Secrets of Brokenveil Peak.md",
-    "Session Notes/Session 39.md",
     "Maps/underdark/docks_45x35.webp",
     "Maps/underdark/bridge_55x40.webp",
     "Maps/underdark/flooded_caves_55x30.webp",
