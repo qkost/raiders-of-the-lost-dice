@@ -23,7 +23,8 @@
 		- L3 - 450 gp (20% chance)
 	* [Sovereign Glue](https://www.dndbeyond.com/magic-items/4756-sovereign-glue) (x1) - 150 gp
 	* [Ioun Stone of Protection](https://www.dndbeyond.com/magic-items/4939-ioun-stone-of-protection) (x1) - 1000 gp
-	* [Circlet of Blasting](https://www.dndbeyond.com/magic-items/4603-circlet-of-blasting) (x1) - 1500 gp
+	* [Immovable rod](https://www.dndbeyond.com/magic-items/4662-immovable-rod) - 750 gp
+	* 
 * Crafting spell scroll
 
 |Level|Time Cost|Gold Cost|

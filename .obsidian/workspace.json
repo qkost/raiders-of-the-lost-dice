@@ -18,6 +18,37 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45cb05c81ecc0511",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Port Damali/Arcane Oddities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "3c95998dfd914eee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6c72ca2377ac429",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic Items/Magic Items.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -93,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Palma Flora.md",
+                "file": "Locations/Port Damali/Arcane Oddities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Palma Flora.md",
+                "file": "Locations/Port Damali/Arcane Oddities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Palma Flora.md"
+                "file": "Locations/Port Damali/Arcane Oddities.md"
               }
             }
           },
@@ -166,10 +197,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f92f205f31d0ba58",
+  "active": "45cb05c81ecc0511",
   "lastOpenFiles": [
-    "Encounters/99 Underdark Encounters.md",
+    "Magic Items/Magic Items.md",
+    "Locations/Port Damali/Arcane Oddities.md",
     "Locations/Palma Flora.md",
+    "Encounters/99 Underdark Encounters.md",
     "Maps/underdark/docks_45x35.webp",
     "Maps/underdark/bridge_55x40.webp",
     "Maps/underdark/flooded_caves_55x30.webp",
@@ -206,14 +239,12 @@
     "Gods/Tharizdun.md",
     "Session Notes/Session 37.md",
     "tmp.md",
-    "Magic Items/Magic Items.md",
     "Session Notes/Session 35.md",
     "Session Notes/Session 36.md",
     "Encounters/09 Plank King.md",
     "Session Notes/Session 34.md",
     "Organizations/Order of the Ascendant Dragon.md",
     "PCs/Tato.md",
-    "Locations/Brokenbank.md",
     "Untitled.canvas"
   ]
 }
