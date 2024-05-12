@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 34.md",
+                "file": "Session Notes/Session 20.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 361.5
   },
   "right": {
     "id": "c0b9a18b1f8d4adb",
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 34.md",
+                "file": "Session Notes/Session 20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 34.md",
+                "file": "Session Notes/Session 20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 34.md"
+                "file": "Session Notes/Session 20.md"
               }
             }
           },
@@ -260,8 +260,18 @@
   },
   "active": "dfd59b66150baecb",
   "lastOpenFiles": [
+    "Session Notes/Session 21 - A Pirate's Life for Me.md",
+    "Session Notes/Session 20.md",
+    "Session Notes/Session 22 - The Best Clam Chowder in Darktow.md",
+    "Session Notes/Session 23 - Trouble at the Tidepool Arena.md",
+    "Session Notes/Session 24 - Wanted in Darktow.md",
+    "Session Notes/Session 25 - Tense Negotiations.md",
+    "Session Notes/Session 26 - Tortles All the Way Down.md",
+    "Session Notes/Session 27 - The Tunnel Entrance.md",
+    "Session Notes/Session 28 - The Plank King.md",
+    "Session Notes/Session 29 - No Name.md",
+    "Session Notes/Session 34 - Loose Ends.md",
     "Session Notes/Session 35 - Seas and Ports.md",
-    "Session Notes/Session 34.md",
     "Session Notes/Session 33 - Dockside Dragons.md",
     "Session Notes/Session 36 - Homecoming.md",
     "Session Notes/Session 37 - Secrets of Brokenveil Peak.md",
@@ -296,16 +306,6 @@
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.1/__MACOSX/Eldritch Church [26x57] - $5 Rewards Pt.1/Gridded",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.1/__MACOSX/Eldritch Church [26x57] - $5 Rewards Pt.1",
     "PCs/Kelward.md",
-    "NPCs/Xodhu.md",
-    "NPCs/Zathuda, The Sorrow Lord.md",
-    "Gods/Lolth, The Spider Queen.md",
-    "NPCs/Zunda'i-Miir.md",
-    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
-    "Encounters/12 Shimmerwing Lair V2.md",
-    "NPCs/Abbot Bok.md",
-    "Locations/Ships.md",
-    "Encounters/99 Thinora at Monastary.md",
-    "Gods/Tharizdun.md",
     "Untitled.canvas"
   ]
 }
