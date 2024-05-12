@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Port Damali/Arcane Oddities.md",
+                "file": "NPCs/Dr. April Moors.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "NPCs/Dr. April Moors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "NPCs/Dr. April Moors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Magic Items.md"
+                "file": "NPCs/Dr. April Moors.md"
               }
             }
           },
@@ -197,7 +197,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a6c72ca2377ac429",
+  "active": "45cb05c81ecc0511",
   "lastOpenFiles": [
     "Locations/Port Damali/Arcane Oddities.md",
     "Magic Items/Magic Items.md",

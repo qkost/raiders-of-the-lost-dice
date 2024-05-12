@@ -1,4 +1,6 @@
 
+Connection to [[Dr. April Moors]]
+
 - Thaddeus Grimshaw -
 	- Gnome wizard
 	- A quirky and eccentric wizard with an extensive knowledge of arcane lore.
