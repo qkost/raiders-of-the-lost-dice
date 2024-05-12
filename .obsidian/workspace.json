@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef3602396567f8a1",
+            "id": "f18f7dafb7bda460",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounters/99 Underdark Encounters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "193e2c031e8b253c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/99 Everplume.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87858544b09778eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PCs/Kelward.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef2cc0749722dd05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Zathuda, The Sorrow Lord.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60a6d96c663ce564",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Xodhu.md",
+                "file": "Locations/Palma Flora.md",
                 "mode": "source",
                 "source": false
               }
@@ -141,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/99 Underdark Encounters.md",
+                "file": "Locations/Palma Flora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/99 Underdark Encounters.md",
+                "file": "Locations/Palma Flora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/99 Underdark Encounters.md"
+                "file": "Locations/Palma Flora.md"
               }
             }
           },
@@ -214,8 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef3602396567f8a1",
+  "active": "f92f205f31d0ba58",
   "lastOpenFiles": [
+    "Encounters/99 Underdark Encounters.md",
+    "Locations/Palma Flora.md",
     "Maps/underdark/docks_45x35.webp",
     "Maps/underdark/bridge_55x40.webp",
     "Maps/underdark/flooded_caves_55x30.webp",
@@ -229,7 +183,6 @@
     "Maps/New folder",
     "Encounters/99 Everplume.md",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/Eldritch Church [26x57] - $5 Rewards Pt.2/Gridless/GL_EldritchChurch_TheDoom.jpg",
-    "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/Eldritch Church [26x57] - $5 Rewards Pt.2/Gridless/GL_EldritchChurch_TheOutsider.jpg",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/__MACOSX/Eldritch Church [26x57] - $5 Rewards Pt.2/Gridless",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/__MACOSX/Eldritch Church [26x57] - $5 Rewards Pt.2",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/Eldritch Church [26x57] - $5 Rewards Pt.2/Gridless",
@@ -238,7 +191,6 @@
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.1/__MACOSX/Eldritch Church [26x57] - $5 Rewards Pt.1/Gridded",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.1/__MACOSX/Eldritch Church [26x57] - $5 Rewards Pt.1",
-    "Encounters/99 Underdark Encounters.md",
     "PCs/Kelward.md",
     "NPCs/Xodhu.md",
     "NPCs/Zathuda, The Sorrow Lord.md",
