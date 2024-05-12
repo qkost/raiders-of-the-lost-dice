@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "45cb05c81ecc0511",
+            "id": "3642f80518ab9873",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Dr. April Moors.md",
+                "file": "Session Notes/Session 39.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,8 +49,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45cb05c81ecc0511",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Port Damali/Port Damali Overview and Wards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e1b3e2a5b28dc65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Names.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Dr. April Moors.md",
+                "file": "Names.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Dr. April Moors.md",
+                "file": "Names.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Dr. April Moors.md"
+                "file": "Names.md"
               }
             }
           },
@@ -197,8 +222,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45cb05c81ecc0511",
+  "active": "6e1b3e2a5b28dc65",
   "lastOpenFiles": [
+    "Locations/Port Damali/Port Damali Overview and Wards.md",
+    "Session Notes/Session 39.md",
+    "NPCs/Dr. April Moors.md",
     "Locations/Port Damali/Arcane Oddities.md",
     "Magic Items/Magic Items.md",
     "Locations/Palma Flora.md",
@@ -231,7 +259,6 @@
     "NPCs/Zunda'i-Miir.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Encounters/12 Shimmerwing Lair V2.md",
-    "Session Notes/Session 39.md",
     "Session Notes/Session 38.md",
     "NPCs/Abbot Bok.md",
     "Locations/Ships.md",
@@ -243,8 +270,6 @@
     "Session Notes/Session 36.md",
     "Encounters/09 Plank King.md",
     "Session Notes/Session 34.md",
-    "Organizations/Order of the Ascendant Dragon.md",
-    "PCs/Tato.md",
     "Untitled.canvas"
   ]
 }

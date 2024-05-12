@@ -39,6 +39,7 @@
 
 ### 3. Scenes
 
+* Thinora - message about taking over ship
 * 
 
 ### 4. Secrets and Clues
