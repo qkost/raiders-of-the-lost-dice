@@ -47,6 +47,8 @@
 ### 3. Scenes
 
 * Thinora - message about taking over ship
+* Dockmaster Sygel -- The Sea Snail
+* Arcane Oddities
 
 ### 4. Secrets and Clues
 

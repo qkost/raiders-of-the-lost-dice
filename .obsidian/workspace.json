@@ -98,7 +98,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,11 +248,11 @@
   },
   "active": "3642f80518ab9873",
   "lastOpenFiles": [
-    "Locations/Palma Flora.md",
+    "Locations/Port Damali/Port Damali Overview and Wards.md",
     "Session Notes/Session 39.md",
+    "Locations/Palma Flora.md",
     "Encounters/99 Everplume.md",
     "Locations/Port Damali/Arcane Oddities.md",
-    "Locations/Port Damali/Port Damali Overview and Wards.md",
     "Names.md",
     "NPCs/Dr. April Moors.md",
     "Magic Items/Magic Items.md",
