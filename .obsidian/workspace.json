@@ -99,6 +99,18 @@
             }
           },
           {
+            "id": "0b3231c43f7ee26d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic Items/Magic Items.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6e1b3e2a5b28dc65",
             "type": "leaf",
             "state": {
@@ -111,7 +123,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ships.md",
+                "file": "Magic Items/Magic Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ships.md",
+                "file": "Magic Items/Magic Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ships.md"
+                "file": "Magic Items/Magic Items.md"
               }
             }
           },
@@ -258,13 +270,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfd59b66150baecb",
+  "active": "0b3231c43f7ee26d",
   "lastOpenFiles": [
+    "Locations/Port Damali/Port Damali Overview and Wards.md",
+    "Locations/Ships.md",
     "Session Notes/Session 39.md",
     "Session Notes/Session 01 - The Adventure Begins!.md",
     "Session Notes/Session 30 - The Test of Wit.md",
     "Session Notes/Session 29 - No Name's Carnival.md",
-    "Locations/Port Damali/Port Damali Overview and Wards.md",
     "Session Notes/Session 02 - Oddities.md",
     "Session Notes/Session 03 - Detective Work.md",
     "Session Notes/Session 04 - Uncovering a Conspiracy.md",
@@ -285,7 +298,6 @@
     "Session Notes/Session 18 - Ungradaal.md",
     "Session Notes/Session 19 - Clash with the Captain.md",
     "Session Notes/Session 20 - Charybdis.md",
-    "Session Notes/Session 21 - A Pirate's Life for Me.md",
     "Maps/underdark/docks_45x35.webp",
     "Maps/underdark/bridge_55x40.webp",
     "Maps/underdark/flooded_caves_55x30.webp",
