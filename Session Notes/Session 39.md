@@ -49,6 +49,8 @@
 
 * Thinora - message about taking over ship
 * Dockmaster Sygel -- The Sea Snail
+	* The Whippersnapper
+	* Voyager
 * Arcane Oddities
 
 ### 4. Secrets and Clues

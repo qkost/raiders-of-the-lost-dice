@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Port Damali/Arcane Oddities.md",
+                "file": "Session Notes/Session 39.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Port Damali/Arcane Oddities.md",
+                "file": "Session Notes/Session 39.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Port Damali/Arcane Oddities.md"
+                "file": "Session Notes/Session 39.md"
               }
             }
           },
@@ -245,12 +245,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb8b6af8d990b4c8",
+  "active": "a2a9e5c051eda4b0",
   "lastOpenFiles": [
+    "Names.md",
+    "Locations/Port Damali/Arcane Oddities.md",
     "Session Notes/Session 39.md",
     "NPCs/Zunda'i-Miir.md",
     "Locations/Port Damali/Port Damali Overview and Wards.md",
-    "Locations/Port Damali/Arcane Oddities.md",
     "Magic Items/Magic Items.md",
     "Locations/Ships.md",
     "Session Notes/Session 01 - The Adventure Begins!.md",
@@ -272,7 +273,6 @@
     "Session Notes/Session 15 - To the Depths!.md",
     "Session Notes/Session 16 - Ghost Pirates.md",
     "Session Notes/Session 14 - Old Friends.md",
-    "Session Notes/Session 17 - The Sickly Abyss.md",
     "Maps/underdark/docks_45x35.webp",
     "Maps/underdark/bridge_55x40.webp",
     "Maps/underdark/flooded_caves_55x30.webp",
