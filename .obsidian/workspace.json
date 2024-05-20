@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f18f7dafb7bda460",
+            "id": "a2a9e5c051eda4b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Palma Flora.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3642f80518ab9873",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 38 - Trial by Starlight.md",
+                "file": "Session Notes/Session 39.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,50 +30,13 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "272f717136346546",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/99 Everplume.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "3c95998dfd914eee",
         "type": "tabs",
         "children": [
-          {
-            "id": "bb8b6af8d990b4c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Port Damali/Arcane Oddities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a6c72ca2377ac429",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic Items/Magic Items.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "45cb05c81ecc0511",
             "type": "leaf",
@@ -99,12 +50,24 @@
             }
           },
           {
-            "id": "0b3231c43f7ee26d",
+            "id": "f18f7dafb7bda460",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Locations/Palma Flora.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb8b6af8d990b4c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Port Damali/Arcane Oddities.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,8 +85,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Session Notes/Session 39.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Session Notes/Session 39.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Magic Items.md"
+                "file": "Session Notes/Session 39.md"
               }
             }
           },
@@ -270,9 +232,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b3231c43f7ee26d",
+  "active": "a2a9e5c051eda4b0",
   "lastOpenFiles": [
     "Locations/Port Damali/Port Damali Overview and Wards.md",
+    "Locations/Port Damali/Arcane Oddities.md",
+    "Magic Items/Magic Items.md",
     "Locations/Ships.md",
     "Session Notes/Session 39.md",
     "Session Notes/Session 01 - The Adventure Begins!.md",
@@ -296,8 +260,6 @@
     "Session Notes/Session 14 - Old Friends.md",
     "Session Notes/Session 17 - The Sickly Abyss.md",
     "Session Notes/Session 18 - Ungradaal.md",
-    "Session Notes/Session 19 - Clash with the Captain.md",
-    "Session Notes/Session 20 - Charybdis.md",
     "Maps/underdark/docks_45x35.webp",
     "Maps/underdark/bridge_55x40.webp",
     "Maps/underdark/flooded_caves_55x30.webp",
