@@ -3,6 +3,7 @@
 
 https://www.reddit.com/r/dndmaps/comments/uquxxw/underdark_themed_maps_including_cavern_terrain/
 
+![[underdark_map_by_repsesper_d3hs363-fullview.jpg]]
 ## History
 * Was Drow city -- worshipers of [[Lolth, The Spider Queen]]
 * [[Tharizdun]] opened a portal
@@ -38,7 +39,7 @@ https://www.reddit.com/r/dndmaps/comments/uquxxw/underdark_themed_maps_including
 
 * Dark
 * Monsters
-	* 
+	* [Froghemoth](https://www.dndbeyond.com/monsters/2560816-froghemoth)
 
 ![[docks_45x35.webp]]
 # 2. Drow Ruin
