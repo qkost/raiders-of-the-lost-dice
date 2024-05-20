@@ -26,9 +26,9 @@ Connection to [[Dr. April Moors]]
 		- L2 - 270 gp (40% chance)
 		- L3 - 450 gp (20% chance)
 	* [Sovereign Glue](https://www.dndbeyond.com/magic-items/4756-sovereign-glue) (x1) - 150 gp
-	* [Ioun Stone of Protection](https://www.dndbeyond.com/magic-items/4939-ioun-stone-of-protection) (x1) - 1000 gp
-	* [Immovable rod](https://www.dndbeyond.com/magic-items/4662-immovable-rod) - 750 gp
-	* [Slippers of Spider Climbing](https://www.dndbeyond.com/magic-items/4755-slippers-of-spider-climbing) - 1000 gp
+	* [Ioun Stone of Protection](https://www.dndbeyond.com/magic-items/4939-ioun-stone-of-protection) (x1) - 1200 gp
+	* [Immovable rod](https://www.dndbeyond.com/magic-items/4662-immovable-rod) - 10000 gp
+	* [Slippers of Spider Climbing](https://www.dndbeyond.com/magic-items/4755-slippers-of-spider-climbing) - 2500 gp
 	* [Ring of Spell Storing](https://www.dndbeyond.com/magic-items/4730-ring-of-spell-storing) - 5000 gp
 	* [Quaal's Feather Token](https://www.dndbeyond.com/magic-items/13584-quaals-feather-token) - 500 gp
 
