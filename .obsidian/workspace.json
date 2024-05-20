@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3c95998dfd914eee",
@@ -184,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/99 Underdark Encounters.md",
+                "file": "NPCs/Zunda'i-Miir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/99 Underdark Encounters.md",
+                "file": "NPCs/Zunda'i-Miir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/99 Underdark Encounters.md"
+                "file": "NPCs/Zunda'i-Miir.md"
               }
             }
           },
@@ -257,8 +258,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d2c11c8437ea891",
+  "active": "484b8a3d478f9f33",
   "lastOpenFiles": [
+    "Encounters/99 Underdark Encounters.md",
     "Names.md",
     "Session Notes/Session 39.md",
     "Locations/Port Damali/Arcane Oddities.md",
@@ -284,7 +286,6 @@
     "Session Notes/Session 13 - The Abbot's Secret.md",
     "Session Notes/Session 15 - To the Depths!.md",
     "Session Notes/Session 16 - Ghost Pirates.md",
-    "Session Notes/Session 14 - Old Friends.md",
     "Maps/underdark/docks_45x35.webp",
     "Maps/underdark/bridge_55x40.webp",
     "Maps/underdark/flooded_caves_55x30.webp",
