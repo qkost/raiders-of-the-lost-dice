@@ -52,6 +52,9 @@
 	* The Whippersnapper
 	* Voyager
 * Arcane Oddities
+* Giants
+	* Stone giants - 
+	* Giant Oxs
 
 ### 4. Secrets and Clues
 

@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3c95998dfd914eee",
@@ -185,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Zunda'i-Miir.md",
+                "file": "Session Notes/Session 39.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Zunda'i-Miir.md",
+                "file": "Session Notes/Session 39.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Zunda'i-Miir.md"
+                "file": "Session Notes/Session 39.md"
               }
             }
           },
@@ -258,13 +257,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "484b8a3d478f9f33",
+  "active": "a2a9e5c051eda4b0",
   "lastOpenFiles": [
+    "NPCs/Zunda'i-Miir.md",
     "Encounters/99 Underdark Encounters.md",
     "Names.md",
     "Session Notes/Session 39.md",
     "Locations/Port Damali/Arcane Oddities.md",
-    "NPCs/Zunda'i-Miir.md",
     "Locations/Port Damali/Port Damali Overview and Wards.md",
     "Magic Items/Magic Items.md",
     "Locations/Ships.md",
