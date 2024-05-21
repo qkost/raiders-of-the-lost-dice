@@ -29,7 +29,15 @@
 * Grief
 	* Tato in denial at first
 * Turned ship toward Port Zoon
-* 
+* Ran into Thinora assaulting a crew on the way
+	* Saved one man - Merek
+	* Another woman had died (burns) - Elisa
+* Got to Port Zoon
+* Talked to Dock Master Sygel "The Sea Snail"
+	* Bought *The Voyager* - sailing ship
+* Hired a crew
+	* 30 people (30 gp/day)
+	* Aldara - Stars Druid; half-elf olive skin tone tall woman
 
 ## Prep
 ### 1. Review Characters
