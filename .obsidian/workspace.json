@@ -6,7 +6,6 @@
       {
         "id": "5b0b7d956c3e7142",
         "type": "tabs",
-        "dimension": 47.98136645962733,
         "children": [
           {
             "id": "a2a9e5c051eda4b0",
@@ -19,137 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "484b8a3d478f9f33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Zunda'i-Miir.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfd59b66150baecb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ships.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52d9eb64d3e3024f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PCs/Shadowclaw.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "3c95998dfd914eee",
-        "type": "tabs",
-        "dimension": 52.01863354037267,
-        "children": [
-          {
-            "id": "45cb05c81ecc0511",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Vilya.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5125c562672e96c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Names.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f18f7dafb7bda460",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Palma Flora.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb8b6af8d990b4c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Port Damali/Arcane Oddities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e1b3e2a5b28dc65",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Names.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56ef01d0d0c74d7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/08 Ships & Islands.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d2c11c8437ea891",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/99 Underdark Encounters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PCs/Shadowclaw.md",
+                "file": "Session Notes/Session 39.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PCs/Shadowclaw.md",
+                "file": "Session Notes/Session 39.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PCs/Shadowclaw.md"
+                "file": "Session Notes/Session 39.md"
               }
             }
           },
@@ -296,19 +166,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52d9eb64d3e3024f",
+  "active": "a2a9e5c051eda4b0",
   "lastOpenFiles": [
+    "Encounters/99 Underdark Encounters.md",
+    "Session Notes/Session 39.md",
+    "PCs/Shadowclaw.md",
     "Locations/Ships.md",
     "Locations/Port Damali/Arcane Oddities.md",
     "PCs/Ember.md",
-    "Session Notes/Session 39.md",
     "Names.md",
     "NPCs/Vilya.md",
     "Resources.md",
     "Locations/Port Damali/Port Damali Overview and Wards.md",
     "Encounters/08 Ships & Islands.md",
     "NPCs/Zunda'i-Miir.md",
-    "Encounters/99 Underdark Encounters.md",
     "Magic Items/Magic Items.md",
     "Session Notes/Session 01 - The Adventure Begins!.md",
     "Session Notes/Session 30 - The Test of Wit.md",
@@ -323,7 +194,6 @@
     "Session Notes/Session 09 - The Archmage of Antiquity.md",
     "Session Notes/Session 10 - Diverging Paths.md",
     "Session Notes/Session 11 - Ascent of Brokenveil Peak.md",
-    "Session Notes/Session 12 - Sanctuary of the Draconic Protector.md",
     "Maps/underdark/docks_45x35.webp",
     "Maps/underdark/bridge_55x40.webp",
     "Maps/underdark/flooded_caves_55x30.webp",

@@ -25,6 +25,12 @@
 "Ah, pity we missed each other. Your flight at my arrival suggest you have forsaken our agreement. It seems you are taking the foolish path of your father. Regrettably, I've had to employ more persuasive methods. If you'd either you or your green friend would ever like to see your families again; you know where to find me and you know the cost."
 ```
 ## Notes
+
+* Grief
+	* Tato in denial at first
+* Turned ship toward Port Zoon
+* 
+
 ## Prep
 ### 1. Review Characters
 
