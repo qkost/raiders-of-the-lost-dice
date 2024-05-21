@@ -16,8 +16,9 @@
 ### TODO:
 * Prep Port Zoon
 	* Smith
-	* Magic shop
+	* Magic shop - friends with April Moore
 	* Cartographer
+	* 
 ## Notes
 ## Prep
 ### 1. Review Characters
