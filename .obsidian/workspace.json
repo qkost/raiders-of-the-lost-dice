@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "3c95998dfd914eee",
@@ -208,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Names.md",
+                "file": "Locations/Ships.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Names.md",
+                "file": "Locations/Ships.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Names.md"
+                "file": "Locations/Ships.md"
               }
             }
           },
@@ -281,17 +282,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5125c562672e96c7",
+  "active": "dfd59b66150baecb",
   "lastOpenFiles": [
+    "Session Notes/Session 39.md",
+    "Names.md",
     "NPCs/Vilya.md",
     "Resources.md",
     "Locations/Port Damali/Port Damali Overview and Wards.md",
-    "Session Notes/Session 39.md",
     "Locations/Ships.md",
     "Encounters/08 Ships & Islands.md",
     "NPCs/Zunda'i-Miir.md",
     "Encounters/99 Underdark Encounters.md",
-    "Names.md",
     "Locations/Port Damali/Arcane Oddities.md",
     "Magic Items/Magic Items.md",
     "Session Notes/Session 01 - The Adventure Begins!.md",
