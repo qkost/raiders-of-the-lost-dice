@@ -62,6 +62,18 @@
             }
           },
           {
+            "id": "5125c562672e96c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Names.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f18f7dafb7bda460",
             "type": "leaf",
             "state": {
@@ -121,7 +133,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Vilya.md",
+                "file": "Names.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Vilya.md",
+                "file": "Names.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Vilya.md"
+                "file": "Names.md"
               }
             }
           },
@@ -268,8 +281,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45cb05c81ecc0511",
+  "active": "5125c562672e96c7",
   "lastOpenFiles": [
+    "NPCs/Vilya.md",
+    "Resources.md",
     "Locations/Port Damali/Port Damali Overview and Wards.md",
     "Session Notes/Session 39.md",
     "Locations/Ships.md",
@@ -294,8 +309,6 @@
     "Session Notes/Session 11 - Ascent of Brokenveil Peak.md",
     "Session Notes/Session 12 - Sanctuary of the Draconic Protector.md",
     "Session Notes/Session 38 - Trial by Starlight.md",
-    "Session Notes/Session 13 - The Abbot's Secret.md",
-    "Session Notes/Session 15 - To the Depths!.md",
     "Maps/underdark/docks_45x35.webp",
     "Maps/underdark/bridge_55x40.webp",
     "Maps/underdark/flooded_caves_55x30.webp",
