@@ -98,6 +98,18 @@
             }
           },
           {
+            "id": "56ef01d0d0c74d7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encounters/08 Ships & Islands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1d2c11c8437ea891",
             "type": "leaf",
             "state": {
@@ -260,13 +272,14 @@
   "active": "a2a9e5c051eda4b0",
   "lastOpenFiles": [
     "NPCs/Zunda'i-Miir.md",
+    "Encounters/08 Ships & Islands.md",
+    "Locations/Ships.md",
+    "Session Notes/Session 39.md",
     "Encounters/99 Underdark Encounters.md",
     "Names.md",
-    "Session Notes/Session 39.md",
     "Locations/Port Damali/Arcane Oddities.md",
     "Locations/Port Damali/Port Damali Overview and Wards.md",
     "Magic Items/Magic Items.md",
-    "Locations/Ships.md",
     "Session Notes/Session 01 - The Adventure Begins!.md",
     "Session Notes/Session 30 - The Test of Wit.md",
     "Session Notes/Session 29 - No Name's Carnival.md",
@@ -284,7 +297,6 @@
     "Session Notes/Session 38 - Trial by Starlight.md",
     "Session Notes/Session 13 - The Abbot's Secret.md",
     "Session Notes/Session 15 - To the Depths!.md",
-    "Session Notes/Session 16 - Ghost Pirates.md",
     "Maps/underdark/docks_45x35.webp",
     "Maps/underdark/bridge_55x40.webp",
     "Maps/underdark/flooded_caves_55x30.webp",
