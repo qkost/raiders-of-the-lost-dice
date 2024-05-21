@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 39.md",
+                "file": "Encounters/08 Ships & Islands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 39.md",
+                "file": "Encounters/08 Ships & Islands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 39.md"
+                "file": "Encounters/08 Ships & Islands.md"
               }
             }
           },
@@ -269,12 +269,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a2a9e5c051eda4b0",
+  "active": "56ef01d0d0c74d7a",
   "lastOpenFiles": [
+    "Session Notes/Session 39.md",
     "NPCs/Zunda'i-Miir.md",
     "Encounters/08 Ships & Islands.md",
     "Locations/Ships.md",
-    "Session Notes/Session 39.md",
     "Encounters/99 Underdark Encounters.md",
     "Names.md",
     "Locations/Port Damali/Arcane Oddities.md",
