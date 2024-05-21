@@ -47,7 +47,7 @@
 
 ### 3. Scenes
 
-* Thinora - message about taking over ship
+* Thinora - message about taking over (wrong) ship
 * Dockmaster Sygel -- The Sea Snail
 	* The Whippersnapper
 	* Voyager
