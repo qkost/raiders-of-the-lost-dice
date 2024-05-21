@@ -135,7 +135,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Ships.md",
+                "file": "Locations/Port Damali/Arcane Oddities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Ships.md",
+                "file": "Locations/Port Damali/Arcane Oddities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Ships.md"
+                "file": "Locations/Port Damali/Arcane Oddities.md"
               }
             }
           },
@@ -282,10 +282,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfd59b66150baecb",
+  "active": "bb8b6af8d990b4c8",
   "lastOpenFiles": [
-    "PCs/Ember.md",
     "Locations/Ships.md",
+    "PCs/Ember.md",
     "Session Notes/Session 39.md",
     "Names.md",
     "NPCs/Vilya.md",
