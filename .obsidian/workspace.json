@@ -6,6 +6,7 @@
       {
         "id": "5b0b7d956c3e7142",
         "type": "tabs",
+        "dimension": 47.98136645962733,
         "children": [
           {
             "id": "a2a9e5c051eda4b0",
@@ -42,13 +43,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "52d9eb64d3e3024f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCs/Shadowclaw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "3c95998dfd914eee",
         "type": "tabs",
+        "dimension": 52.01863354037267,
         "children": [
           {
             "id": "45cb05c81ecc0511",
@@ -209,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Port Damali/Arcane Oddities.md",
+                "file": "PCs/Shadowclaw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Port Damali/Arcane Oddities.md",
+                "file": "PCs/Shadowclaw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +263,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Port Damali/Arcane Oddities.md"
+                "file": "PCs/Shadowclaw.md"
               }
             }
           },
@@ -282,9 +296,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb8b6af8d990b4c8",
+  "active": "52d9eb64d3e3024f",
   "lastOpenFiles": [
     "Locations/Ships.md",
+    "Locations/Port Damali/Arcane Oddities.md",
     "PCs/Ember.md",
     "Session Notes/Session 39.md",
     "Names.md",
@@ -294,7 +309,6 @@
     "Encounters/08 Ships & Islands.md",
     "NPCs/Zunda'i-Miir.md",
     "Encounters/99 Underdark Encounters.md",
-    "Locations/Port Damali/Arcane Oddities.md",
     "Magic Items/Magic Items.md",
     "Session Notes/Session 01 - The Adventure Begins!.md",
     "Session Notes/Session 30 - The Test of Wit.md",
