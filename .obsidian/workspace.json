@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Port Damali/Port Damali Overview and Wards.md",
+                "file": "NPCs/Vilya.md",
                 "mode": "source",
                 "source": false
               }
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Port Damali/Port Damali Overview and Wards.md",
+                "file": "NPCs/Vilya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Port Damali/Port Damali Overview and Wards.md",
+                "file": "NPCs/Vilya.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Port Damali/Port Damali Overview and Wards.md"
+                "file": "NPCs/Vilya.md"
               }
             }
           },
@@ -270,6 +270,7 @@
   },
   "active": "45cb05c81ecc0511",
   "lastOpenFiles": [
+    "Locations/Port Damali/Port Damali Overview and Wards.md",
     "Session Notes/Session 39.md",
     "Locations/Ships.md",
     "Encounters/08 Ships & Islands.md",
@@ -277,7 +278,6 @@
     "Encounters/99 Underdark Encounters.md",
     "Names.md",
     "Locations/Port Damali/Arcane Oddities.md",
-    "Locations/Port Damali/Port Damali Overview and Wards.md",
     "Magic Items/Magic Items.md",
     "Session Notes/Session 01 - The Adventure Begins!.md",
     "Session Notes/Session 30 - The Test of Wit.md",
