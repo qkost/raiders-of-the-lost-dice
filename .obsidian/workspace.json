@@ -121,8 +121,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/08 Ships & Islands.md",
+                "file": "Locations/Port Damali/Port Damali Overview and Wards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/08 Ships & Islands.md",
+                "file": "Locations/Port Damali/Port Damali Overview and Wards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/08 Ships & Islands.md"
+                "file": "Locations/Port Damali/Port Damali Overview and Wards.md"
               }
             }
           },
@@ -269,12 +268,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56ef01d0d0c74d7a",
+  "active": "45cb05c81ecc0511",
   "lastOpenFiles": [
     "Session Notes/Session 39.md",
-    "NPCs/Zunda'i-Miir.md",
-    "Encounters/08 Ships & Islands.md",
     "Locations/Ships.md",
+    "Encounters/08 Ships & Islands.md",
+    "NPCs/Zunda'i-Miir.md",
     "Encounters/99 Underdark Encounters.md",
     "Names.md",
     "Locations/Port Damali/Arcane Oddities.md",
