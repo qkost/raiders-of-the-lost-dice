@@ -20,7 +20,7 @@
 		* Hint at interest in planar travel
 			* Has magic item pertaining to a particular plane
 	* Cartographer
-	* 
+* Stone giant encounter
 ## Notes
 ## Prep
 ### 1. Review Characters
