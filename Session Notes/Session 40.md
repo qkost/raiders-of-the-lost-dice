@@ -17,6 +17,8 @@
 * Prep Port Zoon
 	* Smith
 	* Magic shop - friends with April Moore
+		* Hint at interest in planar travel
+			* Has magic item pertaining to a particular plane
 	* Cartographer
 	* 
 ## Notes
