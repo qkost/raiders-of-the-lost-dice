@@ -16,11 +16,14 @@
 ### TODO:
 * Prep Port Zoon
 	* Smith
+		* Mithral armor
 	* Magic shop - friends with April Moore
 		* Hint at interest in planar travel
 			* Has magic item pertaining to a particular plane
 	* Cartographer
 * Stone giant encounter
+	* Dreams
+	* Artistry
 ## Notes
 ## Prep
 ### 1. Review Characters
