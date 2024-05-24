@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 40.md",
+                "file": "Locations/Port Zoon.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 40.md",
+                "file": "Locations/Port Zoon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 40.md",
+                "file": "Locations/Port Zoon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 40.md"
+                "file": "Locations/Port Zoon.md"
               }
             }
           },
@@ -180,9 +180,11 @@
   },
   "active": "a2a9e5c051eda4b0",
   "lastOpenFiles": [
+    "Session Notes/Session 40.md",
+    "Gods/Moradin, The All Hammer.md",
+    "Locations/Port Zoon.md",
     "Session Notes/Session 39.md",
     "Encounters/99 Underdark Encounters.md",
-    "Session Notes/Session 40.md",
     "PCs/Shadowclaw.md",
     "Locations/Ships.md",
     "Locations/Port Damali/Arcane Oddities.md",
@@ -204,8 +206,6 @@
     "Session Notes/Session 06 - The Concertina.md",
     "Session Notes/Session 07 - Chase through the Sewers.md",
     "Session Notes/Session 08 - We are the Many.md",
-    "Session Notes/Session 09 - The Archmage of Antiquity.md",
-    "Session Notes/Session 10 - Diverging Paths.md",
     "Maps/underdark/docks_45x35.webp",
     "Maps/underdark/bridge_55x40.webp",
     "Maps/underdark/flooded_caves_55x30.webp",
