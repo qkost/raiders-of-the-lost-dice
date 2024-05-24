@@ -27,12 +27,27 @@
 
 #### Assay Sphere
 
-1. **The Timuafa Tower**
-    - **Description:** The Timuafa Tower is a tall, enigmatic structure covered in strange metal apparatus and weather vanes. It's where scientists and wizards experiment with controlling weather patterns, sometimes resulting in bizarre and unpredictable weather phenomena around the city.
-    - **NPC:** Professor Thaddeus Windrider
-        - **Race:** Human
-        - **Role:** Lead Researcher
-        - **Description:** Thaddeus is an eccentric middle-aged human with wild, unkempt hair and a perpetually distracted look. He wears a coat full of pockets, each containing various scientific instruments and notes. Despite his scatterbrained appearance, he is brilliant and dedicated to his research, often seen muttering equations and theories under his breath.
+##### Timuafa Tower
+
+###### Exterior Description
+
+The Timuafa Tower stands as a striking landmark in the Assay Sphere of Port Zoon. The tower's exterior is constructed from dark, polished stone, etched with intricate arcane symbols that glow faintly in various hues, suggesting the presence of potent magical energies within. The base of the tower is fortified with reinforced metal plates, giving it an imposing and sturdy appearance. Spiraling up the structure are metallic bands that crackle with occasional sparks of arcane energy, a testament to the ongoing experiments inside.
+
+Large, ornate windows are scattered irregularly along the tower’s height, each fitted with colored glass that filters the light into eerie, magical hues. At night, the windows glow softly, casting a mystical aura around the tower. A series of balconies adorned with brass railings and telescopic instruments jut out at various levels, providing platforms for stargazing and observing weather patterns.
+
+The entrance to the Timuafa Tower is a grand, arched doorway made of solid oak, reinforced with iron bands and decorated with mystical runes. Flanking the entrance are statues of mythical creatures—gargoyles with piercing eyes that seem to follow onlookers, adding to the tower's enigmatic presence.
+
+###### Interior Description
+
+**Ground Floor: The Reception Hall** Upon entering the tower, one is greeted by a spacious reception hall. The walls are lined with shelves filled with ancient tomes, scrolls, and various arcane instruments. A large, circular desk made of dark wood occupies the center, behind which an assistant mage is often found managing inquiries and appointments. The floor is covered with a richly woven rug depicting a celestial map, and the air is filled with the scent of old parchment and magical reagents.
+
+**Second Floor: The Arcane Library** A grand staircase leads to the second floor, home to the Arcane Library. This vast chamber is filled with towering bookshelves, accessible by rolling ladders. The room is dimly lit by floating orbs of light that adjust their brightness based on the reader's needs. Comfortable chairs and reading desks are scattered throughout, providing spaces for intense study. The library contains rare and ancient texts on planar travel, conjuration, and other esoteric subjects.
+
+**Third Floor: The Planar Laboratory** The heart of the tower's research lies on the third floor, in the Planar Laboratory. This large, circular room is dominated by a central platform inscribed with complex runes and glyphs. Around the room are various workstations filled with alchemical supplies, enchanted objects, and intricate machinery designed to manipulate planar energies. The air hums with a palpable magical tension, and the walls are adorned with charts and diagrams detailing otherworldly realms.
+
+**Fourth Floor: Dr. April Moore’s Office** Dr. April Moore’s personal office occupies the fourth floor. It is a cluttered but orderly space, filled with books, maps, and magical artifacts. A large desk, covered in notes and arcane devices, sits near a window offering a panoramic view of Port Zoon. Personal touches, such as portraits of Dr. Moore’s family and mementos from her travels, are scattered about. A large, enchanted mirror occupies one wall, often used for communication with distant colleagues and planar entities.
+
+**Fifth Floor: The Observation Deck** The topmost floor of the tower is an open observation deck. Equipped with telescopes, scrying devices, and other observational tools, it provides an ideal location for studying the stars and monitoring weather patterns. The deck is protected by a translucent magical barrier, allowing for clear observation without exposure to the elements. At night, this floor offers a breathtaking view of the night sky and the city below, making it a favorite spot for Dr. Moore and her colleagues to gather and share their findings. 
 
 #### Hammer Sphere
 
