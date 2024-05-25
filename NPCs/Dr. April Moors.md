@@ -1,12 +1,5 @@
 * [[Ember]]'s mentor
 * Ember respects her greatly, but hasn't seen her in years
-* Potentially moved to the Hall of Erudition in Zadash?
-
-Background
-* Conjurer
-* Planewalker
-
-Dr. April Moores
 * kicked out for suspected necromancy
 * Tower in [[Port Zoon]] (relocatable) - Timuafa
 * Knows about Thinora collaborating with Ludinus to create a weapon
@@ -14,3 +7,6 @@ Dr. April Moores
 * Scroll of sending
 * Knows about fire plane
 
+Background
+* Conjurer
+* Planewalker

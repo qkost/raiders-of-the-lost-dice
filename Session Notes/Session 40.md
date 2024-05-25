@@ -35,11 +35,16 @@
 
 ### 2. Strong Start
 
-* 
+* [[Port Zoon]]
 
 ### 3. Scenes
 
-* 
+* Ferrin (halfling) at The Silver Anvil
+	* Fitting an Osprey Aarakokra with mithril armor
+	* Possibly can out-bid
+* [[Dr. April Moors]]
+	* Plane shift
+	* Fire plane knowledge
 
 ### 4. Secrets and Clues
 
