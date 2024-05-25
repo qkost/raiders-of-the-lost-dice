@@ -39,3 +39,7 @@
 ## Handouts
 
 * https://homebrewery.naturalcrit.com
+
+## Misc
+
+* [Fey Bargains/Curses](https://www.dndspeak.com/2017/12/04/100-fey-bargains/)
