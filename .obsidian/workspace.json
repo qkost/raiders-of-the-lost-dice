@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/99 Underdark Encounters.md",
+                "file": "Session Notes/Session 40.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/99 Underdark Encounters.md",
+                "file": "Session Notes/Session 40.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/99 Underdark Encounters.md"
+                "file": "Session Notes/Session 40.md"
               }
             }
           },
@@ -209,10 +209,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0309f90d6338f2b5",
+  "active": "6e6b1f6c48f1cfd9",
   "lastOpenFiles": [
-    "Session Notes/Session 40.md",
     "Encounters/99 Underdark Encounters.md",
+    "Session Notes/Session 40.md",
     "Session Notes/Session 38 - Trial by Starlight.md",
     "NPCs/Dr. April Moors.md",
     "Locations/Port Zoon.md",
