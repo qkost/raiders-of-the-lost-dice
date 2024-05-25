@@ -41,7 +41,10 @@
 
 * Ferrin (halfling) at The Silver Anvil
 	* Fitting an Osprey Aarakokra with mithril armor
+		* Captain Sirocco
+		* Plumage is mix of white and dark brown
 	* Possibly can out-bid
+	* Says [[The Revelry]] have been rooted out -- rewards for turning in high ranking pirate captains that are left
 * [[Dr. April Moors]]
 	* Plane shift
 	* Fire plane knowledge
