@@ -44,6 +44,7 @@
 		* Captain Sirocco
 		* Plumage is mix of white and dark brown
 	* Possibly can out-bid
+		* Paid 8,000 gp for it
 	* Says [[The Revelry]] have been rooted out -- rewards for turning in high ranking pirate captains that are left
 * [[Dr. April Moors]]
 	* Plane shift
