@@ -40,7 +40,7 @@ https://www.reddit.com/r/dndmaps/comments/uquxxw/underdark_themed_maps_including
 * Dark
 * Monsters
 	* [Froghemoth](https://www.dndbeyond.com/monsters/2560816-froghemoth)
-	* [hydra](https://www.dndbeyond.com/monsters/16929-hydra) - [video with idea](https://www.youtube.com/watch?v=4gvVFa9l9Ww)
+	* [Dracohydra except gargantuan, no fly speed](https://www.dndbeyond.com/monsters/2059715-dracohydra) - [video with idea](https://www.youtube.com/watch?v=4gvVFa9l9Ww)
 		* Gargantuan, 30 ft reach
 		* Each head has different ability
 
