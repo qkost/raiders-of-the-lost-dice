@@ -50,3 +50,8 @@ The recipient, ___________________, agrees to desecrate three holy sites chosen 
 The scribe, **Malachai**, agrees to grant the recipient a wish, as per the spell "Wish," fulfilling their deepest desire. The wish cannot be used to alter or nullify this contract. Any attempt to use this wish to subvert the contract is a violation of the contract, and the wish will not be executed; the consequences of contract violation will be enacted.
 
 The recipient, ___________________, agrees to immediately lock the claim and ownership of their everlasting soul, invoking the laws of the pact primeval, under the control and dominance of the scribe for all of eternity, sending the soul of the recipient immediately upon death to the scribe to do with as they see fit.
+
+Signed by the agreed upon parties, under the laws of the pact primeval:
+
+**Scribe:** Malachai  
+**Recipient:** ___________________
