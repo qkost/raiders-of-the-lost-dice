@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "NPCs/Malachai, The Barbed Ruin.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "NPCs/Malachai, The Barbed Ruin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "NPCs/Malachai, The Barbed Ruin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Magic Items.md"
+                "file": "NPCs/Malachai, The Barbed Ruin.md"
               }
             }
           },
@@ -211,6 +211,7 @@
   },
   "active": "0309f90d6338f2b5",
   "lastOpenFiles": [
+    "Magic Items/Magic Items.md",
     "Resources.md",
     "Encounters/99 Underdark Encounters.md",
     "Session Notes/Session 40.md",
@@ -228,7 +229,6 @@
     "Locations/Port Damali/Port Damali Overview and Wards.md",
     "Encounters/08 Ships & Islands.md",
     "NPCs/Zunda'i-Miir.md",
-    "Magic Items/Magic Items.md",
     "Session Notes/Session 01 - The Adventure Begins!.md",
     "Session Notes/Session 30 - The Test of Wit.md",
     "Session Notes/Session 29 - No Name's Carnival.md",
