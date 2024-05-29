@@ -13,5 +13,10 @@ Spells:
 ### What He Wants
 
 * The Tear of [[Desirat, The Twilight Phoenix]] the [[Lady Thinora Va'del, Archmage of Antiquity]] has
+* Souls
 
-## What He Can Offer
+### What He Can Offer
+
+* [[Honor's Last Stand]]
+* Increase in character level
+* Small army of lesser devils
