@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resources.md",
+                "file": "Magic Items/Magic Items.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources.md",
+                "file": "Magic Items/Magic Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources.md",
+                "file": "Magic Items/Magic Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources.md"
+                "file": "Magic Items/Magic Items.md"
               }
             }
           },
@@ -211,6 +211,7 @@
   },
   "active": "0309f90d6338f2b5",
   "lastOpenFiles": [
+    "Resources.md",
     "Encounters/99 Underdark Encounters.md",
     "Session Notes/Session 40.md",
     "Session Notes/Session 38 - Trial by Starlight.md",
@@ -224,7 +225,6 @@
     "PCs/Ember.md",
     "Names.md",
     "NPCs/Vilya.md",
-    "Resources.md",
     "Locations/Port Damali/Port Damali Overview and Wards.md",
     "Encounters/08 Ships & Islands.md",
     "NPCs/Zunda'i-Miir.md",
