@@ -4,49 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "5b0b7d956c3e7142",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a2a9e5c051eda4b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Port Zoon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f269c91218bef167",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 38 - Trial by Starlight.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0309f90d6338f2b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Malachai, The Barbed Ruin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "e04aba8265fd6b3b",
         "type": "tabs",
         "children": [
@@ -57,6 +14,24 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/Session 40.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "10652902c357a59f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fa77ab5a887b7f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Port Zoon.md",
                 "mode": "source",
                 "source": false
               }
@@ -136,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Malachai, The Barbed Ruin.md",
+                "file": "Session Notes/Session 40.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Malachai, The Barbed Ruin.md",
+                "file": "Session Notes/Session 40.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Malachai, The Barbed Ruin.md"
+                "file": "Session Notes/Session 40.md"
               }
             }
           },
@@ -209,15 +184,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0309f90d6338f2b5",
+  "active": "6e6b1f6c48f1cfd9",
   "lastOpenFiles": [
+    "Locations/Port Zoon.md",
+    "Session Notes/Session 40.md",
+    "NPCs/Malachai, The Barbed Ruin.md",
     "Magic Items/Magic Items.md",
     "Resources.md",
     "Encounters/99 Underdark Encounters.md",
-    "Session Notes/Session 40.md",
     "Session Notes/Session 38 - Trial by Starlight.md",
     "NPCs/Dr. April Moors.md",
-    "Locations/Port Zoon.md",
     "Gods/Moradin, The All Hammer.md",
     "Session Notes/Session 39.md",
     "PCs/Shadowclaw.md",
@@ -236,7 +212,6 @@
     "Session Notes/Session 03 - Detective Work.md",
     "Session Notes/Session 04 - Uncovering a Conspiracy.md",
     "Session Notes/Session 05 - A Blocked Path.md",
-    "Session Notes/Session 06 - The Concertina.md",
     "Maps/underdark/docks_45x35.webp",
     "Maps/underdark/bridge_55x40.webp",
     "Maps/underdark/flooded_caves_55x30.webp",
