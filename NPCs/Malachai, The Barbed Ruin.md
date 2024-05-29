@@ -35,7 +35,7 @@ Any willful attempt to harm* the recipient or the scribe, directly or indirectly
 
 **FIRST PACT**
 
-The scribe, **Malachai**, agrees to bestow upon the recipient a magical item known as "Honor's Last Stand" and enable safe passage of the recipient and up to three additional creatures of the recipient's choice to the material plane.
+The scribe, **Malachai**, agrees to bestow upon the recipient a magical item known as "Honor's Last Stand" and enable safe passage of the recipient and up to three additional creatures of the recipient's choice to the material plane within one day of signing this contract.
 
 The recipient, ___________________, agrees to procure a "Tear of Desirat" for Malachai and deliver it without delay or tampering within one month of signing this contract.
 
