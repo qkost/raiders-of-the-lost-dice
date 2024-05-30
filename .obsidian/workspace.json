@@ -75,8 +75,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,10 +224,10 @@
   },
   "active": "6e6b1f6c48f1cfd9",
   "lastOpenFiles": [
-    "NPCs/Zunda'i-Miir.md",
-    "Session Notes/Session 40.md",
-    "Locations/Port Damali/Arcane Oddities.md",
     "Locations/Port Zoon.md",
+    "Session Notes/Session 40.md",
+    "NPCs/Zunda'i-Miir.md",
+    "Locations/Port Damali/Arcane Oddities.md",
     "NPCs/Dr. April Moors.md",
     "NPCs/Malachai, The Barbed Ruin.md",
     "Magic Items/Magic Items.md",

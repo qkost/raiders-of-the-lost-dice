@@ -28,7 +28,25 @@
 
 * Silver Anvil
 	* Shadowclaw purchased +1 shield
-	* (later that day) put in order for a mithral breastplate; 
+	* (later that day) put in order for a mithral breastplate (3000 gp down, 7000 gp to pay at later date)
+* [[Dr. April Moors]]
+	* Meeting at Timuafa Tower
+	* Eclectic decoration
+		* Tea
+		* Arcane circles
+	* Info
+		* Fire plane logistics
+		* Teleportation
+	* Goodies
+		* 1 scroll of plane shift
+		* 1 scroll of sending
+		* 1 scroll of gust of wind
+		* 2 potions of scroll resistance
+		* (not purchased) Moors has 3 potions of fire resistance and will make 2 more
+* Set sail
+	* [[Blades of the Moonweaver]] awakened as Kelward became captain of a ship
+	* Ember reading Tome of Clear Thought
+	* Kelward reading 
 
 ## Prep
 ### 1. Review Characters
