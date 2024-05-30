@@ -45,8 +45,9 @@
 		* (not purchased) Moors has 3 potions of fire resistance and will make 2 more
 * Set sail
 	* [[Blades of the Moonweaver]] awakened as Kelward became captain of a ship
-	* Ember reading Tome of Clear Thought
-	* Kelward reading 
+	* [[Ember]] reading Tome of Clear Thought
+	* [[Kelward]] reading Crag's Guide to Disarming Magical Traps
+	* [[Tato]] rage improvement; use 
 
 ## Prep
 ### 1. Review Characters
