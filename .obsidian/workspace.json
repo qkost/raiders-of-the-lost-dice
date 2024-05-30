@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Port Damali/Arcane Oddities.md",
+                "file": "Session Notes/Session 40.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Port Damali/Arcane Oddities.md",
+                "file": "Session Notes/Session 40.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Port Damali/Arcane Oddities.md"
+                "file": "Session Notes/Session 40.md"
               }
             }
           },
@@ -211,12 +211,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85d1936e800e4e30",
+  "active": "6e6b1f6c48f1cfd9",
   "lastOpenFiles": [
-    "Session Notes/Session 40.md",
-    "Locations/Port Zoon.md",
-    "NPCs/Dr. April Moors.md",
     "Locations/Port Damali/Arcane Oddities.md",
+    "Locations/Port Zoon.md",
+    "Session Notes/Session 40.md",
+    "NPCs/Dr. April Moors.md",
     "NPCs/Malachai, The Barbed Ruin.md",
     "Magic Items/Magic Items.md",
     "Resources.md",
