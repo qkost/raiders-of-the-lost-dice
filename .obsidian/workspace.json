@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 40.md",
+                "file": "Locations/Port Damali/Arcane Oddities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 40.md",
+                "file": "Locations/Port Damali/Arcane Oddities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 40.md"
+                "file": "Locations/Port Damali/Arcane Oddities.md"
               }
             }
           },
@@ -210,10 +211,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e6b1f6c48f1cfd9",
+  "active": "85d1936e800e4e30",
   "lastOpenFiles": [
-    "Locations/Port Zoon.md",
     "Session Notes/Session 40.md",
+    "Locations/Port Zoon.md",
     "NPCs/Dr. April Moors.md",
     "Locations/Port Damali/Arcane Oddities.md",
     "NPCs/Malachai, The Barbed Ruin.md",
