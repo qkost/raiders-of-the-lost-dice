@@ -44,7 +44,6 @@
         - **Role:** Tavern Owner
         - **Description:** Brakka is a stout dwarf with a thick black beard and a booming laugh. Once a renowned blacksmith, she now runs The Iron Crucible, offering wisdom and advice to young smiths and craftsmen who frequent her establishment. She has connections with many guilds and knows the latest gossip around the city.
 2. **The Silver Anvil**
-    
     - **Description:** The Silver Anvil is the most prestigious smithy in Port Zoon, known for producing high-quality weapons and armor. The shop is bustling with activity, and the sound of hammers striking metal can be heard day and night.
     - **NPC:** Ferrin Ironwill
         - **Race:** Halfling

@@ -26,15 +26,17 @@
 	* Artistry
 ## Notes
 
-* at Silver Anvil Forge
+* Ferrin (halfling smith) at Silver Anvil Forge
 	* Shadowclaw purchased +1 shield
-	* Saw Captain Sirocco (Osprey Aarakokra) getting fitted with a mithral breastplate that would enable flight
+	* Saw a patron Captain Sirocco (Osprey Aarakokra) getting fitted with a mithral breastplate that would enable flight
 	* (later that day) put in order for a mithral breastplate (3000 gp down, 7000 gp to pay at later date; said it would take a few weeks to craft)
 * [[Dr. April Moors]] at Timuafa Tower
 	* Meeting at Timuafa Tower
 	* Eclectic decoration
-		* Tea
+		* Weathervanes
+		* Glass beakers with boiling liquid of various colors
 		* Arcane circles
+		* Tea
 	* Info
 		* Fire plane logistics
 		* Plane shift
@@ -55,7 +57,12 @@
 	* [[Zunda'i-Miir]] is an adult-ancient dragon
 	* Lair over a portal to the far realm opened during the Calamity
 	* Sworn to defend Exandria against invasion of aberrations
-	* 
+	* Loves fish and cultivates them in the region
+	* Lair in the westernmost of the Azul Towers named after the blue tarns at their base
+* Arrived at Stone Cage Cliffs
+	* Beautiful vista of shear peaks
+	* Streams running down the mountains into larger rivers
+	* Smell of rotting fish
 
 ## Prep
 ### 1. Review Characters
