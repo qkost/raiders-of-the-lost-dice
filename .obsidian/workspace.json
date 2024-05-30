@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 40 - Old Friends in New Places.md",
+                "file": "Day Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 40 - Old Friends in New Places.md",
+                "file": "Day Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 40 - Old Friends in New Places.md"
+                "file": "Day Tracker.md"
               }
             }
           },
@@ -199,10 +199,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3cb8edad9101f036",
+  "active": "a4712034e5e0dddb",
   "lastOpenFiles": [
-    "Day Tracker.md",
     "Session Notes/Session 40 - Old Friends in New Places.md",
+    "Day Tracker.md",
     "Session Notes/Session 39 - I Bought a Boat!.md",
     "Session Notes/Session 41.md",
     "Locations/Port Zoon.md",
