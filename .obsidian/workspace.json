@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 40.md",
+                "file": "Locations/Port Zoon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 40.md",
+                "file": "Locations/Port Zoon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 40.md"
+                "file": "Locations/Port Zoon.md"
               }
             }
           },
@@ -184,10 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e6b1f6c48f1cfd9",
+  "active": "3fa77ab5a887b7f7",
   "lastOpenFiles": [
-    "Locations/Port Zoon.md",
     "Session Notes/Session 40.md",
+    "Locations/Port Zoon.md",
     "NPCs/Malachai, The Barbed Ruin.md",
     "Magic Items/Magic Items.md",
     "Resources.md",
