@@ -29,7 +29,7 @@ Connection to [[Dr. April Moors]]
 	* [Ioun Stone of Protection](https://www.dndbeyond.com/magic-items/4939-ioun-stone-of-protection) (x1) - 1200 gp
 	* [Immovable rod](https://www.dndbeyond.com/magic-items/4662-immovable-rod) - 10000 gp
 	* [Slippers of Spider Climbing](https://www.dndbeyond.com/magic-items/4755-slippers-of-spider-climbing) - 2500 gp
-	* [Ring of Spell Storing](https://www.dndbeyond.com/magic-items/4730-ring-of-spell-storing) - 5000 gp
+	* [Ring of Spell Storing](https://www.dndbeyond.com/magic-items/4730-ring-of-spell-storing) - 7000 gp
 	* [Quaal's Feather Token](https://www.dndbeyond.com/magic-items/13584-quaals-feather-token) - 500 gp
 
 * Crafting spell scroll
