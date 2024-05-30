@@ -25,6 +25,11 @@
 	* Dreams
 	* Artistry
 ## Notes
+
+* Silver Anvil
+	* Shadowclaw purchased +1 shield
+	* (later that day) put in order for a mithral breastplate; 
+
 ## Prep
 ### 1. Review Characters
 

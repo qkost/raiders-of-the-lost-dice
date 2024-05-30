@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Zunda'i-Miir.md",
+                "file": "Session Notes/Session 40.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Zunda'i-Miir.md",
+                "file": "Session Notes/Session 40.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Zunda'i-Miir.md"
+                "file": "Session Notes/Session 40.md"
               }
             }
           },
@@ -223,8 +223,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9614694d774095d6",
+  "active": "6e6b1f6c48f1cfd9",
   "lastOpenFiles": [
+    "NPCs/Zunda'i-Miir.md",
     "Session Notes/Session 40.md",
     "Locations/Port Damali/Arcane Oddities.md",
     "Locations/Port Zoon.md",
@@ -243,7 +244,6 @@
     "NPCs/Vilya.md",
     "Locations/Port Damali/Port Damali Overview and Wards.md",
     "Encounters/08 Ships & Islands.md",
-    "NPCs/Zunda'i-Miir.md",
     "Session Notes/Session 01 - The Adventure Begins!.md",
     "Session Notes/Session 30 - The Test of Wit.md",
     "Session Notes/Session 29 - No Name's Carnival.md",
