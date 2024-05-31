@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day Tracker.md",
+                "file": "Session Notes/Session 41.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,8 +51,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9a494f6d09e4d81a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13 Stonecage Cliffs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Tracker.md",
+                "file": "13 Stonecage Cliffs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Tracker.md",
+                "file": "13 Stonecage Cliffs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Tracker.md"
+                "file": "13 Stonecage Cliffs.md"
               }
             }
           },
@@ -199,12 +212,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4712034e5e0dddb",
+  "active": "9a494f6d09e4d81a",
   "lastOpenFiles": [
-    "Session Notes/Session 40 - Old Friends in New Places.md",
-    "Day Tracker.md",
-    "Session Notes/Session 39 - I Bought a Boat!.md",
     "Session Notes/Session 41.md",
+    "13 Stonecage Cliffs.md",
+    "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_Winter_Night.jpg",
+    "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_Winter_Day.jpg",
+    "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_Toxic.jpg",
+    "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_Spring.jpg",
+    "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_RiverOfErasure.jpg",
+    "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_Rain.jpg",
+    "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_RadiantWaters.jpg",
+    "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_Original_Night.jpg",
+    "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_Original_Day.jpg",
+    "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_NoTrees_Night.jpg",
+    "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)",
+    "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)",
+    "Day Tracker.md",
+    "Session Notes/Session 40 - Old Friends in New Places.md",
+    "Session Notes/Session 39 - I Bought a Boat!.md",
     "Locations/Port Zoon.md",
     "NPCs/Zunda'i-Miir.md",
     "Locations/Port Damali/Arcane Oddities.md",
@@ -226,27 +252,14 @@
     "Session Notes/Session 30 - The Test of Wit.md",
     "Session Notes/Session 29 - No Name's Carnival.md",
     "Session Notes/Session 02 - Oddities.md",
-    "Session Notes/Session 03 - Detective Work.md",
-    "Maps/underdark/docks_45x35.webp",
-    "Maps/underdark/bridge_55x40.webp",
-    "Maps/underdark/flooded_caves_55x30.webp",
-    "Maps/underdark/illuminated_caves_45,x40.webp",
-    "Maps/underdark/docks.webp",
-    "Maps/underdark/market_30x20.jpeg",
-    "Maps/underdark/drow_city_55x40.webp",
-    "Maps/underdark/drow_city.webp",
-    "Maps/underdark/market.jpeg",
     "Maps/underdark",
     "Maps/New folder",
-    "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/Eldritch Church [26x57] - $5 Rewards Pt.2/Gridless/GL_EldritchChurch_TheDoom.jpg",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/__MACOSX/Eldritch Church [26x57] - $5 Rewards Pt.2/Gridless",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/__MACOSX/Eldritch Church [26x57] - $5 Rewards Pt.2",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/Eldritch Church [26x57] - $5 Rewards Pt.2/Gridless",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/__MACOSX",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/Eldritch Church [26x57] - $5 Rewards Pt.2",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2",
-    "Maps/Eldritch Church [26x57] - $5 Rewards Pt.1/__MACOSX/Eldritch Church [26x57] - $5 Rewards Pt.1/Gridded",
-    "Maps/Eldritch Church [26x57] - $5 Rewards Pt.1/__MACOSX/Eldritch Church [26x57] - $5 Rewards Pt.1",
     "Untitled.canvas"
   ]
 }

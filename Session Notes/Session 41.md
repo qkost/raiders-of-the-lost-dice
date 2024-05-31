@@ -62,7 +62,8 @@
 
 ### 5. Fantastic Locations
 
-* 
+![[GL_ImpendingWaterfall_Original_Day.jpg]]
+
 
 ### 6. Important NPCs
 
