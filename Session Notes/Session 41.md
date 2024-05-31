@@ -54,7 +54,9 @@
 
 ### 3. Scenes
 
-* 
+* Bears
+* Stone Giants
+* Zunda'i Miir
 
 ### 4. Secrets and Clues
 
@@ -62,10 +64,10 @@
 
 ### 5. Fantastic Locations
 
-
+* [[13 Stonecage Cliffs]]
 ### 6. Important NPCs
 
-* 
+* [[Zunda'i-Miir]]
 
 ### 7. Choose Relevant Monsters
 
