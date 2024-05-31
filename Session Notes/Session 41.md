@@ -39,6 +39,10 @@
 	* Streams running down the mountains into larger rivers
 	* Smell of rotting fish
 
+## TODO
+
+* Traps in [[14 Zunda'i Miir Lair]]
+
 ## Notes
 ## Prep
 ### 1. Review Characters
@@ -54,9 +58,15 @@
 
 ### 3. Scenes
 
-* Bears
-* Stone Giants
+* [[13 Stonecage Cliffs]]
+	* Bears
+	* Giants
 * Zunda'i Miir
+	* [[Zunda'i-Miir]]
+	* [[14 Zunda'i Miir Lair]]
+* [[15 Early Underdark]]
+	* Pitlings & Ruinants
+	* Hydra
 
 ### 4. Secrets and Clues
 
