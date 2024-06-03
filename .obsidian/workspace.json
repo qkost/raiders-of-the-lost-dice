@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 41.md",
+                "file": "Encounters/14 Zunda'i Miir Lair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 41.md",
+                "file": "Encounters/14 Zunda'i Miir Lair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 41.md"
+                "file": "Encounters/14 Zunda'i Miir Lair.md"
               }
             }
           },
@@ -248,11 +248,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4712034e5e0dddb",
+  "active": "f496aafffb4670c1",
   "lastOpenFiles": [
+    "Session Notes/Session 41.md",
     "Statblocks/passport_photo_sqare.jpg",
     "Encounters/15 Early Underdark.md",
-    "Session Notes/Session 41.md",
     "Encounters/14 Zunda'i Miir Lair.md",
     "NPCs/Zunda'i-Miir.md",
     "Maps/map-5.1-amethyst-dragon-lair.jpg",
@@ -265,7 +265,6 @@
     "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_Rain.jpg",
     "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_RadiantWaters.jpg",
     "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_Original_Night.jpg",
-    "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_Original_Day.jpg",
     "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)",
     "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)",
     "Day Tracker.md",
