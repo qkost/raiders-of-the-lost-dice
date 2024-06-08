@@ -63,6 +63,7 @@
 - [ ] [Quaal's Feather Token](https://www.dndbeyond.com/magic-items/13584-quaals-feather-token)
 - [ ] [Ring of Animal Influence](https://www.dndbeyond.com/magic-items/4717-ring-of-animal-influence)
 - [ ] [Crystal Blade](https://www.dndbeyond.com/magic-items/4047184-crystal-blade)
+- [ ] [Amethyst Longsword](https://www.dndbeyond.com/magic-items/8569090-amethyst-longsword)
 ## Very Rare
 
 - [ ] [Mirror of Infinite Transpondence](https://www.dndbeyond.com/sources/tcsr/game-masters-toolkit#MirrorofInfiniteTranspondence)
@@ -165,6 +166,7 @@
 - [ ] [Feywild Shard](https://www.dndbeyond.com/magic-items/2412248-feywild-shard)
 - [ ] [Fool's Blade](https://www.dndbeyond.com/magic-items/7526677-fools-blade)
 - [ ] [Crystal Blade](https://www.dndbeyond.com/magic-items/4047184-crystal-blade)
+- [ ] [Amethyst Longsword](https://www.dndbeyond.com/magic-items/8569090-amethyst-longsword)
 
 ## [[Tato]]
 

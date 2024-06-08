@@ -94,7 +94,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Encounters/14 Zunda'i Miir Lair.md",
                 "mode": "source",
                 "source": false
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Encounters/14 Zunda'i Miir Lair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Encounters/14 Zunda'i Miir Lair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Magic Items.md"
+                "file": "Encounters/14 Zunda'i Miir Lair.md"
               }
             }
           },
@@ -250,6 +250,7 @@
   },
   "active": "f496aafffb4670c1",
   "lastOpenFiles": [
+    "Magic Items/Magic Items.md",
     "Encounters/14 Zunda'i Miir Lair.md",
     "Session Notes/Session 41.md",
     "Statblocks/passport_photo_sqare.jpg",
@@ -274,7 +275,6 @@
     "Locations/Port Damali/Arcane Oddities.md",
     "NPCs/Dr. April Moors.md",
     "NPCs/Malachai, The Barbed Ruin.md",
-    "Magic Items/Magic Items.md",
     "Resources.md",
     "Encounters/99 Underdark Encounters.md",
     "Session Notes/Session 38 - Trial by Starlight.md",
