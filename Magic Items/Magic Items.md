@@ -70,6 +70,8 @@
 - [ ] [Amulet of the Planes](https://www.dndbeyond.com/magic-items/4570-amulet-of-the-planes)
 - [ ] [Shortbow of Melodies](https://www.dndbeyond.com/magic-items/7526763-shortbow-of-melodies)
 - [ ] [Bloodshed Longsword](https://www.dndbeyond.com/magic-items/7102414-bloodshed-longsword)
+- [ ] [Fool's Blade](https://www.dndbeyond.com/magic-items/7526677-fools-blade)
+- [ ] 
 ## Potions
 - [ ] [Potion of Heroism](https://www.dndbeyond.com/magic-items/4709-potion-of-heroism)
 - [ ] [Potion of Growth](https://www.dndbeyond.com/magic-items/4707-potion-of-growth)
