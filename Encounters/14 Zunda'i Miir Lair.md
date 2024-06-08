@@ -99,38 +99,15 @@
 	- _[Potion of Storm Giant Strength](https://5e.tools/items.html#potion%20of%20storm%20giant%20strength_dmg)_
 
 - Magic Items ([Table G](https://5e.tools/tables.html#magic%20item%20table%20g_dmg))
-
-- _[Boots of Levitation](https://5e.tools/items.html#boots%20of%20levitation_dmg)_
-    
-    (rare major item)
-    
-    [reroll]
+	- _[Boots of Levitation](https://5e.tools/items.html#boots%20of%20levitation_dmg)_
 
 - Magic Items ([Table H](https://5e.tools/tables.html#magic%20item%20table%20h_dmg))
-
-- _[Ring of Regeneration](https://5e.tools/items.html#ring%20of%20regeneration_dmg)_
+	- _[Staff of Power](https://www.dndbeyond.com/magic-items/4764-staff-of-power)_
+	- _[Manual of Quickness of Action](https://5e.tools/items.html#manual%20of%20quickness%20of%20action_dmg)_
     
-    (very rare major item)
-    
-    [reroll]
-- _[Manual of Quickness of Action](https://5e.tools/items.html#manual%20of%20quickness%20of%20action_dmg)_
-    
-    (very rare major item)
-    
-    [reroll]
-
 - Magic Items ([Table I](https://5e.tools/tables.html#magic%20item%20table%20i_dmg))
-
-- _[Sword of Answering (Retorter)](https://5e.tools/items.html#sword%20of%20answering%20(retorter)_dmg)_
-    
-    (legendary major item)
-    
-    [reroll]
-- _[Rod of Resurrection](https://5e.tools/items.html#rod%20of%20resurrection_dmg)_
-    
-    (legendary major item)
-    
-    [reroll]
+	- _[Sword of Answering (Retorter)](https://5e.tools/items.html#sword%20of%20answering%20(retorter)_dmg)_
+	- _[Rod of Resurrection](https://5e.tools/items.html#rod%20of%20resurrection_dmg)_
 
 ##### Amethyst Dragon Art Objects
 
