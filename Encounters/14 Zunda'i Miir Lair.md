@@ -11,6 +11,11 @@
 * Wraps of Dyamak
 * Shards of amethyst (for [Amethyst Longsword](https://www.dndbeyond.com/magic-items/8569090-amethyst-longsword))
 * Shit ton of gold
+* Things it will trade for
+	* Wraps of Dyamak
+	* Staff of Power
+	* Manual of Quickness of Action
+	* Amethyst Shard (for making [Amethyst Longsword](https://www.dndbeyond.com/magic-items/8569090-amethyst-longsword))
 
 ##### Rolled Loot
 
