@@ -163,6 +163,8 @@
 - [ ] [Bloodwell Vial](https://www.dndbeyond.com/magic-items/2412091-bloodwell-vial)
 - [ ] [Far Realm Shard](https://www.dndbeyond.com/magic-items/2412226-far-realm-shard)
 - [ ] [Feywild Shard](https://www.dndbeyond.com/magic-items/2412248-feywild-shard)
+- [ ] [Fool's Blade](https://www.dndbeyond.com/magic-items/7526677-fools-blade)
+- [ ] [Crystal Blade](https://www.dndbeyond.com/magic-items/4047184-crystal-blade)
 
 ## [[Tato]]
 
