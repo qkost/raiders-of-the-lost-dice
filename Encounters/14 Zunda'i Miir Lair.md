@@ -108,6 +108,7 @@
 - Magic Items ([Table I](https://5e.tools/tables.html#magic%20item%20table%20i_dmg))
 	- _[Sword of Answering (Retorter)](https://5e.tools/items.html#sword%20of%20answering%20(retorter)_dmg)_
 	- _[Rod of Resurrection](https://5e.tools/items.html#rod%20of%20resurrection_dmg)_
+	- _[Wraps of Dyamak](https://www.dndbeyond.com/magic-items/7922187-_wraps-of-dyamak-rotld)
 
 ##### Amethyst Dragon Art Objects
 
