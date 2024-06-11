@@ -6,6 +6,11 @@
 
 ![[map-5.1-amethyst-dragon-lair.jpg]]
 
+
+## Traps
+
+* DC18 STR/DEX Save
+	* [Reverse Gravity](https://www.dndbeyond.com/spells/2233-reverse-gravity) trap
 ## Treasure
 
 * Wraps of Dyamak
