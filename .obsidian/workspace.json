@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 40 - Old Friends in New Places.md",
+                "file": "Day Tracker.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,8 +56,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "10652902c357a59f",
@@ -70,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 42.md",
+                "file": "Session Notes/Session 42.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 42.md",
+                "file": "Day Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 42.md",
+                "file": "Day Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 42.md"
+                "file": "Day Tracker.md"
               }
             }
           },
@@ -271,12 +270,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e71300817180640",
+  "active": "0003ac7ea0576b1f",
   "lastOpenFiles": [
-    "NPCs/Grogar.md",
-    "Session 42.md",
-    "Session Notes/Session 41.md",
     "Session Notes/Session 40 - Old Friends in New Places.md",
+    "Session Notes/Session 42.md",
+    "NPCs/Grogar.md",
+    "Session Notes/Session 41.md",
     "Encounters/14 Zunda'i Miir Lair.md",
     "NPCs/Zunda'i-Miir.md",
     "Encounters/13 Stonecage Cliffs.md",
