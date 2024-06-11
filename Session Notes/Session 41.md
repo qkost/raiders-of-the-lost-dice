@@ -57,6 +57,16 @@ Read out
 * Traps in [[14 Zunda'i Miir Lair]]
 
 ## Notes
+
+* Took Grogar with them
+* Ran from Giants
+	* Tried to feed goodberry
+* Got to Azul towers
+	* Kelward awesome perception to notice air bubbles in lake
+* [[14 Zunda'i Miir Lair]]
+	* Kelward got thrown up with reverse gravity
+	* 
+
 ## Prep
 ### 1. Review Characters
 
