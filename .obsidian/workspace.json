@@ -56,7 +56,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "10652902c357a59f",
@@ -112,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 40 - Old Friends in New Places.md",
+                "file": "NPCs/Zunda'i-Miir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 40 - Old Friends in New Places.md",
+                "file": "NPCs/Zunda'i-Miir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 40 - Old Friends in New Places.md"
+                "file": "NPCs/Zunda'i-Miir.md"
               }
             }
           },
@@ -259,13 +260,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0003ac7ea0576b1f",
+  "active": "a1389731f028e69c",
   "lastOpenFiles": [
-    "Encounters/14 Zunda'i Miir Lair.md",
+    "Session Notes/Session 41.md",
     "Session Notes/Session 40 - Old Friends in New Places.md",
+    "Encounters/14 Zunda'i Miir Lair.md",
     "Encounters/13 Stonecage Cliffs.md",
     "NPCs/Zunda'i-Miir.md",
-    "Session Notes/Session 41.md",
     "Names.md",
     "Encounters/15 Early Underdark.md",
     "Magic Items/Magic Items.md",
