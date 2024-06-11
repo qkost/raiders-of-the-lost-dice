@@ -111,7 +111,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/13 Stonecage Cliffs.md",
+                "file": "Encounters/14 Zunda'i Miir Lair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/13 Stonecage Cliffs.md",
+                "file": "Encounters/14 Zunda'i Miir Lair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +226,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/13 Stonecage Cliffs.md"
+                "file": "Encounters/14 Zunda'i Miir Lair.md"
               }
             }
           },
@@ -258,14 +259,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a494f6d09e4d81a",
+  "active": "f496aafffb4670c1",
   "lastOpenFiles": [
+    "Encounters/13 Stonecage Cliffs.md",
     "Session Notes/Session 40 - Old Friends in New Places.md",
     "NPCs/Zunda'i-Miir.md",
     "Encounters/14 Zunda'i Miir Lair.md",
     "Session Notes/Session 41.md",
     "Names.md",
-    "Encounters/13 Stonecage Cliffs.md",
     "Encounters/15 Early Underdark.md",
     "Magic Items/Magic Items.md",
     "Statblocks/passport_photo_sqare.jpg",
