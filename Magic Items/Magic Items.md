@@ -64,6 +64,7 @@
 - [ ] [Ring of Animal Influence](https://www.dndbeyond.com/magic-items/4717-ring-of-animal-influence)
 - [ ] [Crystal Blade](https://www.dndbeyond.com/magic-items/4047184-crystal-blade)
 - [ ] [Amethyst Longsword](https://www.dndbeyond.com/magic-items/8569090-amethyst-longsword)
+- [ ] [Stormrider Boots](https://www.dndbeyond.com/magic-items/7171012-stormrider-boots)
 ## Very Rare
 
 - [ ] [Mirror of Infinite Transpondence](https://www.dndbeyond.com/sources/tcsr/game-masters-toolkit#MirrorofInfiniteTranspondence)

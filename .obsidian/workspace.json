@@ -56,8 +56,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "10652902c357a59f",
@@ -137,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md",
+                "file": "Session Notes/Session 42 - Zunda'i Miir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md",
+                "file": "Session Notes/Session 42 - Zunda'i Miir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md"
+                "file": "Session Notes/Session 42 - Zunda'i Miir.md"
               }
             }
           },
@@ -284,10 +283,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f496aafffb4670c1",
+  "active": "a4712034e5e0dddb",
   "lastOpenFiles": [
-    "Magic Items/Magic Items.md",
+    "NPCs/Xhodhu.md",
     "Session Notes/Session 42 - Zunda'i Miir.md",
+    "Pictures/tokens/level_up_mome_tokens/Xorn.png",
+    "Magic Items/Magic Items.md",
     "Encounters/14 Zunda'i Miir Lair.md",
     "Session Notes/Session 41 - Into the Gemstone Caves.md",
     "Day Tracker.md",
@@ -306,7 +307,6 @@
     "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_RiverOfErasure.jpg",
     "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_Rain.jpg",
     "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_RadiantWaters.jpg",
-    "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_Original_Night.jpg",
     "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)",
     "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)",
     "Session Notes/Session 39 - I Bought a Boat!.md",
@@ -322,8 +322,6 @@
     "Locations/Ships.md",
     "PCs/Ember.md",
     "NPCs/Vilya.md",
-    "Locations/Port Damali/Port Damali Overview and Wards.md",
-    "Encounters/08 Ships & Islands.md",
     "Maps/underdark",
     "Maps/New folder",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/__MACOSX/Eldritch Church [26x57] - $5 Rewards Pt.2/Gridless",

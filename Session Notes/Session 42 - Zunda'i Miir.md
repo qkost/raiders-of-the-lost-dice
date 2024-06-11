@@ -32,6 +32,7 @@
 
 ### 4. Secrets and Clues
 
+* Beholder named [[Xhodhu]]
 * 
 
 ### 5. Fantastic Locations
@@ -48,4 +49,5 @@
 
 ### 8. Select Magic Item Rewards
 
-* [[14 Zunda'i Miir Lair#Treasure]]
+* [[14 Zunda'i Miir Lair#Treasure]] - could give some of this to [[Xhodhu]]
+* 

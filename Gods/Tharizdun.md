@@ -9,7 +9,7 @@
 ## Divine Shackles
 
 * Six sets hold the Chained Oblivion at the bottom of the Abyss
-* One of them is where [[Xodhu]] was corrupted
+* One of them is where [[Xhodhu]] was corrupted
 
 
 

@@ -8,11 +8,11 @@ https://www.reddit.com/r/dndmaps/comments/uquxxw/underdark_themed_maps_including
 * Was Drow city -- worshipers of [[Lolth, The Spider Queen]]
 * [[Tharizdun]] opened a portal
 * Demons corrupted Drow and turned to madness
-* Beholder named [[Xodhu]], corrupted by [[Tharizdun]] mind controlling Drow & [[Zunda'i-Miir]]
+* Beholder named [[Xhodhu]], corrupted by [[Tharizdun]] mind controlling Drow & [[Zunda'i-Miir]]
 * Drow corrupted
 	* Defaced temples to Lolth
 	* Growing demonic tumors (eye-stalks?)
-* [[Xodhu]] means to attain the secrets to dispel a Divine Shackle that holds [[Tharizdun]]
+* [[Xhodhu]] means to attain the secrets to dispel a Divine Shackle that holds [[Tharizdun]]
 
 ## Big Monsters
 * Mind Flayers
