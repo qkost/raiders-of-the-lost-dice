@@ -19,12 +19,12 @@
 
 * [[Ember]] - 
 * [[Kelward]] -
-* [[Shadowclaw]] - 
+* [[Shadowclaw]] - psionic ties to [[Ungrudaal]]
 * [[Tato]] - 
 
 ### 2. Strong Start
 
-* 
+* [[Shadowclaw]] is in 
 
 ### 3. Scenes
 
@@ -48,4 +48,4 @@
 
 ### 8. Select Magic Item Rewards
 
-* 
+* [[14 Zunda'i Miir Lair#Treasure]]
