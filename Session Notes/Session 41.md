@@ -1,6 +1,19 @@
 
 ## Recap
 
+Read out
+* Silver Anvil Forge - deposit on flexible mitrhral breastplate for flying
+* Old professor Dr. April Moors
+	* Conjurer
+	* Info on Fire Plane
+	* Plane Shift scroll
+* Set sail from [[Port Zoon]]
+	* Blades of the Moonweaver Awakened
+* Arrival at Stone Cage Cliffs
+	* Beautiful vista of shear peaks
+	* Streams running down the mountains into larger rivers
+	* Smell of rotting fish
+
 * Ferrin (halfling smith) at Silver Anvil Forge
 	* Shadowclaw purchased +1 shield
 	* Saw a patron Captain Sirocco (Osprey Aarakokra) getting fitted with a mithral breastplate that would enable flight
@@ -65,12 +78,13 @@
 	* [[Zunda'i-Miir]]
 	* [[14 Zunda'i Miir Lair]]
 * [[15 Early Underdark]]
-	* Pitlings & Ruinants
 	* Hydra
+	* Pitlings & Ruinants
 
 ### 4. Secrets and Clues
 
-* 
+* Beholder
+* Demons
 
 ### 5. Fantastic Locations
 

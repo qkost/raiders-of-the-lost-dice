@@ -21,24 +21,24 @@
             }
           },
           {
-            "id": "93a468b758ffa456",
+            "id": "cf51c7bc1db04e98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Names.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "42ac540d27565ea2",
+            "id": "93a468b758ffa456",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Zunda'i-Miir.md",
+                "file": "Magic Items/Magic Items.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,18 +51,6 @@
         "type": "tabs",
         "dimension": 54.503105590062106,
         "children": [
-          {
-            "id": "3cb8edad9101f036",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 40 - Old Friends in New Places.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "9a494f6d09e4d81a",
             "type": "leaf",
@@ -111,8 +99,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,11 +248,12 @@
   },
   "active": "a4712034e5e0dddb",
   "lastOpenFiles": [
-    "NPCs/Zunda'i-Miir.md",
-    "Encounters/14 Zunda'i Miir Lair.md",
-    "Session Notes/Session 40 - Old Friends in New Places.md",
+    "Names.md",
     "Session Notes/Session 41.md",
     "Encounters/13 Stonecage Cliffs.md",
+    "Session Notes/Session 40 - Old Friends in New Places.md",
+    "NPCs/Zunda'i-Miir.md",
+    "Encounters/14 Zunda'i Miir Lair.md",
     "Encounters/15 Early Underdark.md",
     "Magic Items/Magic Items.md",
     "Statblocks/passport_photo_sqare.jpg",
@@ -293,7 +281,6 @@
     "PCs/Shadowclaw.md",
     "Locations/Ships.md",
     "PCs/Ember.md",
-    "Names.md",
     "NPCs/Vilya.md",
     "Locations/Port Damali/Port Damali Overview and Wards.md",
     "Encounters/08 Ships & Islands.md",
