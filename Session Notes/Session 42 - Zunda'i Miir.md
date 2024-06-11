@@ -33,7 +33,12 @@
 ### 4. Secrets and Clues
 
 * Beholder named [[Xhodhu]]
-* 
+* [[Xhodhu]] corrupted by [[Tharizdun]]
+* Path
+	* Lake
+	* Collapsed tunnel
+	* Drow ruin
+	* Beholder lair
 
 ### 5. Fantastic Locations
 

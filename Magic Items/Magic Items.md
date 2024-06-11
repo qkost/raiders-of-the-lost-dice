@@ -59,7 +59,7 @@
 - [ ] [Belt of Dwarvenkind](https://www.dndbeyond.com/magic-items/4584-belt-of-dwarvenkind)
 - [ ] [Butcher's Bib](https://www.dndbeyond.com/magic-items/1434261-butchers-bib)
 - [ ] [Ring of Spell Storing](https://www.dndbeyond.com/magic-items/4730-ring-of-spell-storing)
-- [ ] [Glamoured Studded Leather](https://www.dndbeyond.com/magic-items/4645-glamoured-studded-leather)
+- [x] [Glamoured Studded Leather](https://www.dndbeyond.com/magic-items/4645-glamoured-studded-leather)
 - [ ] [Quaal's Feather Token](https://www.dndbeyond.com/magic-items/13584-quaals-feather-token)
 - [ ] [Ring of Animal Influence](https://www.dndbeyond.com/magic-items/4717-ring-of-animal-influence)
 - [ ] [Crystal Blade](https://www.dndbeyond.com/magic-items/4047184-crystal-blade)
@@ -67,13 +67,12 @@
 - [ ] [Stormrider Boots](https://www.dndbeyond.com/magic-items/7171012-stormrider-boots)
 ## Very Rare
 
-- [ ] [Mirror of Infinite Transpondence](https://www.dndbeyond.com/sources/tcsr/game-masters-toolkit#MirrorofInfiniteTranspondence)
+- [ ] [Mirror of Infinite Transpondance](https://www.dndbeyond.com/sources/tcsr/game-masters-toolkit#MirrorofInfiniteTranspondence)
 - [ ] [Polymorph Blade](http://dnd5e.wikidot.com/wondrous-items:polymorph-blade)
 - [ ] [Amulet of the Planes](https://www.dndbeyond.com/magic-items/4570-amulet-of-the-planes)
 - [ ] [Shortbow of Melodies](https://www.dndbeyond.com/magic-items/7526763-shortbow-of-melodies)
 - [ ] [Bloodshed Longsword](https://www.dndbeyond.com/magic-items/7102414-bloodshed-longsword)
 - [ ] [Fool's Blade](https://www.dndbeyond.com/magic-items/7526677-fools-blade)
-- [ ] 
 ## Potions
 - [ ] [Potion of Heroism](https://www.dndbeyond.com/magic-items/4709-potion-of-heroism)
 - [ ] [Potion of Growth](https://www.dndbeyond.com/magic-items/4707-potion-of-growth)
