@@ -86,7 +86,7 @@
 - [x] [[Wavesong]]
 - [ ] Vestige - [Infiltrator's Key](https://www.dndbeyond.com/sources/egtw/wildemount-treasures#InfiltratorsKey)
 - [x] Leading Rapier
-- [ ] Vestage - Blade of Sehanine
+- [x] Vestage - Blade of Sehanine
 - [ ] [Boots of Elvenkind](https://www.dndbeyond.com/magic-items/4587-boots-of-elvenkind)
 
 ## [[Ember]]

@@ -20,6 +20,7 @@
 	* Staff of Power
 	* Manual of Quickness of Action
 	* Amethyst Shard (for making [Amethyst Longsword](https://www.dndbeyond.com/magic-items/8569090-amethyst-longsword))
+	* [Boots of Elvenkind](https://www.dndbeyond.com/magic-items/4587-boots-of-elvenkind)
 
 ##### Rolled Loot
 

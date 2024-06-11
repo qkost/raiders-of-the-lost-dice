@@ -137,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Encounters/14 Zunda'i Miir Lair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Encounters/14 Zunda'i Miir Lair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +251,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Magic Items.md"
+                "file": "Encounters/14 Zunda'i Miir Lair.md"
               }
             }
           },
@@ -284,8 +284,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3ec5db57b8fbd89c",
+  "active": "f496aafffb4670c1",
   "lastOpenFiles": [
+    "Magic Items/Magic Items.md",
     "Session Notes/Session 42 - Zunda'i Miir.md",
     "Encounters/14 Zunda'i Miir Lair.md",
     "Session Notes/Session 41 - Into the Gemstone Caves.md",
@@ -296,7 +297,6 @@
     "Encounters/13 Stonecage Cliffs.md",
     "Names.md",
     "Encounters/15 Early Underdark.md",
-    "Magic Items/Magic Items.md",
     "Statblocks/passport_photo_sqare.jpg",
     "Maps/map-5.1-amethyst-dragon-lair.jpg",
     "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_Winter_Night.jpg",
