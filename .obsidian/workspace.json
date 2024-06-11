@@ -65,6 +65,18 @@
         "dimension": 54.503105590062106,
         "children": [
           {
+            "id": "9e71300817180640",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 42.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9a494f6d09e4d81a",
             "type": "leaf",
             "state": {
@@ -112,8 +124,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 41.md",
+                "file": "Session 42.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 41.md",
+                "file": "Session 42.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +238,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 41.md"
+                "file": "Session 42.md"
               }
             }
           },
@@ -260,12 +271,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4712034e5e0dddb",
+  "active": "9e71300817180640",
   "lastOpenFiles": [
+    "NPCs/Grogar.md",
+    "Session 42.md",
+    "Session Notes/Session 41.md",
     "Session Notes/Session 40 - Old Friends in New Places.md",
     "Encounters/14 Zunda'i Miir Lair.md",
     "NPCs/Zunda'i-Miir.md",
-    "Session Notes/Session 41.md",
     "Encounters/13 Stonecage Cliffs.md",
     "Names.md",
     "Encounters/15 Early Underdark.md",
@@ -298,7 +311,6 @@
     "NPCs/Vilya.md",
     "Locations/Port Damali/Port Damali Overview and Wards.md",
     "Encounters/08 Ships & Islands.md",
-    "Session Notes/Session 01 - The Adventure Begins!.md",
     "Maps/underdark",
     "Maps/New folder",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/__MACOSX/Eldritch Church [26x57] - $5 Rewards Pt.2/Gridless",

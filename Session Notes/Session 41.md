@@ -65,7 +65,9 @@ Read out
 	* Kelward awesome perception to notice air bubbles in lake
 * [[14 Zunda'i Miir Lair]]
 	* Kelward got thrown up with reverse gravity
-	* 
+* Chimneys
+	* Discovered duplications of themselves every 100 ft
+* Shadowclaw flew up one floor and spotted 5 amethyst shards floating in the air
 
 ## Prep
 ### 1. Review Characters
