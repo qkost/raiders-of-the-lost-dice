@@ -6,7 +6,6 @@
 
 ![[map-5.1-amethyst-dragon-lair.jpg]]
 
-
 ## Traps
 
 * DC18 STR/DEX Save
