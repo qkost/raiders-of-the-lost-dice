@@ -34,10 +34,12 @@
 - "You! Mortal touched by the Far Realm. By what foolishness do you find yourself in my lair?"
 - Say they can all go down, but Shadowclaw cannot return this way empty-handed
 - Zunda'i-Miir can control chimneys - top opens to sky and bottom is tunnel to the underdark
-- Plagued by dreams. Hasn't slumbered in 12 seasons
-- "I dream of a void-like entity. A creature of rolling, hungry ink and darkness a spreading cloud of lightless destruction. . It is endless, black, inky, filled with teeth and malice, laughter and hatred. And from the void endless streams of aberrations are begotten. One such shares the toothy maw of its master, surrounded by lidless eyes."
-- "While most before it have foolishly tried to escape my mountain and thus were destroyed, this one is more clever. It hides, waits, and slowly works its way through my psionic defenses. Biding its time until it believes it can make an escape."
-- The work of a beholder, clever and more insidious than most. Something different about this one; sense a influence of madness from the Abyss.
+
+#### Monologue
+
+> "My rest is no longer peaceful, for I am plagued by visions that gnaw at the edges of my mind. In my dreams, I see a void-like entity—a creature of swirling, voracious ink and darkness, a spreading cloud of lightless destruction. It is boundless, an abyss of black, inky malevolence, filled with teeth and malice, laughter and hatred. From this void, endless streams of aberrations are begotten, each more twisted than the last. Among them, one bears the toothy maw of its master, surrounded by lidless, unblinking eyes—a beholder that has ma
+>
+> While most aberrations that dared to enter my domain met swift destruction in their futile attempts to escape my mountain, this one is different. It is cunning, patient, and insidious. It hides in the shadows, waiting, probing my psionic defenses for weaknesses. It bides its time, confident that it will find a way to slip past my vigilance and into the world beyond."
 
 ### 4. Secrets and Clues
 
