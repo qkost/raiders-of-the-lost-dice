@@ -37,9 +37,9 @@
 
 #### Monologue
 
-> "My rest is no longer peaceful, for I am plagued by visions that gnaw at the edges of my mind. In my dreams, I see a void-like entity—a creature of swirling, voracious ink and darkness, a spreading cloud of lightless destruction. It is boundless, an abyss of black, inky malevolence, filled with teeth and malice, laughter and hatred. From this void, endless streams of aberrations are begotten, each more twisted than the last. Among them, one bears the toothy maw of its master, surrounded by lidless, unblinking eyes—a beholder that has ma
+>My rest is no longer peaceful, for I am plagued by visions that gnaw at the edges of my mind. In my dreams, I see a void-like entity—a creature of swirling, voracious ink and darkness, a spreading cloud of lightless destruction. It is boundless, an abyss of black, inky malevolence, filled with teeth and malice, laughter and hatred. From this void, endless streams of aberrations are begotten, each more twisted than the last. Among them, one bears the toothy maw of its master, surrounded by lidless, unblinking eyes—a beholder that then made its way to this plane of existence.
 >
-> While most aberrations that dared to enter my domain met swift destruction in their futile attempts to escape my mountain, this one is different. It is cunning, patient, and insidious. It hides in the shadows, waiting, probing my psionic defenses for weaknesses. It bides its time, confident that it will find a way to slip past my vigilance and into the world beyond."
+> While most aberrations of its ilk that dared to enter my domain met swift destruction in their futile attempts to escape my mountain, this one is different. It is cunning, patient, and insidious. It hides in the shadows, plaguing my rest to wear me down. It has taken refuge where I cannot reach, deep beneath collapsed tunnels that only smaller beings may traverse. Its minions gather and grow in strength, biding their time until they believe I am weakened enough to make their attempt at escape.
 
 ### 4. Secrets and Clues
 
