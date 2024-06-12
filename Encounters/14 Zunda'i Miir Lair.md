@@ -17,7 +17,9 @@
 * Shit ton of gold
 * Things it will trade for
 	* Wraps of Dyamak
-	* Staff of Power
+	* For Ember
+		* Staff of Power
+		* Gravity Sinkhole, Gravity Fissure, Immovable Object
 	* Amethyst Shard (for making [Amethyst Longsword](https://www.dndbeyond.com/magic-items/8569090-amethyst-longsword))
 	* [Boots of Elvenkind](https://www.dndbeyond.com/magic-items/4587-boots-of-elvenkind)
 
