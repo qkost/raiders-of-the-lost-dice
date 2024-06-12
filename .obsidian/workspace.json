@@ -222,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 42 - Zunda'i Miir.md",
+                "file": "Encounters/14 Zunda'i Miir Lair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 42 - Zunda'i Miir.md",
+                "file": "Encounters/14 Zunda'i Miir Lair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 42 - Zunda'i Miir.md"
+                "file": "Encounters/14 Zunda'i Miir Lair.md"
               }
             }
           },
@@ -295,10 +295,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4712034e5e0dddb",
+  "active": "f496aafffb4670c1",
   "lastOpenFiles": [
-    "Encounters/14 Zunda'i Miir Lair.md",
     "Session Notes/Session 42 - Zunda'i Miir.md",
+    "Encounters/14 Zunda'i Miir Lair.md",
     "NPCs/Xyrrath.md",
     "Magic Items/Magic Items.md",
     "Pictures/tokens/level_up_mome_tokens/Xorn.png",
