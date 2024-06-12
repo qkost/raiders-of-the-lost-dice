@@ -11,7 +11,7 @@
 
 ## Corruption
 
-* Dreams tormented by [[Xhodhu]] on behalf of [[Tharizdun]]
+* Dreams tormented by [[Xyrrath]] on behalf of [[Tharizdun]]
 * Symptoms
 	* Uncontrollable hunger
 	* Uncharacteristic aggression
@@ -59,4 +59,4 @@ Zunda'i-Miir's lair is underneath the westernmost of the three Azul Towers in th
 
 * Dreams haunted by a Beholder
 	* Dreams of eyes
-* Beholder [[Xhodhu]] delved too deep; uncovered a temple to [[Tharizdun]]'
+* Beholder [[Xyrrath]] delved too deep; uncovered a temple to [[Tharizdun]]'
