@@ -15,7 +15,7 @@
 * Wraps of Dyamak
 * Shards of amethyst (for [Amethyst Longsword](https://www.dndbeyond.com/magic-items/8569090-amethyst-longsword))
 	* [[Zunda'i-Miir]] breaths on shard to form it into single-bladed sword
-	* 
+	* Needs to seek out smith for handle 
 * Shit ton of gold
 * Things it will trade for
 	* Wraps of Dyamak
