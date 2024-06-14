@@ -17,3 +17,5 @@
 	* Spider webs 
 	* Magical darkness
 	* [4x Choldrith](https://www.dndbeyond.com/monsters/2560755-choldrith)
+
+![[spider_shaft_48x56.png]]
