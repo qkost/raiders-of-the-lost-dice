@@ -13,7 +13,7 @@
 ## Treasure
 
 * Wraps of Dyamak
-* Shards of amethyst (for [Amethyst Longsword](https://www.dndbeyond.com/magic-items/8569090-amethyst-longsword))
+* Shards of amethyst (for [Blade of the Watcher](https://www.dndbeyond.com/magic-items/8569090-blade-of-the-watcher))
 	* [[Zunda'i-Miir]] breaths on shard to form it into single-bladed sword
 	* Needs to seek out smith for handle 
 * Shit ton of gold
