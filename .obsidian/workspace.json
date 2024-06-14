@@ -147,9 +147,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c01807a8c312adcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encounters/99 Underdark Encounters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -223,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md",
+                "file": "Encounters/15 Early Underdark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md",
+                "file": "Encounters/15 Early Underdark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +275,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md"
+                "file": "Encounters/15 Early Underdark.md"
               }
             }
           },
@@ -296,10 +308,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f496aafffb4670c1",
+  "active": "c78c07b4598b1bef",
   "lastOpenFiles": [
-    "Magic Items/Magic Items.md",
+    "Encounters/99 Underdark Encounters.md",
+    "Encounters/15 Early Underdark.md",
     "Encounters/14 Zunda'i Miir Lair.md",
+    "Magic Items/Magic Items.md",
     "Session Notes/Session 42 - Zunda'i Miir.md",
     "NPCs/Xyrrath.md",
     "Pictures/tokens/level_up_mome_tokens/Xorn.png",
@@ -310,7 +324,6 @@
     "NPCs/Zunda'i-Miir.md",
     "Encounters/13 Stonecage Cliffs.md",
     "Names.md",
-    "Encounters/15 Early Underdark.md",
     "Statblocks/passport_photo_sqare.jpg",
     "Maps/map-5.1-amethyst-dragon-lair.jpg",
     "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_Winter_Night.jpg",
@@ -328,7 +341,6 @@
     "NPCs/Dr. April Moors.md",
     "NPCs/Malachai, The Barbed Ruin.md",
     "Resources.md",
-    "Encounters/99 Underdark Encounters.md",
     "Session Notes/Session 38 - Trial by Starlight.md",
     "Gods/Moradin, The All Hammer.md",
     "PCs/Shadowclaw.md",

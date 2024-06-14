@@ -1,4 +1,8 @@
 
+## Ebon Lake
+
+* [Dracohydra](https://www.dndbeyond.com/monsters/2059715-dracohydra)
+
 ## Docks
 
 * [Nx Pitling](https://www.dndbeyond.com/monsters/4485977-pitling)
@@ -6,6 +10,7 @@
 
 ![[docks_45x35.webp]]
 
-## Ebon Lake
+## Drow Ruin
 
-* [Dracohydra](https://www.dndbeyond.com/monsters/2059715-dracohydra)
+* Ziggurat
+* Vertical T
