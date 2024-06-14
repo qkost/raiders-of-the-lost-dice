@@ -22,7 +22,7 @@
 	* For Ember
 		* Staff of Power
 		* Gravity Sinkhole, Gravity Fissure, Immovable Object
-	* Amethyst Shard (for making [Amethyst Longsword](https://www.dndbeyond.com/magic-items/8569090-amethyst-longsword))
+	* Shards of amethyst (for [Blade of the Watcher](https://www.dndbeyond.com/magic-items/8569090-blade-of-the-watcher))
 	* [Boots of Elvenkind](https://www.dndbeyond.com/magic-items/4587-boots-of-elvenkind)
 
 ##### Rolled Loot
