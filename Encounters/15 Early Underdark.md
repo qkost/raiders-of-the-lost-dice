@@ -1,8 +1,9 @@
 
 ## Mines
 
-* [Nx Pitling](https://www.dndbeyond.com/monsters/4485977-pitling)
-* [2x Ruinant](https://www.dndbeyond.com/monsters/4485987-ruinant)
+* [Tormenauk](https://www.dndbeyond.com/monsters/4486023-tormenauk)
+* [Wobelas](https://www.dndbeyond.com/monsters/4486048-wobalas)
+* [9x Pitling](https://www.dndbeyond.com/monsters/4485977-pitling)
 
 ![[amethyst_mines.webp]]
 
