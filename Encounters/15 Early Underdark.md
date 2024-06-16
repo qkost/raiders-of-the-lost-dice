@@ -1,4 +1,10 @@
 
+## Mines
+
+* *
+
+![[amethyst_mines.webp]]
+
 ## Ebon Lake
 
 * [Dracohydra](https://www.dndbeyond.com/monsters/2059715-dracohydra)
