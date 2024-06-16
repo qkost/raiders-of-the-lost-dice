@@ -33,18 +33,6 @@
             }
           },
           {
-            "id": "496177f739e27f8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cf51c7bc1db04e98",
             "type": "leaf",
             "state": {
@@ -55,21 +43,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "93a468b758ffa456",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic Items/Magic Items.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "10652902c357a59f",
@@ -77,36 +53,12 @@
         "dimension": 54.503105590062106,
         "children": [
           {
-            "id": "9e71300817180640",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 42 - Zunda'i Miir.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "3ec5db57b8fbd89c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Magic Items/Magic Items.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a494f6d09e4d81a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/13 Stonecage Cliffs.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,21 +99,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c01807a8c312adcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/99 Underdark Encounters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -235,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/15 Early Underdark.md",
+                "file": "NPCs/Xyrrath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/15 Early Underdark.md",
+                "file": "NPCs/Xyrrath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/15 Early Underdark.md"
+                "file": "NPCs/Xyrrath.md"
               }
             }
           },
@@ -308,24 +248,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c78c07b4598b1bef",
+  "active": "91d728be25ab4812",
   "lastOpenFiles": [
+    "Names.md",
     "Magic Items/Magic Items.md",
     "Encounters/15 Early Underdark.md",
+    "Encounters/99 Underdark Encounters.md",
+    "Session Notes/Session 42 - Zunda'i Miir.md",
+    "Encounters/13 Stonecage Cliffs.md",
+    "NPCs/Zunda'i-Miir.md",
+    "Encounters/14 Zunda'i Miir Lair.md",
     "Maps/spider_shaft_48x56.png",
     "Maps/Haunted Ghost Ship Exterior [29x49] - $1 Rewards/spider_shaft_48x56.png",
-    "Encounters/99 Underdark Encounters.md",
-    "Encounters/14 Zunda'i Miir Lair.md",
-    "Session Notes/Session 42 - Zunda'i Miir.md",
     "NPCs/Xyrrath.md",
     "Pictures/tokens/level_up_mome_tokens/Xorn.png",
     "Session Notes/Session 41 - Into the Gemstone Caves.md",
     "Day Tracker.md",
     "Session Notes/Session 40 - Old Friends in New Places.md",
     "NPCs/Grogar.md",
-    "NPCs/Zunda'i-Miir.md",
-    "Encounters/13 Stonecage Cliffs.md",
-    "Names.md",
     "Statblocks/passport_photo_sqare.jpg",
     "Maps/map-5.1-amethyst-dragon-lair.jpg",
     "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_Winter_Night.jpg",
