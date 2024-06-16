@@ -1,6 +1,9 @@
 
 ## Mines
 
+* Land on a pile of bodies - drow
+* Horrid stench - pitlings
+
 * [Tormenauk](https://www.dndbeyond.com/monsters/4486023-tormenauk)
 * [Wobelas](https://www.dndbeyond.com/monsters/4486048-wobalas)
 * [9x Pitling](https://www.dndbeyond.com/monsters/4485977-pitling)
