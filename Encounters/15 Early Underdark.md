@@ -36,6 +36,7 @@ They move no more.
 * Vertical tunnel shaft
 	* Spider webs 
 	* Magical darkness
-	* [4x Choldrith](https://www.dndbeyond.com/monsters/2560755-choldrith)
+	* [Jade Giant Spider](https://5e.tools/bestiary/jade-giant-spider-oota.html)
+	* [2x Choldrith](https://www.dndbeyond.com/monsters/2560755-choldrith)
 
 ![[spider_shaft_48x56.png]]
