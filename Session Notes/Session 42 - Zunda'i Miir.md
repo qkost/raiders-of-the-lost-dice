@@ -37,9 +37,9 @@
 
 #### Monologue
 
->My rest is no longer peaceful, for I am plagued by visions that gnaw at the edges of my mind. In my dreams, I see a void-like entity—a creature of voracious, swirling black inky darkness, a spreading cloud of lightless destruction bound by chains the abyss. It is malevolence incarnate, filled with teeth and malice, laughter and hatred. From this void, endless streams of aberrations are born into existence, each more wicked and twisted than the last. Among them, one bears the toothy maw of its master, surrounded by lidless, unblinking eyes—a beholder, [[Xyrrath]], that then made its way to this plane of existence.
+>"My slumber is no longer tranquil, for dark visions encroach upon the borders of my mind. In my dreams, I behold a void-like entity—a creature of swirling, voracious ink and shadow, a spreading cloud of lightless destruction. It is a boundless, inky black malevolence, filled with teeth and malice, laughter and hatred, chained in the Abyss. From this void, endless streams of aberrations are begotten, each more twisted than the last. Among them, one stands apart, bearing the toothy maw of its master, surrounded by lidless, unblinking eyes—a beholder, [[Xyrrath]], has crossed into this realm.
 >
-> While most aberrations of its ilk that dared to enter my domain met swift destruction in their futile attempts to escape my mountain, this one is different. It is cunning, patient, and insidious. It hides in the shadows, plaguing my rest to wear me down. It has taken refuge where I cannot reach, deep beneath collapsed tunnels that only smaller beings may traverse. Its minions gather and grow in strength, biding their time until they believe I am weakened enough to make their attempt.
+> Where most aberrations of its kind that dared to enter my domain met swift destruction in their futile attempts to flee my mountain, this one is of a different ilk. Cunning, patient, and insidious, it hides in the shadows, plaguing my rest to wear me down. It has taken refuge in depths unreachable by me, beneath collapsed tunnels that only smaller beings may traverse. There, its minions gather and grow in strength, biding their time until they believe I am weakened enough to make their escape."
 
 ### 4. Secrets and Clues
 

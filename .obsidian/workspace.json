@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/15 Early Underdark.md",
+                "file": "Session Notes/Session 42 - Zunda'i Miir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/15 Early Underdark.md",
+                "file": "Session Notes/Session 42 - Zunda'i Miir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/15 Early Underdark.md"
+                "file": "Session Notes/Session 42 - Zunda'i Miir.md"
               }
             }
           },
@@ -235,13 +235,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c78c07b4598b1bef",
+  "active": "91d728be25ab4812",
   "lastOpenFiles": [
+    "Encounters/15 Early Underdark.md",
     "Session Notes/Session 42 - Zunda'i Miir.md",
     "NPCs/Xyrrath.md",
     "Names.md",
     "Magic Items/Magic Items.md",
-    "Encounters/15 Early Underdark.md",
     "Encounters/99 Underdark Encounters.md",
     "Encounters/13 Stonecage Cliffs.md",
     "NPCs/Zunda'i-Miir.md",
