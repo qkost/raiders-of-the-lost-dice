@@ -21,6 +21,18 @@
             }
           },
           {
+            "id": "046b9be1079db513",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 43.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cf51c7bc1db04e98",
             "type": "leaf",
             "state": {
@@ -32,7 +44,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "10652902c357a59f",
@@ -160,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md",
+                "file": "Session Notes/Session 43.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md",
+                "file": "Session Notes/Session 43.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md"
+                "file": "Session Notes/Session 43.md"
               }
             }
           },
@@ -233,17 +246,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f496aafffb4670c1",
+  "active": "f92f205f31d0ba58",
   "lastOpenFiles": [
+    "Session Notes/Session 42 - Zunda'i Miir.md",
+    "Session Notes/Session 43.md",
+    "Encounters/14 Zunda'i Miir Lair.md",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
     "Magic Items/Vestiges of Divergence/vestiges-journal.md",
-    "Encounters/14 Zunda'i Miir Lair.md",
     "Magic Items/Magic Items.md",
     "NPCs/Zunda'i-Miir.md",
     "Magic Items/Vestiges of Divergence/legend-lore-for-homebrewery.md",
     "Magic Items/Vestiges of Divergence/Vestiges of Divergence.md",
     "Encounters/15 Early Underdark.md",
-    "Session Notes/Session 42 - Zunda'i Miir.md",
     "NPCs/Xyrrath.md",
     "Names.md",
     "Encounters/99 Underdark Encounters.md",
