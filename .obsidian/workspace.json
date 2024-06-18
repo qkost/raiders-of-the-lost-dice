@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
+                "file": "Encounters/14 Zunda'i Miir Lair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
+                "file": "Encounters/14 Zunda'i Miir Lair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf"
+                "file": "Encounters/14 Zunda'i Miir Lair.md"
               }
             }
           },
@@ -233,13 +233,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c78c07b4598b1bef",
+  "active": "f496aafffb4670c1",
   "lastOpenFiles": [
+    "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
     "Magic Items/Vestiges of Divergence/vestiges-journal.md",
     "Encounters/14 Zunda'i Miir Lair.md",
     "Magic Items/Magic Items.md",
     "NPCs/Zunda'i-Miir.md",
-    "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
     "Magic Items/Vestiges of Divergence/legend-lore-for-homebrewery.md",
     "Magic Items/Vestiges of Divergence/Vestiges of Divergence.md",
     "Encounters/15 Early Underdark.md",
