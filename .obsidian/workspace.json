@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 43.md",
+                "file": "Encounters/14 Zunda'i Miir Lair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 43.md",
+                "file": "Encounters/14 Zunda'i Miir Lair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 43.md"
+                "file": "Encounters/14 Zunda'i Miir Lair.md"
               }
             }
           },
@@ -246,10 +246,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f92f205f31d0ba58",
+  "active": "f496aafffb4670c1",
   "lastOpenFiles": [
-    "Session Notes/Session 42 - Zunda'i Miir.md",
     "Session Notes/Session 43.md",
+    "Session Notes/Session 42 - Zunda'i Miir.md",
     "Encounters/14 Zunda'i Miir Lair.md",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
     "Magic Items/Vestiges of Divergence/vestiges-journal.md",

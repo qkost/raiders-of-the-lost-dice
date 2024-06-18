@@ -14,7 +14,11 @@
 	* Slow fall
 	* Dead drow
 	* Pitlings
-	* 
+* Fight with tormenauk, wobelas
+	* Grappled Tato
+	* Kelward teleport
+	* Bigby's hand
+	* Stun on wobelas
 * 
 
 ## Notes
