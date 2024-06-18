@@ -6,7 +6,7 @@
       {
         "id": "e04aba8265fd6b3b",
         "type": "tabs",
-        "dimension": 49.922360248447205,
+        "dimension": 39.922265408106604,
         "children": [
           {
             "id": "91d728be25ab4812",
@@ -37,7 +37,7 @@
       {
         "id": "10652902c357a59f",
         "type": "tabs",
-        "dimension": 50.077639751552795,
+        "dimension": 60.077734591893396,
         "children": [
           {
             "id": "3ec5db57b8fbd89c",
@@ -79,11 +79,9 @@
             "id": "c78c07b4598b1bef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Encounters/15 Early Underdark.md",
-                "mode": "source",
-                "source": false
+                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf"
               }
             }
           }
@@ -162,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/15 Early Underdark.md",
+                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/15 Early Underdark.md",
+                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/15 Early Underdark.md"
+                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf"
               }
             }
           },
@@ -237,11 +235,15 @@
   },
   "active": "c78c07b4598b1bef",
   "lastOpenFiles": [
+    "Magic Items/Vestiges of Divergence/vestiges-journal.md",
     "Encounters/14 Zunda'i Miir Lair.md",
     "Magic Items/Magic Items.md",
+    "NPCs/Zunda'i-Miir.md",
+    "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
+    "Magic Items/Vestiges of Divergence/legend-lore-for-homebrewery.md",
+    "Magic Items/Vestiges of Divergence/Vestiges of Divergence.md",
     "Encounters/15 Early Underdark.md",
     "Session Notes/Session 42 - Zunda'i Miir.md",
-    "NPCs/Zunda'i-Miir.md",
     "NPCs/Xyrrath.md",
     "Names.md",
     "Encounters/99 Underdark Encounters.md",
@@ -271,9 +273,6 @@
     "Session Notes/Session 38 - Trial by Starlight.md",
     "Gods/Moradin, The All Hammer.md",
     "PCs/Shadowclaw.md",
-    "Locations/Ships.md",
-    "PCs/Ember.md",
-    "NPCs/Vilya.md",
     "Maps/underdark",
     "Maps/New folder",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/__MACOSX/Eldritch Church [26x57] - $5 Rewards Pt.2/Gridless",
@@ -281,7 +280,6 @@
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/Eldritch Church [26x57] - $5 Rewards Pt.2/Gridless",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/__MACOSX",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/Eldritch Church [26x57] - $5 Rewards Pt.2",
-    "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2",
     "Untitled.canvas"
   ]
 }
