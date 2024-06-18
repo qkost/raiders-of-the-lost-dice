@@ -37,7 +37,7 @@
 
 #### Monologue
 
->"My slumber is no longer tranquil, for dark visions encroach upon the borders of my mind. In my dreams, I behold a void-like entity—a creature of swirling, voracious ink and shadow, a spreading cloud of lightless destruction. It is a boundless, inky black malevolence, filled with teeth and malice, laughter and hatred, chained in the Abyss. From this void, endless streams of aberrations are begotten, each more twisted than the last. Among them, one stands apart, bearing the toothy maw of its master, surrounded by lidless, unblinking eyes—a beholder, [[Xyrrath]], has crossed into this realm.
+>"My slumber is no longer tranquil, for dark visions encroach upon the borders of my mind. In my dreams, I behold a void-like entity—a creature of swirling, voracious ink and shadow, a spreading cloud of lightless destruction. It is a boundless, black malevolence, filled with teeth and malice, laughter and hatred, chained in the Abyss. From this void, endless streams of aberrations are begotten, each more twisted than the last. Among them, one stands apart, bearing the toothy maw of its master, surrounded by lidless, unblinking eyes—a beholder, [[Xyrrath]], has crossed into this realm.
 >
 > Where most aberrations of its kind that dared to enter my domain met swift destruction in their futile attempts to flee my mountain, this one is of a different ilk. Cunning, patient, and insidious, it hides in the shadows, plaguing my rest to wear me down. It has taken refuge in depths unreachable by me, beneath collapsed tunnels that only smaller beings may traverse. There, its minions gather and grow in strength, biding their time until they believe I am weakened enough to make their escape."
 

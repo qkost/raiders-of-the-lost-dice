@@ -6,7 +6,7 @@
       {
         "id": "e04aba8265fd6b3b",
         "type": "tabs",
-        "dimension": 45.49689440993789,
+        "dimension": 59.2391304347826,
         "children": [
           {
             "id": "91d728be25ab4812",
@@ -37,7 +37,7 @@
       {
         "id": "10652902c357a59f",
         "type": "tabs",
-        "dimension": 54.503105590062106,
+        "dimension": 40.76086956521739,
         "children": [
           {
             "id": "3ec5db57b8fbd89c",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/15 Early Underdark.md",
+                "file": "Session Notes/Session 42 - Zunda'i Miir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/15 Early Underdark.md",
+                "file": "Session Notes/Session 42 - Zunda'i Miir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/15 Early Underdark.md"
+                "file": "Session Notes/Session 42 - Zunda'i Miir.md"
               }
             }
           },
@@ -235,10 +235,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c78c07b4598b1bef",
+  "active": "91d728be25ab4812",
   "lastOpenFiles": [
-    "Session Notes/Session 42 - Zunda'i Miir.md",
     "Encounters/15 Early Underdark.md",
+    "Session Notes/Session 42 - Zunda'i Miir.md",
     "NPCs/Xyrrath.md",
     "Names.md",
     "Magic Items/Magic Items.md",
