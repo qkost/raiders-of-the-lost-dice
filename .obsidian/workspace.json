@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 42 - Zunda'i Miir.md",
+                "file": "Encounters/15 Early Underdark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 42 - Zunda'i Miir.md",
+                "file": "Encounters/15 Early Underdark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 42 - Zunda'i Miir.md"
+                "file": "Encounters/15 Early Underdark.md"
               }
             }
           },
@@ -235,12 +235,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91d728be25ab4812",
+  "active": "c78c07b4598b1bef",
   "lastOpenFiles": [
     "Encounters/14 Zunda'i Miir Lair.md",
+    "Session Notes/Session 42 - Zunda'i Miir.md",
     "NPCs/Zunda'i-Miir.md",
     "Encounters/15 Early Underdark.md",
-    "Session Notes/Session 42 - Zunda'i Miir.md",
     "NPCs/Xyrrath.md",
     "Names.md",
     "Magic Items/Magic Items.md",
