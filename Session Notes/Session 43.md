@@ -5,6 +5,16 @@
 	* Crawled up out of amethyst cave
 	* [[Ungrudaal]] escaped from [[Zunda'i-Miir]]'s lair
 	* Promise to return [[Wraps of Dyamak]]
+	* Tato wanted to learn dragon magic [[Zunda'i-Miir]]
+* Vision
+	* Black void - [[Tharizdun]]
+	* Beholder - description
+	* Description of a few demons (Ruinant, Tormenauk, Wobelas)
+* Descent
+	* Slow fall
+	* Dead drow
+	* Pitlings
+	* 
 * 
 
 ## Notes
