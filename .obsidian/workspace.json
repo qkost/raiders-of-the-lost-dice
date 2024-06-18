@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 43.md",
+                "file": "Session Notes/Session 41 - The Gemstone Caves.md",
                 "mode": "source",
                 "source": false
               }
@@ -157,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 203.5
+    "width": 323.5
   },
   "right": {
     "id": "c0b9a18b1f8d4adb",
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 43.md",
+                "file": "Session Notes/Session 41 - The Gemstone Caves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 43.md",
+                "file": "Session Notes/Session 41 - The Gemstone Caves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 43.md"
+                "file": "Session Notes/Session 41 - The Gemstone Caves.md"
               }
             }
           },
@@ -248,8 +248,8 @@
   },
   "active": "046b9be1079db513",
   "lastOpenFiles": [
-    "Encounters/14 Zunda'i Miir Lair.md",
     "Session Notes/Session 43.md",
+    "Encounters/14 Zunda'i Miir Lair.md",
     "Session Notes/Session 42 - Zunda'i Miir.md",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
     "Magic Items/Vestiges of Divergence/vestiges-journal.md",
@@ -265,7 +265,7 @@
     "Maps/spider_shaft_48x56.png",
     "Maps/Haunted Ghost Ship Exterior [29x49] - $1 Rewards/spider_shaft_48x56.png",
     "Pictures/tokens/level_up_mome_tokens/Xorn.png",
-    "Session Notes/Session 41 - Into the Gemstone Caves.md",
+    "Session Notes/Session 41 - The Gemstone Caves.md",
     "Day Tracker.md",
     "Session Notes/Session 40 - Old Friends in New Places.md",
     "NPCs/Grogar.md",
