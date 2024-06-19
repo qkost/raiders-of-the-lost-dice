@@ -20,7 +20,7 @@
 * Cold Storage
 * Master Bedroom
 * Experiment Chamber
-* Nexus
+* Nexus - The unstable portal room which connects to various planes, closed because it is filled with water from the elemental plane of water at the moment.
 * Binding Chamber
 * Foyer
 * Soulforge Sanctum
@@ -30,8 +30,8 @@
 - Lounge
 - Multiple entrances with cool names (diamond entrance/tapestry entrance)
 - "Guest quarters" - prison
-- Arcane armory
-- Art gallery
+- Arcane Armory
+- Art Gallery - long hallway with statues of previous intruders
 - Experiment chamber
 - Donjon
 - "The Mouth" - Czepeku map
@@ -43,6 +43,8 @@
 - Kitchen
 - Hall of mirrors
 - Garden
+- Boneyard
+- Stasis - A room kept in stasis. The room of their dead wife/lover/child
 
 ## Enemy Ideas
 * Bone Naga
