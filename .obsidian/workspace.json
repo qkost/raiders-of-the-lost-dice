@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d7c1d4626c0175af",
+        "id": "cc84fa88d1825371",
         "type": "tabs",
         "children": [
           {
-            "id": "6db014796cf37743",
+            "id": "7030d23aeb183899",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/20 - Room.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69fc2560dea0039e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Demiplane Template.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -105,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/20 - Room.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/20 - Room.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/20 - Room.md"
-              }
+              "state": {}
             }
           },
           {
@@ -178,8 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6db014796cf37743",
+  "active": "7030d23aeb183899",
   "lastOpenFiles": [
+    "Templates/Demiplane Template.md",
+    "- Room.md",
+    "Locations/Thinora's Demiplane/Untitled.canvas",
+    "Locations/Thinora's Demiplane/20 - Room.md",
     "Locations/Thinora's Demiplane/19 - Room.md",
     "Locations/Thinora's Demiplane/18 - Room.md",
     "Locations/Thinora's Demiplane/17 - Room.md",
@@ -199,13 +183,10 @@
     "Locations/Thinora's Demiplane/03 - Room.md",
     "Locations/Thinora's Demiplane/02 - Room.md",
     "Locations/Thinora's Demiplane/01 - Room.md",
-    "Templates/Demiplane Template.md",
     "Templates/Prep Template.md",
-    "Locations/Thinora's Demiplane/20 - Room.md",
     "Locations/Thinora's Demiplane/18 - Room - Copy.md",
     "Locations/Thinora's Demiplane/17 - Room - Copy.md",
     "Locations/Thinora's Demiplane/16 - Room - Copy.md",
-    "Locations/Thinora's Demiplane/15 - Room - Copy.md",
     "Locations/Thinora's Demiplane",
     "Encounters/Thinora's Demiplane",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",

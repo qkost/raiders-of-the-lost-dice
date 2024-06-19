@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "\"- Room\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -13,10 +13,10 @@
   "nodeSizeMultiplier": 1.16166666666667,
   "lineSizeMultiplier": 1.9375,
   "collapse-forces": false,
-  "centerStrength": 0.570686070686071,
-  "repelStrength": 19.1476091476091,
-  "linkStrength": 0.608108108108108,
-  "linkDistance": 30,
-  "scale": 0.1171671964899842,
-  "close": true
+  "centerStrength": 0.35031185031185,
+  "repelStrength": 15.4885654885655,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.6346285676930637,
+  "close": false
 }

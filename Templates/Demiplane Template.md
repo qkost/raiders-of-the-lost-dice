@@ -1,8 +1,8 @@
 ## Room Links
 
-*  [[- Room]]
-*  [[- Room]]
-*  [[- Room]]
+*  
+*  
+*  
 ## Description
 
 ## Map
