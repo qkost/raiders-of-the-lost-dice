@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "07f82e2e6f18a25c",
+            "id": "6db014796cf37743",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/Thinora's Demiplane/OLD - Thinora's Demiplane.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/Thinora's Demiplane/OLD - Thinora's Demiplane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/Thinora's Demiplane/OLD - Thinora's Demiplane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Encounters/Thinora's Demiplane/OLD - Thinora's Demiplane.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,8 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07f82e2e6f18a25c",
+  "active": "6db014796cf37743",
   "lastOpenFiles": [
+    "Locations/Thinora's Demiplane/02 - Room.md",
+    "Locations/Thinora's Demiplane/01 - Room - Copy.md",
+    "Encounters/Thinora's Demiplane/01 - Room.md",
+    "Locations/Thinora's Demiplane/OLD - Thinora's Demiplane.md",
+    "Locations/Thinora's Demiplane/01 - Room.md",
+    "Locations/Thinora's Demiplane",
+    "Encounters/Thinora's Demiplane/OLD - Thinora's Demiplane.md",
     "Encounters/Thinora's Demiplane",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
     "NPCs/Zunda'i-Miir.md",
@@ -202,18 +201,11 @@
     "Session Notes/Session 39 - I Bought a Boat!.md",
     "Locations/Port Zoon.md",
     "Locations/Port Damali/Arcane Oddities.md",
-    "NPCs/Dr. April Moors.md",
-    "NPCs/Malachai, The Barbed Ruin.md",
-    "Resources.md",
-    "Session Notes/Session 38 - Trial by Starlight.md",
-    "Gods/Moradin, The All Hammer.md",
     "Maps/underdark",
     "Maps/New folder",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/__MACOSX/Eldritch Church [26x57] - $5 Rewards Pt.2/Gridless",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/__MACOSX/Eldritch Church [26x57] - $5 Rewards Pt.2",
     "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/Eldritch Church [26x57] - $5 Rewards Pt.2/Gridless",
-    "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/__MACOSX",
-    "Maps/Eldritch Church [26x57] - $5 Rewards Pt.2/Eldritch Church [26x57] - $5 Rewards Pt.2",
     "Untitled.canvas"
   ]
 }
