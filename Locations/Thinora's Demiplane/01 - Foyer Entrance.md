@@ -1,5 +1,3 @@
-![[Cave System (Spider) [30x50] gridless.jpg]]
-
 ## Room Links
 
 *  [[07 - Room]]
