@@ -5,12 +5,44 @@
 * Notes in plane:
 	* Locations of powerful artifacts -- Vestiges of Divergence
 	* Personal history/journal; likely encoded -- perfect for Ember's linguistic skills
-	* Probably didn't create it herself; Opash? Briarwood?
+	* Probably didn't create it herself
+		* Opash
+		* Briarwood
+		* Vespin Chloras
 * Generally has personal items of previous wizard replaced with 
 
 ## Room Ideas
 * *[Folding Halls of Halas](https://criticalrole.miraheze.org/wiki/Folding_Halls_of_Halas#/media/File:Folding_Halls_-_CRA.png)
 * https://www.reddit.com/r/d100/comments/ojy2qu/rooms_found_in_a_mad_wizards_dungeon/
+
+* Study/Library
+* Prison
+* Cold Storage
+* Master Bedroom
+* Experiment Chamber
+* Nexus
+* Binding Chamber
+* Foyer
+* Soulforge Sanctum
+* Concert Hall
+* (Something) Sepulcher
+* Hall of Memories
+- Lounge
+- Multiple entrances with cool names (diamond entrance/tapestry entrance)
+- "Guest quarters" - prison
+- Arcane armory
+- Art gallery
+- Experiment chamber
+- Donjon
+- "The Mouth" - Czepeku map
+- The Infinite Staircase - Czepeku map
+- Maze - Czepeku map
+- Observatory
+- Jewelry Box
+- Raw Materials - Portals to the Elemental planes
+- Kitchen
+- Hall of mirrors
+- Garden
 
 ## Enemy Ideas
 * Bone Naga
