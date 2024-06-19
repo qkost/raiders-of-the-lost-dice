@@ -1,6 +1,6 @@
 ## Room Links
 
-*  [[01 - Room]]
+*  [[01 - Foyer Entrance]]
 *  [[03 - Room]]
 *  [[09 - Room]]
 ## Description
