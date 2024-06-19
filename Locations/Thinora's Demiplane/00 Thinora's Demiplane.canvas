@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"00028b1fddc2e2c9","type":"file","file":"Locations/Thinora's Demiplane/01 - Room.md","x":20,"y":-60,"width":316,"height":400},
+		{"id":"1c90e59abe5cd3f6","type":"file","file":"Locations/Thinora's Demiplane/07 - Room.md","x":-537,"y":-362,"width":400,"height":400},
+		{"id":"3c11030fb9143cb6","type":"file","file":"Locations/Thinora's Demiplane/19 - Room.md","x":498,"y":-372,"width":400,"height":400},
+		{"id":"e88a4abf46879448","type":"file","file":"Locations/Thinora's Demiplane/13 - Room.md","x":-22,"y":480,"width":400,"height":400},
+		{"id":"9c2b30124b35482d","x":1160,"y":140,"width":400,"height":400,"type":"file","file":"Locations/Thinora's Demiplane/09 - Room.md"},
+		{"id":"aa24dc28021edd4d","x":981,"y":895,"width":400,"height":400,"type":"file","file":"Locations/Thinora's Demiplane/11 - Room.md"},
+		{"id":"74f2295ce4b16dee","x":-1052,"y":393,"width":400,"height":400,"type":"file","file":"Locations/Thinora's Demiplane/05 - Room.md"},
+		{"id":"1c0cee0392dcefbb","x":-1352,"y":-626,"width":400,"height":400,"type":"file","file":"Locations/Thinora's Demiplane/15 - Room.md"}
+	],
+	"edges":[
+		{"id":"2ea3919b1dd8f0d2","fromNode":"00028b1fddc2e2c9","fromSide":"left","toNode":"1c90e59abe5cd3f6","toSide":"right","toEnd":"none"},
+		{"id":"e5a9f1b63553a2c0","fromNode":"00028b1fddc2e2c9","fromSide":"right","toNode":"3c11030fb9143cb6","toSide":"left","toEnd":"none"},
+		{"id":"24bf7062005d9f77","fromNode":"00028b1fddc2e2c9","fromSide":"bottom","toNode":"e88a4abf46879448","toSide":"top","toEnd":"none"},
+		{"id":"e1ba80f8d5cec20b","fromNode":"3c11030fb9143cb6","fromSide":"right","toNode":"9c2b30124b35482d","toSide":"left","toEnd":"none"},
+		{"id":"29e98de2b825f1b9","fromNode":"9c2b30124b35482d","fromSide":"bottom","toNode":"aa24dc28021edd4d","toSide":"top"},
+		{"id":"e6487f62bdebc360","fromNode":"aa24dc28021edd4d","fromSide":"left","toNode":"e88a4abf46879448","toSide":"right","toEnd":"none"},
+		{"id":"a8386f171b0bc99f","fromNode":"e88a4abf46879448","fromSide":"left","toNode":"74f2295ce4b16dee","toSide":"right","toEnd":"none"},
+		{"id":"0856275f9b26a241","fromNode":"74f2295ce4b16dee","fromSide":"top","toNode":"1c0cee0392dcefbb","toSide":"bottom","toEnd":"none"},
+		{"id":"ee0cb297f6619f70","fromNode":"1c0cee0392dcefbb","fromSide":"right","toNode":"1c90e59abe5cd3f6","toSide":"left","toEnd":"none"}
+	]
+}

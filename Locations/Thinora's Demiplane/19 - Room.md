@@ -2,7 +2,7 @@
 
 *  [[01 - Room]]
 *  [[03 - Room]]
-*  [[06 - Room]]
+*  [[09 - Room]]
 ## Description
 
 ## Map
