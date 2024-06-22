@@ -12,7 +12,9 @@
 
 ## Armory
 
+### Outside
 
+* []()
 
 ## Ebon Lake
 
