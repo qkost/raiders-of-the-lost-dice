@@ -26,6 +26,7 @@
 - [ ] [Mithral Breastplate](https://www.dndbeyond.com/magic-items/4681-mithral-breastplate)
 - [ ] [Goggles of Object Reading](https://www.dndbeyond.com/magic-items/1434310-goggles-of-object-reading)
 - [ ] [Wand of Magic Missiles](https://www.dndbeyond.com/magic-items/4794-wand-of-magic-missiles)
+- [ ] [Cloak of Protection](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection)
 - [ ] [Robe of Useful Items](https://www.dndbeyond.com/magic-items/4743-robe-of-useful-items)
 	* Default
 		* 2x Dagger
@@ -74,13 +75,15 @@
 - [ ] [Shortbow of Melodies](https://www.dndbeyond.com/magic-items/7526763-shortbow-of-melodies)
 - [ ] [Bloodshed Longsword](https://www.dndbeyond.com/magic-items/7102414-bloodshed-longsword)
 - [ ] [Fool's Blade](https://www.dndbeyond.com/magic-items/7526677-fools-blade)
+- [ ] [Rod of Hellish Flames](https://www.dndbeyond.com/magic-items/7526749-rod-of-hellish-flames)
 ## Potions
 - [ ] [Potion of Heroism](https://www.dndbeyond.com/magic-items/4709-potion-of-heroism)
 - [ ] [Potion of Growth](https://www.dndbeyond.com/magic-items/4707-potion-of-growth)
 - [ ] [Potion of Frost Giant Strength](https://www.dndbeyond.com/magic-items/5129-potion-of-frost-giant-strength)
 - [ ] [Potion of Healing (Greater)](https://www.dndbeyond.com/magic-items/5133-potion-of-healing-greater)
 - [ ] [Philter of Love](https://www.dndbeyond.com/magic-items/4695-philter-of-love)
-- [ ] [Potion of Dragon's Mastery](https://www.dndbeyond.com/magic-items/4047222-potion-of-dragons-majesty) - literally turn into an adult dragon
+- [x] [Potion of Dragon's Mastery](https://www.dndbeyond.com/magic-items/4047222-potion-of-dragons-majesty) - literally turn into an adult dragon
+- [ ] [Glowrune Pigment](https://www.dndbeyond.com/magic-items/7102421-glowrune-pigment)
 
 ## [[Kelward]]
 - [x] Instrument of the Bards
@@ -89,6 +92,8 @@
 - [x] Leading Rapier
 - [x] Vestage - Blade of Sehanine
 - [ ] [Boots of Elvenkind](https://www.dndbeyond.com/magic-items/4587-boots-of-elvenkind)
+- [ ] [Preshitoric Figurine of Wonderous Power](https://www.dndbeyond.com/magic-items/7102435-prehistoric-figurines-of-wondrous-power)
+- [ ] 
 
 ## [[Ember]]
 
@@ -98,6 +103,7 @@
 - [ ] [Cloak of Protection](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view?resourcekey=0-ceHUken0_UhQ3Apa6g4SJA)
 - [ ] [Wand of the War Mage](https://www.dndbeyond.com/magic-items/34712-wand-of-the-war-mage)
 - [ ] [Wand of Magic Missiles](https://www.dndbeyond.com/magic-items/4794-wand-of-magic-missiles)
+- [ ] [Rod of Hellish Flames](https://www.dndbeyond.com/magic-items/7526749-rod-of-hellish-flames)
 - [ ] Some sort of exploding dice mechanic
 - [x] [Pearl of Power](https://www.dndbeyond.com/magic-items/4691-pearl-of-power)
 - [x] Hat of Disguise
