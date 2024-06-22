@@ -47,10 +47,28 @@
 * Statue of Lolth hanging upside down holding a circular chest
 * Puzzle
 	* Eight orbs surround the chest
-	* By the light of our queen the chosen will be revealed
+	* Riddle below
 	* Trap
 		* [Web](https://www.dndbeyond.com/spells/2299-web) - Dex Save  15 or restrained
 		* [Cloudkill](https://www.dndbeyond.com/spells/2030-cloudkill) - CON Save 15 or 5d8 poison damage
+
+
+```
+Eight pallbearers carry
+The queen across the floor.
+
+Three true, five false
+protect her hoard.
+
+Her gifts to her children
+reveal those chosen.
+
+For those that fail
+She weaves her shroud
+
+To make sure that
+They move no more.
+```
 
 ## Drow Ruin
 
@@ -62,10 +80,10 @@ Three true, five false
 protect her hoard.
 
 Her gifts to her children
-reveal the chosen.
+reveal those chosen.
 
+For those that fail
 She weaves her shroud
-For those that move
 
 To make sure that
 They move no more.
