@@ -58,13 +58,12 @@
 		* [Cloudkill](https://www.dndbeyond.com/spells/2030-cloudkill) - CON Save 15 or 5d8 poison damage
 * Loot
 	* [Cloak of Protection](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection)
-	* [Rod of Hellish Flames](https://www.dndbeyond.com/magic-items/7526749-rod-of-hellish-flames)
+	* [Rod of Hellish Flames](https://www.dndbeyond.com/magic-items/7526749-rod-of-hellish-flames) - A black iron rod with glowing cinders perpetually orbiting its flanged head, casting an eerie, flickering light.
 	* [Bloodshed Longsword](https://www.dndbeyond.com/magic-items/7102414-bloodshed-longsword)
-	* [Wyvern Poison](https://www.dndbeyond.com/equipment/150-wyvern-poison-injury)
-	* 4000 gp worth of platinum ingots
-	* 1000 gp worth of art objects
-		* Obsidian spider
-		* 
+	* [1x Purple Worm Poison](https://www.dndbeyond.com/equipment/146-purple-worm-poison-injury) - single small vial of a purple liquid
+	* 4000 gp worth of adamantine ingots
+	* 1000 gp Obsidian spider
+
 
 ```
 In Elvish:
