@@ -45,7 +45,9 @@
 
 * Chest in center of room
 * Statue of Lolth hanging upside down over the chest
-* Summons 
+* Puzzle
+	* Eight orbs surround the chest
+	* By the light of our queen the chosen will be revealed
 
 ## Drow Ruin
 
