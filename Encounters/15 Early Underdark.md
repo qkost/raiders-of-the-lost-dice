@@ -22,12 +22,17 @@
 * [4x Lighttheif](https://www.dndbeyond.com/monsters/4485928-lightthief)
 * [Slaughter Demon](https://www.dndbeyond.com/monsters/4486002-slaughter-demon)
 
-### Wall of Force
-
 ### Drow
 
+* Wall of force
 * [2x Drow Elite Warrior](https://www.dndbeyond.com/monsters/17134-drow-elite-warrior) - Minolin, Irandath
 * [Drow Mage](https://www.dndbeyond.com/monsters/17135-drow-mage) - Lyzrima
+
+### Armory
+
+* Chest in center of room
+* Statue of Lolth hanging upside down over the chest
+* Summons 
 
 ## Ebon Lake
 
