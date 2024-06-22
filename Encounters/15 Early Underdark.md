@@ -10,6 +10,19 @@
 
 ![[amethyst_mines.webp]]
 
+
+
+## Ebon Lake
+
+* [Dracohydra](https://www.dndbeyond.com/monsters/2059715-dracohydra)
+
+## Docks
+
+* [Nx Pitling](https://www.dndbeyond.com/monsters/4485977-pitling)
+* [2x Ruinant](https://www.dndbeyond.com/monsters/4485987-ruinant)
+
+![[docks_45x35.webp]]
+
 ## Armory
 
 * Bridge
@@ -33,17 +46,6 @@
 * Chest in center of room
 * Statue of Lolth hanging upside down over the chest
 * Summons 
-
-## Ebon Lake
-
-* [Dracohydra](https://www.dndbeyond.com/monsters/2059715-dracohydra)
-
-## Docks
-
-* [Nx Pitling](https://www.dndbeyond.com/monsters/4485977-pitling)
-* [2x Ruinant](https://www.dndbeyond.com/monsters/4485987-ruinant)
-
-![[docks_45x35.webp]]
 
 ## Drow Ruin
 
