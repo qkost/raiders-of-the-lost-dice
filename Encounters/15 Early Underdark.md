@@ -54,23 +54,14 @@
 
 
 ```
-Eight pallbearers carry
-The queen across the floor.
+Eight pallbearers carry the queen across the floor.
+Three true, five false protect her hoard.
 
-Three true, five false
-protect her hoard.
+Light and dark; magic and sight.
+Her gifts to her children reveal those right.
 
-Light and dark,
-Magic and sight.
-
-Her gifts to her children
-reveal those right.
-
-For those unwise
-She weaves her shroud
-
-Bound and broken
-They move no more.
+For those unwise, she weaves her shroud.
+Bound and broken consumed by cloud.
 ```
 
 ## Drow Ruin
