@@ -24,13 +24,10 @@
 
 ### Wall of Force
 
-### jh
-
 ### Drow
 
-* [Drow Elite Warrior]()
-* [Drow Mage]
-
+* [2x Drow Elite Warrior](https://www.dndbeyond.com/monsters/17134-drow-elite-warrior) - Minolin, Irandath
+* [Drow Mage](https://www.dndbeyond.com/monsters/17135-drow-mage) - Lyzrima
 
 ## Ebon Lake
 
