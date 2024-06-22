@@ -48,6 +48,9 @@
 * Puzzle
 	* Eight orbs surround the chest
 	* By the light of our queen the chosen will be revealed
+	* Trap
+		* [Web](https://www.dndbeyond.com/spells/2299-web) - Dex Save  15 or restrained
+		* [Cloudkill](https://www.dndbeyond.com/spells/2030-cloudkill) - CON Save 15 or 5d8 poison damage
 
 ## Drow Ruin
 
