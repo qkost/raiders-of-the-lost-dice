@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "66a9ab483037fd99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic Items/Magic Items.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -168,6 +180,8 @@
   },
   "active": "e8ec602116902448",
   "lastOpenFiles": [
+    "Magic Items/Magic Items.md",
+    "Encounters/15 Early Underdark.md",
     "Maps/drow_castle.jpg",
     "Maps/drow_castle.jpg.crdownload",
     "One-Shots/Temple of Zehir.md",
@@ -195,7 +209,6 @@
     "Locations/Thinora's Demiplane/05 - Room.md",
     "Locations/Thinora's Demiplane/04 - Room.md",
     "Locations/Thinora's Demiplane/03 - Room.md",
-    "Locations/Thinora's Demiplane/02 - Room.md",
     "Locations/Thinora's Demiplane",
     "Encounters/Thinora's Demiplane",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
@@ -208,7 +221,6 @@
     "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_Winter_Day.jpg",
     "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_Toxic.jpg",
     "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_Spring.jpg",
-    "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)/GL_ImpendingWaterfall_RiverOfErasure.jpg",
     "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)/Impending Waterfall [22x55] - $5 Rewards (Gridless)",
     "Maps/Impending Waterfall [22x55] - $5 Rewards (Gridless)",
     "Maps/underdark",

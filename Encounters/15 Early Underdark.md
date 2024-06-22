@@ -23,7 +23,9 @@
 
 ![[docks_45x35.webp]]
 
-## Armory
+## Armory/Temple
+
+![[drow_castle.jpg]]
 
 * Bridge
 * Wall of Force
@@ -43,7 +45,6 @@
 
 ### Armory
 
-
 * Statue of Lolth hanging upside down holding a circular chest
 * Puzzle
 	* Eight orbs surround the chest
@@ -51,7 +52,8 @@
 	* Trap
 		* [Web](https://www.dndbeyond.com/spells/2299-web) - Dex Save  15 or restrained
 		* [Cloudkill](https://www.dndbeyond.com/spells/2030-cloudkill) - CON Save 15 or 5d8 poison damage
-
+* Loot
+	* 
 
 ```
 Eight pallbearers carry the queen across the floor.
@@ -61,7 +63,7 @@ Light and dark; magic and sight.
 Her gifts to her children reveal those right.
 
 For those unwise, she weaves her shroud.
-Bound and broken consumed by cloud.
+Bound eternal in envenomed cloud.
 ```
 
 ## Drow Ruin
