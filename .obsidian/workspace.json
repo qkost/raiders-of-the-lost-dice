@@ -4,50 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cc84fa88d1825371",
+        "id": "037e504e2a8b56f5",
         "type": "tabs",
         "children": [
           {
-            "id": "7030d23aeb183899",
+            "id": "e8ec602116902448",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1b1bc20ef02fbaf",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
-                "viewState": {
-                  "x": -24.15214429069863,
-                  "y": 42.369227678963966,
-                  "zoom": -1.6666666666666667
-                }
-              }
-            }
-          },
-          {
-            "id": "612ab9e99009fe83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "One-Shots/Temple of Zehir.md",
+                "file": "Encounters/15 Early Underdark.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "One-Shots/Temple of Zehir.md",
+                "file": "Encounters/15 Early Underdark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "One-Shots/Temple of Zehir.md",
+                "file": "Encounters/15 Early Underdark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "One-Shots/Temple of Zehir.md"
+                "file": "Encounters/15 Early Underdark.md"
               }
             }
           },
@@ -194,10 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "612ab9e99009fe83",
+  "active": "e8ec602116902448",
   "lastOpenFiles": [
-    "One-Shots/Tomb of the Dawn.md",
     "One-Shots/Temple of Zehir.md",
+    "One-Shots/Tomb of the Dawn.md",
     "Locations/Thinora's Demiplane/Room Ideas.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
