@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/15 Early Underdark.md",
+                "file": "Magic Items/Magic Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/15 Early Underdark.md",
+                "file": "Magic Items/Magic Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/15 Early Underdark.md"
+                "file": "Magic Items/Magic Items.md"
               }
             }
           },
@@ -178,10 +179,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8ec602116902448",
+  "active": "66a9ab483037fd99",
   "lastOpenFiles": [
-    "Magic Items/Magic Items.md",
     "Encounters/15 Early Underdark.md",
+    "Magic Items/Magic Items.md",
     "Maps/drow_castle.jpg",
     "Maps/drow_castle.jpg.crdownload",
     "One-Shots/Temple of Zehir.md",

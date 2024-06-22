@@ -34,12 +34,13 @@
 
 ### Outside
 
-* [4x Lighttheif](https://www.dndbeyond.com/monsters/4485928-lightthief)
+* [4x Lightthief](https://www.dndbeyond.com/monsters/4485928-lightthief)
 * [Slaughter Demon](https://www.dndbeyond.com/monsters/4486002-slaughter-demon)
 
 ### Drow
 
 * Wall of force
+* Only speek elven, undercommon
 * [2x Drow Elite Warrior](https://www.dndbeyond.com/monsters/17134-drow-elite-warrior) - Minolin, Irandath
 * [Drow Mage](https://www.dndbeyond.com/monsters/17135-drow-mage) - Lyzrima
 

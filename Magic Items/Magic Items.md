@@ -65,9 +65,10 @@
 - [ ] [Crystal Blade](https://www.dndbeyond.com/magic-items/4047184-crystal-blade)
 - [ ] [Amethyst Longsword](https://www.dndbeyond.com/magic-items/8569090-amethyst-longsword)
 - [ ] [Stormrider Boots](https://www.dndbeyond.com/magic-items/7171012-stormrider-boots)
+- [ ] [Glimmering Moonbow](https://www.dndbeyond.com/magic-items/7526700-glimmering-moonbow-shortbow)
 ## Very Rare
 
-- [ ] [Mirror of Infinite Transpondance](https://www.dndbeyond.com/sources/tcsr/game-masters-toolkit#MirrorofInfiniteTranspondence)
+- [x] [Mirror of Infinite Transpondance](https://www.dndbeyond.com/sources/tcsr/game-masters-toolkit#MirrorofInfiniteTranspondence)
 - [ ] [Polymorph Blade](http://dnd5e.wikidot.com/wondrous-items:polymorph-blade)
 - [ ] [Amulet of the Planes](https://www.dndbeyond.com/magic-items/4570-amulet-of-the-planes)
 - [ ] [Shortbow of Melodies](https://www.dndbeyond.com/magic-items/7526763-shortbow-of-melodies)
