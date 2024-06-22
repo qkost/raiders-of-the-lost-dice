@@ -12,9 +12,25 @@
 
 ## Armory
 
+* Bridge
+* Wall of Force
+* Drow
+* Armory
+
 ### Outside
 
-* []()
+* [4x Lighttheif](https://www.dndbeyond.com/monsters/4485928-lightthief)
+* [Slaughter Demon](https://www.dndbeyond.com/monsters/4486002-slaughter-demon)
+
+### Wall of Force
+
+### jh
+
+### Drow
+
+* [Drow Elite Warrior]()
+* [Drow Mage]
+
 
 ## Ebon Lake
 
