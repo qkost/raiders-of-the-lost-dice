@@ -57,10 +57,16 @@
 >
 Eight pallbearers carry
 The queen across the floor.
+
 Three true, five false
 protect her hoard.
+
+Her gifts to her children
+reveal the chosen.
+
 She weaves her shroud
 For those that move
+
 To make sure that
 They move no more.
 >
