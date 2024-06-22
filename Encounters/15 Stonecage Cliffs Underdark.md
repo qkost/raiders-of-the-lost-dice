@@ -59,8 +59,7 @@
 * Loot
 	* [Cloak of Protection](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection)
 	* [Rod of Hellish Flames](https://www.dndbeyond.com/magic-items/7526749-rod-of-hellish-flames)
-	* [Adamantine Plate](https://www.dndbeyond.com/magic-items/4852-adamantine-plate)
-	* [Fate Cutter Shears (dagger)](https://www.dndbeyond.com/magic-items/7526657-fate-cutter-shears)
+	* [Bloodshed Longsword](https://www.dndbeyond.com/magic-items/7102414-bloodshed-longsword)
 	* 4000 gp worth of platinum
 	* 1000 gp worth of art objects
 

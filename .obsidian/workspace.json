@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Magic Items.md"
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md"
               }
             }
           },
@@ -191,11 +190,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66a9ab483037fd99",
+  "active": "e8ec602116902448",
   "lastOpenFiles": [
-    "Encounters/15 Stonecage Cliffs Underdark.md",
     "Encounters/99 Underdark Encounters.md",
     "Magic Items/Magic Items.md",
+    "Encounters/15 Stonecage Cliffs Underdark.md",
     "Maps/drow_castle.jpg",
     "Maps/drow_castle.jpg.crdownload",
     "One-Shots/Temple of Zehir.md",

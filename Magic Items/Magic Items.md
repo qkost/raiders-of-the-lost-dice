@@ -64,7 +64,6 @@
 - [ ] [Quaal's Feather Token](https://www.dndbeyond.com/magic-items/13584-quaals-feather-token)
 - [ ] [Ring of Animal Influence](https://www.dndbeyond.com/magic-items/4717-ring-of-animal-influence)
 - [ ] [Crystal Blade](https://www.dndbeyond.com/magic-items/4047184-crystal-blade)
-- [ ] [Amethyst Longsword](https://www.dndbeyond.com/magic-items/8569090-amethyst-longsword)
 - [ ] [Stormrider Boots](https://www.dndbeyond.com/magic-items/7171012-stormrider-boots)
 - [ ] [Glimmering Moonbow](https://www.dndbeyond.com/magic-items/7526700-glimmering-moonbow-shortbow)
 ## Very Rare
@@ -76,6 +75,7 @@
 - [ ] [Bloodshed Longsword](https://www.dndbeyond.com/magic-items/7102414-bloodshed-longsword)
 - [ ] [Fool's Blade](https://www.dndbeyond.com/magic-items/7526677-fools-blade)
 - [ ] [Rod of Hellish Flames](https://www.dndbeyond.com/magic-items/7526749-rod-of-hellish-flames)
+- [ ] [Blade of the Watcher](https://www.dndbeyond.com/magic-items/8569090-blade-of-the-watcher)
 ## Potions
 - [ ] [Potion of Heroism](https://www.dndbeyond.com/magic-items/4709-potion-of-heroism)
 - [ ] [Potion of Growth](https://www.dndbeyond.com/magic-items/4707-potion-of-growth)
