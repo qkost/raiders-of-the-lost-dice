@@ -63,10 +63,10 @@ protect her hoard.
 Her gifts to her children
 reveal those chosen.
 
-For those that fail
+For those unwise
 She weaves her shroud
 
-To make sure that
+To ensure
 They move no more.
 ```
 
