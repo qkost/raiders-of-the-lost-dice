@@ -40,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Thinora's Demiplane/Room Ideas.md",
+                "file": "One-Shots/Temple of Zehir.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/Room Ideas.md",
+                "file": "One-Shots/Temple of Zehir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/Room Ideas.md",
+                "file": "One-Shots/Temple of Zehir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/Room Ideas.md"
+                "file": "One-Shots/Temple of Zehir.md"
               }
             }
           },
@@ -196,9 +196,11 @@
   },
   "active": "612ab9e99009fe83",
   "lastOpenFiles": [
+    "One-Shots/Tomb of the Dawn.md",
+    "One-Shots/Temple of Zehir.md",
+    "Locations/Thinora's Demiplane/Room Ideas.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
-    "Locations/Thinora's Demiplane/Room Ideas.md",
     "Locations/Thinora's Demiplane/19 - Room.md",
     "Templates/Demiplane Template.md",
     "- Room.md",
@@ -221,7 +223,6 @@
     "Locations/Thinora's Demiplane/03 - Room.md",
     "Locations/Thinora's Demiplane/02 - Room.md",
     "Templates/Prep Template.md",
-    "Locations/Thinora's Demiplane/18 - Room - Copy.md",
     "Locations/Thinora's Demiplane",
     "Encounters/Thinora's Demiplane",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
