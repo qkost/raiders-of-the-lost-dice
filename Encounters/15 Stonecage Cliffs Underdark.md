@@ -50,6 +50,9 @@
 * Puzzle
 	* Eight orbs surround the chest
 	* Riddle below
+		1. Dancing lights -- already present revealing one leg
+		2. Faerie fire
+		3. Darkness
 	* Trap
 		* [Web](https://www.dndbeyond.com/spells/2299-web) - Dex Save  15 or restrained
 		* [Cloudkill](https://www.dndbeyond.com/spells/2030-cloudkill) - CON Save 15 or 5d8 poison damage
@@ -70,31 +73,14 @@ For those unwise, she weaves her shroud.
 Bound eternal in envenomed cloud.
 ```
 
-## Drow Ruin
+## Vertical Shaft
 
->
-Eight pallbearers carry
-The queen across the floor.
-
-Three true, five false
-protect her hoard.
-
-Her gifts to her children
-reveal those chosen.
-
-For those that fail
-She weaves her shroud
-
-To make sure that
-They move no more.
->
 
 * Ziggurat
 * Vertical tunnel shaft
 	* Spider webs 
 	* Magical darkness
-	* [Jade Giant Spider](https://5e.tools/bestiary/jade-giant-spider-oota.html)
-	* [2x Choldrith](https://www.dndbeyond.com/monsters/2560755-choldrith)
+	* [10x Giant Spider w/ Devil's Sight](https://www.dndbeyond.com/monsters/16895-giant-spider)
 
 ![[spider_shaft_48x56.png]]
 
