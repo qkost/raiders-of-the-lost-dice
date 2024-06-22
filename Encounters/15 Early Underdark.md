@@ -60,13 +60,16 @@ The queen across the floor.
 Three true, five false
 protect her hoard.
 
+Light and dark,
+Magic and sight.
+
 Her gifts to her children
-reveal those chosen.
+reveal those right.
 
 For those unwise
 She weaves her shroud
 
-To ensure
+Bound and broken
 They move no more.
 ```
 
