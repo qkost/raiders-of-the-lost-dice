@@ -60,8 +60,11 @@
 	* [Cloak of Protection](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection)
 	* [Rod of Hellish Flames](https://www.dndbeyond.com/magic-items/7526749-rod-of-hellish-flames)
 	* [Bloodshed Longsword](https://www.dndbeyond.com/magic-items/7102414-bloodshed-longsword)
-	* 4000 gp worth of platinum
+	* [Wyvern Poison](https://www.dndbeyond.com/equipment/150-wyvern-poison-injury)
+	* 4000 gp worth of platinum ingots
 	* 1000 gp worth of art objects
+		* Obsidian spider
+		* 
 
 ```
 In Elvish:
