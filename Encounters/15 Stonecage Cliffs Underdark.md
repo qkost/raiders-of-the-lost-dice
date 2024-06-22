@@ -54,6 +54,9 @@
 		* [Web](https://www.dndbeyond.com/spells/2299-web) - Dex Save  15 or restrained
 		* [Cloudkill](https://www.dndbeyond.com/spells/2030-cloudkill) - CON Save 15 or 5d8 poison damage
 * Loot
+	* [Cloak of Protection](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection)
+	* [Rod of Hellish Flames](https://www.dndbeyond.com/magic-items/7526749-rod-of-hellish-flames)
+	* [Adamantine Plate](https://www.dndbeyond.com/magic-items/4852-adamantine-plate)
 	* 
 
 ```
@@ -94,3 +97,7 @@ They move no more.
 	* [2x Choldrith](https://www.dndbeyond.com/monsters/2560755-choldrith)
 
 ![[spider_shaft_48x56.png]]
+
+## Beholder Lair
+
+![[Maps/Lair of the Beholder God [29x30] - $5 Rewards/Lair of the Beholder God [29x30] - $5 Rewards/Gridded/G_LairOfTheBeholderGod_Cult.jpg]]

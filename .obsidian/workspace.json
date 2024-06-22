@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounters/15 Early Underdark.md",
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "585d655c2589ee22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encounters/99 Underdark Encounters.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Magic Items.md"
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md"
               }
             }
           },
@@ -179,9 +190,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66a9ab483037fd99",
+  "active": "e8ec602116902448",
   "lastOpenFiles": [
-    "Encounters/15 Early Underdark.md",
+    "Encounters/99 Underdark Encounters.md",
+    "Encounters/15 Stonecage Cliffs Underdark.md",
     "Magic Items/Magic Items.md",
     "Maps/drow_castle.jpg",
     "Maps/drow_castle.jpg.crdownload",
@@ -209,7 +221,6 @@
     "Locations/Thinora's Demiplane/06 - Room.md",
     "Locations/Thinora's Demiplane/05 - Room.md",
     "Locations/Thinora's Demiplane/04 - Room.md",
-    "Locations/Thinora's Demiplane/03 - Room.md",
     "Locations/Thinora's Demiplane",
     "Encounters/Thinora's Demiplane",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
