@@ -43,8 +43,8 @@
 
 ### Armory
 
-* Chest in center of room
-* Statue of Lolth hanging upside down over the chest
+
+* Statue of Lolth hanging upside down holding a circular chest
 * Puzzle
 	* Eight orbs surround the chest
 	* By the light of our queen the chosen will be revealed
@@ -57,6 +57,8 @@
 >
 Eight pallbearers carry
 The queen across the floor.
+Three true, five false
+protect her hoard.
 She weaves her shroud
 For those that move
 To make sure that
