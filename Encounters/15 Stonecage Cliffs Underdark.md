@@ -104,6 +104,7 @@ Bound eternal in envenomed cloud.
 * [Chimeron](https://www.dndbeyond.com/monsters/4485806-chimeron)
 * [Pitling](https://www.dndbeyond.com/monsters/4485977-pitling)
 * [Tusker Demon](https://www.dndbeyond.com/monsters/4486030-tusker-demon)
+* [Gnoll Abyssal Archer](https://www.dndbeyond.com/monsters/4485854-gnoll-abyssal-archer)
 
 ## Beholder Lair
 
