@@ -13,4 +13,4 @@
 
 *  [[10 - Fountain of Youth]]
 *  [[16 - Room]]
-*  [[20 - Room]]
+*  [[20 - Experiment Chamber]]

@@ -16,4 +16,4 @@
 
 *  [[08 - Room]]
 *  [[12 - Room]]
-*  [[20 - Room]]
+*  [[20 - Experiment Chamber]]
