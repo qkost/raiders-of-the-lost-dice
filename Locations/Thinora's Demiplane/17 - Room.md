@@ -2,7 +2,7 @@
 
 *  [[03 - Room]]
 *  [[07 - Room]]
-*  [[10 - Room]]
+*  [[10 - Fountain of Youth]]
 ## Description
 
 ## Map

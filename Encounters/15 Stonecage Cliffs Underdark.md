@@ -94,10 +94,14 @@ Bound eternal in envenomed cloud.
 
 ## Gate
 
+![[G_ShadowfellFortress_BrokenBridge.jpg]]
+
 * [2x Ruinant](https://www.dndbeyond.com/monsters/4485987-ruinant)
 * [Wobalas](https://www.dndbeyond.com/monsters/4486048-wobalas)
 
 ## Castle
+
+![[G_ShadowfellFortressInterior_NoCrossbows.jpg]]
 
 * [Gloomstalker](https://www.dndbeyond.com/monsters/744314-gloomstalker)
 * [Hellhound](https://www.dndbeyond.com/monsters/4485878-hellhound-mcdm)
