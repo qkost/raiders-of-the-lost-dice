@@ -1,5 +1,5 @@
 
-![https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fcvl67m827nca1.jpg]
+![[foyer_35x35.jpg]]
 
 ## Description
 

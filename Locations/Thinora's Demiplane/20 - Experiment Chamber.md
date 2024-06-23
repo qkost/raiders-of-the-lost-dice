@@ -1,4 +1,6 @@
-![Catacomb rift](https://content.encounterkit.com/cdn-cgi/image/width=1080,quality=75,format=auto/https://content.encounterkit.com/map/preview/5fc06246bef4f78d266737d24a00d118.webp)
+![[GL_LichCatacomb_Original_Night.jpg]]
+
+![[GL_LichCatacomb_Rift.jpg]]
 ## Description
 
 * Spiral staircase around the room

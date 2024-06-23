@@ -71,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md"
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md"
               }
             }
           },
@@ -218,15 +218,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68755eaff7d0cd60",
+  "active": "77679c9ce9fab4c2",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+    "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_Platform.jpg",
+    "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_WaterPool.jpg",
+    "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_Void_Lit.jpg",
+    "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_Void_Dark.jpg",
+    "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_ToxicPit.jpg",
+    "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_SecretTunnel.jpg",
+    "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_Rift.jpg",
+    "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_Platform_Ritual.jpg",
+    "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_Original_Night.jpg",
+    "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_Original_Day.jpg",
+    "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)",
+    "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)",
     "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
+    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/Room Ideas.md",
     "Session Notes/Session 43.md",
     "NPCs/Zunda'i-Miir.md",
     "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
-    "Maps/clone_lab_22x16.jpg",
     "Locations/Thinora's Demiplane/19 - Room.md",
     "Locations/Thinora's Demiplane/18 - Room.md",
     "Locations/Thinora's Demiplane/17 - Room.md",
@@ -244,28 +256,16 @@
     "Locations/Thinora's Demiplane/04 - Room.md",
     "Locations/Thinora's Demiplane/03 - Room.md",
     "Locations/Thinora's Demiplane/02 - Room.md",
-    "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Magic Items/Magic Items.md",
     "Encounters/99 Underdark Encounters.md",
     "Maps/shadowfell/Shadowfell Fortress Interior [42x59] - $5 Rewards/__MACOSX/Shadowfell Fortress Interior [42x59] - $5 Rewards/Gridless",
     "Maps/shadowfell/Shadowfell Fortress Interior [42x59] - $5 Rewards/__MACOSX/Shadowfell Fortress Interior [42x59] - $5 Rewards/Gridded",
-    "Maps/shadowfell/Shadowfell Fortress Interior [42x59] - $5 Rewards/Shadowfell Fortress Interior [42x59] - $5 Rewards/Gridless/GL_ShadowfellFortressInterior_WinterFort.jpg",
-    "Maps/shadowfell/Shadowfell Fortress Interior [42x59] - $5 Rewards/Shadowfell Fortress Interior [42x59] - $5 Rewards/Gridless/GL_ShadowfellFortressInterior_Underwater.jpg",
-    "Maps/shadowfell/Shadowfell Fortress Interior [42x59] - $5 Rewards/Shadowfell Fortress Interior [42x59] - $5 Rewards/Gridless/GL_ShadowfellFortressInterior_SkyFort_Day.jpg",
-    "Maps/shadowfell/Shadowfell Fortress Interior [42x59] - $5 Rewards/Shadowfell Fortress Interior [42x59] - $5 Rewards/Gridless/GL_ShadowfellFortressInterior_SkyFort_Night.jpg",
-    "Maps/shadowfell/Shadowfell Fortress Interior [42x59] - $5 Rewards/Shadowfell Fortress Interior [42x59] - $5 Rewards/Gridless/GL_ShadowfellFortressInterior_Rain.jpg",
-    "Maps/shadowfell/Shadowfell Fortress Interior [42x59] - $5 Rewards/Shadowfell Fortress Interior [42x59] - $5 Rewards/Gridless/GL_ShadowfellFortressInterior_Original.jpg",
-    "Maps/shadowfell/Shadowfell Fortress Interior [42x59] - $5 Rewards/Shadowfell Fortress Interior [42x59] - $5 Rewards/Gridless/GL_ShadowfellFortressInterior_OceanFort.jpg",
-    "Maps/shadowfell/Shadowfell Fortress Interior [42x59] - $5 Rewards/Shadowfell Fortress Interior [42x59] - $5 Rewards/Gridless/GL_ShadowfellFortressInterior_NoMonsterFloor_G.jpg",
-    "Maps/shadowfell/Shadowfell Fortress Interior [42x59] - $5 Rewards/Shadowfell Fortress Interior [42x59] - $5 Rewards/Gridless/GL_ShadowfellFortressInterior_NoMonsterFloor_B1.jpg",
     "Maps/shadowfell/Shadowfell Fortress Interior [42x59] - $5 Rewards/__MACOSX/Shadowfell Fortress Interior [42x59] - $5 Rewards",
     "Maps/shadowfell/Shadowfell Fortress Interior [42x59] - $5 Rewards/Shadowfell Fortress Interior [42x59] - $5 Rewards/Gridless",
     "Maps/shadowfell/Shadowfell Fortress Interior [42x59] - $5 Rewards/Shadowfell Fortress Interior [42x59] - $5 Rewards/Gridded",
     "Maps/shadowfell/Shadowfell Fortress Interior [42x59] - $5 Rewards/__MACOSX",
     "Maps/shadowfell/Shadowfell Fortress Interior [42x59] - $5 Rewards/Shadowfell Fortress Interior [42x59] - $5 Rewards",
     "Maps/shadowfell/Shadowfell Fortress Interior [42x59] - $5 Rewards",
-    "Maps/shadowfell/Shadowfell Fortress [26x67] - $5 Rewards/__MACOSX/Shadowfell Fortress [26x67] - $5 Rewards",
-    "Maps/shadowfell/Shadowfell Fortress [26x67] - $5 Rewards/Shadowfell Fortress [26x67] - $5 Rewards/Gridless",
     "Untitled.canvas"
   ]
 }
