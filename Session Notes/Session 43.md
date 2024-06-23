@@ -34,7 +34,10 @@
 
 * Have [[Zunda'i-Miir]] come down
 	* [[Tato]] is worthy
-	* Breaths on him
+	* Breathes on him ([statblock](https://www.dndbeyond.com/monsters/2059690-ancient-amethyst-dragon))
+		* DC23 STR Save
+		* 14d8 force damage
+	* [Breath of the Gemstone Sentinel](https://www.dndbeyond.com/feats/1658027-breath-of-the-gemstone-sentinel)
 
 ### 3. Scenes
 
