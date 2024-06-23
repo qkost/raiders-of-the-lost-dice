@@ -11,14 +11,11 @@
             "id": "b62551a99fc9126f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
-                "viewState": {
-                  "x": -317.4308431052094,
-                  "y": -117.65631818855042,
-                  "zoom": -1.6825346845421212
-                }
+                "file": "Session Notes/Session 43.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -120,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Session Notes/Session 43.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Session Notes/Session 43.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
+                "file": "Session Notes/Session 43.md"
               }
             }
           },
@@ -195,8 +192,8 @@
   },
   "active": "b62551a99fc9126f",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
     "Locations/Thinora's Demiplane/Room Ideas.md",
     "Maps/clone_lab_22x16.jpg",
     "Locations/Thinora's Demiplane/20 - Room.md",

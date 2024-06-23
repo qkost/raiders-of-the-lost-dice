@@ -32,11 +32,13 @@
 
 ### 2. Strong Start
 
-* 
+* Have [[Zunda'i-Miir]] come down
+	* [[Tato]] is worthy
+	* Breaths on him
 
 ### 3. Scenes
 
-* 
+* [[15 Stonecage Cliffs Underdark]]
 
 ### 4. Secrets and Clues
 
