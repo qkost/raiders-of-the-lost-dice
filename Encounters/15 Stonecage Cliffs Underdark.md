@@ -83,8 +83,7 @@ Bound eternal in envenomed cloud.
 ## Vertical Shaft
 
 
-* Ziggurat
-* Vertical tunnel shaft
+* Vertical tunnel shaft (100 ft deep)
 	* Spider webs 
 	* Magical darkness
 	* [10x Giant Spider w/ Devil's Sight](https://www.dndbeyond.com/monsters/16895-giant-spider)
