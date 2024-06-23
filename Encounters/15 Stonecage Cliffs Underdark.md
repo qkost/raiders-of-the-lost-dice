@@ -94,7 +94,15 @@ Bound eternal in envenomed cloud.
 
 ## Gate
 
+* [2x Ruinant](https://www.dndbeyond.com/monsters/4485987-ruinant)
+* [Wobalas](https://www.dndbeyond.com/monsters/4486048-wobalas)
 
+## Castle
+
+* [Gloomstalker](https://www.dndbeyond.com/monsters/744314-gloomstalker)
+* [Hellhound](https://www.dndbeyond.com/monsters/4485878-hellhound-mcdm)
+* [Chimeron](https://www.dndbeyond.com/monsters/4485806-chimeron)
+* [Pitling](https://www.dndbeyond.com/monsters/4485977-pitling)
 
 ## Beholder Lair
 
