@@ -90,6 +90,12 @@ Bound eternal in envenomed cloud.
 
 ![[spider_shaft_48x56.png]]
 
+## Drow City: Ilhara-Vel
+
+## Gate
+
+
+
 ## Beholder Lair
 
 ![[Maps/Lair of the Beholder God [29x30] - $5 Rewards/Lair of the Beholder God [29x30] - $5 Rewards/Gridded/G_LairOfTheBeholderGod_Cult.jpg]]
