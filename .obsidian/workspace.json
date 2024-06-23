@@ -39,9 +39,9 @@
               "state": {
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
-                  "x": -499.0503915062719,
-                  "y": 10.670229370711237,
-                  "zoom": -1.5545548265708382
+                  "x": -572.7285419763751,
+                  "y": -62.17666938121454,
+                  "zoom": -1.6801760500702165
                 }
               }
             }
@@ -71,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 200
   },
   "right": {
     "id": "c0b9a18b1f8d4adb",
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md"
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
               }
             }
           },
@@ -218,8 +218,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77679c9ce9fab4c2",
+  "active": "a5aa3b95fa2ad5fb",
   "lastOpenFiles": [
+    "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_Platform.jpg",
     "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_WaterPool.jpg",
@@ -233,7 +234,6 @@
     "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_Original_Day.jpg",
     "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)",
     "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)",
-    "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/Room Ideas.md",
     "Session Notes/Session 43.md",
