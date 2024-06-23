@@ -1,4 +1,4 @@
-
+![[clone_lab_22x16.jpg]]
 ## Description
 
 * Vats of clones of [[Lady Thinora Va'del, Archmage of Antiquity]]
