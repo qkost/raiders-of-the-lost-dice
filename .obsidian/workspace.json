@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "e92726cc08760c5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a5aa3b95fa2ad5fb",
             "type": "leaf",
             "state": {
@@ -47,24 +35,12 @@
             }
           },
           {
-            "id": "68755eaff7d0cd60",
+            "id": "82ac688f6cdc8af5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77679c9ce9fab4c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
+                "file": "Locations/Thinora's Demiplane/Room Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Locations/Thinora's Demiplane/Room Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Locations/Thinora's Demiplane/Room Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
+                "file": "Locations/Thinora's Demiplane/Room Ideas.md"
               }
             }
           },
@@ -218,8 +194,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5aa3b95fa2ad5fb",
+  "active": "82ac688f6cdc8af5",
   "lastOpenFiles": [
+    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_Platform.jpg",
@@ -234,7 +211,6 @@
     "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_Original_Day.jpg",
     "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)",
     "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)",
-    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/Room Ideas.md",
     "Session Notes/Session 43.md",
     "NPCs/Zunda'i-Miir.md",
