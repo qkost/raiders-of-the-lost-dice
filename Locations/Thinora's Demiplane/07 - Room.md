@@ -1,8 +1,4 @@
-## Room Links
 
-*  [[01 - Foyer Entrance]]
-*  [[15 - Room]]
-*  [[17 - Room]]
 ## Description
 
 ## Map
@@ -12,3 +8,9 @@
 ## Secrets
 
 ## Loot
+
+## Room Links
+
+*  [[01 - Foyer Entrance]]
+*  [[15 - Room]]
+*  [[17 - Room]]

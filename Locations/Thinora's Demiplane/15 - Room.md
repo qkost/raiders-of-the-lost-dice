@@ -1,8 +1,4 @@
-## Room Links
 
-*  [[07 - Room]]
-*  [[10 - Fountain of Youth]]
-*  [[12 - Room]]
 ## Description
 
 ## Map
@@ -12,3 +8,9 @@
 ## Secrets
 
 ## Loot
+
+## Room Links
+
+*  [[07 - Room]]
+*  [[10 - Fountain of Youth]]
+*  [[12 - Room]]

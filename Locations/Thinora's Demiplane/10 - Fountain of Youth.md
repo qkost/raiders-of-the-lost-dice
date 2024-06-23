@@ -1,8 +1,4 @@
-## Room Links
 
-*  [[08 - Room]]
-*  [[12 - Room]]
-*  [[20 - Room]]
 ## Description
 
 * Vats of clones of [[Lady Thinora Va'del, Archmage of Antiquity]]
@@ -15,3 +11,9 @@
 ## Secrets
 
 ## Loot
+
+## Room Links
+
+*  [[08 - Room]]
+*  [[12 - Room]]
+*  [[20 - Room]]

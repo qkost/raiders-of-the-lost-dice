@@ -1,8 +1,4 @@
-## Room Links
 
-*  [[09 - Room]]
-*  [[14 - Room]]
-*  [[16 - Room]]
 ## Description
 
 ## Map
@@ -12,3 +8,9 @@
 ## Secrets
 
 ## Loot
+
+## Room Links
+
+*  [[09 - Room]]
+*  [[14 - Room]]
+*  [[16 - Room]]
