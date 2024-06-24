@@ -1,6 +1,11 @@
 ![[GL_WizardPrisonPart1_EnterTheVoid.jpg]]
 ## Description
 
+* Closed door with puzzle
+* Portal can be shifted between going to:
+	* [[17 - Great Library]]
+	* [[15 - Endless Staircase]]
+
 ## Map
 
 ## Monsters
