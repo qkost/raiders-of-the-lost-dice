@@ -1,4 +1,4 @@
-
+![[GL_WizardPrisonPart4_Massacre.jpg]]
 ## Description
 
 ## Map
@@ -11,6 +11,6 @@
 
 ## Room Links
 
-*  [[02 - Room]]
+*  [[02 - The Maw]]
 *  [[10 - Fountain of Youth]]
 *  [[15 - Endless Staircase]]

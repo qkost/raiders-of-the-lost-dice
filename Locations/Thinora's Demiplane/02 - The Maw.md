@@ -1,4 +1,4 @@
-
+![[GL_WizardPrisonPart5_BleedingGums.jpg]]
 ## Description
 
 ## Map
@@ -11,6 +11,6 @@
 
 ## Room Links
 
-*  [[12 - Room]]
+*  [[12 - The Angel]]
 *  [[18 - Room]]
 *  [[20 - Experiment Chamber]]

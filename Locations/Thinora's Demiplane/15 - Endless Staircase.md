@@ -27,4 +27,4 @@
 
 *  [[07 - Lake]]
 *  [[10 - Fountain of Youth]]
-*  [[12 - Room]]
+*  [[12 - The Angel]]

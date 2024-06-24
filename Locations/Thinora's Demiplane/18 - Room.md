@@ -11,6 +11,6 @@
 
 ## Room Links
 
-*  [[02 - Room]]
+*  [[02 - The Maw]]
 *  [[04 - Treasury]]
 *  [[05 - Room]]
