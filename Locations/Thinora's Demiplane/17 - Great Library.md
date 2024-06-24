@@ -1,4 +1,4 @@
-
+![[G_GreatLibrary_B6ForbiddenLibrary_Night.jpg]]
 ## Description
 
 ## Map

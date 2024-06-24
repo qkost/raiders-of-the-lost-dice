@@ -35,6 +35,18 @@
             }
           },
           {
+            "id": "75d9a4bd77e7d1c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/17 - Great Library.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c187be5a0d686b62",
             "type": "leaf",
             "state": {
@@ -59,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Locations/Thinora's Demiplane/Room Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Locations/Thinora's Demiplane/Room Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
+                "file": "Locations/Thinora's Demiplane/Room Ideas.md"
               }
             }
           },
@@ -206,8 +218,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a5aa3b95fa2ad5fb",
+  "active": "82ac688f6cdc8af5",
   "lastOpenFiles": [
+    "Locations/Thinora's Demiplane/17 - Great Library.md",
+    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Maps/The Great Library [Various] - $5 Rewards/__MACOSX/The Great Library [Various] - $5 Rewards/The_Griffons_Saddlebag_Items/Insatiable Tome/Card",
     "Maps/The Great Library [Various] - $5 Rewards/__MACOSX/The Great Library [Various] - $5 Rewards/The_Griffons_Saddlebag_Items/Insatiable Tome/Art",
     "Maps/The Great Library [Various] - $5 Rewards/__MACOSX/The Great Library [Various] - $5 Rewards/The_Griffons_Saddlebag_Items/Edible Book of Recipes/Cards",
@@ -228,10 +242,8 @@
     "Maps/The Great Library [Various] - $5 Rewards/The Great Library [Various] - $5 Rewards/The_Griffons_Saddlebag_Items/Insatiable Tome/Art",
     "Maps/The Great Library [Various] - $5 Rewards/The Great Library [Various] - $5 Rewards/The_Griffons_Saddlebag_Items/Edible Book of Recipes/Cards",
     "Maps/The Great Library [Various] - $5 Rewards/The Great Library [Various] - $5 Rewards/The_Griffons_Saddlebag_Items/Edible Book of Recipes/Art",
-    "Maps/The Great Library [Various] - $5 Rewards/__MACOSX/The Great Library [Various] - $5 Rewards/The_Griffons_Saddlebag_Items",
     "Locations/Thinora's Demiplane/Room Ideas.md",
     "Locations/Thinora's Demiplane/19 - Guest Quarters.md",
-    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/04 - Treasury.md",
     "Locations/Thinora's Demiplane/16 - Binding Chamber.md",
     "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
@@ -240,7 +252,6 @@
     "NPCs/Zunda'i-Miir.md",
     "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
     "Locations/Thinora's Demiplane/18 - Room.md",
-    "Locations/Thinora's Demiplane/17 - Room.md",
     "Locations/Thinora's Demiplane/15 - Room.md",
     "Locations/Thinora's Demiplane/14 - Room.md",
     "Locations/Thinora's Demiplane/13 - Room.md",

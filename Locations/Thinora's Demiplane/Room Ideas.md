@@ -15,7 +15,8 @@
 * *[Folding Halls of Halas](https://criticalrole.miraheze.org/wiki/Folding_Halls_of_Halas#/media/File:Folding_Halls_-_CRA.png)
 * https://www.reddit.com/r/d100/comments/ojy2qu/rooms_found_in_a_mad_wizards_dungeon/
 
-- [ ] Study/Library
+- [ ] Study
+- [x] Library
 - [ ] Prison
 - [ ] Cold Storage
 - [ ] Master Bedroom
