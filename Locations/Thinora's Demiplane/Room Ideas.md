@@ -30,17 +30,17 @@
 - [ ] Hall of Memories
 - [ ] Lounge
 - [ ] Multiple entrances with cool names (diamond entrance/tapestry entrance)
-- [ ] "Guest quarters" - prison
+- [x] "Guest quarters" - prison
 - [x] Treasury
-- [ ] Art Gallery - long hallway with statues of previous intruders
-- [ ] Experiment chamber
+- [x] Art Gallery - long hallway with statues of previous intruders
+- [x] Experiment chamber
 - [ ] Donjon
-- [ ] "The Mouth" - Czepeku map
-- [ ] The Infinite Staircase - Czepeku map
-- [ ] Maze - Czepeku map
+- [x] "The Mouth" - Czepeku map
+- [x] The Infinite Staircase - Czepeku map
+- [x] Maze - Czepeku map
 - [ ] Observatory
 - [ ] Jewelry Box
-- [ ] Raw Materials - Portals to the Elemental planes
+- [x] Raw Materials - Portals to the Elemental planes
 - [ ] Kitchen
 - [ ] Hall of mirrors
 - [ ] Garden

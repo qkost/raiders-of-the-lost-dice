@@ -28,9 +28,21 @@
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
                   "x": -60.32492926244757,
-                  "y": 267.7798809774844,
+                  "y": -61.024772274260215,
                   "zoom": -1.5
                 }
+              }
+            }
+          },
+          {
+            "id": "eef1d7fda6932d6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/Room Ideas.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -184,8 +196,9 @@
   },
   "active": "25bed61bbb3492ed",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/18 - Treasury.md",
+    "Locations/Thinora's Demiplane/Room Ideas.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/18 - Treasury.md",
     "Locations/Thinora's Demiplane/04 - Room.md",
     "Locations/Thinora's Demiplane/05 - Clock Tower.md",
     "Locations/Thinora's Demiplane/11 - Room.md",
@@ -224,7 +237,6 @@
     "Maps/Wizard Prizon Part 3 [40x49] - $5 Rewards (Gridless)/Wizard Prizon Part 3 [40x49] - $5 Rewards (Gridless)",
     "Maps/Wizard Prizon Part 3 [40x49] - $5 Rewards (Gridless)",
     "Locations/Thinora's Demiplane/19 - Room.md",
-    "Locations/Thinora's Demiplane/Room Ideas.md",
     "NPCs/Zunda'i-Miir.md",
     "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
     "Locations/Thinora's Demiplane/09 - Room.md",
