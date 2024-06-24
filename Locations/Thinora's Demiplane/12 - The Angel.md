@@ -1,4 +1,4 @@
-![[GL_WizardPrisonPart4_Massacre.jpg]]
+![[GL_WizardPrisonPart4_Original_Day.jpg]]
 ## Description
 
 ## Map

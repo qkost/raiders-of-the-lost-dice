@@ -1,3 +1,5 @@
+![[GL_WizardPrisonPart5_Original_Day.jpg]]
+
 ![[GL_WizardPrisonPart5_BleedingGums.jpg]]
 ## Description
 
