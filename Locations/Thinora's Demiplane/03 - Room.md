@@ -11,6 +11,6 @@
 
 ## Room Links
 
-*  [[16 - Room]]
+*  [[16 - Circle]]
 *  [[17 - Room]]
 *  [[19 - Room]]
