@@ -27,32 +27,20 @@
               "state": {
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
-                  "x": 16.534456271626937,
-                  "y": 645.2433036268328,
-                  "zoom": -1.5000000000000002
+                  "x": 112.03953172036626,
+                  "y": -99.49344501385411,
+                  "zoom": -1.5
                 }
               }
             }
           },
           {
-            "id": "909d18d6dc2e91a8",
+            "id": "9345610b6fb8ee71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6789a2d5d7eb1cda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/16 - Binding Chamber.md",
+                "file": "Locations/Thinora's Demiplane/11 - Clock Tower.md",
                 "mode": "source",
                 "source": false
               }
@@ -208,8 +196,9 @@
   },
   "active": "25bed61bbb3492ed",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+    "Locations/Thinora's Demiplane/11 - Clock Tower.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Locations/Thinora's Demiplane/16 - Binding Chamber.md",
     "Locations/Thinora's Demiplane/08 - Room.md",
     "Locations/Thinora's Demiplane/03 - Guest Quarters.md",
@@ -241,7 +230,6 @@
     "Maps/Wizard Prizon Part 3 [40x49] - $5 Rewards (Gridless)/Wizard Prizon Part 3 [40x49] - $5 Rewards (Gridless)",
     "Maps/Wizard Prizon Part 3 [40x49] - $5 Rewards (Gridless)",
     "Locations/Thinora's Demiplane/19 - Room.md",
-    "Locations/Thinora's Demiplane/11 - Clock Tower.md",
     "Locations/Thinora's Demiplane/Room Ideas.md",
     "Locations/Thinora's Demiplane/04 - Treasury.md",
     "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
