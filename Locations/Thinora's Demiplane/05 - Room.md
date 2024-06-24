@@ -12,5 +12,5 @@
 ## Room Links
 
 *  [[13 - Room]]
-*  [[15 - Room]]
+*  [[15 - Endless Staircase]]
 *  [[18 - Room]]

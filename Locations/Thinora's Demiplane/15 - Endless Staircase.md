@@ -1,4 +1,5 @@
 
+![[wizardprisonpart]]
 ## Description
 
 ## Map
@@ -11,6 +12,6 @@
 
 ## Room Links
 
-*  [[07 - Room]]
+*  [[07 - Lake]]
 *  [[10 - Fountain of Youth]]
 *  [[12 - Room]]

@@ -13,4 +13,4 @@
 
 *  [[02 - Room]]
 *  [[10 - Fountain of Youth]]
-*  [[15 - Room]]
+*  [[15 - Endless Staircase]]

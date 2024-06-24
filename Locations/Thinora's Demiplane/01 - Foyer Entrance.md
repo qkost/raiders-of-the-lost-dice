@@ -13,6 +13,6 @@
 
 ## Room Links
 
-*  [[07 - Room]]
+*  [[07 - Lake]]
 *  [[13 - Room]]
 *  [[19 - Room]]
