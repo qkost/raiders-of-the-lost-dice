@@ -6,12 +6,12 @@
 		{"id":"8bb17e335cec64db","type":"file","file":"Locations/Thinora's Demiplane/12 - Room.md","x":-1800,"y":-372,"width":400,"height":400},
 		{"id":"00028b1fddc2e2c9","type":"file","file":"Locations/Thinora's Demiplane/01 - Foyer Entrance.md","x":-22,"y":-362,"width":400,"height":400},
 		{"id":"e88a4abf46879448","type":"file","file":"Locations/Thinora's Demiplane/13 - Room.md","x":-22,"y":140,"width":400,"height":400},
-		{"id":"3c11030fb9143cb6","type":"file","file":"Locations/Thinora's Demiplane/19 - Guest Quarters.md","x":536,"y":-562,"width":400,"height":400},
+		{"id":"3c11030fb9143cb6","type":"file","file":"Locations/Thinora's Demiplane/19 - Room.md","x":536,"y":-562,"width":400,"height":400},
 		{"id":"1c90e59abe5cd3f6","type":"file","file":"Locations/Thinora's Demiplane/07 - Room.md","x":-537,"y":-562,"width":400,"height":400},
 		{"id":"74f2295ce4b16dee","type":"file","file":"Locations/Thinora's Demiplane/05 - Room.md","x":-760,"y":80,"width":400,"height":400},
 		{"id":"79bdb0ef856fef87","type":"file","file":"Locations/Thinora's Demiplane/02 - Room.md","x":-1400,"y":280,"width":400,"height":400},
 		{"id":"d5c8129cd72e91cd","type":"file","file":"Locations/Thinora's Demiplane/16 - Binding Chamber.md","x":665,"y":-1612,"width":400,"height":400},
-		{"id":"1c4f9bbe524aaf89","type":"file","file":"Locations/Thinora's Demiplane/08 - Room.md","x":-1600,"y":-1612,"width":400,"height":400},
+		{"id":"1c4f9bbe524aaf89","type":"file","file":"Locations/Thinora's Demiplane/08 - Guest Quarters.md","x":-1600,"y":-1612,"width":400,"height":400},
 		{"id":"8fa9df0b97cc3e02","type":"file","file":"Locations/Thinora's Demiplane/10 - Fountain of Youth.md","x":-1200,"y":-1114,"width":400,"height":400},
 		{"id":"3b398e7737766e1b","type":"file","file":"Locations/Thinora's Demiplane/04 - Treasury.md","x":-22,"y":680,"width":400,"height":400},
 		{"id":"6971e4a6a6d1e57d","type":"file","file":"Locations/Thinora's Demiplane/20 - Experiment Chamber.md","x":-2200,"y":280,"width":400,"height":400},
@@ -33,7 +33,6 @@
 		{"id":"ee0cb297f6619f70","fromNode":"1c0cee0392dcefbb","fromSide":"right","toNode":"1c90e59abe5cd3f6","toSide":"left","toEnd":"none"},
 		{"id":"beb892d547bd9734","fromNode":"74f2295ce4b16dee","fromSide":"bottom","toNode":"eb6f55a17b9e9826","toSide":"top","toEnd":"none"},
 		{"id":"0806bf7614b3a4a8","fromNode":"eb6f55a17b9e9826","fromSide":"right","toNode":"3b398e7737766e1b","toSide":"left","toEnd":"none"},
-		{"id":"83c1b703e5c4e489","fromNode":"3b398e7737766e1b","fromSide":"right","toNode":"aa24dc28021edd4d","toSide":"bottom","toEnd":"none"},
 		{"id":"2c6473e94280a6e0","fromNode":"1c0cee0392dcefbb","fromSide":"left","toNode":"8bb17e335cec64db","toSide":"right","toEnd":"none"},
 		{"id":"95e4ead29304a5d8","fromNode":"8bb17e335cec64db","fromSide":"bottom","toNode":"79bdb0ef856fef87","toSide":"top","toEnd":"none"},
 		{"id":"21dfa14c83985fab","fromNode":"79bdb0ef856fef87","fromSide":"right","toNode":"eb6f55a17b9e9826","toSide":"left","toEnd":"none"},
@@ -51,6 +50,7 @@
 		{"id":"41f8dc4ed7fac7a0","fromNode":"7d8c5c61b1a31674","fromSide":"bottom","toNode":"cec0ac78dd904d38","toSide":"right","toEnd":"none"},
 		{"id":"a341c9c06b25f892","fromNode":"1c4f9bbe524aaf89","fromSide":"right","toNode":"d5c8129cd72e91cd","toSide":"left","toEnd":"none"},
 		{"id":"6818abdd38d0d9d4","fromNode":"a1a680cd9967212d","fromSide":"top","toNode":"d5c8129cd72e91cd","toSide":"bottom","toEnd":"none"},
-		{"id":"ea64daa5603aab4d","fromNode":"d5c8129cd72e91cd","fromSide":"right","toNode":"7d8c5c61b1a31674","toSide":"top","toEnd":"none"}
+		{"id":"ea64daa5603aab4d","fromNode":"d5c8129cd72e91cd","fromSide":"right","toNode":"7d8c5c61b1a31674","toSide":"top","toEnd":"none"},
+		{"id":"856a11aa056b0484","fromNode":"aa24dc28021edd4d","fromSide":"bottom","toNode":"3b398e7737766e1b","toSide":"right"}
 	]
 }

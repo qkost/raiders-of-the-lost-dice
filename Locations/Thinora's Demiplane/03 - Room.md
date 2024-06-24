@@ -13,4 +13,4 @@
 
 *  [[16 - Binding Chamber]]
 *  [[17 - Great Library]]
-*  [[19 - Guest Quarters]]
+*  [[19 - Room]]

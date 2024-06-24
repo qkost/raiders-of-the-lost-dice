@@ -13,4 +13,4 @@
 
 *  [[03 - Room]]
 *  [[06 - Room]]
-*  [[08 - Room]]
+*  [[08 - Guest Quarters]]
