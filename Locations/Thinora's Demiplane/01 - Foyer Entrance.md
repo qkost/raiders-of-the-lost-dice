@@ -15,4 +15,4 @@
 
 *  [[07 - Room]]
 *  [[13 - Room]]
-*  [[19 - Room]]
+*  [[19 - Guest Quarters]]
