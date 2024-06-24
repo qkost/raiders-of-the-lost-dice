@@ -13,4 +13,4 @@
 
 *  [[09 - Room]]
 *  [[14 - Raw Materials]]
-*  [[16 - Binding Chamber]]
+*  [[16 - Room]]

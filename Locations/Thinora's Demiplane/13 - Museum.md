@@ -12,5 +12,5 @@
 ## Room Links
 
 *  [[01 - Foyer Entrance]]
-*  [[05 - Room]]
-*  [[11 - Clock Tower]]
+*  [[05 - Clock Tower]]
+*  [[11 - Room]]

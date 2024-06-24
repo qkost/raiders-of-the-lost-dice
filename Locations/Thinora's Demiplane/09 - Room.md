@@ -12,5 +12,5 @@
 ## Room Links
 
 *  [[06 - Room]]
-*  [[11 - Clock Tower]]
+*  [[11 - Room]]
 *  [[19 - Room]]

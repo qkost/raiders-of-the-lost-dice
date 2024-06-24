@@ -12,6 +12,6 @@
 
 ## Room Links
 
-*  [[16 - Binding Chamber]]
+*  [[16 - Room]]
 *  [[17 - Great Library]]
 *  [[19 - Room]]

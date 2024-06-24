@@ -1,4 +1,6 @@
 
+
+
 ## Description
 
 ## Map
@@ -11,6 +13,6 @@
 
 ## Room Links
 
+*  [[04 - Room]]
+*  [[09 - Room]]
 *  [[13 - Museum]]
-*  [[15 - Endless Staircase]]
-*  [[18 - Room]]

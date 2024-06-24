@@ -18,5 +18,5 @@
 ## Room Links
 
 *  [[02 - The Maw]]
-*  [[08 - Room]]
+*  [[08 - Binding Chamber]]
 *  [[14 - Raw Materials]]

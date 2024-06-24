@@ -14,5 +14,5 @@
 ## Room Links
 
 *  [[12 - The Angel]]
-*  [[18 - Room]]
+*  [[18 - Treasury]]
 *  [[20 - Experiment Chamber]]

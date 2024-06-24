@@ -1,4 +1,4 @@
-![[GL_AlchemyDungeon_Original.jpg]]
+
 ## Description
 
 ## Map
@@ -13,4 +13,4 @@
 
 *  [[03 - Guest Quarters]]
 *  [[06 - Room]]
-*  [[08 - Room]]
+*  [[08 - Binding Chamber]]

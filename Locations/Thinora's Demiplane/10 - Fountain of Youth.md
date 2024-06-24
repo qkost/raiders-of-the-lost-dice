@@ -14,6 +14,6 @@
 
 ## Room Links
 
-*  [[08 - Room]]
+*  [[08 - Binding Chamber]]
 *  [[12 - The Angel]]
 *  [[20 - Experiment Chamber]]
