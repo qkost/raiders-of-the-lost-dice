@@ -11,6 +11,6 @@
 
 ## Room Links
 
-*  [[03 - Room]]
+*  [[03 - Guest Quarters]]
 *  [[06 - Room]]
-*  [[08 - Guest Quarters]]
+*  [[08 - Room]]

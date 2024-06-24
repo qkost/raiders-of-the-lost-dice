@@ -18,5 +18,5 @@
 ## Room Links
 
 *  [[02 - The Maw]]
-*  [[08 - Guest Quarters]]
+*  [[08 - Room]]
 *  [[14 - Room]]

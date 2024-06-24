@@ -27,20 +27,32 @@
               "state": {
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
-                  "x": -975.7049265452872,
-                  "y": -838.295294420335,
-                  "zoom": 0.5833333333333333
+                  "x": 16.534456271626937,
+                  "y": 645.2433036268328,
+                  "zoom": -1.5000000000000002
                 }
               }
             }
           },
           {
-            "id": "70a5348b1dda5c89",
+            "id": "909d18d6dc2e91a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Thinora's Demiplane/17 - Great Library.md",
+                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6789a2d5d7eb1cda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/16 - Binding Chamber.md",
                 "mode": "source",
                 "source": false
               }
@@ -196,8 +208,12 @@
   },
   "active": "25bed61bbb3492ed",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/17 - Great Library.md",
+    "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/16 - Binding Chamber.md",
+    "Locations/Thinora's Demiplane/08 - Room.md",
+    "Locations/Thinora's Demiplane/03 - Guest Quarters.md",
+    "Locations/Thinora's Demiplane/17 - Great Library.md",
     "Locations/Thinora's Demiplane/07 - Lake.md",
     "Locations/Thinora's Demiplane/02 - The Maw.md",
     "Locations/Thinora's Demiplane/12 - The Angel.md",
@@ -225,13 +241,10 @@
     "Maps/Wizard Prizon Part 3 [40x49] - $5 Rewards (Gridless)/Wizard Prizon Part 3 [40x49] - $5 Rewards (Gridless)",
     "Maps/Wizard Prizon Part 3 [40x49] - $5 Rewards (Gridless)",
     "Locations/Thinora's Demiplane/19 - Room.md",
-    "Locations/Thinora's Demiplane/08 - Guest Quarters.md",
     "Locations/Thinora's Demiplane/11 - Clock Tower.md",
     "Locations/Thinora's Demiplane/Room Ideas.md",
     "Locations/Thinora's Demiplane/04 - Treasury.md",
-    "Locations/Thinora's Demiplane/16 - Binding Chamber.md",
     "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
-    "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "NPCs/Zunda'i-Miir.md",
     "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
     "Locations/Thinora's Demiplane/18 - Room.md",
@@ -240,7 +253,6 @@
     "Locations/Thinora's Demiplane/09 - Room.md",
     "Locations/Thinora's Demiplane/06 - Room.md",
     "Locations/Thinora's Demiplane/05 - Room.md",
-    "Locations/Thinora's Demiplane/03 - Room.md",
     "Magic Items/Magic Items.md",
     "Untitled.canvas"
   ]

@@ -12,5 +12,5 @@
 ## Room Links
 
 *  [[01 - Foyer Entrance]]
-*  [[03 - Room]]
+*  [[03 - Guest Quarters]]
 *  [[09 - Room]]

@@ -14,6 +14,6 @@
 
 ## Room Links
 
-*  [[08 - Guest Quarters]]
+*  [[08 - Room]]
 *  [[12 - The Angel]]
 *  [[20 - Experiment Chamber]]
