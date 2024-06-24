@@ -18,60 +18,26 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "845a9ce474095130",
+        "type": "tabs",
+        "children": [
           {
-            "id": "25bed61bbb3492ed",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
-                "viewState": {
-                  "x": -60.32492926244757,
-                  "y": -61.024772274260215,
-                  "zoom": -1.5
-                }
-              }
-            }
-          },
-          {
-            "id": "c9d3c01bffe051f9",
+            "id": "73f83500b925fad6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plot/Major Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf195f9bc5995609",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eef1d7fda6932d6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/Room Ideas.md",
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md"
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md"
               }
             }
           },
@@ -218,10 +184,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf195f9bc5995609",
+  "active": "73f83500b925fad6",
   "lastOpenFiles": [
-    "Plot/Major Notes.md",
+    "Session Notes/Session 43.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+    "Plot/Major Notes.md",
     "Locations/Thinora's Demiplane/Room Ideas.md",
     "Locations/Thinora's Demiplane/18 - Treasury.md",
     "Locations/Thinora's Demiplane/04 - Room.md",
@@ -252,7 +220,6 @@
     "Maps/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/GL_WizardPrisonPart5_NoDragons_Night.jpg",
     "Maps/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless",
     "Maps/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless",
-    "Session Notes/Session 43.md",
     "Maps/Wizard Prison Part 1 [37x60] - $5 Rewards (Gridless)/Wizard Prison Part 1 [37x60] - $5 Rewards (Gridless)/Gridless",
     "Maps/Wizard Prison Part 1 [37x60] - $5 Rewards (Gridless)/Wizard Prison Part 1 [37x60] - $5 Rewards (Gridless)",
     "Maps/Wizard Prison Part 1 [37x60] - $5 Rewards (Gridless)",
@@ -265,7 +232,6 @@
     "NPCs/Zunda'i-Miir.md",
     "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
     "Locations/Thinora's Demiplane/09 - Room.md",
-    "Locations/Thinora's Demiplane/06 - Room.md",
     "Untitled.canvas"
   ]
 }
