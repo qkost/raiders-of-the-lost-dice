@@ -1,4 +1,4 @@
-
+![[GL_AncientTechTreasury_NoCamp_Day.jpg]]
 ## Description
 
 ## Map

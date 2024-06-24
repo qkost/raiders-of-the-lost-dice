@@ -30,7 +30,7 @@
 - [ ] Lounge
 - [ ] Multiple entrances with cool names (diamond entrance/tapestry entrance)
 - [ ] "Guest quarters" - prison
-- [ ] Arcane Armory
+- [x] Treasury
 - [ ] Art Gallery - long hallway with statues of previous intruders
 - [ ] Experiment chamber
 - [ ] Donjon

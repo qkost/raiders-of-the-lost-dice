@@ -28,21 +28,9 @@
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
                   "x": -184.93627578750915,
-                  "y": -89.90765292962493,
+                  "y": -89.90765292962499,
                   "zoom": -1.6145516172051673
                 }
-              }
-            }
-          },
-          {
-            "id": "5c09280b7a20a378",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/16 - Binding Chamber.md",
-                "mode": "source",
-                "source": false
               }
             }
           },
@@ -59,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,20 +197,22 @@
   "active": "82ac688f6cdc8af5",
   "lastOpenFiles": [
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
-    "Locations/Thinora's Demiplane/16 - Binding Chamber.md",
+    "Locations/Thinora's Demiplane/04 - Treasury.md",
     "Locations/Thinora's Demiplane/Room Ideas.md",
+    "Maps/Ancient Tech Treasury [27x67] - $5 Rewards (Gridless)/GL_AncientTechTreasury_UnderdarkEntrance.jpg",
+    "Maps/Ancient Tech Treasury [27x67] - $5 Rewards (Gridless)/GL_AncientTechTreasury_Toxic.jpg",
+    "Maps/Ancient Tech Treasury [27x67] - $5 Rewards (Gridless)/GL_AncientTechTreasury_Rain.jpg",
+    "Maps/Ancient Tech Treasury [27x67] - $5 Rewards (Gridless)/GL_AncientTechTreasury_Original_Night.jpg",
+    "Maps/Ancient Tech Treasury [27x67] - $5 Rewards (Gridless)/GL_AncientTechTreasury_Original_Day.jpg",
+    "Maps/Ancient Tech Treasury [27x67] - $5 Rewards (Gridless)/GL_AncientTechTreasury_Opulent.jpg",
+    "Maps/Ancient Tech Treasury [27x67] - $5 Rewards (Gridless)/GL_AncientTechTreasury_NoMachine_Night.jpg",
+    "Maps/Ancient Tech Treasury [27x67] - $5 Rewards (Gridless)/GL_AncientTechTreasury_NoMachine_Day.jpg",
+    "Maps/Ancient Tech Treasury [27x67] - $5 Rewards (Gridless)/GL_AncientTechTreasury_NoCamp_Night.jpg",
+    "Maps/Ancient Tech Treasury [27x67] - $5 Rewards (Gridless)/GL_AncientTechTreasury_HellsVault.jpg",
+    "Maps/Ancient Tech Treasury [27x67] - $5 Rewards (Gridless)",
+    "Locations/Thinora's Demiplane/16 - Binding Chamber.md",
     "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
-    "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_Platform.jpg",
-    "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_WaterPool.jpg",
-    "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_Void_Lit.jpg",
-    "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_Void_Dark.jpg",
-    "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_ToxicPit.jpg",
-    "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_SecretTunnel.jpg",
-    "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_Rift.jpg",
-    "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_Platform_Ritual.jpg",
-    "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_Original_Night.jpg",
-    "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)/GL_LichCatacomb_Original_Day.jpg",
     "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)/Lich Catacomb [40x50] - $5 Rewards (Gridless)",
     "Maps/Lich Catacomb [40x50] - $5 Rewards (Gridless)",
     "Session Notes/Session 43.md",
@@ -241,7 +231,6 @@
     "Locations/Thinora's Demiplane/07 - Room.md",
     "Locations/Thinora's Demiplane/06 - Room.md",
     "Locations/Thinora's Demiplane/05 - Room.md",
-    "Locations/Thinora's Demiplane/04 - Room.md",
     "Locations/Thinora's Demiplane/03 - Room.md",
     "Locations/Thinora's Demiplane/02 - Room.md",
     "Magic Items/Magic Items.md",
@@ -253,7 +242,6 @@
     "Maps/shadowfell/Shadowfell Fortress Interior [42x59] - $5 Rewards/Shadowfell Fortress Interior [42x59] - $5 Rewards/Gridded",
     "Maps/shadowfell/Shadowfell Fortress Interior [42x59] - $5 Rewards/__MACOSX",
     "Maps/shadowfell/Shadowfell Fortress Interior [42x59] - $5 Rewards/Shadowfell Fortress Interior [42x59] - $5 Rewards",
-    "Maps/shadowfell/Shadowfell Fortress Interior [42x59] - $5 Rewards",
     "Untitled.canvas"
   ]
 }

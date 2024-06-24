@@ -11,6 +11,6 @@
 
 ## Room Links
 
-*  [[04 - Room]]
+*  [[04 - Treasury]]
 *  [[06 - Room]]
 *  [[20 - Experiment Chamber]]
