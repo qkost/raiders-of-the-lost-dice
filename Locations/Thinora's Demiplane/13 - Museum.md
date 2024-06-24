@@ -1,4 +1,4 @@
-
+![[museum_20x33.jpg]]
 ## Description
 
 ## Map

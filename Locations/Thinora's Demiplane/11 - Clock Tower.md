@@ -15,4 +15,4 @@
 
 *  [[04 - Treasury]]
 *  [[09 - Room]]
-*  [[13 - Room]]
+*  [[13 - Museum]]

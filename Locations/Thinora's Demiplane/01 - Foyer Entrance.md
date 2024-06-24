@@ -14,5 +14,5 @@
 ## Room Links
 
 *  [[07 - Lake]]
-*  [[13 - Room]]
+*  [[13 - Museum]]
 *  [[19 - Room]]

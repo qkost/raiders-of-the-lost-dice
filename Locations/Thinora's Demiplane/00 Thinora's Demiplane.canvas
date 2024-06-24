@@ -20,9 +20,7 @@
 		{"id":"91d9d6d2f0fb19ae","type":"text","text":"Left Staircase","x":-700,"y":-1062,"width":220,"height":50},
 		{"id":"e5e4f4081cc3e815","type":"text","text":"Right Staircase/\nLeft Path","x":120,"y":-1114,"width":260,"height":102},
 		{"id":"66f94a56981868f2","type":"text","text":"Top Path/\nBottom Entrance","x":900,"y":-1173,"width":260,"height":110},
-		{"id":"0ca9a967ee2f4b01","type":"text","text":"Portal (Alt)","x":-740,"y":-345,"width":180,"height":50},
 		{"id":"aa24dc28021edd4d","type":"file","file":"Locations/Thinora's Demiplane/11 - Clock Tower.md","x":865,"y":400,"width":400,"height":400},
-		{"id":"7a25624836a6e20e","type":"text","text":"Left Stairs","x":609,"y":350,"width":191,"height":50},
 		{"id":"aae2ccecfa1fd4c1","type":"text","text":"Right Stairs","x":1340,"y":550,"width":191,"height":50},
 		{"id":"1219ccd75a4efea5","type":"text","text":"Clock Puzzle","x":580,"y":830,"width":220,"height":50},
 		{"id":"bedad432c67f194e","type":"text","text":"Bottom Path","x":770,"y":-650,"width":230,"height":60},
@@ -30,9 +28,14 @@
 		{"id":"1c90e59abe5cd3f6","type":"file","file":"Locations/Thinora's Demiplane/07 - Lake.md","x":-580,"y":-460,"width":400,"height":400},
 		{"id":"32a94aca12967663","type":"text","text":"Left Door","x":-160,"y":-110,"width":184,"height":50},
 		{"id":"22ce62738207faff","type":"text","text":"Top Door","x":180,"y":-485,"width":184,"height":50},
-		{"id":"e88a4abf46879448","type":"file","file":"Locations/Thinora's Demiplane/13 - Room.md","x":209,"y":200,"width":400,"height":400},
-		{"id":"676e4024f8849e0c","type":"text","text":"Right Door","x":465,"y":30,"width":184,"height":50},
-		{"id":"5f5595734bff6e06","type":"text","text":"Puzzle Portal","x":-1270,"y":1055,"width":220,"height":50}
+		{"id":"e88a4abf46879448","type":"file","file":"Locations/Thinora's Demiplane/13 - Museum.md","x":209,"y":200,"width":400,"height":400},
+		{"id":"676e4024f8849e0c","type":"text","text":"Right Door/ Bottom Door","x":465,"y":30,"width":225,"height":110},
+		{"id":"5f5595734bff6e06","type":"text","text":"Puzzle Portal","x":-1270,"y":1055,"width":220,"height":50},
+		{"id":"7a25624836a6e20e","type":"text","text":"Right Door/\nLeft Stairs","x":649,"y":300,"width":216,"height":100},
+		{"id":"6598748701462152","type":"text","text":"Left Door","x":-100,"y":240,"width":210,"height":80},
+		{"id":"0ca9a967ee2f4b01","type":"text","text":"Portal (Alt)","x":-760,"y":-345,"width":180,"height":50},
+		{"id":"7930ca7ba3ce8f21","type":"text","text":"Door/Cube","x":-1360,"y":-320,"width":200,"height":50},
+		{"id":"7d4e069bb15ed561","type":"text","text":"Mouth","x":-1440,"y":90,"width":200,"height":50}
 	],
 	"edges":[
 		{"id":"2ea3919b1dd8f0d2","fromNode":"00028b1fddc2e2c9","fromSide":"left","toNode":"1c90e59abe5cd3f6","toSide":"right","fromEnd":"arrow"},
