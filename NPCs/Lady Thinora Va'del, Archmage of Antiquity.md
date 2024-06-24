@@ -19,7 +19,7 @@ Her robes are exquisite royal blue and silver robes that shimmer as she walks. S
 * Studies some of Briarwood's research notes
 * Overtook the position of Archmage of Antiquity from [[Lady Vess de Rogna, Archmage of Antiquity]] after her passing (who herself took over the position from Delilah Briarwood)
 * Conspired with Mabud Rhahlal (dwarf sorcerer) and [[Martinet Ludinus Da'leth, Archmage of Domestic Protections]] to remove to remove [[Petyr (Pete) Archeron]] whom Lady Thinora consulted regarding the Tears. He did some research and was about to out Lady Thinora for her research
-## [[Room Ideas]]
+## [[00 Thinora's Demiplane.canvas|00 Thinora's Demiplane]]
 
 ## Motivations
 * Seeks advancement and power within the [[Cerberus Assembly]]
@@ -51,6 +51,7 @@ Her robes are exquisite royal blue and silver robes that shimmer as she walks. S
 		* Tight-fitting robes, wrapped arms
 		* Blue hair
 		* Wrapped arms/hands
+		* Meeting with [[Malachai, The Barbed Ruin]] to get vestige
 ## Additional spells
 * 1st level: [Sleep](https://www.dndbeyond.com/spells/sleep), [Shield](https://www.dndbeyond.com/spells/shield)
 * 2nd level: [Arcane Lock](https://www.dndbeyond.com/spells/arcane-lock)

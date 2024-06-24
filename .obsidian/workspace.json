@@ -35,6 +35,30 @@
             }
           },
           {
+            "id": "c9d3c01bffe051f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plot/Major Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf195f9bc5995609",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eef1d7fda6932d6c",
             "type": "leaf",
             "state": {
@@ -47,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
+                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md"
               }
             }
           },
@@ -194,10 +218,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25bed61bbb3492ed",
+  "active": "cf195f9bc5995609",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/Room Ideas.md",
+    "Plot/Major Notes.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/Room Ideas.md",
     "Locations/Thinora's Demiplane/18 - Treasury.md",
     "Locations/Thinora's Demiplane/04 - Room.md",
     "Locations/Thinora's Demiplane/05 - Clock Tower.md",
@@ -241,7 +266,6 @@
     "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
     "Locations/Thinora's Demiplane/09 - Room.md",
     "Locations/Thinora's Demiplane/06 - Room.md",
-    "Magic Items/Magic Items.md",
     "Untitled.canvas"
   ]
 }
