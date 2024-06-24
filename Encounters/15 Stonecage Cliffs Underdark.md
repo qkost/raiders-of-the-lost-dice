@@ -66,7 +66,7 @@
 		* [1x Purple Worm Poison](https://www.dndbeyond.com/equipment/146-purple-worm-poison-injury) - single small vial of a purple liquid
 		* [1x Supreme Potion of Healing](https://www.dndbeyond.com/magic-items/5135-potion-of-healing-supreme)
 		* [1x  Oil of Sharpness](https://www.dndbeyond.com/magic-items/4688-oil-of-sharpness)
-		* 
+		* [1x Oil of Slipperiness](https://www.dndbeyond.com/magic-items/4689-oil-of-slipperiness)
 	* 4000 gp worth of adamantine ingots
 	* 1000 gp Obsidian spider
 
