@@ -13,4 +13,4 @@
 
 *  [[09 - Room]]
 *  [[14 - Room]]
-*  [[16 - Circle]]
+*  [[16 - Binding Chamber]]

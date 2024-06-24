@@ -12,5 +12,5 @@
 ## Room Links
 
 *  [[10 - Fountain of Youth]]
-*  [[16 - Circle]]
+*  [[16 - Binding Chamber]]
 *  [[20 - Experiment Chamber]]

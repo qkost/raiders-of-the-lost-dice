@@ -15,43 +15,43 @@
 * *[Folding Halls of Halas](https://criticalrole.miraheze.org/wiki/Folding_Halls_of_Halas#/media/File:Folding_Halls_-_CRA.png)
 * https://www.reddit.com/r/d100/comments/ojy2qu/rooms_found_in_a_mad_wizards_dungeon/
 
-* Study/Library
-* Prison
-* Cold Storage
-* Master Bedroom
-* Experiment Chamber
-* Nexus - The unstable portal room which connects to various planes, closed because it is filled with water from the elemental plane of water at the moment.
-* Binding Chamber
-* Foyer
-* Soulforge Sanctum
-* Concert Hall
-* (Something) Sepulcher
-* Hall of Memories
-- Lounge
-- Multiple entrances with cool names (diamond entrance/tapestry entrance)
-- "Guest quarters" - prison
-- Arcane Armory
-- Art Gallery - long hallway with statues of previous intruders
-- Experiment chamber
-- Donjon
-- "The Mouth" - Czepeku map
-- The Infinite Staircase - Czepeku map
-- Maze - Czepeku map
-- Observatory
-- Jewelry Box
-- Raw Materials - Portals to the Elemental planes
-- Kitchen
-- Hall of mirrors
-- Garden
-- Boneyard
-- Stasis - A room kept in stasis. The room of their dead wife/lover/child
-- Elemental Chaos - A bunch o' random things can be summoned?
-- Bath house
+- [ ] Study/Library
+- [ ] Prison
+- [ ] Cold Storage
+- [ ] Master Bedroom
+- [x] Experiment Chamber
+- [ ] Nexus - The unstable portal room which connects to various planes, closed because it is filled with water from the elemental plane of water at the moment.
+- [x] Binding Chamber
+- [x] Foyer
+- [ ] Soulforge Sanctum
+- [ ] Concert Hall
+- [ ] (Something) Sepulcher
+- [ ] Hall of Memories
+- [ ] Lounge
+- [ ] Multiple entrances with cool names (diamond entrance/tapestry entrance)
+- [ ] "Guest quarters" - prison
+- [ ] Arcane Armory
+- [ ] Art Gallery - long hallway with statues of previous intruders
+- [ ] Experiment chamber
+- [ ] Donjon
+- [ ] "The Mouth" - Czepeku map
+- [ ] The Infinite Staircase - Czepeku map
+- [ ] Maze - Czepeku map
+- [ ] Observatory
+- [ ] Jewelry Box
+- [ ] Raw Materials - Portals to the Elemental planes
+- [ ] Kitchen
+- [ ] Hall of mirrors
+- [ ] Garden
+- [ ] Boneyard
+- [ ] Stasis - A room kept in stasis. The room of their dead wife/lover/child
+- [ ] Elemental Chaos - A bunch o' random things can be summoned?
+- [ ] Bath house
 
 ## Enemy Ideas
-* Bone Naga
-* Wraith
-* Wil-o'-wisps -- Multiple of them; potentially glowing lights in one of the rooms until some specific interactions of the players and then they turn hostile
+- [ ] Bone Naga
+- [ ] Wraith
+- [ ] Wil-o'-wisps -- Multiple of them; potentially glowing lights in one of the rooms until some specific interactions of the players and then they turn hostile
 11:15 s
 
 ## Rooms
