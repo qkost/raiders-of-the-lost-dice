@@ -1,4 +1,4 @@
-
+![[hall_of_the_elements_35x35.webp]]
 ## Description
 
 ## Map

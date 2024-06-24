@@ -12,5 +12,5 @@
 ## Room Links
 
 *  [[09 - Room]]
-*  [[14 - Room]]
+*  [[14 - Raw Materials]]
 *  [[16 - Binding Chamber]]
