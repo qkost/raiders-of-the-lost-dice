@@ -1,4 +1,6 @@
 
+![[G_GreatLibrary_B1ChronoRoom_Night.jpg]]
+
 ## Description
 
 ## Map

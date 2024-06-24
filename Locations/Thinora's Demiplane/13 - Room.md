@@ -13,4 +13,4 @@
 
 *  [[01 - Foyer Entrance]]
 *  [[05 - Room]]
-*  [[11 - Room]]
+*  [[11 - Clock Tower]]
