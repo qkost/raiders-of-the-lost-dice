@@ -19,7 +19,6 @@
 	* Kelward teleport
 	* Bigby's hand
 	* Stun on wobelas
-* 
 
 ## Notes
 ## Prep

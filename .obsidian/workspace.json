@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md",
+                "file": "Session Notes/Session 43.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md",
+                "file": "Session Notes/Session 43.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md"
+                "file": "Session Notes/Session 43.md"
               }
             }
           },
@@ -197,10 +197,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15d1ff5c1a693c6e",
+  "active": "b62551a99fc9126f",
   "lastOpenFiles": [
-    "Encounters/15 Stonecage Cliffs Underdark.md",
     "Encounters/14 Zunda'i Miir Lair.md",
+    "Encounters/15 Stonecage Cliffs Underdark.md",
     "Session Notes/Session 43.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
