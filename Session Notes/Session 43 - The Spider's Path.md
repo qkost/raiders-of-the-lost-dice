@@ -22,12 +22,16 @@
 
 ## Notes
 
-* Tato got felt the brunt of [[Zunda'i-Miir]]'s breath weapon and was gifted [Breath of the Gemstone Sentinel](https://www.dndbeyond.com/feats/1658027-breath-of-the-gemstone-sentinel) from [[Zunda'i-Miir]]
+* Tato got felt the brunt of [[Zunda'i-Miir]]'s breath weapon and was gifted [Breath of the Gemstone Sentinel](https://www.dndbeyond.com/feats/1658027-breath-of-the-gemstone-sentinel)
+* Investigating dead drow
+	* Most were killed with slashes/arrows
+	* Eyes black indicating the removal of their souls
+	* The ones on the lake took various kinds of damage (bite marks, acid, and cold)
 * Canoe sneaking on Ebon Lake
 	* [[Ember]] hit a rock on second stealth check
-	* [[Kelward]] threw off the hydra with some arrows
+	* [[Kelward]] threw off the five-headed creature with some arrows
 * Long rest in town adjacent to lake
-	* Patrols of ruinants
+	* Patrols of smaller (medium-sized) demons
 	* Statue to [[Lolth, The Spider Queen]]
 * Followed "The Spider's Path"
 	* Giant 100 foot long spider in the form of a structure
@@ -45,6 +49,8 @@
 	* Gave information on the city of Ilhara-Vel
 		* Demons took up residence in castle to Northeast of town
 		* Bridge spanning chasm -- gatehouses on both sides
+		* The way to the city is directly down vertically through the tunnel
+		* Said if you are caught in the web you shouldn't struggle as your sacrifice is a blessing from the Queen
 	* [[Tato]] gave them some goodberries to bolster their supplies for a short time
 
 ## Prep
