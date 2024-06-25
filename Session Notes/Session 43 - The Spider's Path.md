@@ -22,7 +22,7 @@
 
 ## Notes
 
-* Tato got the [Breath of the Gemstone Sentinel](https://www.dndbeyond.com/feats/1658027-breath-of-the-gemstone-sentinel) from [[Zunda'i-Miir]]
+* Tato got felt the brunt of [[Zunda'i-Miir]]'s breath weapon and was gifted [Breath of the Gemstone Sentinel](https://www.dndbeyond.com/feats/1658027-breath-of-the-gemstone-sentinel) from [[Zunda'i-Miir]]
 * Canoe sneaking on Ebon Lake
 	* [[Ember]] hit a rock on second stealth check
 	* [[Kelward]] threw off the hydra with some arrows
@@ -30,10 +30,22 @@
 	* Patrols of ruinants
 	* Statue to [[Lolth, The Spider Queen]]
 * Followed "The Spider's Path"
+	* Giant 100 foot long spider in the form of a structure
+	* Bridge extending out to mouth of spider
+	* This spider structure is an armory -- large chest being held in the legs of a metallic spider in the abdomen
 * Encounter with Slaughter Demon
 	* Surprise
-	* Took out Light
-
+	* Hypnotic Pattern
+	* Took out Lightthieves (flying bats)
+	* Huge crit round from Tato
+* Discussion with Drow in the Armory
+	* Lyzrima was the mage
+	* Mentioned they were friends with [[Zunda'i-Miir]] and Drow immediately became defensive
+	* [[Ember]] ended up persuading them that they meant no harm
+	* Gave information on the city of Ilhara-Vel
+		* Demons took up residence in castle to Northeast of town
+		* Bridge spanning chasm -- gatehouses on both sides
+	* [[Tato]] gave them some goodberries to bolster their supplies for a short time
 
 ## Prep
 ### 1. Review Characters
