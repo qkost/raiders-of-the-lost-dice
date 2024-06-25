@@ -21,6 +21,20 @@
 	* Stun on wobelas
 
 ## Notes
+
+* Tato got the [Breath of the Gemstone Sentinel](https://www.dndbeyond.com/feats/1658027-breath-of-the-gemstone-sentinel) from [[Zunda'i-Miir]]
+* Canoe sneaking on Ebon Lake
+	* [[Ember]] hit a rock on second stealth check
+	* [[Kelward]] threw off the hydra with some arrows
+* Long rest in town adjacent to lake
+	* Patrols of ruinants
+	* Statue to [[Lolth, The Spider Queen]]
+* Followed "The Spider's Path"
+* Encounter with Slaughter Demon
+	* Surprise
+	* Took out Light
+
+
 ## Prep
 ### 1. Review Characters
 

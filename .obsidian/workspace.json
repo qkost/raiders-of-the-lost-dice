@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 43.md",
+                "file": "Session Notes/Session 43 - The Spider's Path.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
+                "file": "Session Notes/Session 43 - The Spider's Path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
+                "file": "Session Notes/Session 43 - The Spider's Path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md"
+                "file": "Session Notes/Session 43 - The Spider's Path.md"
               }
             }
           },
@@ -196,11 +196,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73f83500b925fad6",
+  "active": "b62551a99fc9126f",
   "lastOpenFiles": [
-    "Session Notes/Session 43.md",
-    "Encounters/14 Zunda'i Miir Lair.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
+    "Session Notes/Session 43 - The Spider's Path.md",
+    "Encounters/14 Zunda'i Miir Lair.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Plot/Major Notes.md",
