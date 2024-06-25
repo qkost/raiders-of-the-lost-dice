@@ -1,7 +1,7 @@
 
 [[Zunda'i-Miir]]
 
-[Statblock](https://www.dndbeyond.com/search?q=ancient%20amethyst%20dragon)
+[Statblock](https://www.dndbeyond.com/monsters/2059690-ancient-amethyst-dragon)
 
 
 ![[map-5.1-amethyst-dragon-lair.jpg]]
