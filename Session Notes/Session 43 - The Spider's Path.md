@@ -32,7 +32,7 @@
 	* [[Kelward]] threw off the five-headed creature with some arrows
 * Long rest in town adjacent to lake
 	* Patrols of smaller (medium-sized) demons
-	* Statue to [[Lolth, The Spider Queen]]
+	* Statue to [[Lolth, The Spider Queen]] in the main square
 * Followed "The Spider's Path"
 	* Giant 100 foot long spider in the form of a structure
 	* Bridge extending out to mouth of spider
