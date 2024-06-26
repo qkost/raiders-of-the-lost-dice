@@ -30,9 +30,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "964863119ddd5ce1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "viewState": {
+                  "x": -100,
+                  "y": -6,
+                  "zoom": -1.251960738689982
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 44 - The Spider's Path.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 44 - The Spider's Path.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 44 - The Spider's Path.md"
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
               }
             }
           },
@@ -179,10 +194,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40e1979a40ab6bac",
+  "active": "964863119ddd5ce1",
   "lastOpenFiles": [
-    "Session Notes/Session 43 - The Ebon Lake.md",
     "Session Notes/Session 44 - The Spider's Path.md",
+    "Session Notes/Session 43 - The Ebon Lake.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
     "Encounters/14 Zunda'i Miir Lair.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
