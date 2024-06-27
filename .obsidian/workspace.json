@@ -45,9 +45,21 @@
                 }
               }
             }
+          },
+          {
+            "id": "5a4a2fac45d3d902",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/Room Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Locations/Thinora's Demiplane/Room Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Locations/Thinora's Demiplane/Room Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
+                "file": "Locations/Thinora's Demiplane/Room Ideas.md"
               }
             }
           },
@@ -194,13 +206,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "964863119ddd5ce1",
+  "active": "5a4a2fac45d3d902",
   "lastOpenFiles": [
+    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Session Notes/Session 44 - The Spider's Path.md",
     "Session Notes/Session 43 - The Ebon Lake.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
     "Encounters/14 Zunda'i Miir Lair.md",
-    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Plot/Major Notes.md",
     "Locations/Thinora's Demiplane/Room Ideas.md",
@@ -242,7 +254,6 @@
     "Maps/Wizard Prizon Part 3 [40x49] - $5 Rewards (Gridless)/Wizard Prizon Part 3 [40x49] - $5 Rewards (Gridless)",
     "Maps/Wizard Prizon Part 3 [40x49] - $5 Rewards (Gridless)",
     "Locations/Thinora's Demiplane/19 - Room.md",
-    "NPCs/Zunda'i-Miir.md",
     "Untitled.canvas"
   ]
 }

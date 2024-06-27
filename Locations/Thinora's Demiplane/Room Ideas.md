@@ -49,6 +49,8 @@
 	- [ ] Czepeku snowglobe?
 - [ ] Elemental Chaos - A bunch o' random things can be summoned?
 - [ ] Bath house
+- [ ] The World Tree
+- [ ] Portal [Something like this](https://www.czepeku.com/elven-magitech-portal/witch-tech)
 
 ## Enemy Ideas
 - [ ] Bone Naga
