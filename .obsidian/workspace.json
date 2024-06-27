@@ -59,7 +59,25 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
+      },
+      {
+        "id": "a44f50e9c1e76db0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54e63cc8b04e7292",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/Room Ideas.md",
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/Room Ideas.md",
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/Room Ideas.md"
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md"
               }
             }
           },
@@ -206,16 +224,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5a4a2fac45d3d902",
+  "active": "54e63cc8b04e7292",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Session Notes/Session 44 - The Spider's Path.md",
+    "Locations/Thinora's Demiplane/Room Ideas.md",
+    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Session Notes/Session 43 - The Ebon Lake.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
     "Encounters/14 Zunda'i Miir Lair.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Plot/Major Notes.md",
-    "Locations/Thinora's Demiplane/Room Ideas.md",
     "Locations/Thinora's Demiplane/18 - Treasury.md",
     "Locations/Thinora's Demiplane/04 - Room.md",
     "Locations/Thinora's Demiplane/05 - Clock Tower.md",

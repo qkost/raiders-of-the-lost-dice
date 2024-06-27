@@ -90,6 +90,7 @@ Bound eternal in envenomed cloud.
 	* Spider webs 
 	* Magical darkness
 	* [10x Giant Spider w/ Devil's Sight](https://www.dndbeyond.com/monsters/16895-giant-spider)
+	* [Choldrith]()
 
 ![[spider_shaft_48x56.png]]
 
