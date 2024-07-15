@@ -47,7 +47,7 @@
 ### Armory
 
 * Statue of Lolth hanging upside down holding a circular chest
-* Mural to the [Jourrael, The Catogiest](https://www.dndbeyond.com/sources/dnd/tcsr/allies-and-adversaries-of-taldorei#JourraeltheCaedogeist), the specter of sil -- the chosen assassin of [[Lolth, The Spider Queen]]
+* Mural to the [Jourrael, The Catogiest](https://www.dndbeyond.com/sources/dnd/tcsr/allies-and-adversaries-of-taldorei#JourraeltheCaedogeist), the specter of silent daeth, -- the chosen assassin of [[Lolth, The Spider Queen]]
 * Puzzle
 	* Eight orbs surround the chest
 	* Riddle below
@@ -62,11 +62,11 @@
 		* Light
 		* Sunlight
 		* Produce flame
+		* Continual flame
 		* Faerie Fire
 		* Darkness
-		* 
+		* Hunger of Hadar
 * Loot - tools of Jourrael
-	* [Cloak of Protection](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection)
 	* [Stormrider Boots](https://www.dndbeyond.com/magic-items/7171012-stormrider-boots)
 	* [Rod of Hellish Flames](https://www.dndbeyond.com/magic-items/7526749-rod-of-hellish-flames) - A black iron rod with glowing cinders perpetually orbiting its flanged head, casting an eerie, flickering light.
 	* [Dagger of Venom](https://www.dndbeyond.com/magic-items/4613-dagger-of-venom)
@@ -84,7 +84,7 @@ In Elvish:
 Eight pallbearers carry the queen across the floor.
 Three true, five false protect her hoard.
 
-Light and dark; fire and sight.
+Fire, dark, and light.
 Her gifts to her children reveal those right.
 
 For those unwise, she weaves her shroud.
