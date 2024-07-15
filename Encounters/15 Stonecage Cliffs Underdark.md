@@ -47,6 +47,7 @@
 ### Armory
 
 * Statue of Lolth hanging upside down holding a circular chest
+* Mural to the [Jourrael, The Catogiest](https://www.dndbeyond.com/sources/dnd/tcsr/allies-and-adversaries-of-taldorei#JourraeltheCaedogeist), the specter of sil -- the chosen assassin of [[Lolth, The Spider Queen]]
 * Puzzle
 	* Eight orbs surround the chest
 	* Riddle below
@@ -56,15 +57,15 @@
 	* Trap
 		* [Web](https://www.dndbeyond.com/spells/2299-web) - Dex Save  15 or restrained
 		* [Cloudkill](https://www.dndbeyond.com/spells/2030-cloudkill) - CON Save 15 or 5d8 poison damage
-	* Spell Scrolls
+	* Spell orbs
 		* Dancing lights
+		* Light
+		* Sunlight
 		* Produce flame
 		* Faerie Fire
-		* Dancing lights
-		* Sunlight
 		* Darkness
 		* 
-* Loot
+* Loot - tools of Jourrael
 	* [Cloak of Protection](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection)
 	* [Stormrider Boots](https://www.dndbeyond.com/magic-items/7171012-stormrider-boots)
 	* [Rod of Hellish Flames](https://www.dndbeyond.com/magic-items/7526749-rod-of-hellish-flames) - A black iron rod with glowing cinders perpetually orbiting its flanged head, casting an eerie, flickering light.
@@ -74,7 +75,6 @@
 		* [1x Supreme Potion of Healing](https://www.dndbeyond.com/magic-items/5135-potion-of-healing-supreme)
 		* [1x  Oil of Sharpness](https://www.dndbeyond.com/magic-items/4688-oil-of-sharpness)
 		* [1x Oil of Slipperiness](https://www.dndbeyond.com/magic-items/4689-oil-of-slipperiness)
-	* 4000 gp worth of adamantine ingots
 	* 1000 gp Obsidian spider
 
 
