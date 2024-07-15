@@ -56,6 +56,14 @@
 	* Trap
 		* [Web](https://www.dndbeyond.com/spells/2299-web) - Dex Save  15 or restrained
 		* [Cloudkill](https://www.dndbeyond.com/spells/2030-cloudkill) - CON Save 15 or 5d8 poison damage
+	* Spell Scrolls
+		* Dancing lights
+		* Produce flame
+		* Faerie Fire
+		* Dancing lights
+		* Sunlight
+		* Darkness
+		* 
 * Loot
 	* [Cloak of Protection](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection)
 	* [Stormrider Boots](https://www.dndbeyond.com/magic-items/7171012-stormrider-boots)
@@ -76,7 +84,7 @@ In Elvish:
 Eight pallbearers carry the queen across the floor.
 Three true, five false protect her hoard.
 
-Light and dark; magic and sight.
+Light and dark; fire and sight.
 Her gifts to her children reveal those right.
 
 For those unwise, she weaves her shroud.
