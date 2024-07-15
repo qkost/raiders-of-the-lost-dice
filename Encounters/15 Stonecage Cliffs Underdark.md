@@ -47,7 +47,7 @@
 ### Armory
 
 * Statue of Lolth hanging upside down holding a circular chest
-* Mural to the [Jourrael, The Catogiest](https://www.dndbeyond.com/sources/dnd/tcsr/allies-and-adversaries-of-taldorei#JourraeltheCaedogeist), the specter of silent daeth, -- the chosen assassin of [[Lolth, The Spider Queen]]
+* Mural to the [Jourrael, The Catogiest](https://www.dndbeyond.com/sources/dnd/tcsr/allies-and-adversaries-of-taldorei#JourraeltheCaedogeist), the specter of silent death, -- the chosen assassin of [[Lolth, The Spider Queen]]
 * Puzzle
 	* Eight orbs surround the chest
 	* Riddle below
@@ -67,7 +67,7 @@
 		* Darkness
 		* Hunger of Hadar
 * Loot - tools of Jourrael
-	* [Stormrider Boots](https://www.dndbeyond.com/magic-items/7171012-stormrider-boots)
+	* [Boots of Elvenkind](https://www.dndbeyond.com/magic-items/4587-boots-of-elvenkind)
 	* [Rod of Hellish Flames](https://www.dndbeyond.com/magic-items/7526749-rod-of-hellish-flames) - A black iron rod with glowing cinders perpetually orbiting its flanged head, casting an eerie, flickering light.
 	* [Dagger of Venom](https://www.dndbeyond.com/magic-items/4613-dagger-of-venom)
 	* Potions
