@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 44 - The Spider's Path.md",
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 44 - The Spider's Path.md",
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 44 - The Spider's Path.md"
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md"
               }
             }
           },
@@ -184,10 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40e1979a40ab6bac",
+  "active": "cec2324e3170328f",
   "lastOpenFiles": [
-    "Encounters/15 Stonecage Cliffs Underdark.md",
     "Session Notes/Session 44 - The Spider's Path.md",
+    "Encounters/15 Stonecage Cliffs Underdark.md",
     "Session Notes/Session 43 - The Ebon Lake.md",
     "Encounters/13 Stonecage Cliffs.md",
     "Locations/Thinora's Demiplane/Room Ideas.md",
