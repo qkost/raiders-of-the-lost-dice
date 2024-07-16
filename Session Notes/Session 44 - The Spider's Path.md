@@ -32,6 +32,8 @@
 		* Said if you are caught in the web you shouldn't struggle as your sacrifice is a blessing from the Queen
 	* [[Tato]] gave them some goodberries to bolster their supplies for a short time
 ## Notes
+
+* Fight with dro*
 ## Prep
 ### 1. Review Characters
 
