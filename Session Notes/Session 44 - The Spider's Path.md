@@ -1,4 +1,6 @@
 
+## Recap
+
 * Discussion with [[Zunda'i-Miir]]
 	* Crawled up out of amethyst cave
 	* [[Ungrudaal]] escaped from [[Zunda'i-Miir]]'s lair
@@ -17,9 +19,6 @@
 	* Kelward teleport
 	* Bigby's hand
 	* Stun on wobelas
-
-## Recap
-
 ## Notes
 ## Prep
 ### 1. Review Characters
