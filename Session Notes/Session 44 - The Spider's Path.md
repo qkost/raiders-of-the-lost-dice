@@ -33,7 +33,15 @@
 	* [[Tato]] gave them some goodberries to bolster their supplies for a short time
 ## Notes
 
-* Fight with dro*
+* Fight with drow
+	* Mage (Lyzrima) cast cloudkill
+	* Darkness - poisoned coated shortswords
+	* Immune to magically being put to sleep
+* Puzzle with 
+	* 8 legs
+	* Spells
+	* Loot
+* 
 ## Prep
 ### 1. Review Characters
 
