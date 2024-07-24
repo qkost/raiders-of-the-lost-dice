@@ -40,7 +40,9 @@
 * Puzzle with 
 	* 8 legs
 	* Spells
-	* Loot
+	* Loot -- see [[15 Stonecage Cliffs Underdark#Armory]]
+		* Spellbook
+		* 
 * 
 ## Prep
 ### 1. Review Characters

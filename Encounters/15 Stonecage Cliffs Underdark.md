@@ -70,6 +70,12 @@
 	* [Boots of Elvenkind](https://www.dndbeyond.com/magic-items/4587-boots-of-elvenkind)
 	* [Rod of Hellish Flames](https://www.dndbeyond.com/magic-items/7526749-rod-of-hellish-flames) - A black iron rod with glowing cinders perpetually orbiting its flanged head, casting an eerie, flickering light.
 	* [Dagger of Venom](https://www.dndbeyond.com/magic-items/4613-dagger-of-venom)
+	* Spellbook
+		* 1st Level: Mage Armor, Magic Missile, Shield
+		* 2nd Level: Misty Step, Web
+		* 3rd Level: Fly, Lightning Bolt
+		* 4th Level: Evard's Black Tentacles, Greater Invisibility
+		* 5th Level: Cloudkill, Scrying
 	* Potions
 		* [1x Purple Worm Poison](https://www.dndbeyond.com/equipment/146-purple-worm-poison-injury) - single small vial of a purple liquid
 		* [1x Supreme Potion of Healing](https://www.dndbeyond.com/magic-items/5135-potion-of-healing-supreme)
