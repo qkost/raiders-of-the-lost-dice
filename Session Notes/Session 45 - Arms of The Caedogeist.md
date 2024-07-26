@@ -10,6 +10,13 @@
 	* Spells
 	* Loot
 ## Notes
+
+* Descended down the Spider's Path
+	* Everybody started blastin'
+	* [[Ember]] massive fireball that destroyed pretty much all the spiders
+	* Formation flying skydiving
+* Landed in Ilhara-Vel
+	* 
 ## Prep
 ### 1. Review Characters
 
