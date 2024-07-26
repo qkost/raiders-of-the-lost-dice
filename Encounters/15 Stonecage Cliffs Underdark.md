@@ -109,6 +109,9 @@ Bound eternal in envenomed cloud.
 
 ## Drow City: Ilhara-Vel
 
+Duscora’kerym
+
+Ebonveil Keep
 ## Gate
 
 ![[G_ShadowfellFortress_BrokenBridge.jpg]]
