@@ -1,2 +1,2 @@
 
-Days rolled for Vestiges: 12
+Days rolled for Vestiges: 14
