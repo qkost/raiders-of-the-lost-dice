@@ -112,7 +112,7 @@ Bound eternal in envenomed cloud.
 Duscora’kerym
 
 Ebonveil Keep
-## Gate
+## Gate of Duscora' Kerym (Ebonveil Keep)
 
 ![[G_ShadowfellFortress_BrokenBridge.jpg]]
 

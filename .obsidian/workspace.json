@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 45 - Arms of The Caedogeist.md",
+                "file": "Session Notes/Session 45 - Through the Fire and Flames.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,9 +48,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0fac03b19f86a797",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 46 -.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 45 - Arms of The Caedogeist.md",
+                "file": "Session 46 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 45 - Arms of The Caedogeist.md",
+                "file": "Session 46 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 45 - Arms of The Caedogeist.md"
+                "file": "Session 46 -.md"
               }
             }
           },
@@ -197,10 +209,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cec2324e3170328f",
+  "active": "0fac03b19f86a797",
   "lastOpenFiles": [
+    "Session Notes/Session 45 - Through the Fire and Flames.md",
+    "Session 46 -.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
-    "Session Notes/Session 45 - Arms of The Caedogeist.md",
     "Day Tracker.md",
     "Session Notes/Session 44 - The Spider's Path.md",
     "Session Notes/Session 43 - The Ebon Lake.md",
@@ -227,7 +240,6 @@
     "Locations/Thinora's Demiplane/07 - Lake.md",
     "Locations/Thinora's Demiplane/02 - The Maw.md",
     "Locations/Thinora's Demiplane/12 - The Angel.md",
-    "Locations/Thinora's Demiplane/15 - Endless Staircase.md",
     "Maps/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/GL_WizardPrisonPart5_WhiteDragon.jpg",
     "Maps/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/GL_WizardPrisonPart5_Void.jpg",
     "Maps/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/GL_WizardPrisonPart5_Silver.jpg",
