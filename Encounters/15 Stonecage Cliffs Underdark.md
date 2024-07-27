@@ -152,9 +152,12 @@ A luxurious chamber draped in dark silks and velvet. A grand canopy bed dominate
 
 #### Features
 
-- **Hidden Safe**: Contains valuable items and secrets.
+- **Hidden Safe**: Contains valuable items and secrets:
+	- Journal of the house () history
+	- House signet ring
+	- Jewelry
 - **Enchanted Mirror**: Allows communication with allies.
-- **Guardians**: Two elite Drow guards stationed at the entrance.
+- **Guardians**: Two deceased elite Drow guards stationed at the entrance.
 
 ### 2. Armory
 
