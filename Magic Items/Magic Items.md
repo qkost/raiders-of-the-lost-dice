@@ -117,12 +117,12 @@
 		- [ ] 1. Magnify Gravity
 		- [ ] 2. Snare
 		- [ ] 3. Find Familiar
-		- [ ] 4. Longstrider
+		- [x] 4. Longstrider
 		- [ ] 5. Tenser's Floating Disk
-		- [ ] 6. Shield
+		- [x] 6. Shield
 	- [ ] L2
 		- [ ] 1. Magic Mouth
-		- [ ] 2. Fortune's Favor
+		- [x] 2. Fortune's Favor
 		- [ ] 3. Cloud of Daggers
 		- [ ] 4. Alter Self
 		- [x] 5. Vortex Warp
@@ -130,7 +130,7 @@
 	- [ ] L3
 		- [ ] 1. Summon Undead
 		- [ ] 2. Slow
-		- [ ] 3. Haste
+		- [x] 3. Haste
 		- [ ] 4. Thunder Step
 		- [ ] 5. Tiny Servant
 		- [x] 6. Antagonize
@@ -147,7 +147,7 @@
 		- [ ] 3. Wall of Stone
 		- [ ] 4. Contact Other Plane
 		- [ ] 5. Dominate Person
-		- [ ] 6. Cloudkill
+		- [x] 6. Cloudkill
 	- [ ] L6
 		- [ ] 1. Circle of Death
 		- [ ] 2. Arcane Gate

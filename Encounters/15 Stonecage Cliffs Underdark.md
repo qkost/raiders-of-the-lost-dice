@@ -222,8 +222,14 @@ A room filled with ancient tomes and scrolls. The air is heavy with the scent of
 #### Features
 
 - **Hidden Knowledge**: A secret section with forbidden texts.
-- **Magical Wards**: Protect the books from theft and damage.
-	- Symbol - **Death.** Each target must make a Constitution saving throw, taking 10d10 necrotic damage on a failed save, or half as much damage on a successful save.
+- Scroll Set
+	- [Glyph of Warding](https://www.dndbeyond.com/spells/2125-glyph-of-warding) - When triggered, the glyph erupts with magical energy in a 20-foot-radius sphere centered on the glyph. The sphere spreads around corners. Each creature in the area must make a Dexterity saving throw. A creature takes 5d8 acid, damage on a failed saving throw, or half as much damage on a successful one.
+	- Spells
+		- Cloud of Daggers
+		- Slow
+		- Dimension Door
+		- Dominate Person
+		- Eyebite
 - **Resident Librarian**: An expert in arcane lore.
 
 ### 7. Soldier's Common Area
