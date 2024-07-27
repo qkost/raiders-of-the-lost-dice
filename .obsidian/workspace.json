@@ -60,9 +60,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c672c8faba0fa9f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Xyrrath.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 46 - The Gates of Duscora' Kerym.md",
+                "file": "NPCs/Xyrrath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 46 - The Gates of Duscora' Kerym.md",
+                "file": "NPCs/Xyrrath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 46 - The Gates of Duscora' Kerym.md"
+                "file": "NPCs/Xyrrath.md"
               }
             }
           },
@@ -209,9 +221,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fac03b19f86a797",
+  "active": "c672c8faba0fa9f7",
   "lastOpenFiles": [
     "Session Notes/Session 45 - Through the Fire and Flames.md",
+    "NPCs/Xyrrath.md",
     "Session 46 - The Gates of Duscora' Kerym.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
     "Day Tracker.md",
@@ -239,7 +252,6 @@
     "Locations/Thinora's Demiplane/17 - Great Library.md",
     "Locations/Thinora's Demiplane/07 - Lake.md",
     "Locations/Thinora's Demiplane/02 - The Maw.md",
-    "Locations/Thinora's Demiplane/12 - The Angel.md",
     "Maps/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/GL_WizardPrisonPart5_WhiteDragon.jpg",
     "Maps/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/GL_WizardPrisonPart5_Void.jpg",
     "Maps/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/GL_WizardPrisonPart5_Silver.jpg",
