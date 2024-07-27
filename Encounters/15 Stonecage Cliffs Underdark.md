@@ -132,25 +132,174 @@ Ebonveil Keep
 
 ### Rooms
 
-#### 1. Matriarch's Bedchamber
+### 0. Garden of Shadows Courtyard
 
-#### 2. Armory
+#### Description
 
-#### 3. War Room
+An eerie courtyard filled with bioluminescent fungi casting a ghostly glow. Strange, magical plants with dark foliage create an otherworldly ambiance.
 
-#### 4. Servant's Quarters
+#### Features
 
-#### 5. Mage's Tower Alchemy Lab
+- **Rare Herbs**: Used in potions and poisons.
+- **Enchanted Fountain**: Water has healing properties.
+- **Shadow Shrine**: Dedicated to a lesser-known deity of shadows and secrets.
 
-#### 6. Mage's Tower Library
+### 1. Matriarch's Bedchamber
 
-#### 7. Soldier's Common Area
+#### Description
 
-#### 8. Captain's Quarters
+A luxurious chamber draped in dark silks and velvet. A grand canopy bed dominates the room, adorned with intricate spiderweb patterns.
 
-#### 9. Dining Hall
+#### Features
 
-#### 10. Pr
+- **Hidden Safe**: Contains valuable items and secrets.
+- **Enchanted Mirror**: Allows communication with allies.
+- **Guardians**: Two elite Drow guards stationed at the entrance.
+
+### 2. Armory
+
+#### Description
+
+A heavily secured room lined with weapon racks and armor stands. The walls are adorned with trophies from past battles.
+
+#### Features
+
+- **Poisoned Weapons**: Swords, daggers, and arrows coated in deadly poisons.
+- **Enchanted Armor**: Provides extra protection and magical resistance.
+- **Trap Mechanisms**: Protect the most valuable items.
+
+### 3. War Room
+
+#### Description
+
+A strategic planning room with a large, dark stone table in the center. Maps and battle plans cover the walls.
+
+#### Features
+
+- **Scrying Devices**: Allow real-time observation of distant locations.
+- **Magical Map**: Shows troop movements and enemy positions.
+- **Secret Compartments**: Hold emergency supplies and escape routes.
+
+### 4. Servant's Quarters
+
+#### Description
+
+Sparse, utilitarian rooms with simple bunks and minimal furnishings. The atmosphere is cold and austere.
+
+#### Features
+
+- **Communal Area**: For meals and socializing.
+- **Basic Amenities**: For washing and resting.
+- **Hidden Passages**: Allow discreet movement throughout the stronghold.
+
+### 5. Mage's Tower Alchemy Lab
+
+#### Description
+
+A dimly lit laboratory filled with shelves of alchemical ingredients and bubbling potions. The air is thick with the scent of herbs and chemicals.
+
+#### Features
+
+- **Potion Brewing Station**: Equipped with cauldrons and vials.
+- **Enchanted Shelves**: Prevent volatile reactions.
+- **Secret Storage**: Holds rare and dangerous components.
+
+### 6. Mage's Tower Library
+
+#### Description
+
+A vast room filled with ancient tomes and scrolls. The air is heavy with the scent of old parchment and ink.
+
+#### Features
+
+- **Hidden Knowledge**: A secret section with forbidden texts.
+- **Magical Wards**: Protect the books from theft and damage.
+- **Resident Librarian**: An expert in arcane lore.
+
+### 7. Soldier's Common Area
+
+#### Description
+
+A communal space where soldiers relax and socialize. The room is filled with sturdy furniture and personal mementos.
+
+#### Features
+
+- **Training Dummies**: For practice and sparring.
+- **Game Tables**: For recreation and competition.
+- **Message Board**: Displays orders and announcements.
+
+### 8. Captain's Quarters
+
+#### Description
+
+A well-furnished room with a large bed, a desk, and a wardrobe. The walls are decorated with maps and military honors.
+
+#### Features
+
+- **Personal Armory**: Contains the captain's weapons and armor.
+- **Strategic Documents**: Detailed plans and reports.
+- **Comfort Items**: Luxuries not afforded to regular soldiers.
+
+### 9. Dining Hall
+
+#### Description
+
+A grand hall with a long, dark wood table surrounded by high-backed chairs. Chandeliers hang from the ceiling, casting flickering shadows.
+
+#### Features
+
+- **Large Fireplace**: Enchanted to burn with blue flames.
+- **Kitchen Access**: A side room with a kitchen staffed by slaves or lesser Drow.
+- **Tapestries**: Depicting grand feasts and victories.
+
+### 10. Prison/Torture Chamber
+
+#### Description
+
+A cold, damp area with cells carved into the stone walls. The air is thick with the scent of mildew and despair.
+
+#### Features
+
+- **Iron Bars**: Imbued with anti-magic runes.
+- **Torture Devices**: Various cruel implements.
+- **Guard Room**: With viewing windows into the cells.
+
+### 11. Store Room
+
+#### Description
+
+A large, cluttered room filled with crates and barrels. The air is filled with the scent of stored goods and supplies.
+
+#### Features
+
+- **Inventory**: Contains food, weapons, and other supplies.
+- **Secured Area**: For valuable or dangerous items.
+- **Hidden Cache**: Holds emergency rations and equipment.
+
+### 12. Barracks
+
+#### Description
+
+Spartan quarters for the Drow soldiers, with rows of bunk beds and weapon racks. The atmosphere is disciplined and orderly.
+
+#### Features
+
+- **Training Area**: With equipment for drills and exercises.
+- **Armory**: Contains standard-issue weapons and armor.
+- **Communal Facilities**: For washing and resting.
+
+### 13. Kitchen
+
+#### Description
+
+A bustling kitchen filled with the sounds and smells of cooking. The room is equipped with large ovens, cauldrons, and preparation tables.
+
+#### Features
+
+- **Storage Pantry**: Contains ingredients and supplies.
+- **Enchanted Utensils**: Aid in food preparation.
+- **Servant's Access**: Allows discreet movement to and from the dining hall.
+
 
 ## Beholder Lair
 
