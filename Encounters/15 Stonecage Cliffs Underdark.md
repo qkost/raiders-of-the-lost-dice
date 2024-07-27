@@ -156,6 +156,7 @@ A luxurious chamber draped in dark silks and velvet. A grand canopy bed dominate
 	- Journal of the house (Veldrin -- spymaster) history
 	- House signet ring
 	- Jewelry
+	- [Slippers of Spider Climbing](https://www.dndbeyond.com/magic-items/4755-slippers-of-spider-climbing)
 - **Enchanted Mirror -- Cracked**: Allows communication with the (excommunicated) [[Bright Queen Leylas Kryn]]
 - **Guardians**: Two deceased elite Drow guards stationed at the entrance.
 - The drown matriarch has half-transformed into a [Yochlol](https://www.dndbeyond.com/monsters/17127-yochlol)
@@ -216,12 +217,13 @@ A dimly lit laboratory filled with shelves of alchemical ingredients and bubblin
 
 #### Description
 
-A vast room filled with ancient tomes and scrolls. The air is heavy with the scent of old parchment and ink.
+A room filled with ancient tomes and scrolls. The air is heavy with the scent of old parchment and ink.
 
 #### Features
 
 - **Hidden Knowledge**: A secret section with forbidden texts.
 - **Magical Wards**: Protect the books from theft and damage.
+	- Symbol - **Death.** Each target must make a Constitution saving throw, taking 10d10 necrotic damage on a failed save, or half as much damage on a successful save.
 - **Resident Librarian**: An expert in arcane lore.
 
 ### 7. Soldier's Common Area
