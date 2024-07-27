@@ -123,6 +123,19 @@ Ebonveil Keep
 
 ![[G_ShadowfellFortressInterior_NoCrossbows.jpg]]
 
+* Treasure
+	* Gold in ~500-1500 gp quantities hidden in various spots
+	* Gems
+		* Yellow Sapphire
+		* Black Opal
+		* Blue Sapphire
+		* Diamonds
+		* Amethysts
+	* Potions
+		* Greater healing
+		* Invisibility
+		* 
+
 * [Gloomstalker](https://www.dndbeyond.com/monsters/744314-gloomstalker)
 * [Hellhound](https://www.dndbeyond.com/monsters/4485878-hellhound-mcdm)
 * [Chimeron](https://www.dndbeyond.com/monsters/4485806-chimeron)
@@ -287,8 +300,7 @@ A large, cluttered room filled with crates and barrels. The air is filled with t
 
 #### Features
 
-- **Inventory**: Contains food, weapons, and other supplies.
-- **Secured Area**: For valuable or dangerous items.
+- **Inventory**: Contains food, and other supplies.
 - **Hidden Cache**: Holds emergency rations and equipment.
 
 ### 12. Barracks
