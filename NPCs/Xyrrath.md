@@ -11,7 +11,7 @@
 
 ## Combat
 
-* [Statblock is Xorannox](https://www.dndbeyond.com/monsters/4486053-xorannox)
+* [Statblock](https://www.dndbeyond.com/monsters/4685017-xyrrath)
 * Eyes
 	* 50 hp
 	* Same AC and saves
