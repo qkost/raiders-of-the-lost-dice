@@ -142,7 +142,7 @@ An eerie courtyard filled with bioluminescent fungi casting a ghostly glow. Stra
 
 - **Rare Herbs**: Used in potions and poisons.
 - **Enchanted Fountain**: Water has healing properties.
-- **Shadow Shrine**: Dedicated to a lesser-known deity of shadows and secrets.
+- **Shrine**: Dedicated to deceased members of house Veldrin
 
 ### 1. Matriarch's Bedchamber
 
@@ -156,7 +156,7 @@ A luxurious chamber draped in dark silks and velvet. A grand canopy bed dominate
 	- Journal of the house (Veldrin -- spymaster) history
 	- House signet ring
 	- Jewelry
-- **Enchanted Mirror**: Allows communication with allies.
+- **Enchanted Mirror -- Cracked**: Allows communication with the (excommunicated) [[Bright Queen Leylas Kryn]]
 - **Guardians**: Two deceased elite Drow guards stationed at the entrance.
 - The drown matriarch has half-transformed into a [Yochlol](https://www.dndbeyond.com/monsters/17127-yochlol)
 
