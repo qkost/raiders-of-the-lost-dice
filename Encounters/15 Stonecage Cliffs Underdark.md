@@ -181,9 +181,9 @@ A strategic planning room with a large, dark stone table in the center. Maps and
 
 #### Features
 
-- **Scrying Devices**: Allow real-time observation of distant locations.
-- **Magical Map**: Shows troop movements and enemy positions.
-- **Secret Compartments**: Hold emergency supplies and escape routes.
+- **Scrying Mirror**: Shallow bowl with ewer of water used for scrying
+- **Magical Map**: Map of Ilhara-Vel and surronding underdark. Location an accessiblity of [[Zunda'i-Miir]] clearly marked
+- Books on political/financial records, troop movements
 
 ### 4. Servant's Quarters
 
