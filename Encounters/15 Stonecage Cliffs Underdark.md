@@ -130,6 +130,28 @@ Ebonveil Keep
 * [Tusker Demon](https://www.dndbeyond.com/monsters/4486030-tusker-demon)
 * [Gnoll Abyssal Archer](https://www.dndbeyond.com/monsters/2560725-archer) (~30 hp)
 
+### Rooms
+
+#### 1. Matriarch's Bedchamber
+
+#### 2. Armory
+
+#### 3. War Room
+
+#### 4. Servant's Quarters
+
+#### 5. Mage's Tower Alchemy Lab
+
+#### 6. Mage's Tower Library
+
+#### 7. Soldier's Common Area
+
+#### 8. Captain's Quarters
+
+#### 9. Dining Hall
+
+#### 10. Pr
+
 ## Beholder Lair
 
 ![[Maps/Lair of the Beholder God [29x30] - $5 Rewards/Lair of the Beholder God [29x30] - $5 Rewards/Gridded/G_LairOfTheBeholderGod_Cult.jpg]]
