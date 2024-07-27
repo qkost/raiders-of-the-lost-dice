@@ -251,7 +251,7 @@ A well-furnished room with a large bed, a desk, and a wardrobe. The walls are de
 
 - **Personal Armory**: Contains the captain's weapons and armor.
 	- Adamantine Armor -- Half Plate
-	- 
+	- +2 short sword
 - **Strategic Documents**: Detailed plans and reports.
 - **Comfort Items**: Luxuries not afforded to regular soldiers.
 
@@ -264,8 +264,8 @@ A grand hall with a long, dark wood table surrounded by high-backed chairs. Chan
 #### Features
 
 - **Large Fireplace**: Enchanted to burn with blue flames.
-- **Kitchen Access**: A side room with a kitchen staffed by slaves or lesser Drow.
-- **Tapestries**: Depicting grand feasts and victories.
+- **Kitchen Access**: A side room with staircase leads down to kitchen.
+- **Tapestries**: Depicting historical events.
 
 ### 10. Prison/Torture Chamber
 

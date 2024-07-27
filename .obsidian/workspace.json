@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Magic Items.md",
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Magic Items.md"
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md"
               }
             }
           },
@@ -234,10 +234,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e97c7f144bc6966",
+  "active": "a84763933672add0",
   "lastOpenFiles": [
-    "Encounters/15 Stonecage Cliffs Underdark.md",
     "Magic Items/Magic Items.md",
+    "Encounters/15 Stonecage Cliffs Underdark.md",
     "NPCs/Bright Queen Leylas Kryn.md",
     "Session Notes/Session 45 - Through the Fire and Flames.md",
     "NPCs/Xyrrath.md",
