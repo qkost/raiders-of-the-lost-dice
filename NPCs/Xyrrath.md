@@ -13,7 +13,7 @@
 
 * [Statblock](https://www.dndbeyond.com/monsters/4685017-xyrrath)
 * Eyes
-	* 50 hp
+	* 50 hp (Xyrrath takes half damage)
 	* Same AC and saves
 	* Same movement
 	
