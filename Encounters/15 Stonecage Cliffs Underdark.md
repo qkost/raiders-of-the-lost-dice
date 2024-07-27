@@ -153,11 +153,12 @@ A luxurious chamber draped in dark silks and velvet. A grand canopy bed dominate
 #### Features
 
 - **Hidden Safe**: Contains valuable items and secrets:
-	- Journal of the house () history
+	- Journal of the house (Veldrin -- spymaster) history
 	- House signet ring
 	- Jewelry
 - **Enchanted Mirror**: Allows communication with allies.
 - **Guardians**: Two deceased elite Drow guards stationed at the entrance.
+- The drown matriarch has half-transformed into a [Yochlol](https://www.dndbeyond.com/monsters/17127-yochlol)
 
 ### 2. Armory
 
