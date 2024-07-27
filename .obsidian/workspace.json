@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
+                "file": "Magic Items/Magic Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
+                "file": "Magic Items/Magic Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md"
+                "file": "Magic Items/Magic Items.md"
               }
             }
           },
@@ -258,10 +258,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a84763933672add0",
+  "active": "0e97c7f144bc6966",
   "lastOpenFiles": [
-    "Magic Items/Magic Items.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
+    "Magic Items/Magic Items.md",
     "Encounters/14 Zunda'i Miir Lair.md",
     "NPCs/Zunda'i-Miir.md",
     "NPCs/Bright Queen Leylas Kryn.md",
