@@ -17,7 +17,7 @@
 - [ ] [Cloak of Protection](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection)
 - [ ] [Gloves of Thievery](https://www.dndbeyond.com/magic-items/5352-gloves-of-thievery)
 - [ ] [Helm of Underwater Action](https://www.dndbeyond.com/magic-items/602376-helm-of-underwater-action)
-- [ ] [Boots of Elven Kind](https://www.dndbeyond.com/magic-items/4587-boots-of-elvenkind)
+- [x] [Boots of Elven Kind](https://www.dndbeyond.com/magic-items/4587-boots-of-elvenkind)
 - [ ] [Goggles of Night](https://www.dndbeyond.com/magic-items/4648-goggles-of-night)
 - [ ] [Decanter of Endless Water](https://www.dndbeyond.com/magic-items/4615-decanter-of-endless-water)
 - [ ] [Ring of Water Walking](https://www.dndbeyond.com/magic-items/4737-ring-of-water-walking)
@@ -173,7 +173,7 @@
 - [ ] [Feywild Shard](https://www.dndbeyond.com/magic-items/2412248-feywild-shard)
 - [ ] [Fool's Blade](https://www.dndbeyond.com/magic-items/7526677-fools-blade)
 - [ ] [Crystal Blade](https://www.dndbeyond.com/magic-items/4047184-crystal-blade)
-- [ ] [Amethyst Longsword](https://www.dndbeyond.com/magic-items/8569090-amethyst-longsword)
+- [ ] [Blade of the Watcher](https://www.dndbeyond.com/magic-items/8569090-blade-of-the-watcher)
 
 ## [[Tato]]
 

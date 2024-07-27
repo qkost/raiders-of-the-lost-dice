@@ -171,7 +171,6 @@ A heavily secured room lined with weapon racks and armor stands. The walls are a
 
 - **Poisoned Weapons**: Swords, daggers, and arrows coated in deadly poisons.
 - Items of significance
-	- Adamantine Armor -- Half Plate
 	- +1 daggers (x4), +1 short sword (x2)
 - **Trap Mechanisms**: Protect the most valuable items.
 
@@ -251,6 +250,8 @@ A well-furnished room with a large bed, a desk, and a wardrobe. The walls are de
 #### Features
 
 - **Personal Armory**: Contains the captain's weapons and armor.
+	- Adamantine Armor -- Half Plate
+	- 
 - **Strategic Documents**: Detailed plans and reports.
 - **Comfort Items**: Luxuries not afforded to regular soldiers.
 
