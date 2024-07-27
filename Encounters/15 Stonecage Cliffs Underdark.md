@@ -168,7 +168,9 @@ A heavily secured room lined with weapon racks and armor stands. The walls are a
 #### Features
 
 - **Poisoned Weapons**: Swords, daggers, and arrows coated in deadly poisons.
-- **Enchanted Armor**: Provides extra protection and magical resistance.
+- Items of significance
+	- Adamantine Armor -- Half Plate
+	- +1 daggers (x4), +1 short sword (x2)
 - **Trap Mechanisms**: Protect the most valuable items.
 
 ### 3. War Room
@@ -206,6 +208,8 @@ A dimly lit laboratory filled with shelves of alchemical ingredients and bubblin
 - **Potion Brewing Station**: Equipped with cauldrons and vials.
 - **Enchanted Shelves**: Prevent volatile reactions.
 - **Secret Storage**: Holds rare and dangerous components.
+	-  Drow Poison (3 doses)
+	- Potion of Gaseous form
 
 ### 6. Mage's Tower Library
 

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a84763933672add0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2e21ab0f0ba42b76",
@@ -38,12 +51,12 @@
             }
           },
           {
-            "id": "a84763933672add0",
+            "id": "0e97c7f144bc6966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
+                "file": "Magic Items/Magic Items.md",
                 "mode": "source",
                 "source": false
               }
@@ -223,8 +236,9 @@
   },
   "active": "a84763933672add0",
   "lastOpenFiles": [
-    "Session Notes/Session 45 - Through the Fire and Flames.md",
+    "Magic Items/Magic Items.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
+    "Session Notes/Session 45 - Through the Fire and Flames.md",
     "NPCs/Xyrrath.md",
     "Session 46 - The Gates of Duscora' Kerym.md",
     "Day Tracker.md",
@@ -251,7 +265,6 @@
     "Locations/Thinora's Demiplane/03 - Guest Quarters.md",
     "Locations/Thinora's Demiplane/17 - Great Library.md",
     "Locations/Thinora's Demiplane/07 - Lake.md",
-    "Locations/Thinora's Demiplane/02 - The Maw.md",
     "Maps/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/GL_WizardPrisonPart5_WhiteDragon.jpg",
     "Maps/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/GL_WizardPrisonPart5_Void.jpg",
     "Maps/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/GL_WizardPrisonPart5_Silver.jpg",
