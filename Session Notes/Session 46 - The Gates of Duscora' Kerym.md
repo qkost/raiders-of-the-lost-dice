@@ -54,7 +54,8 @@
 
 ### 2. Strong Start
 
-* 
+* Have Chimeron look up to players (Monte Python) and speak into their minds "Foolish mortals, I will feast on your souls!" and begin flying up toward the players.
+* Have the Chimeron spend one soul to gain a fly speed
 
 ### 3. Scenes
 
