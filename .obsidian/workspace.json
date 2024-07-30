@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d7ca72e0d437716",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 42 - Zunda'i Miir.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "2e21ab0f0ba42b76",
@@ -119,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 286.5
   },
   "right": {
     "id": "c0b9a18b1f8d4adb",
@@ -135,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
+                "file": "Session Notes/Session 42 - Zunda'i Miir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
+                "file": "Session Notes/Session 42 - Zunda'i Miir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md"
+                "file": "Session Notes/Session 42 - Zunda'i Miir.md"
               }
             }
           },
@@ -208,12 +221,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a84763933672add0",
+  "active": "9d7ca72e0d437716",
   "lastOpenFiles": [
-    "NPCs/Xyrrath.md",
     "Session 46 - The Gates of Duscora' Kerym.md",
-    "Session Notes/Session 45 - Through the Fire and Flames.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
+    "NPCs/Xyrrath.md",
+    "Session Notes/Session 45 - Through the Fire and Flames.md",
     "Magic Items/Magic Items.md",
     "Encounters/14 Zunda'i Miir Lair.md",
     "NPCs/Zunda'i-Miir.md",
