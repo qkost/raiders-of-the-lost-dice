@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 47 - Xyrrath.md",
+                "file": "Session Notes/Session 46 - The Gates of Duscora' Kerym.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 47 - Xyrrath.md",
+                "file": "Session Notes/Session 46 - The Gates of Duscora' Kerym.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 47 - Xyrrath.md"
+                "file": "Session Notes/Session 46 - The Gates of Duscora' Kerym.md"
               }
             }
           },
@@ -233,10 +233,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "faa817dbd5358d2c",
+  "active": "0fac03b19f86a797",
   "lastOpenFiles": [
-    "Encounters/15 Stonecage Cliffs Underdark.md",
     "Session 47 - Xyrrath.md",
+    "Encounters/15 Stonecage Cliffs Underdark.md",
     "Session Notes/Session 46 - The Gates of Duscora' Kerym.md",
     "Session Notes/Session 42 - Zunda'i Miir.md",
     "NPCs/Xyrrath.md",
