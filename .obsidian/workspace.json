@@ -8,17 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cec2324e3170328f",
+            "id": "0fac03b19f86a797",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 45 - Through the Fire and Flames.md",
+                "file": "Session 46 - The Gates of Duscora' Kerym.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "2e21ab0f0ba42b76",
+        "type": "tabs",
+        "children": [
           {
             "id": "a84763933672add0",
             "type": "leaf",
@@ -26,49 +32,6 @@
               "type": "markdown",
               "state": {
                 "file": "Encounters/15 Stonecage Cliffs Underdark.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76ddd1b17e5ea567",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Zunda'i-Miir.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55a50e8afb49960c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "2e21ab0f0ba42b76",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c105536c74597c9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day Tracker.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,18 +50,6 @@
             }
           },
           {
-            "id": "0fac03b19f86a797",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 46 - The Gates of Duscora' Kerym.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c672c8faba0fa9f7",
             "type": "leaf",
             "state": {
@@ -110,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,14 +210,14 @@
   },
   "active": "a84763933672add0",
   "lastOpenFiles": [
-    "Magic Items/Magic Items.md",
+    "NPCs/Xyrrath.md",
+    "Session 46 - The Gates of Duscora' Kerym.md",
+    "Session Notes/Session 45 - Through the Fire and Flames.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
+    "Magic Items/Magic Items.md",
     "Encounters/14 Zunda'i Miir Lair.md",
     "NPCs/Zunda'i-Miir.md",
     "NPCs/Bright Queen Leylas Kryn.md",
-    "Session Notes/Session 45 - Through the Fire and Flames.md",
-    "NPCs/Xyrrath.md",
-    "Session 46 - The Gates of Duscora' Kerym.md",
     "Day Tracker.md",
     "Session Notes/Session 44 - The Spider's Path.md",
     "Session Notes/Session 43 - The Ebon Lake.md",

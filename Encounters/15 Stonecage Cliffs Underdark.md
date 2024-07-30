@@ -286,12 +286,14 @@ A grand hall with a long, dark wood table surrounded by high-backed chairs. Chan
 #### Description
 
 A cold, damp area with cells carved into the stone walls. The air is thick with the scent of mildew and despair.
-
 #### Features
 
 - **Iron Bars**: Imbued with anti-magic runes.
 - **Torture Devices**: Various cruel implements.
 - **Guard Room**: With viewing windows into the cells.
+- Locked chest with prisoner's belongings
+	- [Goggles of Night](https://www.dndbeyond.com/magic-items/4648-goggles-of-night)
+	- Clothes with the symbol of the [Claret Orders](https://www.dndbeyond.com/sources/dnd/egtw/factions-and-societies#ClaretOrders) - red tear drop with a dagger going through it
 
 ### 11. Store Room
 
