@@ -19,6 +19,7 @@
 ## Notes
 
 * Cleaned up battle against Tormenauk, with Shadowclaw blasting it into oblivion
+* Six chains of a bright yellow light covered in spider webs
 * [[Ember]]'s vision from [[Avandra, The Changebringer]]
 	* Void apearing
 	* Avandra appears and shows all the paths in all directions
