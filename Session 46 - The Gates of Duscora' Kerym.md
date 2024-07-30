@@ -25,8 +25,23 @@
 	* Avandra appears and shows all the paths in all directions
 	* Kiss of the Changebringer Awakened
 * Battle strategy
-	* [[Ember]] concentrate on fly (Kelward, Grogar, and herself)
-	* 
+	* [[Ember]] concentrate on fly ([[Kelward]], [[Grogar]], and herself), [[Shadowclaw]] flies, [[Tato]] flys from rock to rock
+	* Attempt to get to top of tower
+* Battle run-down
+	* Dash across bridge
+	* Kelward throws up a wall of water over Wobelas
+	* Dash up to first battlements
+	* Ambushed by gloomstalkers and gnolls
+	* Kelward paralyzed by gloomstalker screech and carried off
+	* Tato and Shadowclaw did their thing and Ember blasted off some fireballs
+	* Kelward teleported out of reach from the Gloomstalker
+	* Shadowclaw sniped the last gloomstalker as they're running
+* 24 seconds into Fly spell
+* Current situation
+	* Relative safety on the highest part of the castle
+	* Two stairs decent from main area
+	* Stairs at each pillar on the corners
+	* Looking down into the courtyard filled with eerie bioluminescent fungi is a massive Demon, an amalgom
 ## Prep
 ### 1. Review Characters
 
