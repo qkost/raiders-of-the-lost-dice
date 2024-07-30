@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 46 - The Gates of Duscora' Kerym.md",
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 46 - The Gates of Duscora' Kerym.md",
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 46 - The Gates of Duscora' Kerym.md"
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md"
               }
             }
           },
@@ -220,10 +220,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fac03b19f86a797",
+  "active": "a84763933672add0",
   "lastOpenFiles": [
-    "Session Notes/Session 42 - Zunda'i Miir.md",
     "Session 46 - The Gates of Duscora' Kerym.md",
+    "Session Notes/Session 42 - Zunda'i Miir.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
     "NPCs/Xyrrath.md",
     "Session Notes/Session 45 - Through the Fire and Flames.md",
