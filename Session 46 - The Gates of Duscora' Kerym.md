@@ -18,6 +18,15 @@
 
 
 ## Notes
+
+* Cleaned up battle against Tormenauk, with Shadowclaw blasting it into oblivion
+* [[Ember]]'s vision from [[Avandra, The Changebringer]]
+	* Void apearing
+	* Avandra appears and shows all the paths in all directions
+	* Kiss of the Changebringer Awakened
+* Battle strategy
+	* [[Ember]] concentrate on fly (Kelward, Grogar, and herself)
+	* 
 ## Prep
 ### 1. Review Characters
 
