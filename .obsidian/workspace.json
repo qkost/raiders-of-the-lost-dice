@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2e21ab0f0ba42b76",
@@ -148,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 42 - Zunda'i Miir.md",
+                "file": "Session 46 - The Gates of Duscora' Kerym.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 42 - Zunda'i Miir.md",
+                "file": "Session 46 - The Gates of Duscora' Kerym.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 42 - Zunda'i Miir.md"
+                "file": "Session 46 - The Gates of Duscora' Kerym.md"
               }
             }
           },
@@ -221,8 +220,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d7ca72e0d437716",
+  "active": "0fac03b19f86a797",
   "lastOpenFiles": [
+    "Session Notes/Session 42 - Zunda'i Miir.md",
     "Session 46 - The Gates of Duscora' Kerym.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
     "NPCs/Xyrrath.md",
@@ -251,7 +251,6 @@
     "Locations/Thinora's Demiplane/14 - Raw Materials.md",
     "Maps/hall_of_the_elements_35x35.webp",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
-    "Locations/Thinora's Demiplane/03 - Guest Quarters.md",
     "Maps/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/GL_WizardPrisonPart5_WhiteDragon.jpg",
     "Maps/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/GL_WizardPrisonPart5_Void.jpg",
     "Maps/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/GL_WizardPrisonPart5_Silver.jpg",
