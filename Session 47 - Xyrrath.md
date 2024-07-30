@@ -1,24 +1,5 @@
 
 ## Recap
-
-* Descended down the Spider's Path
-	* Everybody started blastin'
-	* [[Ember]] massive fireball that destroyed pretty much all the spiders
-	* Formation flying skydiving
-* Landed in Ilhara-Vel
-	* Caught the attention of 4 Ruinants
-	* Bigby's hand toothpaste
- * Saw a glimpse of the keep, Duscora' Kerym (Ebonveil Keep)
-	* 300 ft long
-	* Bridge
-	* 6 chains
-* Attempted long rest in ruined shrine to [[Lolth, The Spider Queen]]
-	* Tormenauk saw through church
-	* Roll Initiative
-
-
-## Notes
-
 * Cleaned up battle against Tormenauk, with Shadowclaw blasting it into oblivion
 * [[Ember]]'s vision from [[Avandra, The Changebringer]]
 	* Void apearing
@@ -41,7 +22,11 @@
 	* Relative safety on the highest part of the castle
 	* Two stairs decent from main area
 	* Stairs at each pillar on the corners
-	* Looking down into the courtyard filled with eerie bioluminescent fungi is a massive Demon, an amalgom
+	* Looking down into the courtyard filled with eerie bioluminescent fungi is a massive Demon, an amalgamation of the lesser demons
+	* A wobelas and gnoll archers still man the walls
+	* You have a moment of respite, what would you like to do?
+
+## Notes
 ## Prep
 ### 1. Review Characters
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 46 - The Gates of Duscora' Kerym.md",
+                "file": "Session Notes/Session 46 - The Gates of Duscora' Kerym.md",
                 "mode": "source",
                 "source": false
               }
@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "faa817dbd5358d2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 47 - Xyrrath.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0e97c7f144bc6966",
             "type": "leaf",
             "state": {
@@ -73,7 +85,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 383.5
   },
   "right": {
     "id": "c0b9a18b1f8d4adb",
@@ -147,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 46 - The Gates of Duscora' Kerym.md",
+                "file": "Session 47 - Xyrrath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 46 - The Gates of Duscora' Kerym.md",
+                "file": "Session 47 - Xyrrath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 46 - The Gates of Duscora' Kerym.md"
+                "file": "Session 47 - Xyrrath.md"
               }
             }
           },
@@ -220,10 +233,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fac03b19f86a797",
+  "active": "faa817dbd5358d2c",
   "lastOpenFiles": [
     "Encounters/15 Stonecage Cliffs Underdark.md",
-    "Session 46 - The Gates of Duscora' Kerym.md",
+    "Session 47 - Xyrrath.md",
+    "Session Notes/Session 46 - The Gates of Duscora' Kerym.md",
     "Session Notes/Session 42 - Zunda'i Miir.md",
     "NPCs/Xyrrath.md",
     "Session Notes/Session 45 - Through the Fire and Flames.md",
@@ -250,7 +264,6 @@
     "Maps/museum_20x33.jpg",
     "Locations/Thinora's Demiplane/14 - Raw Materials.md",
     "Maps/hall_of_the_elements_35x35.webp",
-    "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Maps/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/GL_WizardPrisonPart5_WhiteDragon.jpg",
     "Maps/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/GL_WizardPrisonPart5_Void.jpg",
     "Maps/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/GL_WizardPrisonPart5_Silver.jpg",
