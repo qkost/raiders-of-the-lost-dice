@@ -173,7 +173,6 @@ A luxurious chamber draped in dark silks and velvet. A grand canopy bed dominate
 	- [Slippers of Spider Climbing](https://www.dndbeyond.com/magic-items/4755-slippers-of-spider-climbing)
 - **Enchanted Mirror -- Cracked**: Allows communication with the (excommunicated) [[Bright Queen Leylas Kryn]]
 - **Guardians**: Two deceased elite Drow guards stationed at the entrance.
-- The drown matriarch has half-transformed into a [Yochlol](https://www.dndbeyond.com/monsters/17127-yochlol)
 
 ### 2. Armory
 
@@ -280,6 +279,8 @@ A grand hall with a long, dark wood table surrounded by high-backed chairs. Chan
 - **Large Fireplace**: Enchanted to burn with blue flames.
 - **Kitchen Access**: A side room with staircase leads down to kitchen.
 - **Tapestries**: Depicting historical events.
+- The drown matriarch has half-transformed into a [Yochlol](https://www.dndbeyond.com/monsters/17127-yochlol)
+
 
 ### 10. Prison/Torture Chamber
 
