@@ -168,10 +168,11 @@ A luxurious chamber draped in dark silks and velvet. A grand canopy bed dominate
 - **Hidden Safe**: Contains valuable items and secrets:
 	- Journal of the house (Veldrin -- spymaster) history
 	- House signet ring
-	- Jewelry
+	- Jewelry - black sapphire necklace
 	- [Potion of Longevity](https://www.dndbeyond.com/magic-items/5359-potion-of-longevity)
 	- [Slippers of Spider Climbing](https://www.dndbeyond.com/magic-items/4755-slippers-of-spider-climbing)
 - **Enchanted Mirror -- Cracked**: Allows communication with the (excommunicated) [[Bright Queen Leylas Kryn]]
+	- Lyrien Kryn
 - **Guardians**: Two deceased elite Drow guards stationed at the entrance.
 
 ### 2. Armory
