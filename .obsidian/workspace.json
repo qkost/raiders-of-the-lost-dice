@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "2e21ab0f0ba42b76",
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
+                "file": "Session Notes/Session 47 - Xyrrath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
+                "file": "Session Notes/Session 47 - Xyrrath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md"
+                "file": "Session Notes/Session 47 - Xyrrath.md"
               }
             }
           },
@@ -209,10 +208,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c08e45f32e23b09",
+  "active": "faa817dbd5358d2c",
   "lastOpenFiles": [
-    "Session Notes/Session 47 - Xyrrath.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
+    "Session Notes/Session 47 - Xyrrath.md",
     "Session Notes/Session 46 - The Whole New World of Duscora' Kerym.md",
     "Session Notes/Session 42 - Zunda'i Miir.md",
     "NPCs/Xyrrath.md",
