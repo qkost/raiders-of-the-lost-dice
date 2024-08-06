@@ -172,7 +172,7 @@ A luxurious chamber draped in dark silks and velvet. A grand canopy bed dominate
 	- [Potion of Longevity](https://www.dndbeyond.com/magic-items/5359-potion-of-longevity)
 	- [Slippers of Spider Climbing](https://www.dndbeyond.com/magic-items/4755-slippers-of-spider-climbing)
 - **Enchanted Mirror -- Cracked**: Allows communication with the (excommunicated) [[Bright Queen Leylas Kryn]]
-	- Lyrien Kryn
+	- Lyrianne Kryn
 - **Guardians**: Two deceased elite Drow guards stationed at the entrance.
 
 ### 2. Armory
