@@ -241,7 +241,6 @@ A room filled with ancient tomes and scrolls. The air is heavy with the scent of
 		- Dominate Person
 		- Contingency
 		- Soul Cage
-- **Resident Librarian**: An expert in arcane lore.
 
 ### 7. Soldier's Common Area
 
