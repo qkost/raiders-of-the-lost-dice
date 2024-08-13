@@ -63,6 +63,18 @@
             }
           },
           {
+            "id": "870a959a9ad0d727",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Zunda'i-Miir.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c672c8faba0fa9f7",
             "type": "leaf",
             "state": {
@@ -74,7 +86,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
+                "file": "NPCs/Zunda'i-Miir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
+                "file": "NPCs/Zunda'i-Miir.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md"
+                "file": "NPCs/Zunda'i-Miir.md"
               }
             }
           },
@@ -221,12 +234,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c08e45f32e23b09",
+  "active": "870a959a9ad0d727",
   "lastOpenFiles": [
+    "Encounters/15 Stonecage Cliffs Underdark.md",
     "Session Notes/Session 38 - Trial by Starlight.md",
     "Session Notes/Session 47 - Xyrrath.md",
     "NPCs/Xyrrath.md",
-    "Encounters/15 Stonecage Cliffs Underdark.md",
     "Session Notes/Session 46 - The Whole New World of Duscora' Kerym.md",
     "Session Notes/Session 42 - Zunda'i Miir.md",
     "Session Notes/Session 45 - Through the Fire and Flames.md",
