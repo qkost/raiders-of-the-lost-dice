@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 47 - Xyrrath.md",
+                "file": "NPCs/Xyrrath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 47 - Xyrrath.md",
+                "file": "NPCs/Xyrrath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 47 - Xyrrath.md"
+                "file": "NPCs/Xyrrath.md"
               }
             }
           },
@@ -208,7 +209,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "faa817dbd5358d2c",
+  "active": "c672c8faba0fa9f7",
   "lastOpenFiles": [
     "Encounters/15 Stonecage Cliffs Underdark.md",
     "Session Notes/Session 47 - Xyrrath.md",
