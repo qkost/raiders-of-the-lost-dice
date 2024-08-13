@@ -1,0 +1,66 @@
+
+## Recap
+
+
+* Took a bunch of potion on top of highest point of castle
+* Chimeron grew wings and began chasing party
+* Party flew directly towards boss
+	* Shot a few times by Wobalas and archers
+* Descended down stairs
+* Boss room
+	* Large central obelisk glowing with radiant light
+		* Symbols of Pelor, The Dawnfather
+		* Six chains also glowing attached to obelisk
+	* Throne room of the dark elves destroyed by massive, writhing, fleshy tendrils with eyes on the end
+	* Floating beholder with eyestalks that psionically control the large tendrils
+* Combat
+	* Kelward did teleport attack w/ Blades of the Moonweaver and crit
+	* Ember threw out some fireballs
+	* The beholder, Xyrrath unleashed many eyestalk attacks (from the tendrils on the floor), knocking Grogar out of the sky and unconcious
+	* Amazing saves by Kelward and Tato to avoid certain death from beams of fire, lightning, and necrosis
+	* Ember and Tato drained the beholder's resistances, which exploded one of the eyestalks each time, dealing massive damage to it
+	* Tato performed four crushing strikes taking the beholder to the bring of death
+	* As Xyrrath tried to retreat to a more advantageous position, Kelward's booming blade knocked the last bit of life out of it
+* Aftermath
+	* Kelward caught his fall by stabbing a blade into the side of the massive beholder-like mound of flesh
+	* Ember healed Grogar from dying
+	* Kelward started cutting up beholder and got covered in a disgusting puss-like fluid
+	* Ember discovered that the obelisk had an extremely powerful abjuration magic and was some sort of divine anchor holding something. The beholder was slowly chipping away at these protections, trying to destroy the obelisk.
+	* You flew up into the keep and began exploring the now empty ruin
+
+## Notes
+## Prep
+### 1. Review Characters
+
+* [[Ember]] - 
+* [[Kelward]] -
+* [[Shadowclaw]] - 
+* [[Tato]] - 
+
+### 2. Strong Start
+
+* 
+
+### 3. Scenes
+
+* 
+
+### 4. Secrets and Clues
+
+* 
+
+### 5. Fantastic Locations
+
+* 
+
+### 6. Important NPCs
+
+* 
+
+### 7. Choose Relevant Monsters
+
+* 
+
+### 8. Select Magic Item Rewards
+
+* 

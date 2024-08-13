@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Session 48 - Out of the Darkness.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,8 +109,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b113a5e7cffd2e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "asdf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "asdf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "asdf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "asdf.md"
               }
             }
           },
@@ -257,10 +270,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "494883260c93eebc",
+  "active": "8b113a5e7cffd2e2",
   "lastOpenFiles": [
+    "Session 48 - Out of the Darkness.md",
+    "asdf.md",
     "Session Notes/Session 47 - Xyrrath.md",
-    "Untitled.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
     "NPCs/Xyrrath.md",
     "NPCs/Zunda'i-Miir.md",
@@ -285,7 +299,6 @@
     "Locations/Thinora's Demiplane/11 - Room.md",
     "Locations/Thinora's Demiplane/08 - Binding Chamber.md",
     "Locations/Thinora's Demiplane/16 - Room.md",
-    "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
     "Maps/museum_20x33.jpg",
     "Maps/hall_of_the_elements_35x35.webp",
     "Maps/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/GL_WizardPrisonPart5_WhiteDragon.jpg",
