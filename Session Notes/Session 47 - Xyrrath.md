@@ -44,9 +44,14 @@
 	* Tato closed distance
 	* Ember threw out some fireballs
 	* The beholder, Xyrrath unleashed many eyestalk attacks (from the tendrils on the floor), knocking Grogar out of the sky and unconcious
-	* Amazing saves by Kelward and Tato to avoid certain death
-	* Ember and Tato drained the beholder's resistances, which exploded one of the eyestalks each time, dealing damage to it
-	* As Xyrrath retreated to a save distance, the booming blade 
+	* Amazing saves by Kelward and Tato to avoid certain death from beams of fire, lightning, and necrosis
+	* Ember and Tato drained the beholder's resistances, which exploded one of the eyestalks each time, dealing massive damage to it
+	* As Xyrrath tried to retreat to a more advantageous position, Kelward's booming blade knocked the last bit of life out of it
+* Aftermath
+	* Kelward caught his fall by stabbing a blade into the side of the massive beholder-like mound of flesh
+	* Ember healed Grogar
+	* Kelward started cutting up beholder and got covered in puss
+	* Ember discovered that the obelisk had an extremely powerful abjuration magic and was some sort of divine anchor holding something. The beholder was slowly chipping away at these protections, trying to destroy the obelisk.
 
 ## Prep
 ### 1. Review Characters
