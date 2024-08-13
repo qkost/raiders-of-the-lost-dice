@@ -27,6 +27,15 @@
 	* You have a moment of respite, what would you like to do?
 
 ## Notes
+
+* Took a bunch of potion on top of highest point of castle
+* Chimeron grew wings and began chasing party
+* Party flew directly towards boss
+	* Shot a few times by Wobalas and archers
+* Descended down stairs
+* Room
+	* Large central obelisk glowing with radiant light
+
 ## Prep
 ### 1. Review Characters
 
