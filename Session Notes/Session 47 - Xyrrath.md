@@ -35,6 +35,18 @@
 * Descended down stairs
 * Room
 	* Large central obelisk glowing with radiant light
+		* Symbols of Pelor, The Dawnfather
+		* Six chains also glowing attached to obelisk
+	* Throne room of the dark elves destroyed by massive, writhing, fleshy tendrils with eyes on the end
+	* Floating beholder with eyestalks that psionically control the large tendrils
+* Combat
+	* Kelward did teleport attack crit
+	* Tato closed distance
+	* Ember threw out some fireballs
+	* The beholder, Xyrrath unleashed many eyestalk attacks (from the tendrils on the floor), knocking Grogar out of the sky and unconcious
+	* Amazing saves by Kelward and Tato to avoid certain death
+	* Ember and Tato drained the beholder's resistances, which exploded one of the eyestalks each time, dealing damage to it
+	* As Xyrrath retreated to a save distance, the booming blade 
 
 ## Prep
 ### 1. Review Characters
