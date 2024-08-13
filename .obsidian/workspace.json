@@ -74,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -149,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 38 - Trial by Starlight.md",
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 38 - Trial by Starlight.md",
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 38 - Trial by Starlight.md"
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md"
               }
             }
           },
@@ -222,8 +221,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36c9b570031a4c28",
+  "active": "6c08e45f32e23b09",
   "lastOpenFiles": [
+    "Session Notes/Session 38 - Trial by Starlight.md",
     "Session Notes/Session 47 - Xyrrath.md",
     "NPCs/Xyrrath.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
@@ -251,7 +251,6 @@
     "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
     "Locations/Thinora's Demiplane/13 - Museum.md",
     "Maps/museum_20x33.jpg",
-    "Locations/Thinora's Demiplane/14 - Raw Materials.md",
     "Maps/hall_of_the_elements_35x35.webp",
     "Maps/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/GL_WizardPrisonPart5_WhiteDragon.jpg",
     "Maps/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/GL_WizardPrisonPart5_Void.jpg",
