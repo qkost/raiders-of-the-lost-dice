@@ -201,6 +201,7 @@ A strategic planning room with a large, dark stone table in the center. Maps and
 #### Features
 
 - **Scrying Mirror**: Shallow bowl with ewer of water used for scrying
+	- [Crystal Ball of Telepathy](https://www.dndbeyond.com/magic-items/4863-crystal-ball-of-telepathy)
 - **Magical Map**: Map of Ilhara-Vel and surronding underdark. Location an accessiblity of [[Zunda'i-Miir]] clearly marked
 - Books on political/financial records, troop movements
 
