@@ -188,7 +188,7 @@ A heavily secured room lined with weapon racks and armor stands. The walls are a
 - **Poisoned Weapons**: Swords, daggers, and arrows coated in deadly poisons.
 - Items of significance
 	- +1 daggers (x4), +1 short sword (x2)
-	- 
+	- [Dagger of Denial](https://www.dndbeyond.com/magic-items/7170927-dagger-of-denial)
 	- [Stormrider Boots](https://www.dndbeyond.com/magic-items/7171012-stormrider-boots)
 - **Trap Mechanisms**: Protect the most valuable items.
 
