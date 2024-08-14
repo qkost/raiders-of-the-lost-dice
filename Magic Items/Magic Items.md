@@ -149,7 +149,7 @@
 		- [ ] 5. Dominate Person
 		- [x] 6. Cloudkill
 	- [ ] L6
-		- [ ] 1. Circle of Death
+		- [x] 1. Circle of Death
 		- [ ] 2. Arcane Gate
 		- [ ] 3. Scatter
 		- [ ] 4. Move Earth

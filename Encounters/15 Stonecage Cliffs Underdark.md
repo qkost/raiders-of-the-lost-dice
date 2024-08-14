@@ -172,6 +172,7 @@ A luxurious chamber draped in dark silks and velvet. A grand canopy bed dominate
 	- Jewelry - black sapphire necklace
 	- [Potion of Longevity](https://www.dndbeyond.com/magic-items/5359-potion-of-longevity)
 	- [Slippers of Spider Climbing](https://www.dndbeyond.com/magic-items/4755-slippers-of-spider-climbing)
+	- [Cape of the Mountebank](https://www.dndbeyond.com/magic-items/4599-cape-of-the-mountebank)
 - **Enchanted Mirror -- Cracked**: Allows communication with the (excommunicated) [[Bright Queen Leylas Kryn]]
 	- Lyrianne Kryn
 - **Guardians**: Two deceased elite Drow guards stationed at the entrance.
@@ -242,7 +243,7 @@ A room filled with ancient tomes and scrolls. The air is heavy with the scent of
 	- Spells
 		- Dominate Person
 		- Contingency
-		- Soul Cage
+		- Scatter
 
 ### 7. Soldier's Common Area
 
