@@ -187,7 +187,7 @@ A heavily secured room lined with weapon racks and armor stands. The walls are a
 - **Poisoned Weapons**: Swords, daggers, and arrows coated in deadly poisons.
 - Items of significance
 	- +1 daggers (x4), +1 short sword (x2)
-	- [Shortbow of Melodies](https://www.dndbeyond.com/magic-items/7526763-shortbow-of-melodies)
+	- 
 - **Trap Mechanisms**: Protect the most valuable items.
 
 ### 3. War Room
