@@ -22,7 +22,7 @@
 	* For Ember
 		* Staff of Power
 		* Gravity Sinkhole, Gravity Fissure, Immovable Object
-	* Shards of amethyst (for [Blade of the Watcher](https://www.dndbeyond.com/magic-items/8569090-blade-of-the-watcher))
+	* Shards of amethyst (for [Blade of the Sentinel](https://www.dndbeyond.com/magic-items/8569090-blade-of-the-sentinel))
 	* [Boots of Elvenkind](https://www.dndbeyond.com/magic-items/4587-boots-of-elvenkind)
 
 ##### Rolled Loot
@@ -104,8 +104,8 @@
 	- _[Potion of Clairvoyance](https://5e.tools/items.html#potion%20of%20clairvoyance_dmg)_
 
 - Magic Items ([Table D](https://5e.tools/tables.html#magic%20item%20table%20d_dmg))
-	- _[Spell Scroll (7th Level)](https://5e.tools/items.html#spell%20scroll%20(7th%20level)_dmg)_ [Reverse Gravity](https://5e.tools/spells.html#reverse%20gravity_phb)
-	- _[Spell Scroll (7th Level)](https://5e.tools/items.html#spell%20scroll%20(7th%20level)_dmg) [Crown of Stars](https://5e.tools/spells.html#crown%20of%20stars_xge)
+	- [Reverse Gravity](https://5e.tools/spells.html#reverse%20gravity_phb)
+	- [Crown of Stars](https://5e.tools/spells.html#crown%20of%20stars_xge)
 	- _[Potion of Vitality](https://5e.tools/items.html#potion%20of%20vitality_dmg)_
 
 - Magic Items ([Table E](https://5e.tools/tables.html#magic%20item%20table%20e_dmg))

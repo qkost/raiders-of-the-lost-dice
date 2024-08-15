@@ -204,6 +204,7 @@ A strategic planning room with a large, dark stone table in the center. Maps and
 	- [Crystal Ball of Telepathy](https://www.dndbeyond.com/magic-items/4863-crystal-ball-of-telepathy)
 - **Magical Map**: Map of Ilhara-Vel and surronding underdark. Location an accessiblity of [[Zunda'i-Miir]] clearly marked
 - Books on political/financial records, troop movements
+- Plans for taking out [[Zunda'i-Miir]]
 
 ### 4. Servant's Quarters
 

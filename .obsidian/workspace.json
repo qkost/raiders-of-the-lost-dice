@@ -49,8 +49,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7459776c0fd573a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encounters/14 Zunda'i Miir Lair.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
+                "file": "Encounters/14 Zunda'i Miir Lair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
+                "file": "Encounters/14 Zunda'i Miir Lair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md"
+                "file": "Encounters/14 Zunda'i Miir Lair.md"
               }
             }
           },
@@ -197,10 +210,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c72923ca53300da",
+  "active": "7459776c0fd573a0",
   "lastOpenFiles": [
-    "Magic Items/Magic Items.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
+    "Magic Items/Magic Items.md",
     "Session Notes/Session 48 - Out of the Darkness.md",
     "NPCs/Xyrrath.md",
     "asdf.md",
