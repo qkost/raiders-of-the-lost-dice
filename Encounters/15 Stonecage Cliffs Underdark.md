@@ -178,8 +178,7 @@ A luxurious chamber draped in dark silks and velvet. A grand canopy bed dominate
 	- Lyrianne Kryn
 - Combat
 	- [Rug of Smothering](https://www.dndbeyond.com/monsters/17000-rug-of-smothering)
-	- 2x [Animated Armor](https://www.dndbeyond.com/monsters/16786-animated-armor)
-	- 
+	- 4x [Animated Armor](https://www.dndbeyond.com/monsters/16786-animated-armor)
 
 ### 2. Armory
 
