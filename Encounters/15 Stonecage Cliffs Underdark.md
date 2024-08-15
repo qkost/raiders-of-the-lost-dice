@@ -1,4 +1,4 @@
-
+[[15 Stonecage Cliffs Underdark]]
 ## Mines
 
 * Land on a pile of bodies - drow
@@ -306,7 +306,7 @@ A cold, damp area with cells carved into the stone walls. The air is thick with 
 - **Torture Devices**: Various cruel implements.
 - **Guard Room**: With viewing windows into the cells.
 - Locked chest with prisoner's belongings
-	- [Goggles of Night](https://www.dndbeyond.com/magic-items/4648-goggles-of-night)
+	- [Belt of Dwarvenkind](https://www.dndbeyond.com/magic-items/4584-belt-of-dwarvenkind)
 	- Clothes with the symbol of the [Claret Orders](https://www.dndbeyond.com/sources/dnd/egtw/factions-and-societies#ClaretOrders) - red tear drop with a dagger going through it
 
 ### 11. Store Room
