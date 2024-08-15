@@ -176,7 +176,10 @@ A luxurious chamber draped in dark silks and velvet. A grand canopy bed dominate
 	- [Cape of the Mountebank](https://www.dndbeyond.com/magic-items/4599-cape-of-the-mountebank)
 - **Enchanted Mirror -- Cracked**: Allows communication with the (excommunicated) [[Bright Queen Leylas Kryn]]
 	- Lyrianne Kryn
-- **Guardians**: Two deceased elite Drow guards stationed at the entrance.
+- Combat
+	- [Rug of Smothering](https://www.dndbeyond.com/monsters/17000-rug-of-smothering)
+	- 2x [Animated Armor](https://www.dndbeyond.com/monsters/16786-animated-armor)
+	- 
 
 ### 2. Armory
 
