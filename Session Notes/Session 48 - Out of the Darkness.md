@@ -51,20 +51,19 @@
 
 ### 5. Fantastic Locations
 
-South Tower
+#### South Tower
 * [[15 Stonecage Cliffs Underdark#3. War Room]]
 * [[15 Stonecage Cliffs Underdark#1. Matriarch's Bedchamber]]
 
-Northwest Tower
+#### Northwest Tower
 
 * [[15 Stonecage Cliffs Underdark#2. Armory]]
 
-Northeast Tower
+#### Northeast Tower
 * [[15 Stonecage Cliffs Underdark#5. Mage's Tower Alchemy Lab]]
 * [[15 Stonecage Cliffs Underdark#6. Mage's Tower Library]]
 
-
-Southeast
+#### Southeast
 * [[15 Stonecage Cliffs Underdark#10. Prison/Torture Chamber]]
 
 ### 6. Important NPCs
