@@ -234,6 +234,10 @@ A dimly lit laboratory filled with shelves of alchemical ingredients and bubblin
 - **Secret Storage**: Holds rare and dangerous components.
 	- Drow Poison (3 doses)
 	- Potion of Gaseous form
+	- Potions of Healing
+		- 1x Supreme
+		- 4x Superior
+		- 5x Greater
 
 ### 6. Mage's Tower Library
 
