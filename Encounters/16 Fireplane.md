@@ -15,4 +15,5 @@
 	* Guarded by 5 notaries
 	* Isabella Duskheart (Cult Fanatic)
 * Kefra Dres
-	* Guarded by 2 Knights
+	* Guarded by 2 Knights - consider using 
+	* Consider using [Thinora's Statblock](https://www.dndbeyond.com/monsters/3838148-lady-thinora-va-del-archmage-of-antiquity) if only fighting her
