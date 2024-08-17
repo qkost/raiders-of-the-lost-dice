@@ -1,6 +1,7 @@
 # Overview
 
-* Leader: [[Marr]]
+* Leader: The Grand Sultan [[Marrake al Sidan al Hariq be Lazen]]
+	- The Grand Sultan of the Efreet, the Lord of Flame, the Potentate Incandescent, the Tempering and Eternal Flame of Truth, the Most Puissant of Hunters, Marshal of the Order of the Fiery Heart, the Smoldering Dictator, the Crimson Firebrand, Marrake al-Sidan al-Harig ben Lazen
 
 # General Plot
 
