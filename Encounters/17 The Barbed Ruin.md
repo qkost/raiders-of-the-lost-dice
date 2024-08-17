@@ -19,10 +19,12 @@ Follow *Where Evil Lives* page 193
 
 # I12 Office
 
+Negotiation with [[Malachai, The Barbed Ruin]] - See [[Malachai, The Barbed Ruin#Deal with the Devil]]
+
 ## Treasure
 
 Warded by [Glyph of Warding](https://www.dndbeyond.com/spells/2125-glyph-of-warding)
-* Triggers when item is moved by non-devil
+* Triggers when item is moved
 * Explosion
 	* 20ft radius
 	* DC20 DEX Save

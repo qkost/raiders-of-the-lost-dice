@@ -18,9 +18,11 @@ Spells:
 ### What He Can Offer
 
 * [[Honor's Last Stand]]
+* Staff of Power
 * Increase in character level
 * [Epic Boon](https://www.youtube.com/watch?v=W-b7VvSvCQY)
 * Small army of lesser devils
+* Resurrect [[Ember]]'s mother
 
 ## Contract
 

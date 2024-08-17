@@ -87,6 +87,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "ed8e755166b47509",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Malachai, The Barbed Ruin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2d4361b5b2308419",
             "type": "leaf",
             "state": {
@@ -281,11 +293,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f92f205f31d0ba58",
+  "active": "e5d1f85f1134dcaa",
   "lastOpenFiles": [
     "NPCs/Malachai, The Barbed Ruin.md",
-    "Encounters/16 Fireplane.md",
+    "PCs/Ember.md",
     "Encounters/17 The Barbed Ruin.md",
+    "Encounters/16 Fireplane.md",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/GL_HellsTaxOffice_LavaLair - Copy.jpg",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/hells_tax_office_cropped.jpg",
     "Maps/barbed_ruin_keep.jpeg",
@@ -328,7 +341,6 @@
     "Encounters/13 Stonecage Cliffs.md",
     "Locations/Thinora's Demiplane/Room Ideas.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
-    "Plot/Major Notes.md",
     "Maps/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless/Wizard Prison Part 5 [41x56] - $5 Rewards Gridless",
     "Untitled.canvas"
   ]
