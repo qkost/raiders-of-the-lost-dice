@@ -48,6 +48,8 @@
 ### 4. Secrets and Clues
 
 * Power over devils if you discover their True Name
+* [[Malachai, The Barbed Ruin]] wants the Tear's of [[Desirat, The Twilight Phoenix]]
+* The Barbed Ruin is the leader of [[The Shrouded Flames]]
 * 
 
 ### 5. Fantastic Locations
