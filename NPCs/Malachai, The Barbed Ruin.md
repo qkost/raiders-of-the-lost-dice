@@ -42,9 +42,11 @@ The recipient, -------------, agrees to obtain a "Tear of Desirat" deliver it wi
 
 **SECOND PACT**
 
-The scribe, **Malachai**, agrees to conjure forth a cadre of lesser devils in service to the recipient, who shall remain under the command of and dedicated to the protection of the recipient for the duration of one Catha month. The cadre shall include two imps, two hamatula, and a single osyluth. Should any devils bound within this agreed-upon cadre be slain outside of Baator, they are absolved of future service to the recipient.
+This pact can be signed by any number of recipients.
 
-The recipient,-------------, agrees to desecrate three holy sites chosen by Malachai, creating a planar rift connecting the Nine Hells of Baator to each holy site with power granted by Malachai, within one Catha month of invoking this pact. Any interference or failure to desecrate these sites will be considered a violation of this contract.
+The scribe, **Malachai**, agrees to bestow upon the recipient an Epic Boon 
+
+The recipient, -------------, agrees to desecrate a holy site chosen by the scribe, creating a planar rift connecting the Nine Hells of Baator to each holy site with power granted by the scribe, within one Catha month of invoking this pact. Any failure to desecrate these sites or interference after desecration will be considered a violation of this contract.
 
 **THIRD PACT**
 
