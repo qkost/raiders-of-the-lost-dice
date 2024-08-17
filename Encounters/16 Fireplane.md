@@ -25,6 +25,7 @@
 
 # Lounge
 
+50x75 ft
 ![[GL_HellsCocktailLounge_Original_Day.jpg]]
 
 * Other party members
@@ -36,7 +37,7 @@
 # Study
 
 
-50x75 ft
+50x115
 ![[G_HellsTaxOffice_LavaLair.jpg]]
 
 ## Situation
