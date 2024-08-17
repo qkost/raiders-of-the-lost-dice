@@ -13,6 +13,7 @@ Follow *Where Evil Lives* page 193
 
  Main ones
  * [The Barbed Ruin](https://www.dndbeyond.com/monsters/4485901-infernal-chancellor-lazivos)
+ * [Isabella Duskheart](https://www.dndbeyond.com/monsters/16836-cult-fanatic)
  * [Kefra Dres](https://www.dndbeyond.com/monsters/4485775-argan-rael)
  * [Kefra's Guard](https://www.dndbeyond.com/monsters/4485983-radlee-thugram)
 
@@ -22,7 +23,10 @@ Follow *Where Evil Lives* page 193
 
 Warded by [Glyph of Warding](https://www.dndbeyond.com/spells/2125-glyph-of-warding)
 * Triggers when item is moved by non-devil
-* 20ft radius 10d8 fire damage (8th level)
+* Explosion
+	* 20ft radius
+	* DC20 DEX Save
+	* 8d8 fire damage or half (6th level)
 
 ### Items
 * Honor's Last Stand
