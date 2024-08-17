@@ -19,7 +19,7 @@ Spells:
 
 * [[Honor's Last Stand]]
 * Increase in character level
-* Epic Boons
+* [Epic Boon](https://www.youtube.com/watch?v=W-b7VvSvCQY)
 * Small army of lesser devils
 
 ## Contract
@@ -42,18 +42,25 @@ The recipient, -------------, agrees to obtain a "Tear of Desirat" deliver it wi
 
 **SECOND PACT**
 
-The scribe, **Malachai**, agrees to immediately bestow upon the recipient an Epic Boon which will last until the recipient's permanent death. This [Epic Boon](https://www.youtube.com/watch?v=W-b7VvSvCQY) is selected by the recipient from the following:
+The scribe, **Malachai**, agrees to immediately bestow upon the recipient an Epic Boon which will last until the recipient's permanent death. This Epic Boon is selected by the recipient from the following:
 * Boon of Combat Prowess
 * Boon of Dimensional Travel
 * Boon of Energy Resistance
 * Boon of Fate
 * Boon of Fortitude
+* Boon of Irresistible Offense
+* Boon of Recovery
+* Boon of Skill
+* Boon of Speed
+* Boon of Spell Recall
+* Boon of the Night Spirit
+* Boon of Truesight
 
 The recipient, -------------, agrees to desecrate a three holy sites chosen by the scribe, creating a planar rift connecting the Nine Hells of Baator to each holy site with power granted by the scribe, within one Catha month of invoking this pact. Any failure to desecrate these sites or interference after desecration will be considered a violation of this contract.
 
 **THIRD PACT**
 
-The scribe, **Malachai**, agrees to grant the recipient extreme powers that could otherwise only be achieved through years of dedicated experience. This power shall be equivalent of four tiers of combat prowess and shall last until the recipient's death.
+The scribe, **Malachai**, agrees to grant the recipient extreme powers that could otherwise only be achieved through years of dedicated experience. This power shall be equivalent of three tiers of combat prowess and shall last until the recipient's death.
 
 The recipient, -------------, agrees to immediately lock the claim and ownership of their everlasting soul, invoking the laws of the pact primeval, under the control and dominance of the scribe for all of eternity, sending the soul of the recipient immediately upon death to the scribe to do with as they see fit. Any attempt to subvert death on behalf of the recipient, through immortality, undeath, resurrection magic, or other means, will result in the immediate forfeiture of the soul of the recipient to the scribe to do with as they see fit.
 
@@ -66,4 +73,4 @@ Any disputes arising from or related to this contract will be resolved in the Di
 Signed by the agreed upon parties, under the laws of the pact primeval:
 
 **Scribe:** Malachai  
-**Recipient:** ___________________
+**Recipient:** -------------
