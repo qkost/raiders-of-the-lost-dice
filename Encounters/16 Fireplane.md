@@ -1,4 +1,10 @@
 
+* [[Malachai, The Barbed Ruin]] is hosting a party at his embassy
+* Guest list
+	* Kefra Dres
+	* Isabella Duskheart
+* Wants to make deal [[Malachai, The Barbed Ruin#Contract]]
+
 # Lounge
 
 # Study

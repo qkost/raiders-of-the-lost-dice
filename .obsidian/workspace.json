@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "2e7325f8daeb4bd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d4361b5b2308419",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Malachai, The Barbed Ruin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "03e1523a5a0bfec9",
             "type": "leaf",
             "state": {
@@ -68,6 +44,18 @@
             }
           },
           {
+            "id": "a01ef93b45f2b02f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Malachai, The Barbed Ruin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "55e8d01a6e438aee",
             "type": "leaf",
             "state": {
@@ -80,12 +68,24 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "455b337a624244da",
         "type": "tabs",
         "children": [
+          {
+            "id": "2d4361b5b2308419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Malachai, The Barbed Ruin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "4c72923ca53300da",
             "type": "leaf",
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/16 Fireplane.md",
+                "file": "NPCs/Malachai, The Barbed Ruin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/16 Fireplane.md",
+                "file": "NPCs/Malachai, The Barbed Ruin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/16 Fireplane.md"
+                "file": "NPCs/Malachai, The Barbed Ruin.md"
               }
             }
           },
@@ -269,12 +269,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6dc7a9c1a48b473",
+  "active": "2d4361b5b2308419",
   "lastOpenFiles": [
-    "NPCs/Isabella Duskheart.md",
     "Encounters/16 Fireplane.md",
-    "Organizations/The Shrouded Flames.md",
+    "NPCs/Isabella Duskheart.md",
     "NPCs/Malachai, The Barbed Ruin.md",
+    "Organizations/The Shrouded Flames.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/GL_HellsTaxOffice_WalkingtheDog.jpg",
