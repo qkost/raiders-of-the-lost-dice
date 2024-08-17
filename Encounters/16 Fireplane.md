@@ -1,11 +1,30 @@
+# Overview
+
+* Leader: [[Marr]]
+
+# General Plot
 
 * [[Malachai, The Barbed Ruin]] is hosting a party at his embassy
 * Guest list
 	* Kefra Dres
 	* Isabella Duskheart
+* Other party members
+	* Efreeti
+	* Imps - wear symbols of [[The Shrouded Flames]]
+	* 
 * Wants to make deal [[Malachai, The Barbed Ruin#Contract]]
 
+# Gate
+
+* 1 [Efreeti](https://www.dndbeyond.com/monsters/16854-efreeti) guard, want's bribe
+
 # Lounge
+
+* Other party members
+	* Efreeti
+	* Imps - wear symbols of [[The Shrouded Flames]]
+	* Azer
+	* Fire Giant
 
 # Study
 

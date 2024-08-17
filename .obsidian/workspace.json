@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Malachai, The Barbed Ruin.md",
+                "file": "Encounters/16 Fireplane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Malachai, The Barbed Ruin.md",
+                "file": "Encounters/16 Fireplane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Malachai, The Barbed Ruin.md"
+                "file": "Encounters/16 Fireplane.md"
               }
             }
           },
@@ -269,11 +269,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d4361b5b2308419",
+  "active": "d6dc7a9c1a48b473",
   "lastOpenFiles": [
+    "NPCs/Malachai, The Barbed Ruin.md",
     "Encounters/16 Fireplane.md",
     "NPCs/Isabella Duskheart.md",
-    "NPCs/Malachai, The Barbed Ruin.md",
     "Organizations/The Shrouded Flames.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
