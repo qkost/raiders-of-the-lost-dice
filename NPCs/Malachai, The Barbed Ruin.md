@@ -36,13 +36,13 @@ Any willful attempt to harm* the recipient or the scribe, directly or indirectly
 
 **FIRST PACT**
 
-The scribe, **Malachai**, agrees to bestow upon the recipient a magical item known as "Honor's Last Stand" and enable safe passage of the recipient and up to three additional creatures of the recipient's choice to the Material Plane within one day of signing this contract.
+The scribe, **Malachai**, agrees to bestow upon the recipient a magical item known as "Honor's Last Stand" and enable safe passage of the recipient and up to three additional creatures of the recipient's choice to the Material Plane immediately following the signing this contract.
 
 The recipient, -------------, agrees to obtain a "Tear of Desirat" deliver it without tampering to the scribe within one Catha month of signing this contract.
 
 **SECOND PACT**
 
-The scribe, **Malachai**, agrees to immediately bestow upon the recipient an Epic Boon which will last until the recipient's permanent death. This Epic Boon is selected by the recipient from the following:
+The scribe, **Malachai**, agrees to immediately bestow upon the recipient an Epic Boon which will last until the recipient's death. This Epic Boon is selected by the recipient from the following:
 * Boon of Combat Prowess
 * Boon of Dimensional Travel
 * Boon of Energy Resistance
