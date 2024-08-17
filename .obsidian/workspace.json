@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "17 The Barbed Ruin.md",
+                "file": "Encounters/17 The Barbed Ruin.md",
                 "mode": "source",
                 "source": false
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "17 The Barbed Ruin.md",
+                "file": "Encounters/17 The Barbed Ruin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "17 The Barbed Ruin.md",
+                "file": "Encounters/17 The Barbed Ruin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "17 The Barbed Ruin.md"
+                "file": "Encounters/17 The Barbed Ruin.md"
               }
             }
           },
@@ -281,16 +281,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5d1f85f1134dcaa",
+  "active": "f92f205f31d0ba58",
   "lastOpenFiles": [
+    "NPCs/Malachai, The Barbed Ruin.md",
     "Encounters/16 Fireplane.md",
-    "17 The Barbed Ruin.md",
+    "Encounters/17 The Barbed Ruin.md",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/GL_HellsTaxOffice_LavaLair - Copy.jpg",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/hells_tax_office_cropped.jpg",
     "Maps/barbed_ruin_keep.jpeg",
     "Maps/barbed_ruin_keep.jpeg.crdownload",
     "Marrake al Sidan al Hariq be Lazen.md",
-    "NPCs/Malachai, The Barbed Ruin.md",
     "NPCs/Isabella Duskheart.md",
     "Organizations/The Shrouded Flames.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",

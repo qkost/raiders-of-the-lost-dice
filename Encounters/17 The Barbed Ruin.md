@@ -13,7 +13,7 @@ Follow *Where Evil Lives* page 193
 
  Main ones
  * [The Barbed Ruin](https://www.dndbeyond.com/monsters/4485901-infernal-chancellor-lazivos)
- * [Isabella Duskheart](https://www.dndbeyond.com/monsters/16836-cult-fanatic)
+ * [Isabella Duskheart](https://www.dndbeyond.com/monsters/3768360-remnant-cultist)
  * [Kefra Dres](https://www.dndbeyond.com/monsters/4485775-argan-rael)
  * [Kefra's Guard](https://www.dndbeyond.com/monsters/4485983-radlee-thugram)
 
