@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "455b337a624244da",
@@ -220,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/17 The Barbed Ruin.md",
+                "file": "Session Notes/Session 48 - Out of the Darkness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/17 The Barbed Ruin.md",
+                "file": "Session Notes/Session 48 - Out of the Darkness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,7 +259,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/17 The Barbed Ruin.md"
+                "file": "Session Notes/Session 48 - Out of the Darkness.md"
               }
             }
           },
@@ -293,11 +292,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5d1f85f1134dcaa",
+  "active": "494883260c93eebc",
   "lastOpenFiles": [
+    "Encounters/17 The Barbed Ruin.md",
     "NPCs/Malachai, The Barbed Ruin.md",
     "PCs/Ember.md",
-    "Encounters/17 The Barbed Ruin.md",
     "Encounters/16 Fireplane.md",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/GL_HellsTaxOffice_LavaLair - Copy.jpg",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/hells_tax_office_cropped.jpg",

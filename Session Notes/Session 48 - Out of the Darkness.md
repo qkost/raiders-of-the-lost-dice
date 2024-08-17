@@ -47,6 +47,7 @@
 
 ### 4. Secrets and Clues
 
+* Power over devils if you discover their True Name
 * 
 
 ### 5. Fantastic Locations
