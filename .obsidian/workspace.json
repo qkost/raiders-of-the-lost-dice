@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
+                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
                 "mode": "source",
                 "source": false
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
+                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
+                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md"
+                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md"
               }
             }
           },
@@ -235,6 +235,7 @@
   },
   "active": "2e7325f8daeb4bd7",
   "lastOpenFiles": [
+    "Encounters/15 Stonecage Cliffs Underdark.md",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/GL_HellsTaxOffice_WalkingtheDog.jpg",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/GL_HellsTaxOffice_SoulEvaluation.jpg",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/GL_HellsTaxOffice_RushHour.jpg",
@@ -245,7 +246,6 @@
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/GL_HellsTaxOffice_Disco.jpg",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/GL_HellsTaxOffice_NeonDemon.jpg",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/GL_HellsTaxOffice_LavaLair.jpg",
-    "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridded/G_HellsTaxOffice_WalkingtheDog.jpg",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/__MACOSX/Hell's Tax Office [21x37] - $5 Rewards",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridded",
@@ -255,7 +255,6 @@
     "Maps/Hell's Cocktail Lounge [33x48] - $5 Rewards (Gridless)/Hell's Cocktail Lounge [33x48] - $5 Rewards (Gridless)",
     "Maps/Hell's Cocktail Lounge [33x48] - $5 Rewards (Gridless)",
     "Session Notes/Session 48 - Out of the Darkness.md",
-    "Encounters/15 Stonecage Cliffs Underdark.md",
     "Encounters/14 Zunda'i Miir Lair.md",
     "Magic Items/Magic Items.md",
     "NPCs/Xyrrath.md",
