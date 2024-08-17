@@ -44,7 +44,12 @@ The recipient, -------------, agrees to obtain a "Tear of Desirat" deliver it wi
 
 This pact can be signed by any number of recipients.
 
-The scribe, **Malachai**, agrees to bestow upon the recipient an Epic Boon 
+The scribe, **Malachai**, agrees to bestow upon the recipient an Epic Boon within one day of signing this contract which will last until the recipient's death. This [Epic Boon](https://www.youtube.com/watch?v=W-b7VvSvCQY) is selected by the recipient from the following:
+* Boon of Combat Prowess
+* Boon of Dimensional Travel
+* Boon of Energy Resistance
+* Boon of Fate
+* Boon of Fortitude
 
 The recipient, -------------, agrees to desecrate a holy site chosen by the scribe, creating a planar rift connecting the Nine Hells of Baator to each holy site with power granted by the scribe, within one Catha month of invoking this pact. Any failure to desecrate these sites or interference after desecration will be considered a violation of this contract.
 
@@ -52,7 +57,7 @@ The recipient, -------------, agrees to desecrate a holy site chosen by the scri
 
 The scribe, **Malachai**, agrees to grant the recipient a wish, as per the spell "Wish," fulfilling their deepest desire. The wish cannot be used to alter or nullify this contract. Any attempt to use this wish to subvert the contract is a violation of the contract, and the wish will not be executed; the consequences of contract violation will be enacted.
 
-The recipient, ___________________, agrees to immediately lock the claim and ownership of their everlasting soul, invoking the laws of the pact primeval, under the control and dominance of the scribe for all of eternity, sending the soul of the recipient immediately upon death to the scribe to do with as they see fit. Any attempt to subvert death on behalf of the recipient, through immortality, undeath, resurrection magic, or other means, will result in the immediate forfeiture of the soul of the recipient to the scribe to do with as they see fit.
+The recipient, -------------, agrees to immediately lock the claim and ownership of their everlasting soul, invoking the laws of the pact primeval, under the control and dominance of the scribe for all of eternity, sending the soul of the recipient immediately upon death to the scribe to do with as they see fit. Any attempt to subvert death on behalf of the recipient, through immortality, undeath, resurrection magic, or other means, will result in the immediate forfeiture of the soul of the recipient to the scribe to do with as they see fit.
 
 **DISPUTE RESOLUTION**
 
