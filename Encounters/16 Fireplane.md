@@ -15,11 +15,17 @@
 	* 
 * Wants to make deal [[Malachai, The Barbed Ruin#Contract]]
 
+# Keep
+
+![[barbed_ruin_keep.jpeg]]
+
 # Gate
 
 * 1 [Efreeti](https://www.dndbeyond.com/monsters/16854-efreeti) guard, want's bribe
 
 # Lounge
+
+![[GL_HellsCocktailLounge_Original_Day.jpg]]
 
 * Other party members
 	* Efreeti
@@ -29,12 +35,17 @@
 
 # Study
 
+
+50x75 ft
+![[G_HellsTaxOffice_LavaLair.jpg]]
+
 ## Situation
 
 * Kefra Dres is negotiating with [[Malachai, The Barbed Ruin]] for [[Honor's Last Stand]].
 * [[Malachai, The Barbed Ruin]] wants a Tear of [[Desirat, The Twilight Phoenix]], but Kefra is unwilling to part with it
 
 ## Encounter
+
 
 * [Encounter page on DnDBeyond](https://www.dndbeyond.com/encounters/afd3ef71-ab30-4277-98a2-4562eba3fa25)
 * Barbed Ruin
