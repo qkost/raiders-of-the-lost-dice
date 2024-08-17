@@ -14,6 +14,6 @@
 * Barbed Ruin
 	* Guarded by 5 notaries
 	* Isabella Duskheart (Cult Fanatic)
-* Kefra Dres
-	* Guarded by 2 Knights - consider using [Githyanki Knight](https://www.dndbeyond.com/monsters/17150-githyanki-knight) if just fighting her
-	* Consider using [Thinora's Statblock](https://www.dndbeyond.com/monsters/3838148-lady-thinora-va-del-archmage-of-antiquity) if only fighting her
+* Kefra Dres - [Statblock](https://www.dndbeyond.com/monsters/4485775-argan-rael)
+	* Guarded by 2 Knights - consider using [statblock](https://www.dndbeyond.com/monsters/4485983-radlee-thugram) if just fighting her
+	* Consider using [Statblock](https://www.dndbeyond.com/monsters/4485775-argan-rael) if only fighting her
