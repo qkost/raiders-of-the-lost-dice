@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "455b337a624244da",
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "17 The Barbed Ruin.md",
+                "file": "Encounters/16 Fireplane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "17 The Barbed Ruin.md",
+                "file": "Encounters/16 Fireplane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "17 The Barbed Ruin.md"
+                "file": "Encounters/16 Fireplane.md"
               }
             }
           },
@@ -281,10 +281,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5d1f85f1134dcaa",
+  "active": "d6dc7a9c1a48b473",
   "lastOpenFiles": [
-    "Encounters/16 Fireplane.md",
     "17 The Barbed Ruin.md",
+    "Encounters/16 Fireplane.md",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/GL_HellsTaxOffice_LavaLair - Copy.jpg",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/hells_tax_office_cropped.jpg",
     "Maps/barbed_ruin_keep.jpeg",
