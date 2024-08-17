@@ -42,7 +42,7 @@ The recipient, -------------, agrees to obtain a "Tear of Desirat" deliver it wi
 
 **SECOND PACT**
 
-The scribe, **Malachai**, agrees to immediately bestow upon the recipient an Epic Boon which will last until the recipient's death. This Epic Boon is selected by the recipient from the following:
+The scribe, **Malachai**, agrees to immediately bestow upon the recipient an Epic Boon which will last until the recipient's death. One (1) Epic Boon is selected by the recipient from the following:
 * Boon of Combat Prowess
 * Boon of Dimensional Travel
 * Boon of Energy Resistance
@@ -56,7 +56,7 @@ The scribe, **Malachai**, agrees to immediately bestow upon the recipient an Epi
 * Boon of the Night Spirit
 * Boon of Truesight
 
-The recipient, -------------, agrees to desecrate a three holy sites chosen by the scribe, creating a planar rift connecting the Nine Hells of Baator to each holy site with power granted by the scribe, within one Catha month of invoking this pact. Any failure to desecrate these sites or interference after desecration will be considered a violation of this contract.
+The recipient, -------------, agrees to desecrate a three holy sites chosen by the scribe, creating a planar rift connecting the Nine Hells of Baator to each holy site, with power granted by the scribe, within one Catha month of invoking this pact. Any failure to desecrate these sites or interference after desecration, directly or indirectly, will be considered a violation of this contract.
 
 **THIRD PACT**
 
