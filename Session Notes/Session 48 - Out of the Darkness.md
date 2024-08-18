@@ -103,14 +103,12 @@
 	* Prison
 		* [Belt of Dwarvenkind](https://www.dndbeyond.com/magic-items/4584-belt-of-dwarvenkind)
 	* Arcane Library
-		* [Manual of Gainful Exercise](https://www.dndbeyond.com/magic-items/4675-manual-of-gainful-exercise)
 		- [Prehistoric Figurine of Wonderous Power: T-Rex](https://www.dndbeyond.com/magic-items/7102432-prehistoric-figurine-of-wondrous-power-jasper)
 		- Spell Scrolls
 			- Contingency
 			- Scatter
 	- Alchemy Lab
 		- Drow Poison (3 doses)
-		- Potion of Gaseous form
 		- Potions of Healing
 			- 1x Supreme
 			- 4x Superior
