@@ -51,7 +51,7 @@
 - [ ] Bath house
 - [ ] The World Tree
 - [ ] Portal [Something like this](https://www.czepeku.com/elven-magitech-portal/witch-tech)
-- [ ] 
+- [ ] Large scale: [book map](https://www.czepeku.com/celestial-tome/original-day)
 
 ## Enemy Ideas
 - [ ] Bone Naga
