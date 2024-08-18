@@ -16,10 +16,16 @@
 	* https://www.dndbeyond.com/monsters/3960629-quadrone-detention-drone
 * CR 2
 	* https://www.dndbeyond.com/monsters/1979805-sir-talavar
-	* 
+	* https://www.dndbeyond.com/monsters/2560895-ogre-howdah
 * CR 3
+	* https://www.dndbeyond.com/monsters/2560725-archer
+	* https://www.dndbeyond.com/monsters/744310-ferol-sal
 * CR 4
+	* https://www.dndbeyond.com/monsters/3960619-initiate-of-the-comet
+	* https://www.dndbeyond.com/monsters/3960637-werevulture
 * CR 5
+	* https://www.dndbeyond.com/monsters/3731004-dust-hulk
+	* https://www.dndbeyond.com/monsters/1979813-warduke
 * CR 6
 * CR 7
 * CR 8
