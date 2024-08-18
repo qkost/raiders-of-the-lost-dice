@@ -22,7 +22,7 @@
 	* Two sets of elbow joints
 	* Hands with fingers much longer than they should be
 	* Staletto-like black fingernails
-* You're much more interesing
+* You're much more interesting
 * Steal name
 	* May I have your name?
 * Chef
