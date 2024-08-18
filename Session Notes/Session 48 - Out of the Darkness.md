@@ -50,7 +50,6 @@
 * Power over devils if you discover their True Name
 * [[Malachai, The Barbed Ruin]] wants the Tear's of [[Desirat, The Twilight Phoenix]]
 * The Barbed Ruin is the leader of [[The Shrouded Flames]]
-* 
 
 ### 5. Fantastic Locations
 
@@ -79,4 +78,19 @@
 
 ### 8. Select Magic Item Rewards
 
-* 
+* From Ebonveil Keep
+	* [Belt of Dwarvenkind](https://www.dndbeyond.com/magic-items/4584-belt-of-dwarvenkind)
+	* Arcane L
+	* [Manual of Gainful Exercise](https://www.dndbeyond.com/magic-items/4675-manual-of-gainful-exercise)
+	- [Prehistoric Figurine of Wonderous Power: T-Rex](https://www.dndbeyond.com/magic-items/7102432-prehistoric-figurine-of-wondrous-power-jasper)
+	- Spell Scrolls
+		- Contingency
+		- Scatter
+	- Drow Poison (3 doses)
+	- Potion of Gaseous form
+	- Potions of Healing
+		- 1x Supreme
+		- 4x Superior
+		- 5x Greater
+	- +1 daggers (x4), +1 short sword (x2)
+	- [Stormrider Boots](https://www.dndbeyond.com/magic-items/7171012-stormrider-boots)

@@ -203,8 +203,7 @@ A strategic planning room with a large, dark stone table in the center. Maps and
 
 #### Features
 
-- **Scrying Mirror**: Shallow bowl with ewer of water used for scrying
-	- [Crystal Ball of Telepathy](https://www.dndbeyond.com/magic-items/4863-crystal-ball-of-telepathy)
+- **Scrying Mirror**: Shallow bowl mercury mirror used for scrying
 - **Magical Map**: Map of Ilhara-Vel and surronding underdark. Location an accessiblity of [[Zunda'i-Miir]] clearly marked
 - Books on political/financial records, troop movements
 - Plans for taking out [[Zunda'i-Miir]]
@@ -250,8 +249,9 @@ A room filled with ancient tomes and scrolls. The air is heavy with the scent of
 - **Hidden Knowledge**: A secret section with forbidden texts.
 - Scroll Set
 	- [Glyph of Warding](https://www.dndbeyond.com/spells/2125-glyph-of-warding) - When triggered, the glyph erupts with magical energy in a 20-foot-radius sphere centered on the glyph. The sphere spreads around corners. Each creature in the area must make a Dexterity saving throw. A creature takes 12d8 thunder damage on a failed saving throw, or half as much damage on a successful one.
+	- [Manual of Gainful Exercise](https://www.dndbeyond.com/magic-items/4675-manual-of-gainful-exercise)
 	- [Prehistoric Figurine of Wonderous Power: T-Rex](https://www.dndbeyond.com/magic-items/7102432-prehistoric-figurine-of-wondrous-power-jasper)
-	- Spells
+	- Spell Scrolls
 		- Contingency
 		- Scatter
 
