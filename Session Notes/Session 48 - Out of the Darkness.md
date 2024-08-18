@@ -39,7 +39,9 @@
 
 ### 2. Strong Start
 
-* 
+* Looting!
+* [[Zunda'i-Miir]] chat
+	* Give [Blade of the Watcher](https://www.dndbeyond.com/magic-items/8569090-blade-of-the-watcher)
 
 ### 3. Scenes
 
