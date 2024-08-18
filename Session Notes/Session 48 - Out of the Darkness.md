@@ -45,7 +45,7 @@
 ### 3. Scenes
 
 * [[Zunda'i-Miir]] chat
-	* Give [Blade of the Watcher](https://www.dndbeyond.com/magic-items/8569090-blade-of-the-watcher)
+	* Give [Blade of the Sentinel](https://www.dndbeyond.com/magic-items/8569090-blade-of-the-sentinel)
 	* Balance
 		* Perspective of a long life
 		* Sworn to protect Material Plane from existential threats
