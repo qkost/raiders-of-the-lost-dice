@@ -171,8 +171,6 @@ A luxurious chamber draped in dark silks and velvet. A grand canopy bed dominate
 	- House signet ring
 	- Jewelry - black sapphire necklace
 	- [Ruby Weave Gem](https://www.dndbeyond.com/magic-items/4047223-ruby-weave-gem)
-	- [Potion of Longevity](https://www.dndbeyond.com/magic-items/5359-potion-of-longevity)
-	- [Slippers of Spider Climbing](https://www.dndbeyond.com/magic-items/4755-slippers-of-spider-climbing)
 	- [Cape of the Mountebank](https://www.dndbeyond.com/magic-items/4599-cape-of-the-mountebank)
 - **Enchanted Mirror -- Cracked**: Allows communication with the (excommunicated) [[Bright Queen Leylas Kryn]]
 	- Lyrianne Kryn

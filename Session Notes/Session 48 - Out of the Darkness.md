@@ -79,18 +79,28 @@
 ### 8. Select Magic Item Rewards
 
 * From Ebonveil Keep
-	* [Belt of Dwarvenkind](https://www.dndbeyond.com/magic-items/4584-belt-of-dwarvenkind)
-	* Arcane L
-	* [Manual of Gainful Exercise](https://www.dndbeyond.com/magic-items/4675-manual-of-gainful-exercise)
-	- [Prehistoric Figurine of Wonderous Power: T-Rex](https://www.dndbeyond.com/magic-items/7102432-prehistoric-figurine-of-wondrous-power-jasper)
-	- Spell Scrolls
-		- Contingency
-		- Scatter
-	- Drow Poison (3 doses)
-	- Potion of Gaseous form
-	- Potions of Healing
-		- 1x Supreme
-		- 4x Superior
-		- 5x Greater
-	- +1 daggers (x4), +1 short sword (x2)
-	- [Stormrider Boots](https://www.dndbeyond.com/magic-items/7171012-stormrider-boots)
+	* Vault
+		* 37,000 gp in coinage:
+			- 2,300 pp
+			- 14,000 gp
+	* Prison
+		* [Belt of Dwarvenkind](https://www.dndbeyond.com/magic-items/4584-belt-of-dwarvenkind)
+	* Arcane Library
+		* [Manual of Gainful Exercise](https://www.dndbeyond.com/magic-items/4675-manual-of-gainful-exercise)
+		- [Prehistoric Figurine of Wonderous Power: T-Rex](https://www.dndbeyond.com/magic-items/7102432-prehistoric-figurine-of-wondrous-power-jasper)
+		- Spell Scrolls
+			- Contingency
+			- Scatter
+	- Alchemy Lab
+		- Drow Poison (3 doses)
+		- Potion of Gaseous form
+		- Potions of Healing
+			- 1x Supreme
+			- 4x Superior
+			- 5x Greater
+	- Armory
+		- +1 daggers (x4), +1 short sword (x2)
+		- [Stormrider Boots](https://www.dndbeyond.com/magic-items/7171012-stormrider-boots)
+	- Matron's Bedchamber
+		- [Ruby Weave Gem](https://www.dndbeyond.com/magic-items/4047223-ruby-weave-gem)
+		- [Cape of the Mountebank](https://www.dndbeyond.com/magic-items/4599-cape-of-the-mountebank)
