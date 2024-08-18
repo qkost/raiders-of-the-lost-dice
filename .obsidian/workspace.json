@@ -86,6 +86,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "9d5429e6d550d580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encounters/16 Fireplane.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f04d328cb17c66c8",
             "type": "leaf",
             "state": {
@@ -318,8 +330,9 @@
   },
   "active": "494883260c93eebc",
   "lastOpenFiles": [
-    "NPCs/Dr. April Moors.md",
+    "Encounters/16 Fireplane.md",
     "Session Notes/Session 48 - Out of the Darkness.md",
+    "NPCs/Dr. April Moors.md",
     "Encounters/14 Zunda'i Miir Lair.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
     "NPCs/Malachai, The Barbed Ruin.md",
@@ -333,7 +346,6 @@
     "Pictures/barbed_ruin.jpeg",
     "Encounters/17 The Barbed Ruin.md",
     "PCs/Ember.md",
-    "Encounters/16 Fireplane.md",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/GL_HellsTaxOffice_LavaLair - Copy.jpg",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/hells_tax_office_cropped.jpg",
     "Maps/barbed_ruin_keep.jpeg",

@@ -52,13 +52,21 @@
 		* Squabbles between mortals are not her place
 * [[Dr. April Moors]]
 	* Scroll of Plane Shift
-	* 
+	* 2 potions of fire resistance
+	* Research on [[16 Fireplane]]
+		* Light on fire outside City of Brass
+		* Rivers of lava
+		* Ruled by Efreet
+		* Hate other elemental planes (air genasi)
+		* The Grand Sultan of the Efreet, the Lord of Flame, the Potentate Incandescent, the Tempering and Eternal Flame of Truth, the Most Puissant of Hunters, Marshal of the Order of the Fiery Heart, the Smoldering Dictator, the Crimson Firebrand, Marrake al-Sidan al-Hariq ben Lazen
+		* Embassy to the Nine Hells
 
 ### 4. Secrets and Clues
 
 * Power over devils if you discover their True Name
 * [[Malachai, The Barbed Ruin]] wants the Tear's of [[Desirat, The Twilight Phoenix]]
 * The Barbed Ruin is the leader of [[The Shrouded Flames]]
+* Barbed Ruin runs the Embassy to the Nine Hells in the City of Brass
 
 ### 5. Fantastic Locations
 
