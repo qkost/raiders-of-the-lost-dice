@@ -40,12 +40,19 @@
 ### 2. Strong Start
 
 * Looting!
-* [[Zunda'i-Miir]] chat
-	* Give [Blade of the Watcher](https://www.dndbeyond.com/magic-items/8569090-blade-of-the-watcher)
+
 
 ### 3. Scenes
 
-* 
+* [[Zunda'i-Miir]] chat
+	* Give [Blade of the Watcher](https://www.dndbeyond.com/magic-items/8569090-blade-of-the-watcher)
+	* Balance
+		* Perspective of a long life
+		* Sworn to protect Material Plane from existential threats
+		* Squabbles between mortals are not her place
+* [[Dr. April Moors]]
+	* Scroll of Plane Shift
+	* 
 
 ### 4. Secrets and Clues
 
