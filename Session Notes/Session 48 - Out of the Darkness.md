@@ -51,8 +51,11 @@
 		* Sworn to protect Material Plane from existential threats
 		* Squabbles between mortals are not her place
 * Scrying
+	* Familiarity (-0), Possession or garment (-4), she has a +9 saving throw
 	* [[Lady Thinora Va'del, Archmage of Antiquity]] chatting with Kefra and Rin
-	* Rin in pursuit of 
+	* Rin in pursuit of 'the war pick' (Will of the Talon)
+	* Kefra to head out to Malachai to negotiate -- you know what he wants, but that's unacceptable
+	* 
 * [[Dr. April Moors]]
 	* Scroll of Plane Shift
 	* 2 potions of fire resistance
