@@ -52,9 +52,11 @@
 		* Squabbles between mortals are not her place
 * Scrying
 	* Familiarity (-0), Possession or garment (-4), she has a +9 saving throw
-	* [[Lady Thinora Va'del, Archmage of Antiquity]] chatting with Kefra and Rin
+	* [[Lady Thinora Va'del, Archmage of Antiquity]] chatting with Kefra and (maybe Rin)
 	* Rin in pursuit of 'the war pick' (Will of the Talon)
-	* Kefra to head out to Malachai to negotiate -- you know what he wants, but that's unacceptable
+	* Kefra to head out to Malachai to negotiate -- you 
+	* "We are so close. Soon we will have channeled enough power for our weapon to be complete. The cricks will crawl back in fear from the dirt they came from and we will put an end to this conflict."
+	* know what he wants, but that's unacceptable
 	* 
 * [[Dr. April Moors]]
 	* Scroll of Plane Shift
