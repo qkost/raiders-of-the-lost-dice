@@ -62,12 +62,12 @@
             }
           },
           {
-            "id": "91f182a57bd2584f",
+            "id": "62882aff400bb3e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/vestiges-journal.md",
+                "file": "Encounters/14 Zunda'i Miir Lair.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 48 - Out of the Darkness.md",
+                "file": "Encounters/14 Zunda'i Miir Lair.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 48 - Out of the Darkness.md",
+                "file": "Encounters/14 Zunda'i Miir Lair.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 48 - Out of the Darkness.md"
+                "file": "Encounters/14 Zunda'i Miir Lair.md"
               }
             }
           },
@@ -221,18 +221,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b649093260e8189",
+  "active": "62882aff400bb3e1",
   "lastOpenFiles": [
-    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Session Notes/Session 48 - Out of the Darkness.md",
+    "Encounters/14 Zunda'i Miir Lair.md",
+    "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
+    "NPCs/Zunda'i-Miir.md",
     "Magic Items/Vestiges of Divergence/vestiges-journal.md",
+    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Encounters/17 The Barbed Ruin.md",
     "Magic Items/Celebone.md",
     "Encounters/16 Fireplane.md",
     "Gods/No Name.md",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
     "One-Shots/Nameless Trials.md",
-    "Encounters/14 Zunda'i Miir Lair.md",
     "Magic Items/Magic Items.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
     "NPCs/Malachai, The Barbed Ruin.md",
@@ -265,10 +267,8 @@
     "NPCs/Xyrrath.md",
     "asdf.md",
     "Session Notes/Session 47 - Xyrrath.md",
-    "NPCs/Zunda'i-Miir.md",
     "Session Notes/Session 38 - Trial by Starlight.md",
     "Session Notes/Session 46 - The Whole New World of Duscora' Kerym.md",
-    "Session Notes/Session 42 - Zunda'i Miir.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Untitled.canvas"
   ]

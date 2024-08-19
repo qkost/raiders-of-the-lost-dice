@@ -116,6 +116,7 @@
 
 ### 8. Select Magic Item Rewards
 
+* From Zundai'i Miir [[14 Zunda'i Miir Lair#Treasure]]
 * From Ebonveil Keep
 	* Vault
 		* 37,000 gp in coinage:

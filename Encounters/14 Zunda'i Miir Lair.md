@@ -12,7 +12,7 @@
 	* [Reverse Gravity](https://www.dndbeyond.com/spells/2233-reverse-gravity) trap
 ## Treasure
 
-* Wraps of Dyamak
+* [Wraps of Dyamak](https://www.dndbeyond.com/magic-items/8902250-wraps-of-dyamak-rotld-dormant)
 * Shards of amethyst (for )
 	* [[Zunda'i-Miir]] breaths on shard to form it into single-bladed sword
 	* Needs to seek out smith for handle 
