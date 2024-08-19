@@ -55,11 +55,18 @@
 	* [[Lady Thinora Va'del, Archmage of Antiquity]] chatting with Kefra and (maybe Rin)
 	* Rin in pursuit of 'the war pick' (Will of the Talon)
 	* Kefra to head out to Malachai to negotiate -- you 
-	* "We are so close. Soon we will have channeled enough ether for our device to be complete. The cricks will crawl back in fear from the dirt they came from and we will put an end to this conflict."
-	* "It seems Ember and her companions are not being as cooperative as I had hoped, so we must seek alternate means for acquiring the last required vestiges."
-	* "I had hoped it would not come to this, but would you be a darling and go speak to Malachai about the shield? I know he will want the tear, but I'd rather not pay that price if it can be avoided."
-	* She hands her a small regular icosohedron that has triangular faces
-	* 
+	* Thinora
+		* "We are so close. Soon we will have channeled enough ether for our device to be complete. The cricks will crawl back in fear from the dirt they came from and we will put an end to this conflict."
+		* "It seems Ember and her companions are not being as cooperative as I had hoped, so we must seek alternate means for acquiring the last required vestiges."
+		* "I had hoped it would not come to this, but would you be a darling and go speak to Malachai about the shield? I know he will want the tear, but I'd rather not pay that price if it can be avoided."
+	* She hands her a small regular icosahedron with symbols carved in each triangular face and waves her hand above one face.
+	* Thinora
+		* "If you need help getting back, this will bring you to Vespin's demiplane, where you'll find me."
+	* Kefra
+		* "Isn't that dangerous?"
+	* Thinora
+		* "I've slowly been clearing it out for my purposes, do not worry."
+		* "May you be expeditious and I hope to see you return successful shortly."
 * [[Dr. April Moors]]
 	* Scroll of Plane Shift
 	* 2 potions of fire resistance
@@ -77,6 +84,10 @@
 * [[Malachai, The Barbed Ruin]] wants the Tear's of [[Desirat, The Twilight Phoenix]]
 * The Barbed Ruin is the leader of [[The Shrouded Flames]]
 * Barbed Ruin runs the Embassy to the Nine Hells in the City of Brass
+* Thinora making an artificial Sun as a weapon against the [[Krynn Dynasty]]
+* Missing pages in journal
+	* Arms of Betrayers
+	* Suspicious of [[Petyr (Pete) Archeron]] before he turns on Thinora
 
 ### 5. Fantastic Locations
 
