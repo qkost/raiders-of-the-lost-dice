@@ -50,6 +50,10 @@
 		* Perspective of a long life
 		* Sworn to protect Material Plane from existential threats
 		* Squabbles between mortals are not her place
+* **Enchanted Mirror -- Cracked**: Allows communication with the (excommunicated) [[Bright Queen Leylas Kryn]]
+	- Lyrianne Kryn - matron of Ilhara-Vel
+	- Bright Queen at war with empire
+	- Generally aware of the assembly
 * Scrying
 	* Familiarity (-0), Possession or garment (-4), she has a +9 saving throw
 	* [[Lady Thinora Va'del, Archmage of Antiquity]] chatting with Kefra and (maybe Rin)

@@ -72,9 +72,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53dc59737c559f21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
+                "file": "Session Notes/Session 48 - Out of the Darkness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
+                "file": "Session Notes/Session 48 - Out of the Darkness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md"
+                "file": "Session Notes/Session 48 - Out of the Darkness.md"
               }
             }
           },
@@ -221,13 +233,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62882aff400bb3e1",
+  "active": "7b649093260e8189",
   "lastOpenFiles": [
+    "Encounters/15 Stonecage Cliffs Underdark.md",
+    "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
+    "Session Notes/Session 48 - Out of the Darkness.md",
     "Magic Items/Vestiges of Divergence/attachments/Pasted image 20240819070933.png",
     "Magic Items/Vestiges of Divergence/attachments",
     "Encounters/14 Zunda'i Miir Lair.md",
-    "Session Notes/Session 48 - Out of the Darkness.md",
-    "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
     "NPCs/Zunda'i-Miir.md",
     "Magic Items/Vestiges of Divergence/vestiges-journal.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
@@ -238,7 +251,6 @@
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
     "One-Shots/Nameless Trials.md",
     "Magic Items/Magic Items.md",
-    "Encounters/15 Stonecage Cliffs Underdark.md",
     "NPCs/Malachai, The Barbed Ruin.md",
     "NPCs/Dr. April Moors.md",
     "Day Tracker.md",
@@ -260,7 +272,6 @@
     "NPCs/Isabella Duskheart.md",
     "Organizations/The Shrouded Flames.md",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/GL_HellsTaxOffice_WalkingtheDog.jpg",
-    "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/GL_HellsTaxOffice_SoulEvaluation.jpg",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/__MACOSX/Hell's Tax Office [21x37] - $5 Rewards",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridded",
