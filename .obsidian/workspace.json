@@ -23,11 +23,9 @@
             "id": "9d2720df410bf6c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/vestiges-journal.md",
-                "mode": "source",
-                "source": false
+                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/vestiges-journal.md",
+                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/vestiges-journal.md",
+                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/vestiges-journal.md"
+                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf"
               }
             }
           },
@@ -181,6 +179,7 @@
   },
   "active": "9d2720df410bf6c0",
   "lastOpenFiles": [
+    "Magic Items/Vestiges of Divergence/vestiges-journal.md",
     "Gods/No Name.md",
     "One-Shots/Nameless Trials.md",
     "Encounters/14 Zunda'i Miir Lair.md",
@@ -226,7 +225,6 @@
     "Session Notes/Session 46 - The Whole New World of Duscora' Kerym.md",
     "Session Notes/Session 42 - Zunda'i Miir.md",
     "Session Notes/Session 45 - Through the Fire and Flames.md",
-    "NPCs/Bright Queen Leylas Kryn.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Untitled.canvas"
   ]
