@@ -4,6 +4,7 @@
 * Big bad of [[Ember]]'s plotline
 * Cooperating with [[The Shrouded Flames]] in exchange for some power or something
 * Connection to [[Iris Bethelas]] of [[The Myriad]] 
+* Minions Kefra Dres and Rin Monisk
 
 ## Description
 

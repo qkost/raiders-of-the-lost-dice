@@ -8,29 +8,73 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80f9a7c5b5cfbd13",
+            "id": "7b649093260e8189",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gods/No Name.md",
+                "file": "Session Notes/Session 48 - Out of the Darkness.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "9d2720df410bf6c0",
+            "id": "db48a57e81afde0b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf"
+                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0dcfbe2710fad795",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a06ef2773f175e77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encounters/16 Fireplane.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e50b507747f8ce7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encounters/17 The Barbed Ruin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91f182a57bd2584f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic Items/Vestiges of Divergence/vestiges-journal.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
+                "file": "Magic Items/Vestiges of Divergence/vestiges-journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
+                "file": "Magic Items/Vestiges of Divergence/vestiges-journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf"
+                "file": "Magic Items/Vestiges of Divergence/vestiges-journal.md"
               }
             }
           },
@@ -177,20 +221,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d2720df410bf6c0",
+  "active": "91f182a57bd2584f",
   "lastOpenFiles": [
-    "Magic Items/Vestiges of Divergence/vestiges-journal.md",
+    "Encounters/17 The Barbed Ruin.md",
+    "Magic Items/Celebone.md",
+    "Session Notes/Session 48 - Out of the Darkness.md",
+    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+    "Encounters/16 Fireplane.md",
     "Gods/No Name.md",
+    "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
+    "Magic Items/Vestiges of Divergence/vestiges-journal.md",
     "One-Shots/Nameless Trials.md",
     "Encounters/14 Zunda'i Miir Lair.md",
     "Magic Items/Magic Items.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
     "NPCs/Malachai, The Barbed Ruin.md",
     "NPCs/Dr. April Moors.md",
-    "Encounters/16 Fireplane.md",
     "Day Tracker.md",
     "Locations/Thinora's Demiplane/Room Ideas.md",
-    "Session Notes/Session 48 - Out of the Darkness.md",
     "NPCs/Marrake al Sidan al Hariq be Lazen.md",
     "Pictures/barbed_ruin_perspective.png.0.pdnSave",
     "Pictures/barbed_ruin_perspective.png",
@@ -200,7 +248,6 @@
     "Pictures/barbed_ruin_perspective.jpeg",
     "Pictures/barbed_ruin - Copy.jpeg",
     "Pictures/barbed_ruin.jpeg",
-    "Encounters/17 The Barbed Ruin.md",
     "PCs/Ember.md",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/GL_HellsTaxOffice_LavaLair - Copy.jpg",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/hells_tax_office_cropped.jpg",
@@ -208,7 +255,6 @@
     "Maps/barbed_ruin_keep.jpeg.crdownload",
     "NPCs/Isabella Duskheart.md",
     "Organizations/The Shrouded Flames.md",
-    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/GL_HellsTaxOffice_WalkingtheDog.jpg",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/GL_HellsTaxOffice_SoulEvaluation.jpg",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/__MACOSX/Hell's Tax Office [21x37] - $5 Rewards",
@@ -216,7 +262,6 @@
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridded",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/__MACOSX",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards",
-    "Maps/Hell's Tax Office [21x37] - $5 Rewards",
     "NPCs/Xyrrath.md",
     "asdf.md",
     "Session Notes/Session 47 - Xyrrath.md",
@@ -224,7 +269,6 @@
     "Session Notes/Session 38 - Trial by Starlight.md",
     "Session Notes/Session 46 - The Whole New World of Duscora' Kerym.md",
     "Session Notes/Session 42 - Zunda'i Miir.md",
-    "Session Notes/Session 45 - Through the Fire and Flames.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Untitled.canvas"
   ]

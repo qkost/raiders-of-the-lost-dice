@@ -50,6 +50,9 @@
 		* Perspective of a long life
 		* Sworn to protect Material Plane from existential threats
 		* Squabbles between mortals are not her place
+* Scrying
+	* [[Lady Thinora Va'del, Archmage of Antiquity]] chatting with Kefra and Rin
+	* Rin in pursuit of 
 * [[Dr. April Moors]]
 	* Scroll of Plane Shift
 	* 2 potions of fire resistance
