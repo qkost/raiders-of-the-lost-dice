@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md",
+                "file": "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md",
+                "file": "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md",
+                "file": "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md"
+                "file": "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md"
               }
             }
           },
@@ -223,8 +223,10 @@
   },
   "active": "62882aff400bb3e1",
   "lastOpenFiles": [
-    "Session Notes/Session 48 - Out of the Darkness.md",
+    "Magic Items/Vestiges of Divergence/attachments/Pasted image 20240819070933.png",
+    "Magic Items/Vestiges of Divergence/attachments",
     "Encounters/14 Zunda'i Miir Lair.md",
+    "Session Notes/Session 48 - Out of the Darkness.md",
     "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
     "NPCs/Zunda'i-Miir.md",
     "Magic Items/Vestiges of Divergence/vestiges-journal.md",
@@ -263,12 +265,10 @@
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridded",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/__MACOSX",
-    "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards",
     "NPCs/Xyrrath.md",
     "asdf.md",
     "Session Notes/Session 47 - Xyrrath.md",
     "Session Notes/Session 38 - Trial by Starlight.md",
-    "Session Notes/Session 46 - The Whole New World of Duscora' Kerym.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Untitled.canvas"
   ]

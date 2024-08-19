@@ -18,6 +18,10 @@
 	* Zunda'i-Miir rests high within the Stonecage cliffs with her horde stashed in a massive cathedral made out of geodes in a tunnel system near the surface
 	* The dragon has been at peace for centuries, but has recently become agitated and aggressive, lashing out at those who she used to live with in harmony
 
+## Damage
+
+![[Pasted image 20240819070933.png]]
+
 ## Legend Lore
 
 Looming thousands of feet tall, the primordial empress of earth, Ka'Mort, faced off against the prime deities themselves. Amidst this elemental chaos, a figure stands resolute: Dyamak, a warrior monk whose mastery over the elements was unparalleled. With movements as fluid as the rivers and strikes as forceful as the earth itself, Dyamak faced this incursion alongside the gods, his hands wrapped in bands of power, the very essence of the elements woven into their fabric.
