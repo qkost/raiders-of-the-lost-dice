@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9d2720df410bf6c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic Items/Vestiges of Divergence/vestiges-journal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods/No Name.md",
+                "file": "Magic Items/Vestiges of Divergence/vestiges-journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods/No Name.md",
+                "file": "Magic Items/Vestiges of Divergence/vestiges-journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods/No Name.md"
+                "file": "Magic Items/Vestiges of Divergence/vestiges-journal.md"
               }
             }
           },
@@ -166,8 +179,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "80f9a7c5b5cfbd13",
+  "active": "9d2720df410bf6c0",
   "lastOpenFiles": [
+    "Gods/No Name.md",
     "One-Shots/Nameless Trials.md",
     "Encounters/14 Zunda'i Miir Lair.md",
     "Magic Items/Magic Items.md",
@@ -213,7 +227,6 @@
     "Session Notes/Session 42 - Zunda'i Miir.md",
     "Session Notes/Session 45 - Through the Fire and Flames.md",
     "NPCs/Bright Queen Leylas Kryn.md",
-    "Session Notes/Session 44 - The Spider's Path.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Untitled.canvas"
   ]
