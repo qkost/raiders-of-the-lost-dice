@@ -55,8 +55,10 @@
 	* [[Lady Thinora Va'del, Archmage of Antiquity]] chatting with Kefra and (maybe Rin)
 	* Rin in pursuit of 'the war pick' (Will of the Talon)
 	* Kefra to head out to Malachai to negotiate -- you 
-	* "We are so close. Soon we will have channeled enough power for our weapon to be complete. The cricks will crawl back in fear from the dirt they came from and we will put an end to this conflict."
-	* know what he wants, but that's unacceptable
+	* "We are so close. Soon we will have channeled enough ether for our device to be complete. The cricks will crawl back in fear from the dirt they came from and we will put an end to this conflict."
+	* "It seems Ember and her companions are not being as cooperative as I had hoped, so we must seek alternate means for acquiring the last required vestiges."
+	* "I had hoped it would not come to this, but would you be a darling and go speak to Malachai about the shield? I know he will want the tear, but I'd rather not pay that price if it can be avoided."
+	* She hands her a small regular icosohedron that has triangular faces
 	* 
 * [[Dr. April Moors]]
 	* Scroll of Plane Shift
