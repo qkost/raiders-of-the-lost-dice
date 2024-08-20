@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "8bb2ac3030fa80fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "db48a57e81afde0b",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0dcfbe2710fad795",
@@ -86,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 48 - Out of the Darkness.md",
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 48 - Out of the Darkness.md",
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 48 - Out of the Darkness.md"
+                "file": "Encounters/15 Stonecage Cliffs Underdark.md"
               }
             }
           },
@@ -233,11 +246,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b649093260e8189",
+  "active": "8bb2ac3030fa80fc",
   "lastOpenFiles": [
     "Session Notes/Session 48 - Out of the Darkness.md",
-    "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
+    "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
     "Magic Items/Vestiges of Divergence/attachments/Pasted image 20240819070933.png",
     "Magic Items/Vestiges of Divergence/attachments",
     "Encounters/14 Zunda'i Miir Lair.md",
