@@ -67,8 +67,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0dcfbe2710fad795",
@@ -197,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md",
+                "file": "Session Notes/Session 48 - Out of the Darkness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -214,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md",
+                "file": "Session Notes/Session 48 - Out of the Darkness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md"
+                "file": "Session Notes/Session 48 - Out of the Darkness.md"
               }
             }
           },
@@ -270,10 +269,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d927e51078cd03a7",
+  "active": "7b649093260e8189",
   "lastOpenFiles": [
-    "Session Notes/Session 48 - Out of the Darkness.md",
     "Encounters/14 Zunda'i Miir Lair.md",
+    "Session Notes/Session 48 - Out of the Darkness.md",
     "Encounters/17 The Barbed Ruin.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
     "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
