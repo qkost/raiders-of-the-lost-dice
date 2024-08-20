@@ -15,7 +15,7 @@
 * [Wraps of Dyamak](https://www.dndbeyond.com/magic-items/8902250-wraps-of-dyamak-rotld-dormant)
 * Shards of amethyst (for )
 	* [[Zunda'i-Miir]] breaths on shard to form it into single-bladed sword
-	* Needs to seek out smith for handle 
+	* Needs to seek out smith for handle
 * Shit ton of gold
 * Things it will trade for
 	* Wraps of Dyamak
