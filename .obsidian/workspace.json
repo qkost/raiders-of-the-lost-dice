@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 48 - Out of the Darkness.md",
+                "file": "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 48 - Out of the Darkness.md",
+                "file": "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 48 - Out of the Darkness.md"
+                "file": "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md"
               }
             }
           },
@@ -233,11 +233,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b649093260e8189",
+  "active": "62882aff400bb3e1",
   "lastOpenFiles": [
+    "Session Notes/Session 48 - Out of the Darkness.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
     "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
-    "Session Notes/Session 48 - Out of the Darkness.md",
     "Magic Items/Vestiges of Divergence/attachments/Pasted image 20240819070933.png",
     "Magic Items/Vestiges of Divergence/attachments",
     "Encounters/14 Zunda'i Miir Lair.md",

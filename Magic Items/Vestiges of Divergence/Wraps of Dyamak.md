@@ -1,6 +1,7 @@
 
 [DndBeyond Link](https://www.dndbeyond.com/homebrew/creations/view?entityTypeId=112130694&id=7922187)
 
+[Dormant version](https://www.dndbeyond.com/magic-items/8902250-wraps-of-dyamak-rotld-dormant)
 ### Wraps of Dyamak
 
 * Lore
