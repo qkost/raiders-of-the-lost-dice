@@ -55,8 +55,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0dcfbe2710fad795",
@@ -185,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md",
+                "file": "Session Notes/Session 48 - Out of the Darkness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md",
+                "file": "Session Notes/Session 48 - Out of the Darkness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md"
+                "file": "Session Notes/Session 48 - Out of the Darkness.md"
               }
             }
           },
@@ -258,15 +257,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da27ae36762f9fe5",
+  "active": "7b649093260e8189",
   "lastOpenFiles": [
+    "Encounters/14 Zunda'i Miir Lair.md",
     "Session Notes/Session 48 - Out of the Darkness.md",
     "Encounters/17 The Barbed Ruin.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
     "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
     "Magic Items/Vestiges of Divergence/attachments/Pasted image 20240819070933.png",
     "Magic Items/Vestiges of Divergence/attachments",
-    "Encounters/14 Zunda'i Miir Lair.md",
     "NPCs/Zunda'i-Miir.md",
     "Magic Items/Vestiges of Divergence/vestiges-journal.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
