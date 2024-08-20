@@ -34,8 +34,10 @@
 	* Drow castle
 	* Wraps of Dyamak & Blade of the Sentinel
 * Destroyed research notes on how to take out Zundai'i Miir (dragon talked them into it)
+* Drow Mage who was performing ritual grabbed some of the loot and ran off into the greater Exandria
 * Didn't really talk to [[Bright Queen Leylas Kryn]] at all; they immediately covered up the mirror again
 * Left off at Zundai'i Miir's place before shipping off
+*
 ## Prep
 ### 1. Review Characters
 

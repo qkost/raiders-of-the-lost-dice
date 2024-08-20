@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session 49 Out of the Frying Pan....md",
+                "file": "Misc/Published Modules.md",
                 "mode": "source",
                 "source": false
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 48 - Out of the Darkness.md",
+                "file": "Misc/Published Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 48 - Out of the Darkness.md",
+                "file": "Misc/Published Modules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +249,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 48 - Out of the Darkness.md"
+                "file": "Misc/Published Modules.md"
               }
             }
           },
@@ -282,9 +282,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b649093260e8189",
+  "active": "2e7535360532c08f",
   "lastOpenFiles": [
-    "Session 49 Out of the Frying Pan....md",
+    "Session Notes/Session 49 Out of the Frying Pan....md",
     "Session Notes/Session 48 - Out of the Darkness.md",
     "Magic Items/Vestiges of Divergence/attachments/wraps_of_dyamak.png",
     "Encounters/17 The Barbed Ruin.md",
