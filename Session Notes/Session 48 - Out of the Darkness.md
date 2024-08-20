@@ -127,8 +127,11 @@
 			- 2,300 pp
 			- 14,000 gp
 	* Prison
+		* Claret Orders
 		* [Belt of Dwarvenkind](https://www.dndbeyond.com/magic-items/4584-belt-of-dwarvenkind)
 	* Arcane Library
+		* Research into contingency
+		* Transmuted stone
 		- [Prehistoric Figurine of Wonderous Power: T-Rex](https://www.dndbeyond.com/magic-items/7102432-prehistoric-figurine-of-wondrous-power-jasper)
 		- Spell Scrolls
 			- Contingency
