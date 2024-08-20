@@ -6,6 +6,7 @@
       {
         "id": "bb0c25c0ce1bf9af",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "7b649093260e8189",
@@ -72,7 +73,20 @@
       {
         "id": "0dcfbe2710fad795",
         "type": "tabs",
+        "dimension": 50,
         "children": [
+          {
+            "id": "2e7535360532c08f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 49 Out of the Frying Pan....md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
           {
             "id": "a06ef2773f175e77",
             "type": "leaf",
@@ -121,8 +135,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,11 +282,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f92f205f31d0ba58",
+  "active": "7b649093260e8189",
   "lastOpenFiles": [
+    "Session 49 Out of the Frying Pan....md",
+    "Session Notes/Session 48 - Out of the Darkness.md",
     "Magic Items/Vestiges of Divergence/attachments/wraps_of_dyamak.png",
     "Encounters/17 The Barbed Ruin.md",
-    "Session Notes/Session 48 - Out of the Darkness.md",
     "Encounters/14 Zunda'i Miir Lair.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
     "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
@@ -308,7 +322,6 @@
     "Maps/barbed_ruin_keep.jpeg.crdownload",
     "NPCs/Isabella Duskheart.md",
     "Organizations/The Shrouded Flames.md",
-    "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/GL_HellsTaxOffice_WalkingtheDog.jpg",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/__MACOSX/Hell's Tax Office [21x37] - $5 Rewards",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridded",
