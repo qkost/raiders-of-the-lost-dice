@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounters/17 The Barbed Ruin.md",
+                "file": "Organizations/The Shrouded Flames.md",
                 "mode": "source",
                 "source": false
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/17 The Barbed Ruin.md",
+                "file": "Organizations/The Shrouded Flames.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/17 The Barbed Ruin.md",
+                "file": "Organizations/The Shrouded Flames.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/17 The Barbed Ruin.md"
+                "file": "Organizations/The Shrouded Flames.md"
               }
             }
           },
@@ -285,12 +285,12 @@
   },
   "active": "a06ef2773f175e77",
   "lastOpenFiles": [
+    "Encounters/17 The Barbed Ruin.md",
     "Encounters/16 Fireplane.md",
     "Misc/Published Modules.md",
     "Session Notes/Session 49 Out of the Frying Pan....md",
     "Session Notes/Session 48 - Out of the Darkness.md",
     "Magic Items/Vestiges of Divergence/attachments/wraps_of_dyamak.png",
-    "Encounters/17 The Barbed Ruin.md",
     "Encounters/14 Zunda'i Miir Lair.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
     "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
