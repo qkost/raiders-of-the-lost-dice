@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounters/16 Fireplane.md",
+                "file": "Encounters/17 The Barbed Ruin.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Misc/Published Modules.md",
+                "file": "Encounters/17 The Barbed Ruin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Misc/Published Modules.md",
+                "file": "Encounters/17 The Barbed Ruin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Misc/Published Modules.md"
+                "file": "Encounters/17 The Barbed Ruin.md"
               }
             }
           },
@@ -282,8 +283,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e7535360532c08f",
+  "active": "a06ef2773f175e77",
   "lastOpenFiles": [
+    "Encounters/16 Fireplane.md",
+    "Misc/Published Modules.md",
     "Session Notes/Session 49 Out of the Frying Pan....md",
     "Session Notes/Session 48 - Out of the Darkness.md",
     "Magic Items/Vestiges of Divergence/attachments/wraps_of_dyamak.png",
@@ -297,7 +300,6 @@
     "Magic Items/Vestiges of Divergence/vestiges-journal.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Magic Items/Celebone.md",
-    "Encounters/16 Fireplane.md",
     "Gods/No Name.md",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
     "One-Shots/Nameless Trials.md",
@@ -329,7 +331,6 @@
     "NPCs/Xyrrath.md",
     "asdf.md",
     "Session Notes/Session 47 - Xyrrath.md",
-    "Session Notes/Session 38 - Trial by Starlight.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Untitled.canvas"
   ]
