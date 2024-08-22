@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 48 - Out of the Darkness.md",
+                "file": "Session Notes/Session 48 - An Empty Keep.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organizations/The Shrouded Flames.md",
+                "file": "Session Notes/Session 48 - An Empty Keep.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 292.5
   },
   "right": {
     "id": "c0b9a18b1f8d4adb",
@@ -210,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizations/The Shrouded Flames.md",
+                "file": "Session Notes/Session 48 - An Empty Keep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organizations/The Shrouded Flames.md",
+                "file": "Session Notes/Session 48 - An Empty Keep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organizations/The Shrouded Flames.md"
+                "file": "Session Notes/Session 48 - An Empty Keep.md"
               }
             }
           },
@@ -285,11 +285,12 @@
   },
   "active": "a06ef2773f175e77",
   "lastOpenFiles": [
+    "Organizations/The Shrouded Flames.md",
     "Encounters/17 The Barbed Ruin.md",
     "Encounters/16 Fireplane.md",
     "Misc/Published Modules.md",
     "Session Notes/Session 49 Out of the Frying Pan....md",
-    "Session Notes/Session 48 - Out of the Darkness.md",
+    "Session Notes/Session 48 - An Empty Keep.md",
     "Magic Items/Vestiges of Divergence/attachments/wraps_of_dyamak.png",
     "Encounters/14 Zunda'i Miir Lair.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
@@ -323,7 +324,6 @@
     "Maps/barbed_ruin_keep.jpeg",
     "Maps/barbed_ruin_keep.jpeg.crdownload",
     "NPCs/Isabella Duskheart.md",
-    "Organizations/The Shrouded Flames.md",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/__MACOSX/Hell's Tax Office [21x37] - $5 Rewards",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridded",
