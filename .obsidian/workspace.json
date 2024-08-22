@@ -6,7 +6,6 @@
       {
         "id": "bb0c25c0ce1bf9af",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "a06ef2773f175e77",
@@ -15,134 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "Session Notes/Session 49 Out of the Frying Pan....md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03ce728ab4fbc05a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 48 - An Empty Keep.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b649093260e8189",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 48 - An Empty Keep.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d927e51078cd03a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da27ae36762f9fe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/14 Zunda'i Miir Lair.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bb2ac3030fa80fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db48a57e81afde0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "0dcfbe2710fad795",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "2e7535360532c08f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/Published Modules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1e50b507747f8ce7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/17 The Barbed Ruin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62882aff400bb3e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53dc59737c559f21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/15 Stonecage Cliffs Underdark.md",
                 "mode": "source",
                 "source": false
               }
@@ -222,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 48 - An Empty Keep.md",
+                "file": "Session Notes/Session 49 Out of the Frying Pan....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 48 - An Empty Keep.md",
+                "file": "Session Notes/Session 49 Out of the Frying Pan....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -262,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 48 - An Empty Keep.md"
+                "file": "Session Notes/Session 49 Out of the Frying Pan....md"
               }
             }
           },
@@ -295,10 +166,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03ce728ab4fbc05a",
+  "active": "a06ef2773f175e77",
   "lastOpenFiles": [
-    "Session Notes/Session 49 Out of the Frying Pan....md",
     "Session Notes/Session 48 - An Empty Keep.md",
+    "Session Notes/Session 49 Out of the Frying Pan....md",
     "Organizations/The Shrouded Flames.md",
     "Encounters/17 The Barbed Ruin.md",
     "Encounters/16 Fireplane.md",
