@@ -9,6 +9,30 @@
         "dimension": 50,
         "children": [
           {
+            "id": "a06ef2773f175e77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 49 Out of the Frying Pan....md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03ce728ab4fbc05a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 48 - An Empty Keep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7b649093260e8189",
             "type": "leaf",
             "state": {
@@ -68,7 +92,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0dcfbe2710fad795",
@@ -82,18 +107,6 @@
               "type": "markdown",
               "state": {
                 "file": "Misc/Published Modules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a06ef2773f175e77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 48 - An Empty Keep.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,8 +148,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -283,14 +295,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a06ef2773f175e77",
+  "active": "03ce728ab4fbc05a",
   "lastOpenFiles": [
+    "Session Notes/Session 49 Out of the Frying Pan....md",
+    "Session Notes/Session 48 - An Empty Keep.md",
     "Organizations/The Shrouded Flames.md",
     "Encounters/17 The Barbed Ruin.md",
     "Encounters/16 Fireplane.md",
     "Misc/Published Modules.md",
-    "Session Notes/Session 49 Out of the Frying Pan....md",
-    "Session Notes/Session 48 - An Empty Keep.md",
     "Magic Items/Vestiges of Divergence/attachments/wraps_of_dyamak.png",
     "Encounters/14 Zunda'i Miir Lair.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",

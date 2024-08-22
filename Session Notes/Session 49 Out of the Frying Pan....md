@@ -21,11 +21,14 @@
 
 ### 2. Strong Start
 
+* Travel
 * 
 
 ### 3. Scenes
 
-* 
+* [[Dr. April Moors]]
+	* Clearing out smoke
+	* 1d4 potions of fire resistence
 
 ### 4. Secrets and Clues
 
