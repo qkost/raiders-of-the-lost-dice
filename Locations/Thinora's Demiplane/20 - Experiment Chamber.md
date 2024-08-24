@@ -11,6 +11,16 @@
 
 ## Monsters
 
+* Thinora and Simulacrum
+* Both cast Shapechange, monster candidates
+	* Adult Red Dragon
+	* Ancient White Dragon
+	* Ancient Crystal Dragon
+	* Ancient Topaz Dragon
+* Thoughts
+	* Probably want one Dex and one Con dragonbreath
+	* Probably want one 
+
 ## Secrets
 
 ## Loot

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Port Zoon.md",
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Port Zoon.md",
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Port Zoon.md",
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Port Zoon.md"
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "a06ef2773f175e77",
   "lastOpenFiles": [
+    "Locations/Port Zoon.md",
     "Session Notes/Session 49 Out of the Frying Pan....md",
     "Session Notes/Session 48 - An Empty Keep.md",
     "Organizations/The Shrouded Flames.md",
@@ -213,7 +214,6 @@
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/__MACOSX",
     "NPCs/Xyrrath.md",
     "asdf.md",
-    "Session Notes/Session 47 - Xyrrath.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Untitled.canvas"
   ]
