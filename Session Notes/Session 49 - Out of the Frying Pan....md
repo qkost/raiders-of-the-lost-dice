@@ -58,7 +58,14 @@
 
 ### 4. Secrets and Clues
 
-* 
+* Power over devils if you discover their True Name
+* [[Malachai, The Barbed Ruin]] wants the Tear's of [[Desirat, The Twilight Phoenix]]
+* The Barbed Ruin is the leader of [[The Shrouded Flames]]
+* Barbed Ruin runs the Embassy to the Nine Hells in the City of Brass
+* Thinora making an artificial Sun as a weapon against the [[Krynn Dynasty]]
+* Missing pages in journal
+	* Arms of Betrayers
+	* Suspicious of [[Petyr (Pete) Archeron]] before he turns on Thinora
 
 ### 5. Fantastic Locations
 
