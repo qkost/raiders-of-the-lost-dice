@@ -11,11 +11,9 @@
             "id": "a06ef2773f175e77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Session Notes/Session 49 - Out of the Frying Pan....md",
-                "mode": "source",
-                "source": false
+                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 49 - Out of the Frying Pan....md",
+                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 49 - Out of the Frying Pan....md",
+                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 49 - Out of the Frying Pan....md"
+                "file": "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf"
               }
             }
           },
@@ -168,12 +166,12 @@
   },
   "active": "a06ef2773f175e77",
   "lastOpenFiles": [
+    "Session Notes/Session 49 - Out of the Frying Pan....md",
     "Session Notes/Session 10 - Diverging Paths.md",
     "Session Notes/Session 46 - A Whole New World of Duscora' Kerym.md",
     "Session Notes/Session 43 - Ebon Lake.md",
     "Session Notes/Session 42 - Zunda'i Miir.md",
     "Session Notes/Session 40 - Old Friends in New Places.md",
-    "Session Notes/Session 49 - Out of the Frying Pan....md",
     "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
     "Locations/Port Zoon.md",
     "Session Notes/Session 48 - An Empty Keep.md",
