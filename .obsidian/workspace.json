@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 49 - Out of the Frying Pan....md",
+                "file": "Session 50 - The Barbed Ruin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 49 - Out of the Frying Pan....md",
+                "file": "Session 50 - The Barbed Ruin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 49 - Out of the Frying Pan....md"
+                "file": "Session 50 - The Barbed Ruin.md"
               }
             }
           },
@@ -269,12 +269,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6597d762e420b37",
+  "active": "b56bb13d4ad3470b",
   "lastOpenFiles": [
+    "Session Notes/Session 49 - Out of the Frying Pan....md",
     "Session 50 - The Barbed Ruin.md",
     "Encounters/16 Fireplane.md",
     "Locations/Port Zoon.md",
-    "Session Notes/Session 49 - Out of the Frying Pan....md",
     "PCs/Tato.md",
     "Organizations/The Ill Hand.md",
     "Organizations/The Whippersnapper.md",

@@ -16,6 +16,7 @@
 	* Vespin's Demiplane - d20 to Kefra
 	* Kefra after shield
 	* Needed one more vestige for end goal
+* Rin did end up getting dagger
 * Shadowclaw got gear
 	* Mithril breastplate with arrows pointed in different directions
 	* Sword hilt with talon flanges on cross-guard, amethyst pommel, adamantine metal with purple amethyst veins
