@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "495aee00a25b8460",
@@ -148,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Tracker.md",
+                "file": "Session Notes/Session 49 - Out of the Frying Pan....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Tracker.md",
+                "file": "Session Notes/Session 49 - Out of the Frying Pan....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Tracker.md"
+                "file": "Session Notes/Session 49 - Out of the Frying Pan....md"
               }
             }
           },
@@ -221,8 +220,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f59354a2662b2075",
+  "active": "e6597d762e420b37",
   "lastOpenFiles": [
+    "Day Tracker.md",
     "Session Notes/Session 49 - Out of the Frying Pan....md",
     "Session Notes/Session 48 - An Empty Keep.md",
     "Encounters/16 Fireplane.md",
