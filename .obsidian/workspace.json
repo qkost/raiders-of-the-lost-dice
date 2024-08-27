@@ -184,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Port Zoon.md",
+                "file": "Encounters/16 Fireplane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Port Zoon.md",
+                "file": "Encounters/16 Fireplane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Port Zoon.md"
+                "file": "Encounters/16 Fireplane.md"
               }
             }
           },
@@ -257,8 +257,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f20c0c87cd6b8574",
+  "active": "58352d09953ee473",
   "lastOpenFiles": [
+    "Locations/Port Zoon.md",
     "Session Notes/Session 49 - Out of the Frying Pan....md",
     "Encounters/16 Fireplane.md",
     "PCs/Tato.md",
@@ -274,7 +275,6 @@
     "Session Notes/Session 42 - Zunda'i Miir.md",
     "Session Notes/Session 40 - Old Friends in New Places.md",
     "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
-    "Locations/Port Zoon.md",
     "Organizations/The Shrouded Flames.md",
     "Encounters/17 The Barbed Ruin.md",
     "Misc/Published Modules.md",
