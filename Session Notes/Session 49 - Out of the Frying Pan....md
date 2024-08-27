@@ -73,7 +73,9 @@
 
 ### 6. Important NPCs
 
-* 
+* [[Dr. April Moors]]
+* [[Lady Thinora Va'del, Archmage of Antiquity]]
+* [[Malachai, The Barbed Ruin]]
 
 ### 7. Choose Relevant Monsters
 

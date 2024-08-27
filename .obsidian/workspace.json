@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5c75dbca2ce94d90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 48 - An Empty Keep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       },
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/16 Fireplane.md",
+                "file": "Session Notes/Session 49 - Out of the Frying Pan....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/16 Fireplane.md",
+                "file": "Session Notes/Session 49 - Out of the Frying Pan....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/16 Fireplane.md"
+                "file": "Session Notes/Session 49 - Out of the Frying Pan....md"
               }
             }
           },
@@ -196,12 +208,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58352d09953ee473",
+  "active": "e6597d762e420b37",
   "lastOpenFiles": [
-    "NPCs/Malachai, The Barbed Ruin.md",
-    "Encounters/16 Fireplane.md",
-    "Session Notes/Session 49 - Out of the Frying Pan....md",
     "Session Notes/Session 48 - An Empty Keep.md",
+    "Session Notes/Session 49 - Out of the Frying Pan....md",
+    "Encounters/16 Fireplane.md",
+    "NPCs/Malachai, The Barbed Ruin.md",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
     "Session Notes/Session 10 - Diverging Paths.md",
     "Session Notes/Session 46 - A Whole New World of Duscora' Kerym.md",
