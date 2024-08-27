@@ -27,7 +27,7 @@
 		* All characters twice (book and time in conference rooms)
 		* Tato 3 times (food)
 	* Met with Thrombwell, Ember convinced him that they are of interest to the Barbed Ruin in pursuit of shield and have ties to Kefra
-	* Akistos a
+	* Akistos approached the party to kill the Barbed Ruin
 ## Prep
 ### 1. Review Characters
 
