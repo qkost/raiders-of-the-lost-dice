@@ -18,20 +18,39 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "495aee00a25b8460",
+        "type": "tabs",
+        "children": [
           {
-            "id": "347506605e8e052b",
+            "id": "58352d09953ee473",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 48 - An Empty Keep.md",
+                "file": "Encounters/16 Fireplane.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8791de0b372713cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Malachai, The Barbed Ruin.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 49 - Out of the Frying Pan....md",
+                "file": "NPCs/Malachai, The Barbed Ruin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 49 - Out of the Frying Pan....md",
+                "file": "NPCs/Malachai, The Barbed Ruin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 49 - Out of the Frying Pan....md"
+                "file": "NPCs/Malachai, The Barbed Ruin.md"
               }
             }
           },
@@ -178,10 +197,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6597d762e420b37",
+  "active": "8791de0b372713cb",
   "lastOpenFiles": [
-    "Session Notes/Session 48 - An Empty Keep.md",
+    "Encounters/16 Fireplane.md",
+    "NPCs/Malachai, The Barbed Ruin.md",
     "Session Notes/Session 49 - Out of the Frying Pan....md",
+    "Session Notes/Session 48 - An Empty Keep.md",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
     "Session Notes/Session 10 - Diverging Paths.md",
     "Session Notes/Session 46 - A Whole New World of Duscora' Kerym.md",
@@ -192,7 +213,6 @@
     "Locations/Port Zoon.md",
     "Organizations/The Shrouded Flames.md",
     "Encounters/17 The Barbed Ruin.md",
-    "Encounters/16 Fireplane.md",
     "Misc/Published Modules.md",
     "Magic Items/Vestiges of Divergence/attachments/wraps_of_dyamak.png",
     "Encounters/14 Zunda'i Miir Lair.md",
@@ -207,7 +227,6 @@
     "Gods/No Name.md",
     "One-Shots/Nameless Trials.md",
     "Magic Items/Magic Items.md",
-    "NPCs/Malachai, The Barbed Ruin.md",
     "NPCs/Dr. April Moors.md",
     "Pictures/barbed_ruin_perspective.png.0.pdnSave",
     "Pictures/barbed_ruin_perspective.png",
