@@ -18,12 +18,16 @@
 	* Needed one more vestige for end goal
 * Shadowclaw got gear
 	* Mithril breastplate with arrows pointed in different directions
-	* Sword hilt with talon flanges on crossguard, amethyst pommel, adamantine metal with purple amethyst veins
+	* Sword hilt with talon flanges on cross-guard, amethyst pommel, adamantine metal with purple amethyst veins
 * Fire plane overview
 	* Don't like other elementals - 
 	* Devil details - contract, corrupt mortal souls, usurp superiors
 * Embassy
-	* Met with 
+	* Soulmining
+		* All characters twice (book and time in conference rooms)
+		* Tato 3 times (food)
+	* Met with Thrombwell, Ember convinced him that they are of interest to the Barbed Ruin in pursuit of shield and have ties to Kefra
+	* Akistos a
 ## Prep
 ### 1. Review Characters
 
