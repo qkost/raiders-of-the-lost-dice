@@ -27,6 +27,7 @@
 	* Soulmining
 		* All characters twice (book and time in conference rooms)
 		* Tato 3 times (food)
+	* Gave fake name of Barbed Ruin: Lazivos (real name is Malachai)
 	* Met with Thrombwell, Ember convinced him that they are of interest to the Barbed Ruin in pursuit of shield and have ties to Kefra
 	* Akistos approached the party to kill the Barbed Ruin
 ## Prep

@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 50 - The Barbed Ruin.md",
+                "file": "Session Notes/Session 49 - Out of the Frying Pan....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 50 - The Barbed Ruin.md",
+                "file": "Session Notes/Session 49 - Out of the Frying Pan....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 50 - The Barbed Ruin.md"
+                "file": "Session Notes/Session 49 - Out of the Frying Pan....md"
               }
             }
           },
@@ -269,10 +269,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b56bb13d4ad3470b",
+  "active": "e6597d762e420b37",
   "lastOpenFiles": [
-    "Session Notes/Session 49 - Out of the Frying Pan....md",
     "Session 50 - The Barbed Ruin.md",
+    "Session Notes/Session 49 - Out of the Frying Pan....md",
     "Encounters/16 Fireplane.md",
     "Locations/Port Zoon.md",
     "PCs/Tato.md",
