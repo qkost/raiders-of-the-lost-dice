@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "782fa3ee38132bc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizations/The Ill Hand.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "168d15aab12f005e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCs/Tato.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f59354a2662b2075",
             "type": "leaf",
             "state": {
@@ -43,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "495aee00a25b8460",
@@ -147,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 49 - Out of the Frying Pan....md",
+                "file": "PCs/Tato.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 49 - Out of the Frying Pan....md",
+                "file": "PCs/Tato.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 49 - Out of the Frying Pan....md"
+                "file": "PCs/Tato.md"
               }
             }
           },
@@ -220,10 +245,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6597d762e420b37",
+  "active": "168d15aab12f005e",
   "lastOpenFiles": [
-    "Organizations/The Whippersnapper.md",
+    "Organizations/The Ill Hand.md",
     "Session Notes/Session 49 - Out of the Frying Pan....md",
+    "Organizations/The Whippersnapper.md",
     "Day Tracker.md",
     "Session Notes/Session 48 - An Empty Keep.md",
     "Encounters/16 Fireplane.md",
@@ -251,7 +277,6 @@
     "Magic Items/Celebone.md",
     "Gods/No Name.md",
     "One-Shots/Nameless Trials.md",
-    "Magic Items/Magic Items.md",
     "Pictures/barbed_ruin_perspective.png.0.pdnSave",
     "Pictures/barbed_ruin_perspective.png",
     "Pictures/barbed_ruin_perspective.jpg",
