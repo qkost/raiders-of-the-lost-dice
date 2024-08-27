@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "495aee00a25b8460",
@@ -99,6 +98,18 @@
             }
           },
           {
+            "id": "b56bb13d4ad3470b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 50 - The Barbed Ruin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8791de0b372713cb",
             "type": "leaf",
             "state": {
@@ -110,7 +121,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/16 Fireplane.md",
+                "file": "Session Notes/Session 49 - Out of the Frying Pan....md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/16 Fireplane.md",
+                "file": "Session Notes/Session 49 - Out of the Frying Pan....md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/16 Fireplane.md"
+                "file": "Session Notes/Session 49 - Out of the Frying Pan....md"
               }
             }
           },
@@ -257,11 +269,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58352d09953ee473",
+  "active": "e6597d762e420b37",
   "lastOpenFiles": [
+    "Session 50 - The Barbed Ruin.md",
+    "Encounters/16 Fireplane.md",
     "Locations/Port Zoon.md",
     "Session Notes/Session 49 - Out of the Frying Pan....md",
-    "Encounters/16 Fireplane.md",
     "PCs/Tato.md",
     "Organizations/The Ill Hand.md",
     "Organizations/The Whippersnapper.md",
@@ -288,7 +301,6 @@
     "Magic Items/Vestiges of Divergence/vestiges-journal.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Magic Items/Celebone.md",
-    "Gods/No Name.md",
     "Pictures/barbed_ruin_perspective.png.0.pdnSave",
     "Pictures/barbed_ruin_perspective.png",
     "Pictures/barbed_ruin_perspective.jpg",

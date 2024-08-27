@@ -11,6 +11,19 @@
 * Left off at Zundai'i Miir's place before shipping off
 
 ## Notes
+
+* Scryed on Thinora
+	* Vespin's Demiplane - d20 to Kefra
+	* Kefra after shield
+	* Needed one more vestige for end goal
+* Shadowclaw got gear
+	* Mithril breastplate with arrows pointed in different directions
+	* Sword hilt with talon flanges on crossguard, amethyst pommel, adamantine metal with purple amethyst veins
+* Fire plane overview
+	* Don't like other elementals - 
+	* Devil details - contract, corrupt mortal souls, usurp superiors
+* Embassy
+	* Met with 
 ## Prep
 ### 1. Review Characters
 
