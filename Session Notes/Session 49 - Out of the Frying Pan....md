@@ -79,7 +79,12 @@
 
 ### 7. Choose Relevant Monsters
 
-* 
+* [Devil Adjudicator](https://www.dndbeyond.com/monsters/4485817-devil-adjudicator)
+* [Devil Jurist](https://www.dndbeyond.com/monsters/4485818-devil-jurist)
+* [Devil Legate](https://www.dndbeyond.com/monsters/4485819-devil-legate)
+* [Devil Magistrate](https://www.dndbeyond.com/monsters/4485820-devil-magistrate)
+* [Devil Notary (minion)](https://www.dndbeyond.com/monsters/4485821-devil-notary)
+* [The Barbed Ruin](https://www.dndbeyond.com/monsters/4485901-infernal-chancellor-lazivos)
 
 ### 8. Select Magic Item Rewards
 
