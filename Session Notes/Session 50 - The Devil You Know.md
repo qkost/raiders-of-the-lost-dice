@@ -56,4 +56,5 @@
 
 ### 8. Select Magic Item Rewards
 
-* 
+* Honor's Last Stand
+* Staff of Power
