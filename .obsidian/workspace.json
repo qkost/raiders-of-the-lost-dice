@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 50 - The Barbed Ruin.md",
+                "file": "Session Notes/Session 50 - The Devil You Know.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,25 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "19aa65cd64fa7d46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7c509107da74ffe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 48 - An Empty Keep.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 50 - The Barbed Ruin.md",
+                "file": "NPCs/Malachai, The Barbed Ruin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 50 - The Barbed Ruin.md",
+                "file": "NPCs/Malachai, The Barbed Ruin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 50 - The Barbed Ruin.md"
+                "file": "NPCs/Malachai, The Barbed Ruin.md"
               }
             }
           },
@@ -191,16 +209,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4592ce8f200c9e97",
+  "active": "8791de0b372713cb",
   "lastOpenFiles": [
-    "Session Notes/Session 49 - Out of the Frying Pan....md",
-    "NPCs/Malachai, The Barbed Ruin.md",
     "Session Notes/Session 48 - An Empty Keep.md",
+    "NPCs/Malachai, The Barbed Ruin.md",
+    "Session Notes/Session 50 - The Devil You Know.md",
+    "Session Notes/Session 49 - Out of the Frying Pan....md",
     "Day Tracker.md",
     "PCs/Tato.md",
     "Organizations/The Ill Hand.md",
     "Locations/Port Zoon.md",
-    "Session Notes/Session 50 - The Barbed Ruin.md",
     "Encounters/16 Fireplane.md",
     "Organizations/The Whippersnapper.md",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
