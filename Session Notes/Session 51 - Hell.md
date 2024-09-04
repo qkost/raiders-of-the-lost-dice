@@ -42,7 +42,7 @@
 
 ### 2. Strong Start
 
-* Tato's wraps get awakened
+* Tato is falling in Dis and [Wraps of Dyamak Awaken](https://www.dndbeyond.com/magic-items/8979101-wraps-of-dyamak-rotld-awakened) and he gains flying speed
 
 ### 3. Scenes
 
@@ -66,4 +66,12 @@
 
 ### 8. Select Magic Item Rewards
 
-* 
+* [Wraps of Dyamak (Awakened)](https://www.dndbeyond.com/magic-items/8979101-wraps-of-dyamak-rotld-awakened)
+* Staff of Power
+* The Closing Argument
+* Potions
+	* Potion of Superior Healing
+	* Potion of Supreme Healing
+	* Spell scroll of 
+
+![[Pasted image 20240903212354.png]]
