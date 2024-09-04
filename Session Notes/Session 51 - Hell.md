@@ -67,11 +67,24 @@
 ### 8. Select Magic Item Rewards
 
 * [Wraps of Dyamak (Awakened)](https://www.dndbeyond.com/magic-items/8979101-wraps-of-dyamak-rotld-awakened)
+* [Honor's Last Stand (Dormant)](https://www.dndbeyond.com/magic-items/8978059-honors-last-stand-rotld-dormant)
+* [Shortbow of Melodies](https://www.dndbeyond.com/magic-items/7526763-shortbow-of-melodies)
 * Staff of Power
 * The Closing Argument
 * Potions
 	* Potion of Superior Healing
 	* Potion of Supreme Healing
-	* Spell scroll of 
+	* Spell scroll of Wall of Stone
+	* Spell scroll of Rary's Telepathic Bond
+	* Animated electrum letter opener (worth 900 gp)
+* Trinkets
+	* 13 bottles of vintage celestial wine (worth 1,000 gp each)
+	* The carved skull of St. Naram-Sur (worth 800 gp)
+	* Dragon bone bracelet set with rubies (worth 650 gp)
+	* Pouch of diamond powder (worth 1,000 gp)
+	* Signet ring of a lost noble family (worth 150 gp)
+	* Suit of infernal ceremonial plate armor inlaid with gold and rubies (worth 2,000 gp)
+	* Tarnished broken angel’s harp (worth 20 gp)
+	* 1 cp, 33,333 sp, 6,666 gp, and 1,248 pp
 
 ![[Pasted image 20240903212354.png]]
