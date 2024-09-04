@@ -29,6 +29,7 @@
 * Awaken Wraps of Dyamak
 * Determine appropriate devil reward
 * How to close portal
+* Devils in pursuit
 * Demiplane intro
 
 ## Notes
@@ -69,7 +70,7 @@
 * [Wraps of Dyamak (Awakened)](https://www.dndbeyond.com/magic-items/8979101-wraps-of-dyamak-rotld-awakened)
 * [Honor's Last Stand (Dormant)](https://www.dndbeyond.com/magic-items/8978059-honors-last-stand-rotld-dormant)
 * [Shortbow of Melodies](https://www.dndbeyond.com/magic-items/7526763-shortbow-of-melodies)
-* Staff of Power
+* [Staff of Power](https://www.dndbeyond.com/magic-items/4764-staff-of-power)
 * The Closing Argument
 * Potions
 	* Potion of Superior Healing
