@@ -24,6 +24,12 @@
 ## Notes
 
 * Deal with Akitos
+	* Get
+		* Upfront info
+		* 10 questions in Vault of Leverage
+	* Give
+		* Death of [[Malachai, The Barbed Ruin]]
+		* Ember's Soul if they fail
 * 
 ## Prep
 ### 1. Review Characters
