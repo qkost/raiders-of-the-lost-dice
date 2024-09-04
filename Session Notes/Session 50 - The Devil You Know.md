@@ -29,14 +29,19 @@
 		* 10 questions in Vault of Leverage
 		* Assurances to not give items away
 		* They get to keep loot
+		* Names of True Devils
 	* Give
 		* Death of [[Malachai, The Barbed Ruin]]
 		* Ember's Soul if they fail
 * Info learned from Vault of Leverage
-* 
+	* Barbed Ruin's true name is Malachai
 * Barbed Ruin
 	* Learned he wanted Tear of Desirate
 	* Cultist ([[Isabella Duskheart]]) at his side
+	* Dealing with exhausted Kefra Dres and Guards
+* Battle
+	* [[Kelward]] boots took out minions
+	* [[Ember]] threw down a fireball
 	* 
 ## Prep
 ### 1. Review Characters
