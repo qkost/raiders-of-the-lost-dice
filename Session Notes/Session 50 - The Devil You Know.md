@@ -44,7 +44,7 @@
 	* [[Ember]] threw down a Circle of Death
 	* [[Shadowclaw]] set up with hex/hexblade's curse and started blastin'
 	* [[Tato]] went to hell and got the killing blow
-* Ember picked up 
+* Ember picked up the d20 portal to Vespin's demiplane
 
 ## Prep
 ### 1. Review Characters
