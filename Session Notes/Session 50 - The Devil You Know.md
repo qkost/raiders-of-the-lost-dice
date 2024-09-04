@@ -41,8 +41,11 @@
 	* Dealing with exhausted Kefra Dres and Guards
 * Battle
 	* [[Kelward]] boots took out minions
-	* [[Ember]] threw down a fireball
-	* 
+	* [[Ember]] threw down a Circle of Death
+	* [[Shadowclaw]] set up with hex/hexblade's curse and started blastin'
+	* [[Tato]] went to hell and got the killing blow
+* Ember picked up 
+
 ## Prep
 ### 1. Review Characters
 

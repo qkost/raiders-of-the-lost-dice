@@ -14,7 +14,7 @@
 
 ### 2. Strong Start
 
-* 
+* Tato's wraps get awakened
 
 ### 3. Scenes
 
