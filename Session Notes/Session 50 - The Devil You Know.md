@@ -27,11 +27,17 @@
 	* Get
 		* Upfront info
 		* 10 questions in Vault of Leverage
-		* Assurances to not ive
+		* Assurances to not give items away
+		* They get to keep loot
 	* Give
 		* Death of [[Malachai, The Barbed Ruin]]
 		* Ember's Soul if they fail
+* Info learned from Vault of Leverage
 * 
+* Barbed Ruin
+	* Learned he wanted Tear of Desirate
+	* Cultist ([[Isabella Duskheart]]) at his side
+	* 
 ## Prep
 ### 1. Review Characters
 
