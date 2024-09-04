@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/16 Fireplane.md",
+                "file": "Session Notes/Session 50 - The Devil You Know.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/16 Fireplane.md",
+                "file": "Session Notes/Session 50 - The Devil You Know.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/16 Fireplane.md"
+                "file": "Session Notes/Session 50 - The Devil You Know.md"
               }
             }
           },
@@ -210,10 +210,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58352d09953ee473",
+  "active": "4592ce8f200c9e97",
   "lastOpenFiles": [
-    "Session Notes/Session 50 - The Devil You Know.md",
     "Encounters/16 Fireplane.md",
+    "Session Notes/Session 50 - The Devil You Know.md",
     "Session Notes/Session 48 - An Empty Keep.md",
     "NPCs/Malachai, The Barbed Ruin.md",
     "NPCs/attachments/contract.png",

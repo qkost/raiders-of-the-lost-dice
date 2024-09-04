@@ -56,5 +56,5 @@
 
 ### 8. Select Magic Item Rewards
 
-* Honor's Last Stand
-* Staff of Power
+* [Honor's Last Stand](https://www.dndbeyond.com/magic-items/8978059-honors-last-stand-rotld-dormant)
+* [Staff of Power](https://www.dndbeyond.com/magic-items/4764-staff-of-power)
