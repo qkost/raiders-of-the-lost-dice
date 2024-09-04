@@ -27,6 +27,7 @@
 	* Get
 		* Upfront info
 		* 10 questions in Vault of Leverage
+		* Assurances to not ive
 	* Give
 		* Death of [[Malachai, The Barbed Ruin]]
 		* Ember's Soul if they fail
