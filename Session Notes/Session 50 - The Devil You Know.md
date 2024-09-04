@@ -5,7 +5,7 @@
 
 * Scryed on Thinora
 	* Vespin's Demiplane - d20 to Kefra
-	* Kefra after shield
+	* Kefra after Honor's Last Stand
 	* Needed one more vestige for end goal
 * Rin did end up getting dagger
 * Shadowclaw got gear
