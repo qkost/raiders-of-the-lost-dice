@@ -22,6 +22,9 @@
 	* Akistos approached the party to kill the Barbed Ruin
 
 ## Notes
+
+* Deal with Akitos
+* 
 ## Prep
 ### 1. Review Characters
 
