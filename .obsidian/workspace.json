@@ -58,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 51 - Hell.md",
+                "file": "Encounters/09 Plank King.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "locksphere",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +154,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 51 - Hell.md",
+                "file": "Encounters/09 Plank King.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 51 - Hell.md",
+                "file": "Encounters/09 Plank King.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 51 - Hell.md"
+                "file": "Encounters/09 Plank King.md"
               }
             }
           },
@@ -249,6 +250,9 @@
   },
   "active": "c7258d758c14ec88",
   "lastOpenFiles": [
+    "Encounters/11 Dragon Turtle Port.md",
+    "Encounters/10 Dragon Turtle.md",
+    "Encounters/09 Plank King.md",
     "Magic Items/Magic Items.md",
     "Session Notes/Session 51 - Hell.md",
     "Session Notes/Session 50 - The Devil You Know.md",
@@ -278,11 +282,8 @@
     "Magic Items/Vestiges of Divergence/attachments/wraps_of_dyamak.png",
     "Encounters/14 Zunda'i Miir Lair.md",
     "Encounters/15 Stonecage Cliffs Underdark.md",
-    "Magic Items/Vestiges of Divergence/Wraps of Dyamak.md",
     "Magic Items/Vestiges of Divergence/attachments/Pasted image 20240819070933.png",
     "Magic Items/Vestiges of Divergence/attachments",
-    "NPCs/Zunda'i-Miir.md",
-    "Magic Items/Vestiges of Divergence/vestiges-journal.md",
     "Pictures/barbed_ruin_perspective.png.0.pdnSave",
     "Pictures/barbed_ruin_perspective.png",
     "Pictures/barbed_ruin_perspective.jpg",
