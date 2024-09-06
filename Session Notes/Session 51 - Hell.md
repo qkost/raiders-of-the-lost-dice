@@ -26,11 +26,11 @@
 
 ## TODO
 
-* Awaken Wraps of Dyamak
-* Determine appropriate devil reward
-* How to close portal
-* Devils in pursuit
-* Demiplane intro
+- [x] Awaken Wraps of Dyamak
+- [ ] Determine appropriate devil reward
+- [ ] How to close portal
+- [ ] Devils in pursuit
+- [ ] Demiplane intro
 
 ## Notes
 ## Prep
