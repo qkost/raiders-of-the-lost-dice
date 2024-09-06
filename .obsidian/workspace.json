@@ -27,9 +27,9 @@
               "state": {
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
-                  "x": -154.07302759898752,
-                  "y": -176.91588211222233,
-                  "zoom": -1.3352940720233153
+                  "x": -52.071270638575356,
+                  "y": 81.65559923474012,
+                  "zoom": -1.751960738689982
                 }
               }
             }
@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 253.5
   },
   "right": {
     "id": "c0b9a18b1f8d4adb",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/07 - Lake.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/07 - Lake.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/07 - Lake.md"
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
               }
             }
           },
@@ -194,10 +194,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61ec817c2905c395",
+  "active": "b3e4e7818523c4f4",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/07 - Lake.md",
+    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Session Notes/Session 51 - Hell.md",
     "Session Notes/Session 50 - The Devil You Know.md",
     "Encounters/09 Plank King.md",
