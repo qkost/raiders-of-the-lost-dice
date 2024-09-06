@@ -27,20 +27,20 @@
               "state": {
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
-                  "x": -274.3473001660846,
-                  "y": -782.583661651288,
-                  "zoom": -0.5464458471072606
+                  "x": -303.9731612341663,
+                  "y": -147.57444341232355,
+                  "zoom": -1.379779180440594
                 }
               }
             }
           },
           {
-            "id": "e59309afddd1b99c",
+            "id": "f43885c655bb276f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Thinora's Demiplane/07 - Lake.md",
+                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/07 - Lake.md",
+                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/07 - Lake.md",
+                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/07 - Lake.md"
+                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md"
               }
             }
           },
@@ -194,13 +194,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e59309afddd1b99c",
+  "active": "f43885c655bb276f",
   "lastOpenFiles": [
+    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/07 - Lake.md",
     "Locations/Thinora's Demiplane/attachments/lake_encounters_player.jpg",
     "Locations/Thinora's Demiplane/attachments/lake_encounters.jpg",
     "Locations/Thinora's Demiplane/attachments",
-    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
-    "Locations/Thinora's Demiplane/07 - Lake.md",
     "Locations/Thinora's Demiplane/17 - Great Library.md",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Locations/Thinora's Demiplane/13 - Museum.md",
@@ -240,7 +240,6 @@
     "Pictures/barbed_ruin_perspective.jpeg.0.pdnSave",
     "Pictures/barbed_ruin_perspective.jpeg",
     "Pictures/barbed_ruin - Copy.jpeg",
-    "Pictures/barbed_ruin.jpeg",
     "Maps/barbed_ruin_keep.jpeg.crdownload",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/__MACOSX/Hell's Tax Office [21x37] - $5 Rewards",
     "Untitled.canvas"
