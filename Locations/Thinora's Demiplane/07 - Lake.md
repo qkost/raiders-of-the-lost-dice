@@ -2,6 +2,8 @@
 ## Description
 
 * Closed door with puzzle
+	* Fires are binary digits
+	* Opens portal to planes (see below)
 * Portal can be shifted between going to:
 	* [[17 - Great Library]]
 	* [[15 - Endless Staircase]]
@@ -10,7 +12,7 @@
 
 ## Monsters
 
-* [Aboleth](https://www.dndbeyond.com/monsters/16762-aboleth)
+![[lake_encounters.jpg]]
 
 ## Secrets
 

@@ -47,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Locations/Thinora's Demiplane/07 - Lake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Locations/Thinora's Demiplane/07 - Lake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
+                "file": "Locations/Thinora's Demiplane/07 - Lake.md"
               }
             }
           },
@@ -194,10 +194,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e0d8ef23749563b",
+  "active": "e59309afddd1b99c",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/07 - Lake.md",
+    "Locations/Thinora's Demiplane/attachments/lake_encounters.jpg",
+    "Locations/Thinora's Demiplane/attachments",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/07 - Lake.md",
     "Locations/Thinora's Demiplane/17 - Great Library.md",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Locations/Thinora's Demiplane/13 - Museum.md",
@@ -241,7 +243,6 @@
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless/GL_HellsTaxOffice_LavaLair - Copy.jpg",
     "Maps/barbed_ruin_keep.jpeg.crdownload",
     "Maps/Hell's Tax Office [21x37] - $5 Rewards/__MACOSX/Hell's Tax Office [21x37] - $5 Rewards",
-    "Maps/Hell's Tax Office [21x37] - $5 Rewards/Hell's Tax Office [21x37] - $5 Rewards/Gridless",
     "Untitled.canvas"
   ]
 }
