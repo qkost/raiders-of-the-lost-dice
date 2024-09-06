@@ -28,26 +28,26 @@
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
                   "x": 114.52708374687512,
-                  "y": 728.4395008492211,
+                  "y": 425.9238261895582,
                   "zoom": -1.379779180440594
                 }
               }
             }
           },
           {
-            "id": "cef8a5a52d57dcc9",
+            "id": "4fddb9fcf9add414",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Thinora's Demiplane/13 - Museum.md",
+                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/13 - Museum.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/13 - Museum.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/13 - Museum.md"
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
               }
             }
           },
@@ -194,9 +194,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cef8a5a52d57dcc9",
+  "active": "9e0d8ef23749563b",
   "lastOpenFiles": [
+    "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/13 - Museum.md",
     "Session Notes/Session 51 - Hell.md",
     "NPCs/Malachai, The Barbed Ruin.md",
     "Locations/Thinora's Demiplane/07 - Lake.md",
@@ -225,8 +227,6 @@
     "Session Notes/Session 40 - Old Friends in New Places.md",
     "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
     "Organizations/The Shrouded Flames.md",
-    "Encounters/17 The Barbed Ruin.md",
-    "Misc/Published Modules.md",
     "Magic Items/Vestiges of Divergence/attachments/wraps_of_dyamak.png",
     "Magic Items/Vestiges of Divergence/attachments/Pasted image 20240819070933.png",
     "Magic Items/Vestiges of Divergence/attachments",
