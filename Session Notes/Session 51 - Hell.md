@@ -50,8 +50,10 @@
 
 * Devils in pursuit
 	* 01 - 01: [Pit Fiend](https://www.dndbeyond.com/monsters/16979-pit-fiend)
-	* 02 - 04:
-	* 17 - 
+	* 02 - 04: 1 Erinyes and 1 Horned Devil
+	* 05 - 08: 
+	* 09 - 12: 1d4 Horned Devils1d4 Bone Devils
+	* 13 - 19: 1 Horned Devil and 1d4 Imps
 	* 20 - 20: 2d8 [Imps](https://www.dndbeyond.com/monsters/16933-imp)
 * Akistos
 	* Persuades devils to stop pursuing
