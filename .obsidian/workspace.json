@@ -6,7 +6,6 @@
       {
         "id": "495aee00a25b8460",
         "type": "tabs",
-        "dimension": 43.575851393188856,
         "children": [
           {
             "id": "4592ce8f200c9e97",
@@ -14,87 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 50 - The Devil You Know.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2395a6d9033bb933",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic Items/Magic Items.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c0bef86605d9db0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 49 - Out of the Frying Pan....md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "19aa65cd64fa7d46",
-        "type": "tabs",
-        "dimension": 56.424148606811144,
-        "children": [
-          {
-            "id": "c7258d758c14ec88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/09 Plank King.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58352d09953ee473",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/16 Fireplane.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e7c509107da74ffe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 48 - An Empty Keep.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8791de0b372713cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Malachai, The Barbed Ruin.md",
+                "file": "Session Notes/Session 51 - Hell.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "locksphere",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -175,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/09 Plank King.md",
+                "file": "Session Notes/Session 51 - Hell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/09 Plank King.md",
+                "file": "Session Notes/Session 51 - Hell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/09 Plank King.md"
+                "file": "Session Notes/Session 51 - Hell.md"
               }
             }
           },
@@ -248,14 +166,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7258d758c14ec88",
+  "active": "4592ce8f200c9e97",
   "lastOpenFiles": [
+    "Session Notes/Session 50 - The Devil You Know.md",
+    "Encounters/09 Plank King.md",
     "Encounters/11 Dragon Turtle Port.md",
     "Encounters/10 Dragon Turtle.md",
-    "Encounters/09 Plank King.md",
     "Magic Items/Magic Items.md",
     "Session Notes/Session 51 - Hell.md",
-    "Session Notes/Session 50 - The Devil You Know.md",
     "Session Notes/attachments/Pasted image 20240903212354.png",
     "Session Notes/attachments",
     "NPCs/Malachai, The Barbed Ruin.md",
