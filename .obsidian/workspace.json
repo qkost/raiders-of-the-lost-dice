@@ -27,39 +27,27 @@
               "state": {
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
-                  "x": -101.98293225665842,
-                  "y": -298.5523661787697,
-                  "zoom": -1.379779180440594
+                  "x": -274.3473001660846,
+                  "y": -273.24011591502244,
+                  "zoom": -0.5464458471072606
                 }
               }
             }
           },
           {
-            "id": "5a2959cc6eddba2f",
+            "id": "e59309afddd1b99c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Thinora's Demiplane/17 - Great Library.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fddb9fcf9add414",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+                "file": "Locations/Thinora's Demiplane/07 - Lake.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Locations/Thinora's Demiplane/07 - Lake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Locations/Thinora's Demiplane/07 - Lake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
+                "file": "Locations/Thinora's Demiplane/07 - Lake.md"
               }
             }
           },
@@ -206,10 +194,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e0d8ef23749563b",
+  "active": "e59309afddd1b99c",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/17 - Great Library.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/17 - Great Library.md",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Locations/Thinora's Demiplane/13 - Museum.md",
     "Session Notes/Session 51 - Hell.md",
@@ -239,7 +227,6 @@
     "Session Notes/Session 42 - Zunda'i Miir.md",
     "Session Notes/Session 40 - Old Friends in New Places.md",
     "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
-    "Organizations/The Shrouded Flames.md",
     "Magic Items/Vestiges of Divergence/attachments/wraps_of_dyamak.png",
     "Magic Items/Vestiges of Divergence/attachments/Pasted image 20240819070933.png",
     "Magic Items/Vestiges of Divergence/attachments",

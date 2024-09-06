@@ -10,6 +10,8 @@
 
 ## Monsters
 
+* [Aboleth](https://www.dndbeyond.com/monsters/16762-aboleth)
+
 ## Secrets
 
 ## Loot

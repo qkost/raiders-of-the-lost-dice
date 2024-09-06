@@ -23,7 +23,7 @@
 		{"id":"bedad432c67f194e","type":"text","text":"Bottom Path","x":770,"y":-650,"width":230,"height":60},
 		{"id":"00028b1fddc2e2c9","type":"file","file":"Locations/Thinora's Demiplane/01 - Foyer Entrance.md","x":36,"y":-320,"width":400,"height":400},
 		{"id":"1c90e59abe5cd3f6","type":"file","file":"Locations/Thinora's Demiplane/07 - Lake.md","x":-580,"y":-460,"width":400,"height":400},
-		{"id":"32a94aca12967663","type":"text","text":"Left Door","x":-160,"y":-110,"width":184,"height":50},
+		{"id":"32a94aca12967663","type":"text","text":"Portal/Left Door","x":-160,"y":-110,"width":180,"height":90},
 		{"id":"22ce62738207faff","type":"text","text":"Top Door","x":180,"y":-485,"width":184,"height":50},
 		{"id":"e88a4abf46879448","type":"file","file":"Locations/Thinora's Demiplane/13 - Museum.md","x":209,"y":200,"width":400,"height":400},
 		{"id":"676e4024f8849e0c","type":"text","text":"Right Door/ Bottom Door","x":465,"y":30,"width":225,"height":110},
@@ -35,7 +35,7 @@
 		{"id":"7d4e069bb15ed561","type":"text","text":"Mouth","x":-1440,"y":90,"width":200,"height":50},
 		{"id":"8145f14b6a344876","type":"text","text":"Activate Portal","x":-2130,"y":-672,"width":250,"height":52},
 		{"id":"003440827dafa978","type":"text","text":"Door (Drawn in Owlbear)/Left Stairs","x":-1070,"y":28,"width":270,"height":152},
-		{"id":"f8447f85eb6ca742","type":"text","text":"Portal (Standard)","x":-218,"y":-670,"width":254,"height":50},
+		{"id":"f8447f85eb6ca742","type":"text","text":"Portal","x":-218,"y":-670,"width":254,"height":50},
 		{"id":"1219ccd75a4efea5","type":"text","text":"Clock Puzzle","x":-537,"y":525,"width":220,"height":50}
 	],
 	"edges":[
