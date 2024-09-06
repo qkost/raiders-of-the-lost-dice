@@ -20,18 +20,34 @@
             }
           },
           {
-            "id": "33632d32c5b3bf8b",
+            "id": "9e0d8ef23749563b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "viewState": {
+                  "x": 114.52708374687512,
+                  "y": 728.4395008492211,
+                  "zoom": -1.379779180440594
+                }
+              }
+            }
+          },
+          {
+            "id": "cef8a5a52d57dcc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Malachai, The Barbed Ruin.md",
+                "file": "Locations/Thinora's Demiplane/13 - Museum.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 51 - Hell.md",
+                "file": "Locations/Thinora's Demiplane/13 - Museum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 51 - Hell.md",
+                "file": "Locations/Thinora's Demiplane/13 - Museum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 51 - Hell.md"
+                "file": "Locations/Thinora's Demiplane/13 - Museum.md"
               }
             }
           },
@@ -178,11 +194,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4592ce8f200c9e97",
+  "active": "cef8a5a52d57dcc9",
   "lastOpenFiles": [
-    "NPCs/Malachai, The Barbed Ruin.md",
-    "Session Notes/Session 51 - Hell.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Session Notes/Session 51 - Hell.md",
+    "NPCs/Malachai, The Barbed Ruin.md",
     "Locations/Thinora's Demiplane/07 - Lake.md",
     "Session Notes/Session 50 - The Devil You Know.md",
     "Encounters/09 Plank King.md",
