@@ -51,6 +51,9 @@
 * Akistos
 	* Persuades devils to stop pursuing
 	* Offers deal (same contract as [[Malachai, The Barbed Ruin]])
+	* Devil Reward
+		* 1 [Devil Legate](https://www.dndbeyond.com/monsters/4485819-devil-legate)
+		* 8 [Devil Notaries](https://www.dndbeyond.com/monsters/4485821-devil-notary)
 * [[00 Thinora's Demiplane.canvas|00 Thinora's Demiplane]]
 
 ### 4. Secrets and Clues
