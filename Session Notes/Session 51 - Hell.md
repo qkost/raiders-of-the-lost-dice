@@ -27,7 +27,7 @@
 ## TODO
 
 - [x] Awaken Wraps of Dyamak
-- [ ] Determine appropriate devil reward
+- [x] Determine appropriate devil reward
 - [ ] How to close portal
 - [ ] Devils in pursuit
 - [ ] Demiplane intro
@@ -48,6 +48,11 @@
 
 ### 3. Scenes
 
+* Devils in pursuit
+	* 01 - 01: [Pit Fiend](https://www.dndbeyond.com/monsters/16979-pit-fiend)
+	* 02 - 04:
+	* 17 - 
+	* 20 - 20: 2d8 [Imps](https://www.dndbeyond.com/monsters/16933-imp)
 * Akistos
 	* Persuades devils to stop pursuing
 	* Offers deal (same contract as [[Malachai, The Barbed Ruin]])
