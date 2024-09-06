@@ -29,7 +29,7 @@
 - [x] Awaken Wraps of Dyamak
 - [x] Determine appropriate devil reward
 - [ ] How to close portal
-- [ ] Devils in pursuit
+- [x] Devils in pursuit
 - [ ] Demiplane intro
 
 ## Notes
@@ -50,11 +50,11 @@
 
 * Devils in pursuit
 	* 01 - 01: [Pit Fiend](https://www.dndbeyond.com/monsters/16979-pit-fiend)
-	* 02 - 04: 1 Erinyes and 1 Horned Devil
-	* 05 - 08: 
-	* 09 - 12: 1d4 Horned Devils1d4 Bone Devils
-	* 13 - 19: 1 Horned Devil and 1d4 Imps
-	* 20 - 20: 2d8 [Imps](https://www.dndbeyond.com/monsters/16933-imp)
+	* 02 - 04: 1 [Erinyes](https://www.dndbeyond.com/monsters/16858-erinyes) and 1 [Horned Devil](https://www.dndbeyond.com/monsters/16927-horned-devil)
+	* 05 - 08: 1 [Horned Devil](https://www.dndbeyond.com/monsters/16927-horned-devil) and 2 [Bone Devils](https://www.dndbeyond.com/monsters/16813-bone-devil)
+	* 09 - 12: 2 [Bone Devils](https://www.dndbeyond.com/monsters/16813-bone-devil) and 1d4 [Imps](https://www.dndbeyond.com/monsters/16933-imp)
+	* 13 - 19: 1 [Horned Devil](https://www.dndbeyond.com/monsters/16927-horned-devil) l and 1d4 [Imps](https://www.dndbeyond.com/monsters/16933-imp)
+	* 20 - 20: 2d6 [Imps](https://www.dndbeyond.com/monsters/16933-imp)
 * Akistos
 	* Persuades devils to stop pursuing
 	* Offers deal (same contract as [[Malachai, The Barbed Ruin]])
