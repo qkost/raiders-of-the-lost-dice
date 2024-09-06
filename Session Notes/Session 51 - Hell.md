@@ -45,9 +45,13 @@
 
 * Tato is falling in Dis and [Wraps of Dyamak Awaken](https://www.dndbeyond.com/magic-items/8979101-wraps-of-dyamak-rotld-awakened) and he gains flying speed
 
+
 ### 3. Scenes
 
-* 
+* Akistos
+	* Persuades devils to stop pursuing
+	* Offers deal (same contract as [[Malachai, The Barbed Ruin]])
+* [[00 Thinora's Demiplane.canvas|00 Thinora's Demiplane]]
 
 ### 4. Secrets and Clues
 
