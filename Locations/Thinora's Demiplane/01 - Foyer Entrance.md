@@ -4,7 +4,7 @@
 ## Description
 
 * Magic mouth - chandelier talking
-	* "Welcome my dear Kefra. Please take a seat and I'll be with you in a moment."
+	* "Welcome my dear Kefra. Please take a seat and my assistant will be with you in a moment. Don't venture too far now, it can get a bit dangerous."
 
 ## Map
 
