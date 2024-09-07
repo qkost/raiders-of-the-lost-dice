@@ -28,7 +28,7 @@
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
                   "x": 21.0820342784657,
-                  "y": -411.75230398028134,
+                  "y": -109.23662932061848,
                   "zoom": -1.379779180440594
                 }
               }
@@ -119,7 +119,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/03 - Guest Quarters.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -210,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/03 - Guest Quarters.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/03 - Guest Quarters.md"
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
               }
             }
           },
@@ -266,13 +266,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9b154c0ce812a99",
+  "active": "9e0d8ef23749563b",
   "lastOpenFiles": [
+    "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/03 - Guest Quarters.md",
     "Locations/Thinora's Demiplane/12 - The Angel.md",
     "Locations/Thinora's Demiplane/07 - Lake.md",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
-    "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md",
     "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
     "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)/Gridless/GL_MagicalSnowglobe_Settled_Night.jpg",
     "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)/Gridless/GL_MagicalSnowglobe_Settled_Day.jpg",
@@ -309,7 +310,6 @@
     "Locations/Port Zoon.md",
     "Organizations/The Whippersnapper.md",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
-    "Session Notes/Session 10 - Diverging Paths.md",
     "Magic Items/Vestiges of Divergence/attachments",
     "Pictures/barbed_ruin_perspective.png.0.pdnSave",
     "Pictures/barbed_ruin_perspective.jpg.0.pdnSave",
