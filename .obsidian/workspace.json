@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md"
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
               }
             }
           },
@@ -230,13 +230,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adb0cbb8f10cd72c",
+  "active": "9e0d8ef23749563b",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
+    "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Session Notes/Session 51 - Hell.md",
     "Locations/Thinora's Demiplane/Room Ideas.md",
-    "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Locations/Thinora's Demiplane/07 - Lake.md",
     "Locations/Thinora's Demiplane/attachments/lake_encounters_player.jpg",
     "Locations/Thinora's Demiplane/attachments/lake_encounters.jpg",
