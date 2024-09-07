@@ -5,6 +5,10 @@
 
 * Magic mouth - chandelier talking
 	* "Welcome my dear Kefra. Please take a seat and my assistant will be with you in a moment. Don't venture too far now, it can get a bit dangerous."
+* Doors have symbols over them:
+	* Left door: flame
+	* Middle door: skull
+	* Right door: lightning bolt
 
 ## Map
 

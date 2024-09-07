@@ -13,4 +13,4 @@
 
 *  [[01 - Foyer Entrance]]
 *  [[03 - Guest Quarters]]
-*  [[09 - Room]]
+*  [[09 - Master Bedroom]]

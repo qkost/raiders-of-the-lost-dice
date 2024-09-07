@@ -28,9 +28,33 @@
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
                   "x": -303.9731612341663,
-                  "y": -450.09011807198635,
+                  "y": -147.5744434123235,
                   "zoom": -1.379779180440594
                 }
+              }
+            }
+          },
+          {
+            "id": "adb0cbb8f10cd72c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ada242620fd4ee8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -59,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
+                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md"
               }
             }
           },
@@ -206,11 +230,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e0d8ef23749563b",
+  "active": "adb0cbb8f10cd72c",
   "lastOpenFiles": [
+    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
     "Session Notes/Session 51 - Hell.md",
     "Locations/Thinora's Demiplane/Room Ideas.md",
-    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Locations/Thinora's Demiplane/07 - Lake.md",
     "Locations/Thinora's Demiplane/attachments/lake_encounters_player.jpg",
@@ -241,8 +266,6 @@
     "Session Notes/Session 46 - A Whole New World of Duscora' Kerym.md",
     "Session Notes/Session 43 - Ebon Lake.md",
     "Session Notes/Session 42 - Zunda'i Miir.md",
-    "Session Notes/Session 40 - Old Friends in New Places.md",
-    "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
     "Magic Items/Vestiges of Divergence/attachments/wraps_of_dyamak.png",
     "Magic Items/Vestiges of Divergence/attachments/Pasted image 20240819070933.png",
     "Magic Items/Vestiges of Divergence/attachments",
