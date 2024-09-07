@@ -6,7 +6,7 @@
 	* Opens portal to planes (see below)
 * Portal can be shifted between going to:
 	* [[17 - Great Library]]
-	* [[15 - Endless Staircase]]
+	* [[15 - The Staircase]]
 
 ## Map
 
@@ -22,5 +22,5 @@
 ## Room Links
 
 *  [[01 - Foyer Entrance]]
-*  [[15 - Endless Staircase]]
+*  [[15 - The Staircase]]
 *  [[17 - Great Library]]

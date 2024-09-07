@@ -1,4 +1,4 @@
-
+![[Grand-Mage-Tower-Base-Bedroom.webp]]
 ## Description
 
 ## Map

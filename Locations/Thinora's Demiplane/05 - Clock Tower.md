@@ -12,5 +12,5 @@
 ## Room Links
 
 *  [[13 - Museum]]
-*  [[15 - Endless Staircase]]
+*  [[15 - The Staircase]]
 *  [[18 - Treasury]]
