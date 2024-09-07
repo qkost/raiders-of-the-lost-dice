@@ -12,5 +12,5 @@
 ## Room Links
 
 *  [[03 - Guest Quarters]]
-*  [[06 - Room]]
+*  [[06 - Temporal Isolation Chamber]]
 *  [[08 - Binding Chamber]]

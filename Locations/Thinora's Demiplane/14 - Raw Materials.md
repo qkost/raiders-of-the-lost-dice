@@ -12,5 +12,5 @@
 ## Room Links
 
 *  [[04 - Room]]
-*  [[06 - Room]]
+*  [[06 - Temporal Isolation Chamber]]
 *  [[20 - Experiment Chamber]]

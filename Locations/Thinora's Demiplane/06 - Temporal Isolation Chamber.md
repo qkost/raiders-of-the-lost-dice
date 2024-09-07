@@ -1,4 +1,6 @@
 
+![[GL_MagicalSnowglobe_Original_Day.jpg]]
+
 ## Description
 
 ## Map

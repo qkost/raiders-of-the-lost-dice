@@ -27,10 +27,22 @@
               "state": {
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
-                  "x": 10.383038939257005,
-                  "y": -78.87412543721848,
+                  "x": 246.7613877088528,
+                  "y": -29.52998749636322,
                   "zoom": -1.379779180440594
                 }
+              }
+            }
+          },
+          {
+            "id": "aa748a6edc8f92d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -83,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/09 - Master Bedroom.md"
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
               }
             }
           },
@@ -230,8 +242,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ada242620fd4ee8",
+  "active": "9e0d8ef23749563b",
   "lastOpenFiles": [
+    "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+    "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md",
+    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
     "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)/Gridless/GL_MagicalSnowglobe_Settled_Night.jpg",
     "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)/Gridless/GL_MagicalSnowglobe_Settled_Day.jpg",
     "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)/Gridless/GL_MagicalSnowglobe_Original_Night.jpg",
@@ -242,13 +258,9 @@
     "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)/Gridless/GL_MagicalSnowglobe_NoGlobe_Day.jpg",
     "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)/Gridless/GL_MagicalSnowglobe_NoAnimals_Night.jpg",
     "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)/Gridless/GL_MagicalSnowglobe_NoAnimals_Day.jpg",
-    "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)/Gridless/GL_MagicalSnowglobe_Natural_Night.jpg",
     "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)/Gridless",
     "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)",
-    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/15 - The Staircase.md",
-    "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
-    "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Session Notes/Session 51 - Hell.md",
     "Locations/Thinora's Demiplane/Room Ideas.md",
     "Locations/Thinora's Demiplane/07 - Lake.md",
