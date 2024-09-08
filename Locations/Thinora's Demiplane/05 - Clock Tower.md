@@ -1,7 +1,7 @@
 ![[G_GreatLibrary_B1ChronoRoom_Night.jpg]]
 ## Description
 
-* Clock rotates 2 notches per round
+* Clock rotates 1 notches per turn
 	* DC 14 Dex save or 2d6 bludgeoning damage and knocked prone
 * 
 
