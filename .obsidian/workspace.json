@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/05 - Clock Tower.md",
+                "file": "Locations/Thinora's Demiplane/15 - The Staircase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/05 - Clock Tower.md",
+                "file": "Locations/Thinora's Demiplane/15 - The Staircase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/05 - Clock Tower.md"
+                "file": "Locations/Thinora's Demiplane/15 - The Staircase.md"
               }
             }
           },
@@ -206,9 +206,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a01c83ede89f8e1",
+  "active": "7f71f21a64ba050d",
   "lastOpenFiles": [
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/05 - Clock Tower.md",
     "Locations/Thinora's Demiplane/15 - The Staircase.md",
     "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md",
     "Locations/Thinora's Demiplane/03 - Guest Quarters.md",
@@ -248,7 +249,6 @@
     "PCs/Tato.md",
     "Organizations/The Ill Hand.md",
     "Locations/Port Zoon.md",
-    "Organizations/The Whippersnapper.md",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
     "Magic Items/Vestiges of Divergence/attachments",
     "Pictures/barbed_ruin_perspective.png.0.pdnSave",
