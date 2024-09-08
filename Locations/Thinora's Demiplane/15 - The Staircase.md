@@ -23,7 +23,8 @@
 	* 06 - Third Fill
 	* 08 - Fourth Fill
 	* 10 - Full
-
+* 2 [Air Elementals](https://www.dndbeyond.com/monsters/16774-air-elemental) saturated with acid
+	* Same, but deal acid damage instead of bludgeoning
 ## Map
 
 ## Monsters
