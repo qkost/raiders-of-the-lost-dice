@@ -15,6 +15,15 @@
 
 ## Description
 
+* Clicking of clock
+* Tied to [[05 - Clock Tower]]
+	* 12 - Empty
+	* 02 - First Fill
+	* 04 - Second Fill
+	* 06 - Third Fill
+	* 08 - Fourth Fill
+	* 10 - Full
+
 ## Map
 
 ## Monsters
