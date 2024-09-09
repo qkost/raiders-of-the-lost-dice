@@ -15,4 +15,4 @@
 
 *  [[09 - Master Bedroom]]
 *  [[14 - Raw Materials]]
-*  [[16 - Room]]
+*  [[16 - Arcane Armory]]

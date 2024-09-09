@@ -19,6 +19,6 @@
 
 ## Room Links
 
-*  [[16 - Room]]
+*  [[16 - Arcane Armory]]
 *  [[11 - Great Library]]
 *  [[19 - Courtyard]]

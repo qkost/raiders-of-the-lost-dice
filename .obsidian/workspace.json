@@ -39,9 +39,9 @@
               "state": {
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
-                  "x": -489.93856525341437,
-                  "y": -287.34554049792825,
-                  "zoom": -1.6666666666666667
+                  "x": -145.80689584388392,
+                  "y": 96.39215086726949,
+                  "zoom": -1.751960738689982
                 }
               }
             }
@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Session Notes/Session 51 - Hell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Session Notes/Session 51 - Hell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
+                "file": "Session Notes/Session 51 - Hell.md"
               }
             }
           },
@@ -206,10 +205,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fb215b8768764ff",
+  "active": "4592ce8f200c9e97",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/03 - Carving Farm.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Pictures/demiplane_map.png",
+    "Locations/Thinora's Demiplane/03 - Carving Farm.md",
     "Session Notes/Session 51 - Hell.md",
     "Locations/Thinora's Demiplane/Room Ideas.md",
     "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridless/GL_GiantKitchen_Witchfire.jpg",
@@ -221,7 +221,6 @@
     "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridless/GL_GiantKitchen_Slime.jpg",
     "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridless/GL_GiantKitchen_Original_Night.jpg",
     "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridless/GL_GiantKitchen_Original_Day.jpg",
-    "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridless/GL_GiantKitchen_Nopot_Night.jpg",
     "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridless",
     "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridded",
     "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1",
