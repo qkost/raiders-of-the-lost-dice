@@ -7,7 +7,9 @@
 		* Ripped out pages
 		* Arms of Betrayers
  * Endless library pit
-	 * Ember - DC 
+	 * Ember - DC 18 Wisdom saving throw
+	 * Jump into pit
+	 * 1d6
 ## Map
 
 ## Monsters
