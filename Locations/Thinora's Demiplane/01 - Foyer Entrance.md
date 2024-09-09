@@ -24,4 +24,4 @@
 
 *  [[07 - Lake]]
 *  [[13 - Museum]]
-*  [[19 - Room]]
+*  [[19 - Courtyard]]

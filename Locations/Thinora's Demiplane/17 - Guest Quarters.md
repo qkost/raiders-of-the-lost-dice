@@ -21,4 +21,4 @@
 
 *  [[16 - Room]]
 *  [[11 - Great Library]]
-*  [[19 - Room]]
+*  [[19 - Courtyard]]

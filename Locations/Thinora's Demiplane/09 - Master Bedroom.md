@@ -12,5 +12,5 @@
 ## Room Links
 
 *  [[06 - Temporal Isolation Chamber]]
-*  [[03 - Room]]
-*  [[19 - Room]]
+*  [[03 - Carving Farm]]
+*  [[19 - Courtyard]]

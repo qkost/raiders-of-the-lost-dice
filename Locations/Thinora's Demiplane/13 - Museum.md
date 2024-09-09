@@ -35,4 +35,4 @@
 
 *  [[01 - Foyer Entrance]]
 *  [[05 - Clock Tower]]
-*  [[03 - Room]]
+*  [[03 - Carving Farm]]
