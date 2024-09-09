@@ -16,7 +16,8 @@
 	* Mt. Celestia - [2 Deva](https://www.dndbeyond.com/monsters/16840-deva)
 	* The Abyss - [Chimeron](https://www.dndbeyond.com/monsters/4485806-chimeron)
 	* Mechanus - [2 Gearkeeper Construct](https://www.dndbeyond.com/monsters/744313-gearkeeper-construct)
-	* 
+	* Hades - [Arcanaloth](https://www.dndbeyond.com/monsters/301430-arcanaloth-summoner-variant)
+	* Far Realm - [2 Death Kiss](https://www.dndbeyond.com/monsters/2560764-death-kiss)
 
 ![[lake_encounters.jpg]]
 
