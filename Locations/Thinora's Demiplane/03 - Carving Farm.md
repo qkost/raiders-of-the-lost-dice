@@ -1,4 +1,4 @@
-
+![[G_GiantKitchen_AbandonedKitchen.jpg]]
 
 
 ## Description

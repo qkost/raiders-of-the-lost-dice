@@ -40,9 +40,21 @@
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
                   "x": 114.58473155434223,
-                  "y": -382.5812981358786,
+                  "y": -659.0719523740113,
                   "zoom": -1.25
                 }
+              }
+            }
+          },
+          {
+            "id": "6cd3a0b6cae36501",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/03 - Carving Farm.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -59,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Locations/Thinora's Demiplane/03 - Carving Farm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Locations/Thinora's Demiplane/03 - Carving Farm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
+                "file": "Locations/Thinora's Demiplane/03 - Carving Farm.md"
               }
             }
           },
@@ -206,11 +218,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fb215b8768764ff",
+  "active": "6cd3a0b6cae36501",
   "lastOpenFiles": [
+    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridless/GL_GiantKitchen_Witchfire.jpg",
+    "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridless/GL_GiantKitchen_Snowstorm.jpg",
+    "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridless/GL_GiantKitchen_Witch.jpg",
+    "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridless/GL_GiantKitchen_SlimePurple.jpg",
+    "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridless/GL_GiantKitchen_Overcooked_Night.jpg",
+    "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridless/GL_GiantKitchen_Overcooked_Day.jpg",
+    "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridless/GL_GiantKitchen_Slime.jpg",
+    "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridless/GL_GiantKitchen_Original_Night.jpg",
+    "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridless/GL_GiantKitchen_Original_Day.jpg",
+    "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridless/GL_GiantKitchen_Nopot_Night.jpg",
+    "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridless",
+    "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridded",
+    "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1",
+    "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 2/Minis - Paper Forge/PaperMini/PNGs/Bases/Thumbs.db",
+    "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 2/Minis - Paper Forge/PaperMini/PNGs/Bases",
+    "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 2/Magic Items - Tavern of Trinkets/Cards/Cards - Printable.pdf",
+    "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 2/Minis - Paper Forge/VTT/Portrait",
+    "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 2/Minis - Paper Forge/VTT/FullBody",
+    "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 2/Minis - Paper Forge/PaperMini/PNGs",
+    "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 2/Minis - Paper Forge/PaperMini/PaperforgeMindy Back.pdf",
     "Locations/Thinora's Demiplane/Room Ideas.md",
     "Session Notes/Session 51 - Hell.md",
-    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
     "Locations/Thinora's Demiplane/11 - Great Library.md",
     "PCs/Tato.md",
@@ -220,17 +252,6 @@
     "PCs/Ember.md",
     "Plot/Major Notes.md",
     "NPCs/Petyr (Pete) Archeron.md",
-    "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_TornPage.jpg",
-    "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_Spring.jpg",
-    "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_SealedGate .jpg",
-    "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_Ritual.jpg",
-    "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_Portal.jpg",
-    "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_Original_Night.jpg",
-    "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_Original_Day.jpg",
-    "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_NoText_Night.jpg",
-    "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_NoText_Day.jpg",
-    "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_NoBook_Night.jpg",
-    "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)",
     "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
     "Locations/Thinora's Demiplane/03 - Carving Farm.md",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
@@ -239,21 +260,12 @@
     "Locations/Thinora's Demiplane/05 - Clock Tower.md",
     "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md",
     "Locations/Thinora's Demiplane/12 - The Angel.md",
-    "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)/Gridless",
-    "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)",
-    "Locations/Thinora's Demiplane/attachments",
     "NPCs/Malachai, The Barbed Ruin.md",
     "Session Notes/Session 50 - The Devil You Know.md",
     "Encounters/09 Plank King.md",
     "Encounters/11 Dragon Turtle Port.md",
     "Encounters/10 Dragon Turtle.md",
     "Magic Items/Magic Items.md",
-    "Session Notes/attachments",
-    "NPCs/attachments",
-    "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
-    "Magic Items/Vestiges of Divergence/attachments",
-    "Pictures/barbed_ruin_perspective.png.0.pdnSave",
-    "Pictures/barbed_ruin_perspective.jpg.0.pdnSave",
     "Untitled.canvas"
   ]
 }
