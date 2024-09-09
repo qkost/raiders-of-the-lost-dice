@@ -12,7 +12,7 @@
 	* Fires are binary digits
 	* Opens portal to planes (see below)
 * Portal can be shifted between going to:
-	* [[17 - Great Library]]
+	* [[11 - Great Library]]
 	* [[15 - The Staircase]]
 
 ## Map
@@ -37,4 +37,4 @@
 
 *  [[01 - Foyer Entrance]]
 *  [[15 - The Staircase]]
-*  [[17 - Great Library]]
+*  [[11 - Great Library]]

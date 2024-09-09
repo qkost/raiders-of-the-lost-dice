@@ -13,5 +13,5 @@
 ## Room Links
 
 *  [[16 - Room]]
-*  [[17 - Great Library]]
+*  [[11 - Great Library]]
 *  [[19 - Room]]

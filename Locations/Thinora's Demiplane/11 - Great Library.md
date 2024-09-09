@@ -11,6 +11,6 @@
 
 ## Room Links
 
-*  [[03 - Guest Quarters]]
+*  [[17 - Guest Quarters]]
 *  [[07 - Lake]]
 *  [[10 - Fountain of Youth]]

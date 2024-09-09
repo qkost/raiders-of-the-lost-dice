@@ -40,9 +40,45 @@
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
                   "x": 769.1914117833359,
-                  "y": -32.75059856191754,
+                  "y": -32.75059856191751,
                   "zoom": -1.379779180440594
                 }
+              }
+            }
+          },
+          {
+            "id": "d529edc6cc547fa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/03 - Room.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5af064660aceb295",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/03 - Room.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7a37168e23a90c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/11 - Great Library.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -208,13 +244,15 @@
   },
   "active": "9e0d8ef23749563b",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/Room Ideas.md",
+    "Locations/Thinora's Demiplane/03 - Room.md",
+    "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/11 - Great Library.md",
+    "Locations/Thinora's Demiplane/Room Ideas.md",
     "Locations/Thinora's Demiplane/07 - Lake.md",
     "Locations/Thinora's Demiplane/15 - The Staircase.md",
     "Locations/Thinora's Demiplane/05 - Clock Tower.md",
     "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md",
-    "Locations/Thinora's Demiplane/03 - Guest Quarters.md",
     "Locations/Thinora's Demiplane/12 - The Angel.md",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
@@ -232,7 +270,6 @@
     "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)",
     "Session Notes/Session 51 - Hell.md",
     "Locations/Thinora's Demiplane/attachments",
-    "Locations/Thinora's Demiplane/17 - Great Library.md",
     "Locations/Thinora's Demiplane/13 - Museum.md",
     "NPCs/Malachai, The Barbed Ruin.md",
     "Session Notes/Session 50 - The Devil You Know.md",
@@ -248,7 +285,6 @@
     "Day Tracker.md",
     "PCs/Tato.md",
     "Organizations/The Ill Hand.md",
-    "Locations/Port Zoon.md",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
     "Magic Items/Vestiges of Divergence/attachments",
     "Pictures/barbed_ruin_perspective.png.0.pdnSave",

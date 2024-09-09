@@ -1,8 +1,8 @@
 {
 	"nodes":[
 		{"id":"1c0cee0392dcefbb","type":"file","file":"Locations/Thinora's Demiplane/15 - The Staircase.md","x":-1160,"y":-460,"width":400,"height":400},
-		{"id":"b8d7c3178fdadc8a","type":"file","file":"Locations/Thinora's Demiplane/17 - Great Library.md","x":-364,"y":-1212,"width":400,"height":400},
-		{"id":"a1a680cd9967212d","type":"file","file":"Locations/Thinora's Demiplane/03 - Guest Quarters.md","x":465,"y":-1114,"width":400,"height":400},
+		{"id":"b8d7c3178fdadc8a","type":"file","file":"Locations/Thinora's Demiplane/17 - Guest Quarters.md","x":-364,"y":-1212,"width":400,"height":400},
+		{"id":"a1a680cd9967212d","type":"file","file":"Locations/Thinora's Demiplane/03 - Room.md","x":465,"y":-1114,"width":400,"height":400},
 		{"id":"8bb17e335cec64db","type":"file","file":"Locations/Thinora's Demiplane/12 - The Angel.md","x":-1800,"y":-372,"width":400,"height":400},
 		{"id":"3c11030fb9143cb6","type":"file","file":"Locations/Thinora's Demiplane/19 - Room.md","x":536,"y":-562,"width":400,"height":400},
 		{"id":"74f2295ce4b16dee","type":"file","file":"Locations/Thinora's Demiplane/05 - Clock Tower.md","x":-760,"y":80,"width":400,"height":400},
@@ -19,7 +19,7 @@
 		{"id":"91d9d6d2f0fb19ae","type":"text","text":"Left Staircase/\nMain Door","x":-700,"y":-1114,"width":240,"height":102},
 		{"id":"e5e4f4081cc3e815","type":"text","text":"Right Staircase/\nLeft Path","x":120,"y":-1114,"width":260,"height":102},
 		{"id":"66f94a56981868f2","type":"text","text":"Top Path","x":900,"y":-1173,"width":260,"height":110},
-		{"id":"aa24dc28021edd4d","type":"file","file":"Locations/Thinora's Demiplane/11 - Room.md","x":865,"y":400,"width":400,"height":400},
+		{"id":"aa24dc28021edd4d","type":"file","file":"Locations/Thinora's Demiplane/11 - Great Library.md","x":865,"y":400,"width":400,"height":400},
 		{"id":"bedad432c67f194e","type":"text","text":"Bottom Path","x":770,"y":-650,"width":230,"height":60},
 		{"id":"00028b1fddc2e2c9","type":"file","file":"Locations/Thinora's Demiplane/01 - Foyer Entrance.md","x":36,"y":-320,"width":400,"height":400},
 		{"id":"1c90e59abe5cd3f6","type":"file","file":"Locations/Thinora's Demiplane/07 - Lake.md","x":-580,"y":-460,"width":400,"height":400},
