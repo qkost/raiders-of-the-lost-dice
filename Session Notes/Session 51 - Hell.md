@@ -60,7 +60,11 @@
 	* Devil Reward
 		* 1 [Devil Legate](https://www.dndbeyond.com/monsters/4485819-devil-legate)
 		* 8 [Devil Notaries](https://www.dndbeyond.com/monsters/4485821-devil-notary)
-* 
+* Items protected by symbol
+	* [Symbol - Death](https://www.dndbeyond.com/spells/2619127-symbol)
+	* DC 18
+	* 60 ft radius
+	* 
 * [[00 Thinora's Demiplane.canvas|00 Thinora's Demiplane]]
 
 ### 4. Secrets and Clues

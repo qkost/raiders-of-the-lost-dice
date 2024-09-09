@@ -6,7 +6,8 @@
 	* [[Petyr (Pete) Archeron]]'s journal
 		* Ripped out pages
 		* Arms of Betrayers
-
+ * Endless library pit
+	 * Ember - DC 
 ## Map
 
 ## Monsters
