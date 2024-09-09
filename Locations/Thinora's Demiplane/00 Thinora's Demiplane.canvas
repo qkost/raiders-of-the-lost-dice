@@ -27,7 +27,7 @@
 		{"id":"e88a4abf46879448","type":"file","file":"Locations/Thinora's Demiplane/13 - Museum.md","x":209,"y":200,"width":400,"height":400},
 		{"id":"676e4024f8849e0c","type":"text","text":"Right Door/ Bottom Door","x":465,"y":30,"width":225,"height":110},
 		{"id":"5f5595734bff6e06","type":"text","text":"Puzzle Portal","x":-1270,"y":1055,"width":220,"height":50},
-		{"id":"7a25624836a6e20e","type":"text","text":"Right Door/\n","x":649,"y":300,"width":216,"height":100},
+		{"id":"7a25624836a6e20e","type":"text","text":"Right Door/\nLeft Door","x":649,"y":300,"width":216,"height":100},
 		{"id":"6598748701462152","type":"text","text":"Left Door/\nRight Stairs","x":-100,"y":240,"width":210,"height":80},
 		{"id":"0ca9a967ee2f4b01","type":"text","text":"Portal (Alt)","x":-760,"y":-345,"width":180,"height":50},
 		{"id":"7930ca7ba3ce8f21","type":"text","text":"Door/Cube","x":-1360,"y":-320,"width":200,"height":50},
@@ -35,13 +35,15 @@
 		{"id":"8145f14b6a344876","type":"text","text":"Activate Portal","x":-2130,"y":-672,"width":250,"height":52},
 		{"id":"003440827dafa978","type":"text","text":"Door (Drawn in Owlbear)/Left Stairs","x":-1070,"y":28,"width":270,"height":152},
 		{"id":"f8447f85eb6ca742","type":"text","text":"Portal","x":-218,"y":-670,"width":254,"height":50},
-		{"id":"1219ccd75a4efea5","type":"text","text":"Clock Puzzle","x":-537,"y":525,"width":220,"height":50}
+		{"id":"1219ccd75a4efea5","type":"text","text":"Clock Puzzle","x":-537,"y":525,"width":220,"height":50},
+		{"id":"f17aade8cdf484df","type":"text","text":"Right Door/\nDownstairs","x":1049,"y":240,"width":216,"height":100},
+		{"id":"39b20b2994a4415c","type":"text","text":"Snowglobe","x":1540,"y":-110,"width":216,"height":100}
 	],
 	"edges":[
 		{"id":"2ea3919b1dd8f0d2","fromNode":"00028b1fddc2e2c9","fromSide":"left","toNode":"1c90e59abe5cd3f6","toSide":"right","fromEnd":"arrow"},
 		{"id":"e1ba80f8d5cec20b","fromNode":"3c11030fb9143cb6","fromSide":"right","toNode":"9c2b30124b35482d","toSide":"left","fromEnd":"arrow"},
 		{"id":"29e98de2b825f1b9","fromNode":"9c2b30124b35482d","fromSide":"bottom","toNode":"aa24dc28021edd4d","toSide":"right","toEnd":"none"},
-		{"id":"e6487f62bdebc360","fromNode":"aa24dc28021edd4d","fromSide":"left","toNode":"e88a4abf46879448","toSide":"right","toEnd":"none"},
+		{"id":"e6487f62bdebc360","fromNode":"aa24dc28021edd4d","fromSide":"left","toNode":"e88a4abf46879448","toSide":"right","fromEnd":"arrow"},
 		{"id":"a8386f171b0bc99f","fromNode":"e88a4abf46879448","fromSide":"left","toNode":"74f2295ce4b16dee","toSide":"right","fromEnd":"arrow"},
 		{"id":"beb892d547bd9734","fromNode":"74f2295ce4b16dee","fromSide":"bottom","toNode":"eb6f55a17b9e9826","toSide":"top","fromEnd":"arrow"},
 		{"id":"2c6473e94280a6e0","fromNode":"1c0cee0392dcefbb","fromSide":"left","toNode":"8bb17e335cec64db","toSide":"right"},
