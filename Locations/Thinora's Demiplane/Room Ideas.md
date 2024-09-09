@@ -19,7 +19,7 @@
 - [x] Library
 - [ ] Prison
 - [ ] Cold Storage
-- [ ] Master Bedroom
+- [x] Master Bedroom
 - [x] Experiment Chamber
 - [ ] Nexus - The unstable portal room which connects to various planes, closed because it is filled with water from the elemental plane of water at the moment.
 - [x] Binding Chamber
