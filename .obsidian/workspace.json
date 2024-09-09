@@ -39,10 +39,22 @@
               "state": {
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
-                  "x": 321.6459617508268,
-                  "y": 680.5885436601163,
+                  "x": 692.1078554723131,
+                  "y": 354.95031874306596,
                   "zoom": -1.5000000000000002
                 }
+              }
+            }
+          },
+          {
+            "id": "97f7515d1a7a44cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/11 - Great Library.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -100,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "arms of betray",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -145,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/04 - The Veil Between Worlds.md",
+                "file": "Locations/Thinora's Demiplane/11 - Great Library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/04 - The Veil Between Worlds.md",
+                "file": "Locations/Thinora's Demiplane/11 - Great Library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/04 - The Veil Between Worlds.md"
+                "file": "Locations/Thinora's Demiplane/11 - Great Library.md"
               }
             }
           },
@@ -218,8 +231,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35e3d044e9886e08",
+  "active": "97f7515d1a7a44cc",
   "lastOpenFiles": [
+    "NPCs/Petyr (Pete) Archeron.md",
+    "Locations/Thinora's Demiplane/11 - Great Library.md",
+    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/04 - The Veil Between Worlds.md",
+    "Locations/Thinora's Demiplane/Room Ideas.md",
     "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_TornPage.jpg",
     "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_Spring.jpg",
     "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_SealedGate .jpg",
@@ -230,17 +248,12 @@
     "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_NoText_Night.jpg",
     "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_NoText_Day.jpg",
     "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_NoBook_Night.jpg",
-    "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_NoBook_Day.jpg",
     "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)",
-    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Session Notes/Session 51 - Hell.md",
-    "Locations/Thinora's Demiplane/Room Ideas.md",
-    "Locations/Thinora's Demiplane/04 - The Veil Between Worlds.md",
     "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
     "Locations/Thinora's Demiplane/03 - Room.md",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
-    "Locations/Thinora's Demiplane/11 - Great Library.md",
     "Locations/Thinora's Demiplane/07 - Lake.md",
     "Locations/Thinora's Demiplane/15 - The Staircase.md",
     "Locations/Thinora's Demiplane/05 - Clock Tower.md",

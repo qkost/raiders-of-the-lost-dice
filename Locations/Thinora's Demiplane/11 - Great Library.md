@@ -1,6 +1,11 @@
 ![[G_GreatLibrary_B6ForbiddenLibrary_Night.jpg]]
 ## Description
 
+* Desk
+	* Veil Between worlds
+	* [[Petyr (Pete) Archeron]]'s journal
+		* 
+
 ## Map
 
 ## Monsters
