@@ -39,9 +39,9 @@
               "state": {
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
-                  "x": 474.52443862773555,
-                  "y": -674.0779693728156,
-                  "zoom": -1.3352940720233153
+                  "x": 23.07223860715493,
+                  "y": 95.52678315288108,
+                  "zoom": -2.0833333333333335
                 }
               }
             }
@@ -57,81 +57,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0105cde584723528",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PCs/Tato.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5017d6565c9a582",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organizations/Order of the Ascendant Dragon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aca9eaa447c45466",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/13 - Museum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97f7515d1a7a44cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/11 - Great Library.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35e3d044e9886e08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/04 - The Veil Between Worlds.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df7acd5e9c6d2ae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizations/Order of the Ascendant Dragon.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organizations/Order of the Ascendant Dragon.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organizations/Order of the Ascendant Dragon.md"
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
               }
             }
           },
@@ -278,15 +206,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5017d6565c9a582",
+  "active": "7fb215b8768764ff",
   "lastOpenFiles": [
-    "PCs/Tato.md",
     "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
+    "Locations/Thinora's Demiplane/11 - Great Library.md",
+    "PCs/Tato.md",
+    "Organizations/Order of the Ascendant Dragon.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/13 - Museum.md",
     "Locations/Thinora's Demiplane/Room Ideas.md",
     "Locations/Thinora's Demiplane/04 - The Veil Between Worlds.md",
-    "Locations/Thinora's Demiplane/11 - Great Library.md",
     "PCs/Ember.md",
     "Plot/Major Notes.md",
     "NPCs/Petyr (Pete) Archeron.md",
@@ -306,7 +235,7 @@
     "Locations/Thinora's Demiplane/03 - Room.md",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Locations/Thinora's Demiplane/07 - Lake.md",
-    "Locations/Thinora's Demiplane/15 - The Staircase.md",
+    "Locations/Thinora's Demiplane/15 - Staircase.md",
     "Locations/Thinora's Demiplane/05 - Clock Tower.md",
     "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md",
     "Locations/Thinora's Demiplane/12 - The Angel.md",
@@ -321,7 +250,6 @@
     "Magic Items/Magic Items.md",
     "Session Notes/attachments",
     "Encounters/16 Fireplane.md",
-    "Session Notes/Session 49 - Out of the Frying Pan....md",
     "NPCs/attachments",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
     "Magic Items/Vestiges of Divergence/attachments",

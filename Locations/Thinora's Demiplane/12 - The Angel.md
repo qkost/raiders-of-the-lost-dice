@@ -13,4 +13,4 @@
 
 *  [[02 - The Maw]]
 *  [[10 - Fountain of Youth]]
-*  [[15 - The Staircase]]
+*  [[15 - Staircase]]

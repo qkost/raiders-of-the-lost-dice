@@ -13,7 +13,7 @@
 	* Opens portal to planes (see below)
 * Portal can be shifted between going to:
 	* [[11 - Great Library]]
-	* [[15 - The Staircase]]
+	* [[15 - Staircase]]
 
 ## Map
 
@@ -36,5 +36,5 @@
 ## Room Links
 
 *  [[01 - Foyer Entrance]]
-*  [[15 - The Staircase]]
+*  [[15 - Staircase]]
 *  [[11 - Great Library]]

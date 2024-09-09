@@ -21,5 +21,5 @@
 ## Room Links
 
 *  [[13 - Museum]]
-*  [[15 - The Staircase]]
+*  [[15 - Staircase]]
 *  [[18 - Treasury]]
