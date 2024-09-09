@@ -15,7 +15,8 @@
 * Monsters
 	* Mt. Celestia - [2 Deva](https://www.dndbeyond.com/monsters/16840-deva)
 	* The Abyss - [Chimeron](https://www.dndbeyond.com/monsters/4485806-chimeron)
-	* Mechanus - 
+	* Mechanus - [2 Gearkeeper Construct](https://www.dndbeyond.com/monsters/744313-gearkeeper-construct)
+	* 
 
 ![[lake_encounters.jpg]]
 
