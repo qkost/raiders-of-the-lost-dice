@@ -25,6 +25,7 @@
 	* 10 - Full
 * 2 [Air Elementals](https://www.dndbeyond.com/monsters/16774-air-elemental) saturated with acid
 	* Same, but deal acid damage instead of bludgeoning
+* Acid - DC 14 CON save;  
 ## Map
 
 ## Monsters

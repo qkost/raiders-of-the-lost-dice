@@ -28,19 +28,19 @@
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
                   "x": -181.32540653862395,
-                  "y": 124.50190266420157,
+                  "y": -462.1581622236969,
                   "zoom": -1.3352940720233153
                 }
               }
             }
           },
           {
-            "id": "0ed061ec475314f6",
+            "id": "34a68e00a0a68bc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Thinora's Demiplane/07 - Lake.md",
+                "file": "Locations/Thinora's Demiplane/15 - Staircase.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/07 - Lake.md",
+                "file": "Locations/Thinora's Demiplane/15 - Staircase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/07 - Lake.md",
+                "file": "Locations/Thinora's Demiplane/15 - Staircase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/07 - Lake.md"
+                "file": "Locations/Thinora's Demiplane/15 - Staircase.md"
               }
             }
           },
@@ -194,9 +194,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0ed061ec475314f6",
+  "active": "34a68e00a0a68bc9",
   "lastOpenFiles": [
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/07 - Lake.md",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Session Notes/Session 50 - The Devil You Know.md",
     "Session Notes/Session 51 - Hell.md",
@@ -232,7 +233,6 @@
     "Plot/Major Notes.md",
     "NPCs/Petyr (Pete) Archeron.md",
     "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
-    "Locations/Thinora's Demiplane/07 - Lake.md",
     "Locations/Thinora's Demiplane/15 - Staircase.md",
     "Locations/Thinora's Demiplane/05 - Clock Tower.md",
     "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md",
