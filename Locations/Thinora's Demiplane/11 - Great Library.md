@@ -4,7 +4,8 @@
 * Desk
 	* Veil Between worlds
 	* [[Petyr (Pete) Archeron]]'s journal
-		* 
+		* Ripped out pages
+		* Arms of Betrayers
 
 ## Map
 

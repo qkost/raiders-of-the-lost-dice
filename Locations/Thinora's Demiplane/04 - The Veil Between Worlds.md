@@ -1,4 +1,4 @@
-
+![[GL_CelestialTome_Original_Night.jpg]]
 ## Description
 
 ## Map

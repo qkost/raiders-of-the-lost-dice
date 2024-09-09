@@ -39,8 +39,8 @@
               "state": {
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
-                  "x": 692.1078554723131,
-                  "y": 354.95031874306596,
+                  "x": 557.6238975830702,
+                  "y": 293.11289273844454,
                   "zoom": -1.5000000000000002
                 }
               }
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arms of betray",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/11 - Great Library.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/11 - Great Library.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/11 - Great Library.md"
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
               }
             }
           },
@@ -231,12 +231,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97f7515d1a7a44cc",
+  "active": "9e0d8ef23749563b",
   "lastOpenFiles": [
-    "NPCs/Petyr (Pete) Archeron.md",
-    "Locations/Thinora's Demiplane/11 - Great Library.md",
-    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/04 - The Veil Between Worlds.md",
+    "Locations/Thinora's Demiplane/11 - Great Library.md",
+    "PCs/Ember.md",
+    "Plot/Major Notes.md",
+    "NPCs/Petyr (Pete) Archeron.md",
+    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/Room Ideas.md",
     "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_TornPage.jpg",
     "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_Spring.jpg",
@@ -274,8 +276,6 @@
     "Session Notes/Session 49 - Out of the Frying Pan....md",
     "Session Notes/Session 48 - An Empty Keep.md",
     "NPCs/attachments",
-    "Day Tracker.md",
-    "PCs/Tato.md",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
     "Magic Items/Vestiges of Divergence/attachments",
     "Pictures/barbed_ruin_perspective.png.0.pdnSave",
