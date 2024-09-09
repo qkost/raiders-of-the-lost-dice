@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "48206de36c1b1bd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/Room Ideas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7fb215b8768764ff",
             "type": "leaf",
             "state": {
@@ -39,26 +27,27 @@
               "state": {
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
-                  "x": -145.80689584388392,
-                  "y": 96.39215086726949,
-                  "zoom": -1.751960738689982
+                  "x": -181.32540653862395,
+                  "y": 124.50190266420157,
+                  "zoom": -1.3352940720233153
                 }
               }
             }
           },
           {
-            "id": "257453485f174381",
+            "id": "0ed061ec475314f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Thinora's Demiplane/03 - Carving Farm.md",
+                "file": "Locations/Thinora's Demiplane/07 - Lake.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 51 - Hell.md",
+                "file": "Locations/Thinora's Demiplane/07 - Lake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 51 - Hell.md",
+                "file": "Locations/Thinora's Demiplane/07 - Lake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 51 - Hell.md"
+                "file": "Locations/Thinora's Demiplane/07 - Lake.md"
               }
             }
           },
@@ -205,12 +194,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4592ce8f200c9e97",
+  "active": "0ed061ec475314f6",
   "lastOpenFiles": [
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+    "Session Notes/Session 50 - The Devil You Know.md",
+    "Session Notes/Session 51 - Hell.md",
     "Pictures/demiplane_map.png",
     "Locations/Thinora's Demiplane/03 - Carving Farm.md",
-    "Session Notes/Session 51 - Hell.md",
     "Locations/Thinora's Demiplane/Room Ideas.md",
     "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridless/GL_GiantKitchen_Witchfire.jpg",
     "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridless/GL_GiantKitchen_Snowstorm.jpg",
@@ -241,14 +232,12 @@
     "Plot/Major Notes.md",
     "NPCs/Petyr (Pete) Archeron.md",
     "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
-    "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Locations/Thinora's Demiplane/07 - Lake.md",
     "Locations/Thinora's Demiplane/15 - Staircase.md",
     "Locations/Thinora's Demiplane/05 - Clock Tower.md",
     "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md",
     "Locations/Thinora's Demiplane/12 - The Angel.md",
     "NPCs/Malachai, The Barbed Ruin.md",
-    "Session Notes/Session 50 - The Devil You Know.md",
     "Encounters/09 Plank King.md",
     "Encounters/11 Dragon Turtle Port.md",
     "Encounters/10 Dragon Turtle.md",

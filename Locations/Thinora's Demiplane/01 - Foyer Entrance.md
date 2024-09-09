@@ -8,9 +8,10 @@
 * Doors have symbols over them:
 	* Detect magic reveals abjuration spell (absorb elements)
 	* Left door: flame
-	* Middle door: snowflake
 	* Right door: lightning bolt
-	* Incorrect guess: fight 2d4 elementals of that type
+	* Incorrect guess:
+		* Fireball
+		* Lightning bolt
 
 ## Map
 

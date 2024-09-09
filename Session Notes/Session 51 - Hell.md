@@ -65,8 +65,18 @@
 
 ### 4. Secrets and Clues
 
-* asdf
-* 
+* The Barbed Ruin is the leader of [[The Shrouded Flames]]
+* Barbed Ruin runs the Embassy to the Nine Hells in the City of Brass
+* Thinora making an artificial Sun as a weapon against the [[Krynn Dynasty]]
+* Missing pages in journal
+	* Arms of Betrayers
+	* Suspicious of [[Petyr (Pete) Archeron]] before he turns on Thinora
+* Thinora lost a brother
+	* To Krynn -- cause for her disdain
+	* Keep his body in [[06 - Temporal Isolation Chamber]]
+* [[00 Thinora's Demiplane.canvas|00 Thinora's Demiplane]]
+
+![[demiplane_map.png]]
 
 ### 5. Fantastic Locations
 
