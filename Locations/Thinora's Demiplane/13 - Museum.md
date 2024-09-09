@@ -3,7 +3,7 @@
 
 * Eight paintings on the wall
 * Eight display cases
-* Two locked doors 
+* 
 
 ## Map
 

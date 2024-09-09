@@ -95,7 +95,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Locations/Thinora's Demiplane/13 - Museum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Locations/Thinora's Demiplane/13 - Museum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
+                "file": "Locations/Thinora's Demiplane/13 - Museum.md"
               }
             }
           },
@@ -242,10 +242,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fb215b8768764ff",
+  "active": "aca9eaa447c45466",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/Room Ideas.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/Room Ideas.md",
     "Locations/Thinora's Demiplane/13 - Museum.md",
     "Locations/Thinora's Demiplane/04 - The Veil Between Worlds.md",
     "Locations/Thinora's Demiplane/11 - Great Library.md",
