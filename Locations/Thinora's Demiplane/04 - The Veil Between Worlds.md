@@ -5,6 +5,8 @@
 
 ## Monsters
 
+* Gargantuan rat that uses the [Regisaur statblock](https://www.dndbeyond.com/monsters/3731038-regisaur)
+
 ## Secrets
 
 ## Loot
