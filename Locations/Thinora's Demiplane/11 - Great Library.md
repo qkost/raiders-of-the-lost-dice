@@ -9,7 +9,7 @@
  * Endless library pit
 	 * Ember - DC 18 Wisdom saving throw
 	 * Jump into pit
-	 * 1d6
+	 * Dex save DC 10 or 1d6 bludgeoning damage each round
 ## Map
 
 ## Monsters
