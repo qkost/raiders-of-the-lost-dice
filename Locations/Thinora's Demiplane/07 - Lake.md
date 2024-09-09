@@ -1,6 +1,13 @@
 ![[GL_WizardPrisonPart1_EnterTheVoid.jpg]]
 ## Description
 
+> Eight worlds stand waiting, beyond this door,  
+> Each tied to a flame, a trial at its core.  
+> Three lights burn bright, their truth to decide,  
+> Snuff or ignite, may let champions stride.  
+> With flickers and shadows, a path you'll reveal,  
+> Choose wisely, for each may test your steel.
+
 * Closed door with puzzle
 	* Fires are binary digits
 	* Opens portal to planes (see below)
