@@ -45,9 +45,9 @@
 - [ ] Hall of mirrors
 - [ ] Garden
 - [ ] Boneyard
-- [ ] Stasis - A room kept in stasis. The room of their dead wife/lover/child
+- [x] Stasis - A room kept in stasis. The room of their dead wife/lover/child
 	- [ ] Czepeku snowglobe?
-- [ ] Elemental Chaos - A bunch o' random things can be summoned?
+- [x] Elemental Chaos - A bunch o' random things can be summoned?
 - [ ] Bath house
 - [ ] The World Tree
 - [ ] Portal [Something like this](https://www.czepeku.com/elven-magitech-portal/witch-tech)
