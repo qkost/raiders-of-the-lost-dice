@@ -17,7 +17,7 @@
 		{"id":"7d8c5c61b1a31674","type":"file","file":"Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md","x":1600,"y":80,"width":400,"height":400},
 		{"id":"9c2b30124b35482d","type":"file","file":"Locations/Thinora's Demiplane/09 - Master Bedroom.md","x":1065,"y":-260,"width":400,"height":400},
 		{"id":"91d9d6d2f0fb19ae","type":"text","text":"Left Path/\nMain Door","x":-700,"y":-1114,"width":240,"height":102},
-		{"id":"e5e4f4081cc3e815","type":"text","text":"Right Right/\nLeft Path","x":120,"y":-1114,"width":260,"height":102},
+		{"id":"e5e4f4081cc3e815","type":"text","text":"Right Path","x":120,"y":-1114,"width":260,"height":102},
 		{"id":"aa24dc28021edd4d","type":"file","file":"Locations/Thinora's Demiplane/11 - Great Library.md","x":865,"y":400,"width":400,"height":400},
 		{"id":"00028b1fddc2e2c9","type":"file","file":"Locations/Thinora's Demiplane/01 - Foyer Entrance.md","x":36,"y":-320,"width":400,"height":400},
 		{"id":"1c90e59abe5cd3f6","type":"file","file":"Locations/Thinora's Demiplane/07 - Lake.md","x":-580,"y":-460,"width":400,"height":400},
@@ -37,7 +37,8 @@
 		{"id":"f17aade8cdf484df","type":"text","text":"Right Door/\nDownstairs","x":1049,"y":240,"width":216,"height":100},
 		{"id":"39b20b2994a4415c","type":"text","text":"Snowglobe","x":1540,"y":-110,"width":216,"height":100},
 		{"id":"2d4d7aa87fa066df","type":"text","text":"Book on desk","x":680,"y":920,"width":200,"height":100},
-		{"id":"b91dfd93c7a3822e","type":"text","text":"Doorway","x":-70,"y":1150,"width":180,"height":50}
+		{"id":"b91dfd93c7a3822e","type":"text","text":"Doorway","x":-70,"y":1150,"width":180,"height":50},
+		{"id":"d4fe536ac3fa2931","type":"text","text":"Picnic Table","x":753,"y":-670,"width":260,"height":102}
 	],
 	"edges":[
 		{"id":"2ea3919b1dd8f0d2","fromNode":"00028b1fddc2e2c9","fromSide":"left","toNode":"1c90e59abe5cd3f6","toSide":"right","fromEnd":"arrow"},
@@ -46,22 +47,22 @@
 		{"id":"e6487f62bdebc360","fromNode":"aa24dc28021edd4d","fromSide":"left","toNode":"e88a4abf46879448","toSide":"right","fromEnd":"arrow"},
 		{"id":"a8386f171b0bc99f","fromNode":"e88a4abf46879448","fromSide":"left","toNode":"74f2295ce4b16dee","toSide":"right","fromEnd":"arrow"},
 		{"id":"beb892d547bd9734","fromNode":"74f2295ce4b16dee","fromSide":"bottom","toNode":"eb6f55a17b9e9826","toSide":"top","fromEnd":"arrow"},
-		{"id":"2c6473e94280a6e0","fromNode":"1c0cee0392dcefbb","fromSide":"left","toNode":"8bb17e335cec64db","toSide":"right"},
+		{"id":"2c6473e94280a6e0","fromNode":"1c0cee0392dcefbb","fromSide":"left","toNode":"8bb17e335cec64db","toSide":"right","fromEnd":"arrow"},
 		{"id":"95e4ead29304a5d8","fromNode":"8bb17e335cec64db","fromSide":"bottom","toNode":"79bdb0ef856fef87","toSide":"top","fromEnd":"arrow"},
 		{"id":"a5f49ad42e43aabf","fromNode":"1c90e59abe5cd3f6","fromSide":"top","toNode":"b8d7c3178fdadc8a","toSide":"bottom"},
-		{"id":"4fc5348d90fac45e","fromNode":"b8d7c3178fdadc8a","fromSide":"right","toNode":"a1a680cd9967212d","toSide":"left","fromEnd":"arrow"},
-		{"id":"0efc0fd03ac58d9d","fromNode":"a1a680cd9967212d","fromSide":"bottom","toNode":"3c11030fb9143cb6","toSide":"top","toEnd":"none"},
+		{"id":"4fc5348d90fac45e","fromNode":"b8d7c3178fdadc8a","fromSide":"right","toNode":"a1a680cd9967212d","toSide":"left"},
+		{"id":"0efc0fd03ac58d9d","fromNode":"a1a680cd9967212d","fromSide":"bottom","toNode":"3c11030fb9143cb6","toSide":"top","fromEnd":"arrow"},
 		{"id":"a98cb9e679f2bdb4","fromNode":"b8d7c3178fdadc8a","fromSide":"left","toNode":"8fa9df0b97cc3e02","toSide":"right","fromEnd":"arrow"},
 		{"id":"0b1ff073a2823e83","fromNode":"1c4f9bbe524aaf89","fromSide":"left","toNode":"6971e4a6a6d1e57d","toSide":"top"},
 		{"id":"af8807d9476f6082","fromNode":"9c2b30124b35482d","fromSide":"right","toNode":"7d8c5c61b1a31674","toSide":"left","fromEnd":"arrow"},
 		{"id":"a341c9c06b25f892","fromNode":"1c4f9bbe524aaf89","fromSide":"right","toNode":"d5c8129cd72e91cd","toSide":"left","toEnd":"none"},
 		{"id":"6818abdd38d0d9d4","fromNode":"a1a680cd9967212d","fromSide":"top","toNode":"d5c8129cd72e91cd","toSide":"bottom","toEnd":"none"},
-		{"id":"856a11aa056b0484","fromNode":"aa24dc28021edd4d","fromSide":"bottom","toNode":"3b398e7737766e1b","toSide":"right"},
+		{"id":"856a11aa056b0484","fromNode":"aa24dc28021edd4d","fromSide":"bottom","toNode":"3b398e7737766e1b","toSide":"right","fromEnd":"arrow"},
 		{"id":"88baa68a4c6eaefe","fromNode":"1c90e59abe5cd3f6","fromSide":"left","toNode":"1c0cee0392dcefbb","toSide":"right","fromEnd":"arrow"},
 		{"id":"bc418e64be2c30ec","fromNode":"00028b1fddc2e2c9","fromSide":"right","toNode":"e88a4abf46879448","toSide":"top","fromEnd":"arrow"},
 		{"id":"351c54d8bca7c275","fromNode":"cec0ac78dd904d38","fromSide":"left","toNode":"6971e4a6a6d1e57d","toSide":"bottom"},
 		{"id":"84679e189e21c428","fromNode":"79bdb0ef856fef87","fromSide":"left","toNode":"6971e4a6a6d1e57d","toSide":"right","fromEnd":"arrow"},
-		{"id":"5c562f2bb77479eb","fromNode":"1c0cee0392dcefbb","fromSide":"bottom","toNode":"74f2295ce4b16dee","toSide":"top"},
+		{"id":"5c562f2bb77479eb","fromNode":"1c0cee0392dcefbb","fromSide":"bottom","toNode":"74f2295ce4b16dee","toSide":"top","fromEnd":"arrow"},
 		{"id":"bfb52db9fc383b54","fromNode":"3b398e7737766e1b","fromSide":"bottom","toNode":"cec0ac78dd904d38","toSide":"top"}
 	]
 }
