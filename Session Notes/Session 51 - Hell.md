@@ -45,7 +45,6 @@
 
 * Tato is falling in Dis and [Wraps of Dyamak Awaken](https://www.dndbeyond.com/magic-items/8979101-wraps-of-dyamak-rotld-awakened) and he gains flying speed
 
-
 ### 3. Scenes
 
 * Devils in pursuit
@@ -61,6 +60,7 @@
 	* Devil Reward
 		* 1 [Devil Legate](https://www.dndbeyond.com/monsters/4485819-devil-legate)
 		* 8 [Devil Notaries](https://www.dndbeyond.com/monsters/4485821-devil-notary)
+* 
 * [[00 Thinora's Demiplane.canvas|00 Thinora's Demiplane]]
 
 ### 4. Secrets and Clues

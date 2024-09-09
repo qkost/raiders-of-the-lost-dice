@@ -27,10 +27,22 @@
               "state": {
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
-                  "x": -181.32540653862395,
-                  "y": -462.1581622236969,
+                  "x": 50.8153503202434,
+                  "y": -34.21170809175533,
                   "zoom": -1.3352940720233153
                 }
+              }
+            }
+          },
+          {
+            "id": "51bf20e7513ab52b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -46,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/15 - Staircase.md",
+                "file": "Session Notes/Session 51 - Hell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/15 - Staircase.md",
+                "file": "Session Notes/Session 51 - Hell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/15 - Staircase.md"
+                "file": "Session Notes/Session 51 - Hell.md"
               }
             }
           },
@@ -194,9 +205,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "34a68e00a0a68bc9",
+  "active": "4592ce8f200c9e97",
   "lastOpenFiles": [
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
+    "Locations/Thinora's Demiplane/15 - Staircase.md",
     "Locations/Thinora's Demiplane/07 - Lake.md",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Session Notes/Session 50 - The Devil You Know.md",
@@ -233,7 +246,6 @@
     "Plot/Major Notes.md",
     "NPCs/Petyr (Pete) Archeron.md",
     "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
-    "Locations/Thinora's Demiplane/15 - Staircase.md",
     "Locations/Thinora's Demiplane/05 - Clock Tower.md",
     "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md",
     "Locations/Thinora's Demiplane/12 - The Angel.md",
@@ -241,7 +253,6 @@
     "Encounters/09 Plank King.md",
     "Encounters/11 Dragon Turtle Port.md",
     "Encounters/10 Dragon Turtle.md",
-    "Magic Items/Magic Items.md",
     "Untitled.canvas"
   ]
 }
