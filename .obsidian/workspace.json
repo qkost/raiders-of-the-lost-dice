@@ -39,10 +39,22 @@
               "state": {
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
-                  "x": 491.8319236653974,
-                  "y": -109.00733533611412,
-                  "zoom": -1.7964458471072609
+                  "x": 321.6459617508268,
+                  "y": 680.5885436601163,
+                  "zoom": -1.5000000000000002
                 }
+              }
+            }
+          },
+          {
+            "id": "35e3d044e9886e08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/04 - The Veil Between Worlds.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -59,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Locations/Thinora's Demiplane/04 - The Veil Between Worlds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Locations/Thinora's Demiplane/04 - The Veil Between Worlds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
+                "file": "Locations/Thinora's Demiplane/04 - The Veil Between Worlds.md"
               }
             }
           },
@@ -206,33 +218,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e0d8ef23749563b",
+  "active": "35e3d044e9886e08",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
+    "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_TornPage.jpg",
+    "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_Spring.jpg",
+    "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_SealedGate .jpg",
+    "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_Ritual.jpg",
+    "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_Portal.jpg",
+    "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_Original_Night.jpg",
+    "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_Original_Day.jpg",
+    "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_NoText_Night.jpg",
+    "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_NoText_Day.jpg",
+    "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_NoBook_Night.jpg",
+    "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)/GL_CelestialTome_NoBook_Day.jpg",
+    "Maps/Celestial Tome [46x33] - $5 Rewards (Gridless)",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Session Notes/Session 51 - Hell.md",
+    "Locations/Thinora's Demiplane/Room Ideas.md",
+    "Locations/Thinora's Demiplane/04 - The Veil Between Worlds.md",
+    "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
     "Locations/Thinora's Demiplane/03 - Room.md",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
     "Locations/Thinora's Demiplane/11 - Great Library.md",
-    "Locations/Thinora's Demiplane/Room Ideas.md",
     "Locations/Thinora's Demiplane/07 - Lake.md",
     "Locations/Thinora's Demiplane/15 - The Staircase.md",
     "Locations/Thinora's Demiplane/05 - Clock Tower.md",
     "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md",
     "Locations/Thinora's Demiplane/12 - The Angel.md",
-    "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)/Gridless/GL_MagicalSnowglobe_Settled_Night.jpg",
-    "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)/Gridless/GL_MagicalSnowglobe_Settled_Day.jpg",
-    "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)/Gridless/GL_MagicalSnowglobe_Original_Night.jpg",
-    "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)/Gridless/GL_MagicalSnowglobe_Original_Day.jpg",
-    "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)/Gridless/GL_MagicalSnowglobe_NorthPole_Night.jpg",
-    "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)/Gridless/GL_MagicalSnowglobe_NorthPole_Day.jpg",
-    "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)/Gridless/GL_MagicalSnowglobe_NoGlobe_Night.jpg",
-    "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)/Gridless/GL_MagicalSnowglobe_NoGlobe_Day.jpg",
-    "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)/Gridless/GL_MagicalSnowglobe_NoAnimals_Night.jpg",
-    "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)/Gridless/GL_MagicalSnowglobe_NoAnimals_Day.jpg",
     "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)/Gridless",
     "Maps/Magical Snowglobe [53x42] - $5 Rewards (Gridless)",
-    "Session Notes/Session 51 - Hell.md",
     "Locations/Thinora's Demiplane/attachments",
     "Locations/Thinora's Demiplane/13 - Museum.md",
     "NPCs/Malachai, The Barbed Ruin.md",
@@ -248,12 +263,10 @@
     "NPCs/attachments",
     "Day Tracker.md",
     "PCs/Tato.md",
-    "Organizations/The Ill Hand.md",
     "Magic Items/Vestiges of Divergence/legend-lore-handout.pdf",
     "Magic Items/Vestiges of Divergence/attachments",
     "Pictures/barbed_ruin_perspective.png.0.pdnSave",
     "Pictures/barbed_ruin_perspective.jpg.0.pdnSave",
-    "Pictures/barbed_ruin_perspective.jpeg.0.pdnSave",
     "Untitled.canvas"
   ]
 }

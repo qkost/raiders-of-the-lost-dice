@@ -11,6 +11,6 @@
 
 ## Room Links
 
-*  [[04 - Room]]
+*  [[04 - The Veil Between Worlds]]
 *  [[06 - Temporal Isolation Chamber]]
 *  [[20 - Experiment Chamber]]
