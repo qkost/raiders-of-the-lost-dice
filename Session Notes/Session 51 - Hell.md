@@ -30,7 +30,7 @@
 - [x] Determine appropriate devil reward
 - [ ] How to close portal
 - [x] Devils in pursuit
-- [ ] Demiplane intro
+- [x] Demiplane intro
 
 ## Notes
 ## Prep

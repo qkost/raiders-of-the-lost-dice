@@ -34,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Session Notes/Session 51 - Hell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Session Notes/Session 51 - Hell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
+                "file": "Session Notes/Session 51 - Hell.md"
               }
             }
           },
@@ -182,10 +181,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fb215b8768764ff",
+  "active": "4592ce8f200c9e97",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/04 - The Veil Between Worlds.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/04 - The Veil Between Worlds.md",
     "Locations/Thinora's Demiplane/11 - Great Library.md",
     "Session Notes/Session 51 - Hell.md",
     "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
