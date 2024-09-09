@@ -13,7 +13,9 @@
 ## Monsters
 
 * Monsters
-	* 
+	* Mt. Celestia - [2 Deva](https://www.dndbeyond.com/monsters/16840-deva)
+	* The Abyss - [Chimeron](https://www.dndbeyond.com/monsters/4485806-chimeron)
+	* Mechanus - 
 
 ![[lake_encounters.jpg]]
 
