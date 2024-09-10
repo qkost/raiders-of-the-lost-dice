@@ -64,7 +64,6 @@
 	* [Symbol - Death](https://www.dndbeyond.com/spells/2619127-symbol)
 	* DC 18
 	* 60 ft radius
-	* 
 * [[00 Thinora's Demiplane.canvas|00 Thinora's Demiplane]]
 
 ### 4. Secrets and Clues
