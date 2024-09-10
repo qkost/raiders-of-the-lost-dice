@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "4a22846f0ad519cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizations/The Shrouded Flames.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7fb215b8768764ff",
             "type": "leaf",
             "state": {
@@ -47,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/17 The Barbed Ruin.md",
+                "file": "Organizations/The Shrouded Flames.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/17 The Barbed Ruin.md",
+                "file": "Organizations/The Shrouded Flames.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/17 The Barbed Ruin.md"
+                "file": "Organizations/The Shrouded Flames.md"
               }
             }
           },
@@ -194,8 +206,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "731bb67b316c4cb2",
+  "active": "4a22846f0ad519cc",
   "lastOpenFiles": [
+    "Encounters/17 The Barbed Ruin.md",
     "Encounters/16 Fireplane.md",
     "Session Notes/Session 51 - Hell.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
@@ -242,7 +255,6 @@
     "NPCs/Malachai, The Barbed Ruin.md",
     "Encounters/09 Plank King.md",
     "Encounters/11 Dragon Turtle Port.md",
-    "Encounters/10 Dragon Turtle.md",
     "Untitled.canvas"
   ]
 }
