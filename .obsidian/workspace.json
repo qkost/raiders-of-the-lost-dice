@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "731bb67b316c4cb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encounters/17 The Barbed Ruin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "7fb215b8768764ff",
             "type": "leaf",
             "state": {
@@ -34,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 51 - Hell.md",
+                "file": "Encounters/17 The Barbed Ruin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 51 - Hell.md",
+                "file": "Encounters/17 The Barbed Ruin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 51 - Hell.md"
+                "file": "Encounters/17 The Barbed Ruin.md"
               }
             }
           },
@@ -181,12 +194,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4592ce8f200c9e97",
+  "active": "731bb67b316c4cb2",
   "lastOpenFiles": [
+    "Encounters/16 Fireplane.md",
+    "Session Notes/Session 51 - Hell.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/04 - The Veil Between Worlds.md",
     "Locations/Thinora's Demiplane/11 - Great Library.md",
-    "Session Notes/Session 51 - Hell.md",
     "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
     "Locations/Thinora's Demiplane/15 - Staircase.md",
     "Locations/Thinora's Demiplane/07 - Lake.md",
