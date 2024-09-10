@@ -25,9 +25,9 @@ Her robes are exquisite royal blue and silver robes that shimmer as she walks. S
 ## Motivations
 * Seeks advancement and power within the [[Cerberus Assembly]]
 * Sees the inevitability of war with the [[Krynn Dynasty]]
-	* Brother was killed in a skirmish with the Krynn
+	* Brother (Thelian) was killed in a skirmish with the Krynn
 	* Sees the potential loss of human life as a tragedy
-	* Wants to avoid others dying in war like her brother
+	* Wants to avoid others dying in war like her brother (Thelian)
 	* Seeks to wield power of Necromancy to make an army of soldiers that will die instead of people of the [[Dwendalian Empire]]
 * Seeks to trade [[The Shrouded Flames]] a Tear in exchange for critical information on how to create a phylactery from [[Malachai, The Barbed Ruin]]
 

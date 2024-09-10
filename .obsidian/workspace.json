@@ -20,6 +20,42 @@
             }
           },
           {
+            "id": "1adaa0c9112dea20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69b572de4f9698e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizations/Cerberus Assembly.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6c5383024f65078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Names.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "731bb67b316c4cb2",
             "type": "leaf",
             "state": {
@@ -58,7 +94,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 51 - Hell.md",
+                "file": "Organizations/Cerberus Assembly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 51 - Hell.md",
+                "file": "Organizations/Cerberus Assembly.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 51 - Hell.md"
+                "file": "Organizations/Cerberus Assembly.md"
               }
             }
           },
@@ -205,12 +242,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4592ce8f200c9e97",
+  "active": "69b572de4f9698e8",
   "lastOpenFiles": [
+    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+    "Names.md",
+    "Session Notes/Session 51 - Hell.md",
     "Organizations/The Shrouded Flames.md",
     "Encounters/17 The Barbed Ruin.md",
     "Encounters/16 Fireplane.md",
-    "Session Notes/Session 51 - Hell.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/04 - The Veil Between Worlds.md",
     "Locations/Thinora's Demiplane/11 - Great Library.md",
@@ -252,8 +291,6 @@
     "Locations/Thinora's Demiplane/05 - Clock Tower.md",
     "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md",
     "Locations/Thinora's Demiplane/12 - The Angel.md",
-    "NPCs/Malachai, The Barbed Ruin.md",
-    "Encounters/09 Plank King.md",
     "Untitled.canvas"
   ]
 }
