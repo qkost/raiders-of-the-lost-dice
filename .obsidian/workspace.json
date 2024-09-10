@@ -23,11 +23,14 @@
             "id": "7d93a122a490354d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Session 52.md",
-                "mode": "source",
-                "source": false
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "viewState": {
+                  "x": -245.38076165191478,
+                  "y": 61.35649556267725,
+                  "zoom": -2.1722757697634796
+                }
               }
             }
           },
@@ -40,69 +43,6 @@
                 "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "69b572de4f9698e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Gods/No Name.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6c5383024f65078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Names.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "731bb67b316c4cb2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Encounters/17 The Barbed Ruin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a22846f0ad519cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Organizations/The Shrouded Flames.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7fb215b8768764ff",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
-                "viewState": {
-                  "x": -110.41769060462545,
-                  "y": -63.792552576870094,
-                  "zoom": -2.1686274053566486
-                }
               }
             }
           }
@@ -181,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 52.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 52.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 52.md"
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
               }
             }
           },
@@ -256,8 +196,8 @@
   },
   "active": "7d93a122a490354d",
   "lastOpenFiles": [
-    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Session 52.md",
+    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Session Notes/Session 51 - Hell.md",
     "Gods/No Name.md",
     "Organizations/Cerberus Assembly.md",
