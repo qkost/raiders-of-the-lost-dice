@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "7d93a122a490354d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session 52.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "1adaa0c9112dea20",
             "type": "leaf",
             "state": {
@@ -94,7 +106,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 51 - Hell.md",
+                "file": "Session 52.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 51 - Hell.md",
+                "file": "Session 52.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 51 - Hell.md"
+                "file": "Session 52.md"
               }
             }
           },
@@ -241,13 +254,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4592ce8f200c9e97",
+  "active": "7d93a122a490354d",
   "lastOpenFiles": [
+    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+    "Session 52.md",
+    "Session Notes/Session 51 - Hell.md",
     "Gods/No Name.md",
     "Organizations/Cerberus Assembly.md",
-    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Names.md",
-    "Session Notes/Session 51 - Hell.md",
     "Organizations/The Shrouded Flames.md",
     "Encounters/17 The Barbed Ruin.md",
     "Encounters/16 Fireplane.md",
@@ -289,7 +303,6 @@
     "Plot/Major Notes.md",
     "NPCs/Petyr (Pete) Archeron.md",
     "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
-    "Locations/Thinora's Demiplane/05 - Clock Tower.md",
     "Untitled.canvas"
   ]
 }
