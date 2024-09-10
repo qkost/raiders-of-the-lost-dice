@@ -94,8 +94,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gods/No Name.md",
+                "file": "Session Notes/Session 51 - Hell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gods/No Name.md",
+                "file": "Session Notes/Session 51 - Hell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gods/No Name.md"
+                "file": "Session Notes/Session 51 - Hell.md"
               }
             }
           },
@@ -242,8 +241,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69b572de4f9698e8",
+  "active": "4592ce8f200c9e97",
   "lastOpenFiles": [
+    "Gods/No Name.md",
     "Organizations/Cerberus Assembly.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Names.md",
@@ -290,7 +290,6 @@
     "NPCs/Petyr (Pete) Archeron.md",
     "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
     "Locations/Thinora's Demiplane/05 - Clock Tower.md",
-    "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md",
     "Untitled.canvas"
   ]
 }
