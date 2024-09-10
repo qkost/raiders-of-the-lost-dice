@@ -103,10 +103,11 @@
 * Potions
 	* Potion of Superior Healing
 	* Potion of Supreme Healing
+* Scrolls
 	* Spell scroll of Wall of Stone
 	* Spell scroll of Rary's Telepathic Bond
-	* Animated electrum letter opener (worth 900 gp)
 * Trinkets
+	* Animated electrum letter opener (worth 900 gp)
 	* 13 bottles of vintage celestial wine (worth 1,000 gp each)
 	* The carved skull of St. Naram-Sur (worth 800 gp)
 	* Dragon bone bracelet set with rubies (worth 650 gp)
