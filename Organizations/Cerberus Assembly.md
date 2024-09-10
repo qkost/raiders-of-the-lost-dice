@@ -18,7 +18,6 @@ https://www.dndbeyond.com/sources/egtw/factions-and-societies#CerberusAssembly
 * Headmaster Oremid Hass, Archmage of Cultivation
 * [[Lady Thinora Va'del, Archmage of Antiquity]]
 
-
 ## Copy Pasta
 
 ## Cerberus Assembly
