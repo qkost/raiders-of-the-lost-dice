@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organizations/Cerberus Assembly.md",
+                "file": "Gods/No Name.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizations/Cerberus Assembly.md",
+                "file": "Gods/No Name.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organizations/Cerberus Assembly.md",
+                "file": "Gods/No Name.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organizations/Cerberus Assembly.md"
+                "file": "Gods/No Name.md"
               }
             }
           },
@@ -244,6 +244,7 @@
   },
   "active": "69b572de4f9698e8",
   "lastOpenFiles": [
+    "Organizations/Cerberus Assembly.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Names.md",
     "Session Notes/Session 51 - Hell.md",
@@ -290,7 +291,6 @@
     "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
     "Locations/Thinora's Demiplane/05 - Clock Tower.md",
     "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md",
-    "Locations/Thinora's Demiplane/12 - The Angel.md",
     "Untitled.canvas"
   ]
 }
