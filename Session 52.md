@@ -3,6 +3,7 @@
 
 * Unlocked Wraps of Dyamak
 * Looting
+* Icosohedron
 * Questions for Akistos
 	* What Thinora wants: research release of radiant energy
 	* War with Xhorhas: Archmages all have disparate interests, some involved with war and some not
