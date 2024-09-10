@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizations/The Shrouded Flames.md",
+                "file": "Session Notes/Session 51 - Hell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organizations/The Shrouded Flames.md",
+                "file": "Session Notes/Session 51 - Hell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organizations/The Shrouded Flames.md"
+                "file": "Session Notes/Session 51 - Hell.md"
               }
             }
           },
@@ -206,8 +205,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a22846f0ad519cc",
+  "active": "4592ce8f200c9e97",
   "lastOpenFiles": [
+    "Organizations/The Shrouded Flames.md",
     "Encounters/17 The Barbed Ruin.md",
     "Encounters/16 Fireplane.md",
     "Session Notes/Session 51 - Hell.md",
@@ -254,7 +254,6 @@
     "Locations/Thinora's Demiplane/12 - The Angel.md",
     "NPCs/Malachai, The Barbed Ruin.md",
     "Encounters/09 Plank King.md",
-    "Encounters/11 Dragon Turtle Port.md",
     "Untitled.canvas"
   ]
 }

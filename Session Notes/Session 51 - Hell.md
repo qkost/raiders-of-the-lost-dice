@@ -1,7 +1,7 @@
 
 ## Recap
 
-* Deal with Akitos
+* Deal with Akistos
 	* Get
 		* Upfront info
 		* 10 questions in Vault of Leverage
