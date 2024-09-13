@@ -52,16 +52,16 @@
 
 ### 5. Fantastic Locations
 
-* 
+* [[Ank'harel]]
 
 ### 6. Important NPCs
 
-* 
+* [[J'mon Sa Ord (Devo'ssa)]]
 
 ### 7. Choose Relevant Monsters
 
-* 
+* [Adult Bronze Dragon](<https://www.dndbeyond.com/monsters/16767-adult-bronze-dragon>)
 
 ### 8. Select Magic Item Rewards
 
-* 
+* [Mark of the Platinum Dragon](<https://www.dndbeyond.com/magic-items/9018416-mark-of-the-platinum-dragon>)

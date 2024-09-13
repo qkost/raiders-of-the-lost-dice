@@ -13,65 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 51 - Hell.md",
+                "file": "Session Notes/Session 52 - Ank'harel.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7d93a122a490354d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
-                "viewState": {
-                  "x": -245.38076165191478,
-                  "y": 61.35649556267725,
-                  "zoom": -2.1722757697634796
-                }
-              }
-            }
-          },
-          {
-            "id": "2b2d92df9a5da2e9",
+            "id": "c346803442038679",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Malachai, The Barbed Ruin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b186b8ccfa2dcee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Akistos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1adaa0c9112dea20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+                "file": "Ank'harel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Akistos.md",
+                "file": "Ank'harel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Akistos.md",
+                "file": "Ank'harel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Akistos.md"
+                "file": "Ank'harel.md"
               }
             }
           },
@@ -218,15 +179,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b186b8ccfa2dcee",
+  "active": "c346803442038679",
   "lastOpenFiles": [
+    "NPCs/J'mon Sa Ord (Devo'ssa).md",
+    "Ank'harel.md",
+    "Session Notes/Session 52 - Ank'harel.md",
+    "Session Notes/Session 51 - Hell.md",
+    "NPCs/Akistos.md",
     "NPCs/attachments/akistos_contract2.png",
     "NPCs/attachments/akistos_contract.png",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "NPCs/Malachai, The Barbed Ruin.md",
-    "NPCs/Akistos.md",
-    "Ank'harel.md",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless/GL_NymphFountain_Massacre.jpg",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless/GL_NymphFountain_Lava.jpg",
@@ -236,15 +200,12 @@
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless/GL_NymphFountain_Fountain.jpg",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless/GL_NymphFountain_Fog.jpg",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless/GL_NymphFountain_EntranceMural.jpg",
-    "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless/GL_NymphFountain_Dragon_Day.jpg",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1",
-    "Session Notes/Session 52.md",
-    "Session Notes/Session 51 - Hell.md",
     "Gods/No Name.md",
     "Organizations/Cerberus Assembly.md",
     "Names.md",

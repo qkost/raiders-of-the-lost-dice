@@ -1,7 +1,7 @@
 
 ## Overview
 
-* J'mon Sa Ord
+* [[J'mon Sa Ord (Devo'ssa)]]
 	* Adult Bronze Dragon
 	* Devo'ssa
 * Guards - The Hand of Ord
