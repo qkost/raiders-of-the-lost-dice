@@ -29,17 +29,26 @@ The scribe, (signature burned away), agrees to immediately bestow upon the recip
 - Boon of Spell Recall
 - Boon of the Night Spirit
 - Boon of Truesight
-  
 
-The recipient(s) , agrees to obtain a "Tear of Desirat" deliver it without tampering to the scribe within one Catha month of signing this contract.  
+The recipient(s) agree to obtain a "Tear of Desirat" deliver it without tampering to the scribe within one Catha month of signing this contract.
 
-The recipient(s), ________, agree to desecrate a three holy sites chosen by the scribe, creating a planar rift connecting the Nine Hells of Baator to each holy site, with power granted by the scribe, within one Catha month of invoking this pact. Any failure to desecrate these sites or interference after desecration, directly or indirectly, will be considered a violation of this contract.
+ ________
+ ________
+ ________
+ ________
+
+
   
 SECOND PACT  
   
 The scribe, (signature burned away), agrees to grant the recipient extreme powers that could otherwise only be achieved through years of dedicated experience. This power shall be equivalent of three tiers of combat prowess and shall last until the recipient's death.  
-  
-The recipient, ________, agrees to immediately lock the claim and ownership of their everlasting soul, invoking the laws of the pact primeval, under the control and dominance of the scribe for all of eternity, sending the soul of the recipient immediately upon death to the scribe to do with as they see fit. Any attempt to subvert death on behalf of the recipient, through immortality, undeath, resurrection magic, or other means, will result in the immediate forfeiture of the soul of the recipient to the scribe.  
+
+The recipient(s) agree to desecrate a three holy sites chosen by the scribe, creating a planar rift connecting the Nine Hells of Baator to each holy site, with power granted by the scribe, within one Catha month of invoking this pact. Any failure to desecrate these sites or interference after desecration, directly or indirectly, will be considered a violation of this contract.
+ ________
+ ________
+ ________
+ ________
+
   
 DISPUTE RESOLUTION  
   
@@ -49,5 +58,10 @@ Any disputes arising from or related to this contract will be resolved in the Di
   
 Signed by the agreed upon parties, under the laws of the pact primeval:  
   
-Scribe: Malachai  
-Recipient: ________
+Scribe: (signature burned away)  
+Recipients:
+
+________
+ ________
+ ________
+ ________
