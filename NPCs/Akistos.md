@@ -15,7 +15,7 @@ This contract binds the scribe and recipient into a deal of chosen escalation fo
   
 This contract as a whole remains until the predetermined period of eternity, allowing the recipient, should they feel inclined, to invoke and trigger the first or second pact any time thereafter through written acceptance on the indicated signatory lines. The obligations and parameters agreed upon within the first or second pact then become binding and immediate, to be fulfilled on part of both parties. Upon completion of the agreed obligations and parameters on both sides of the first or second pact, that pact is considered complete and concluded. This contract remains in effect through all pacts and thereafter, maintaining any agreed-upon specifications and obligations that remain outside of a pact's completion, for eternity.
 
-Any attempt to harm the scribe or recipient 
+Until the end of time, any attempt to harm the scribe or recipient by the other, directly or indirectly, will be considered a violation of this contract.
   
 Any violation of this contract on the part of the scribe immediately holds this contract null and void, requiring a penalty payment of 100,000 gold pieces to the recipient to be paid immediately. Any violation of this contract on the part of the recipient immediately locks the claim and ownership of the everlasting soul of the recipient, invoking the laws of the pact primeval, under the control and dominance of the scribe for all of eternity, sending the soul of the recipient immediately upon death to the scribe to do with as they see fit. After any violation of this contract, any attempt to subvert death on behalf of the recipient, through immortality, undeath, resurrection magic, or other means, will result in the immediate forfeiture of the soul of the recipient to the scribe.  
 
@@ -68,4 +68,4 @@ ________
  ________
  ________
 
-![[akistos_contract.png]]
+![[akistos_contract2.png]]
