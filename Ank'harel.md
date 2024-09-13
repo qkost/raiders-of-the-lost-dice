@@ -1,7 +1,9 @@
 
 ## Overview
 
-* J'mon Sa Ord - Adult Bronze Dragon
+* J'mon Sa Ord
+	* Adult Bronze Dragon
+	* Devo'ssa
 * Guards - The Hand of Ord
 
 ## Locations
