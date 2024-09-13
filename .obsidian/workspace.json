@@ -40,7 +40,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ank'harel.md",
+                "file": "NPCs/Malachai, The Barbed Ruin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b186b8ccfa2dcee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Akistos.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ank'harel.md",
+                "file": "Akistos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ank'harel.md",
+                "file": "Akistos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ank'harel.md"
+                "file": "Akistos.md"
               }
             }
           },
@@ -206,10 +218,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b2d92df9a5da2e9",
+  "active": "1b186b8ccfa2dcee",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "NPCs/Malachai, The Barbed Ruin.md",
+    "Akistos.md",
     "Ank'harel.md",
+    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless/GL_NymphFountain_Massacre.jpg",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless/GL_NymphFountain_Lava.jpg",
@@ -227,7 +241,7 @@
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1",
-    "Session 52.md",
+    "Session Notes/Session 52.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Session Notes/Session 51 - Hell.md",
     "Gods/No Name.md",
@@ -253,7 +267,6 @@
     "Organizations/Order of the Ascendant Dragon.md",
     "Locations/Thinora's Demiplane/13 - Museum.md",
     "PCs/Ember.md",
-    "Plot/Major Notes.md",
     "Untitled.canvas"
   ]
 }
