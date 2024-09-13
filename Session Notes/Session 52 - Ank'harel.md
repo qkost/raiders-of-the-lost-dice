@@ -44,7 +44,9 @@
 
 ### 3. Scenes
 
-* 
+* Convince guards to see [[J'mon Sa Ord (Devo'ssa)]]
+* Talk with [[J'mon Sa Ord (Devo'ssa)]] in the Alluvium Gardens
+	* 1 on 1 fight
 
 ### 4. Secrets and Clues
 
