@@ -3,9 +3,15 @@
 
 ## Description
 
+* Come out of a salad (from [[19 - Courtyard]])
+* Rancid, moldy food
+* Portal to [[17 - Guest Quarters]] is at bottom of soup
+
 ## Map
 
 ## Monsters
+
+* 4x [otyugh](https://www.dndbeyond.com/monsters/16973-otyugh)
 
 ## Secrets
 
