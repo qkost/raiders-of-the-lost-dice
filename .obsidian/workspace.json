@@ -15,27 +15,26 @@
               "state": {
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
-                  "x": -151.44108736661536,
-                  "y": 551.1699442889922,
+                  "x": 287.8244930690087,
+                  "y": 182.68631953013278,
                   "zoom": -1.379779180440594
                 }
               }
             }
           },
           {
-            "id": "33638c71cec48b5d",
+            "id": "4194c061c5efa969",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Thinora's Demiplane/13 - Museum.md",
+                "file": "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/13 - Museum.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/13 - Museum.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/13 - Museum.md"
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
               }
             }
           },
@@ -182,9 +181,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33638c71cec48b5d",
+  "active": "a72b906e2a473872",
   "lastOpenFiles": [
+    "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/13 - Museum.md",
     "Locations/Thinora's Demiplane/14 - Raw Materials.md",
     "Session Notes/Session 52 - Ank'harel.md",
     "Locations/Ank'harel.md",
@@ -229,7 +230,6 @@
     "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridded",
     "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1",
     "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
-    "PCs/Tato.md",
     "Untitled.canvas"
   ]
 }
