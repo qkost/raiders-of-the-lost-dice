@@ -5,6 +5,8 @@
 
 ## Monsters
 
+* [Mage Hunter Golem]()
+
 ## Secrets
 
 ## Loot
