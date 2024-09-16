@@ -16,7 +16,12 @@ https://criticalrole.fandom.com/wiki/Ank'Harel
 	* The Debt's Respite - low-life tavern
 	* Oddities & Eccentricities - curiosity shop
 	* The Shade - tavern with dark green tent steeple
-	* Pirigan's Palace of Poten
+	* Pirigan's Palace of Potent Potions
+		* Large cauldron with all sorts of things mixed in, auto-stirring
+		* Potion of random effects
+			* 3 potions of regular healing
+			* 2 potions of greater healing
+			* 
 * Sand-Herald District
 	* Cerulean Palace
 		* Gameshega
