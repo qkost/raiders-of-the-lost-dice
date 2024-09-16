@@ -5,6 +5,7 @@
 	* Adult Bronze Dragon
 	* Devo'ssa
 * Guards - The Hand of Ord
+* Gameshega - Grand Maven in the Cerulean palace
 
 ## Locations
 
@@ -17,6 +18,7 @@ https://criticalrole.fandom.com/wiki/Ank'Harel
 	* The Shade - tavern with dark green tent steeple
 * Sand-Herald District
 	* Cerulean Palace
+		* Gameshega
 	* Alluvium Gardens
 	* Indala Skyport
 * Sigil District

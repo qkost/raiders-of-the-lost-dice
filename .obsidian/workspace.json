@@ -13,18 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 51 - Questions and Answers.md",
+                "file": "Session Notes/Session 52 - Ank'harel.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "4592ce8f200c9e97",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           },
           {
@@ -33,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ank'harel.md",
+                "file": "Locations/Ank'harel.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Notes/Session 52 - Ank'harel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Session Notes/Session 52 - Ank'harel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Session Notes/Session 52 - Ank'harel.md"
+              }
             }
           },
           {
@@ -183,13 +178,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4592ce8f200c9e97",
+  "active": "a72b906e2a473872",
   "lastOpenFiles": [
+    "Locations/Ank'harel.md",
+    "Session Notes/Session 52 - Ank'harel.md",
+    "Names.md",
+    "Session Notes/Session 51 - Questions and Answers.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
-    "Session Notes/Session 52 - Ank'harel.md",
-    "Ank'harel.md",
-    "Session Notes/Session 51 - Questions and Answers.md",
     "NPCs/J'mon Sa Ord (Devo'ssa).md",
     "NPCs/Akistos.md",
     "NPCs/attachments/akistos_contract2.png",
@@ -212,7 +208,6 @@
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1",
     "Gods/No Name.md",
     "Organizations/Cerberus Assembly.md",
-    "Names.md",
     "Organizations/The Shrouded Flames.md",
     "Encounters/17 The Barbed Ruin.md",
     "Encounters/16 Fireplane.md",
