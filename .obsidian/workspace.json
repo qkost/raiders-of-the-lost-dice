@@ -11,14 +11,11 @@
             "id": "a72b906e2a473872",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
-                "viewState": {
-                  "x": 759.1496042191211,
-                  "y": -450.7336874494314,
-                  "zoom": -1.379779180440594
-                }
+                "file": "Locations/Ank'harel.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Locations/Ank'harel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Locations/Ank'harel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
+                "file": "Locations/Ank'harel.md"
               }
             }
           },
@@ -171,8 +168,8 @@
   },
   "active": "a72b906e2a473872",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
     "Locations/Thinora's Demiplane/03 - Carving Farm.md",
     "Locations/Thinora's Demiplane/11 - Great Library.md",
     "Locations/Thinora's Demiplane/08 - Binding Chamber.md",
@@ -214,7 +211,6 @@
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1",
     "Gods/No Name.md",
     "Organizations/Cerberus Assembly.md",
-    "Organizations/The Shrouded Flames.md",
     "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridless",
     "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridded",
     "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1",
