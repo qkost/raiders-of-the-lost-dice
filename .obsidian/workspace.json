@@ -15,56 +15,20 @@
               "state": {
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
-                  "x": -178.5050776133989,
-                  "y": 26.549197125145497,
-                  "zoom": -1.379779180440594
+                  "x": -612.8549135132157,
+                  "y": -727.9595807919272,
+                  "zoom": -0.12977918044059394
                 }
               }
             }
           },
           {
-            "id": "d41e95da46cf38bf",
+            "id": "b869272c92bfb42a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Thinora's Demiplane/18 - Treasury.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0fa9e01c0854f773",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic Items/Magic Items.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83ae9c4782c14d61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/18 - Treasury.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33ea6f0a5d6fcd75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
+                "file": "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
                 "mode": "source",
                 "source": false
               }
@@ -145,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/18 - Treasury.md",
+                "file": "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/18 - Treasury.md",
+                "file": "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/18 - Treasury.md"
+                "file": "Locations/Thinora's Demiplane/10 - Fountain of Youth.md"
               }
             }
           },
@@ -218,11 +182,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d41e95da46cf38bf",
+  "active": "b869272c92bfb42a",
   "lastOpenFiles": [
-    "Magic Items/Magic Items.md",
-    "Locations/Thinora's Demiplane/18 - Treasury.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/18 - Treasury.md",
+    "Magic Items/Magic Items.md",
     "().md",
     "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
     "Locations/Thinora's Demiplane/05 - Clock Tower.md",
@@ -263,7 +227,6 @@
     "Locations/Thinora's Demiplane/11 - Great Library.md",
     "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
     "Locations/Thinora's Demiplane/07 - Lake.md",
-    "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridless",
     "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridded",
     "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1",
