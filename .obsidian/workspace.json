@@ -16,9 +16,45 @@
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
                   "x": -612.8549135132157,
-                  "y": -727.9595807919272,
+                  "y": -346.38306122287315,
                   "zoom": -0.12977918044059394
                 }
+              }
+            }
+          },
+          {
+            "id": "0751b2a6ee04a02d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2811024ef7d7dc2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encounters/17 The Barbed Ruin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aeccaed4d1561ccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -35,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
+                "file": "Encounters/17 The Barbed Ruin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
+                "file": "Encounters/17 The Barbed Ruin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/10 - Fountain of Youth.md"
+                "file": "Encounters/17 The Barbed Ruin.md"
               }
             }
           },
@@ -182,9 +218,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b869272c92bfb42a",
+  "active": "2811024ef7d7dc2c",
   "lastOpenFiles": [
+    "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
     "Locations/Thinora's Demiplane/18 - Treasury.md",
     "Magic Items/Magic Items.md",
     "().md",
@@ -197,7 +236,6 @@
     "Locations/Ank'harel.md",
     "Names.md",
     "Session Notes/Session 51 - Questions and Answers.md",
-    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "NPCs/J'mon Sa Ord (Devo'ssa).md",
     "NPCs/Akistos.md",
     "NPCs/attachments/akistos_contract2.png",
@@ -225,7 +263,6 @@
     "Encounters/16 Fireplane.md",
     "Locations/Thinora's Demiplane/04 - The Veil Between Worlds.md",
     "Locations/Thinora's Demiplane/11 - Great Library.md",
-    "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
     "Locations/Thinora's Demiplane/07 - Lake.md",
     "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridless",
     "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridded",
