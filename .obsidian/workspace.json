@@ -15,63 +15,38 @@
               "state": {
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
-                  "x": -612.8549135132157,
-                  "y": -346.38306122287315,
-                  "zoom": -0.12977918044059394
+                  "x": 126.27392846895464,
+                  "y": 220.26561196909097,
+                  "zoom": -1.379779180440594
                 }
               }
             }
           },
           {
-            "id": "0751b2a6ee04a02d",
+            "id": "4f193ab35ec6308a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+                "file": "Locations/Thinora's Demiplane/11 - Great Library.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2811024ef7d7dc2c",
+            "id": "86a33aab63a20c72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encounters/17 The Barbed Ruin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aeccaed4d1561ccf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b869272c92bfb42a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
+                "file": "Locations/Thinora's Demiplane/08 - Binding Chamber.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md"
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
               }
             }
           },
@@ -218,12 +193,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0751b2a6ee04a02d",
+  "active": "a72b906e2a473872",
   "lastOpenFiles": [
-    "Encounters/17 The Barbed Ruin.md",
-    "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
-    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+    "Locations/Thinora's Demiplane/11 - Great Library.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/08 - Binding Chamber.md",
+    "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+    "Encounters/17 The Barbed Ruin.md",
+    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
     "Locations/Thinora's Demiplane/18 - Treasury.md",
     "Magic Items/Magic Items.md",
@@ -262,8 +239,6 @@
     "Organizations/The Shrouded Flames.md",
     "Encounters/16 Fireplane.md",
     "Locations/Thinora's Demiplane/04 - The Veil Between Worlds.md",
-    "Locations/Thinora's Demiplane/11 - Great Library.md",
-    "Locations/Thinora's Demiplane/07 - Lake.md",
     "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridless",
     "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridded",
     "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1",
