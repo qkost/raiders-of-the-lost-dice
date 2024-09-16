@@ -64,7 +64,7 @@
 - [ ] [Quaal's Feather Token](https://www.dndbeyond.com/magic-items/13584-quaals-feather-token)
 - [ ] [Ring of Animal Influence](https://www.dndbeyond.com/magic-items/4717-ring-of-animal-influence)
 - [ ] [Crystal Blade](https://www.dndbeyond.com/magic-items/4047184-crystal-blade)
-- [ ] [Stormrider Boots](https://www.dndbeyond.com/magic-items/7171012-stormrider-boots)
+- [x] [Stormrider Boots](https://www.dndbeyond.com/magic-items/7171012-stormrider-boots)
 - [ ] [Glimmering Moonbow](https://www.dndbeyond.com/magic-items/7526700-glimmering-moonbow-shortbow)
 ## Very Rare
 

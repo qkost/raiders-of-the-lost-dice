@@ -25,7 +25,9 @@
 ## Loot
 
 * Tear of Desirat
-* 
+* [Animated Shield](https://www.dndbeyond.com/magic-items/4571-animated-shield)
+* [Cli Lyre](https://www.dndbeyond.com/magic-items/5435-cli-lyre)
+* 5,000 gp worth of residuum
 
 ## Room Links
 
