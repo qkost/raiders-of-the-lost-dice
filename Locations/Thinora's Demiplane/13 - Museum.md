@@ -19,9 +19,16 @@
 	* Key
 	* Sword
 	* String
-* Solution
+* Solution - break container and place item in display case in corresponding location in mirror
 	* Gear in clock
 	* Book in library shelves
+* Missed guesses
+	* Lute - Bard plays discordant chord:
+		* DC 12 Con Save
+		* 2d10 thunder damage (or half)
+	* Hand
+	* Door
+		* Mimic
 
 ## Map
 
