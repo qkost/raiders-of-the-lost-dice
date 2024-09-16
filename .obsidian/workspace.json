@@ -71,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encounters/17 The Barbed Ruin.md",
+                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encounters/17 The Barbed Ruin.md",
+                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encounters/17 The Barbed Ruin.md"
+                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md"
               }
             }
           },
@@ -218,8 +218,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2811024ef7d7dc2c",
+  "active": "0751b2a6ee04a02d",
   "lastOpenFiles": [
+    "Encounters/17 The Barbed Ruin.md",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
@@ -259,7 +260,6 @@
     "Gods/No Name.md",
     "Organizations/Cerberus Assembly.md",
     "Organizations/The Shrouded Flames.md",
-    "Encounters/17 The Barbed Ruin.md",
     "Encounters/16 Fireplane.md",
     "Locations/Thinora's Demiplane/04 - The Veil Between Worlds.md",
     "Locations/Thinora's Demiplane/11 - Great Library.md",
