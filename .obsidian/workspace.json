@@ -15,20 +15,20 @@
               "state": {
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
-                  "x": -100,
-                  "y": -6,
-                  "zoom": -2.2131125137739276
+                  "x": -151.44108736661536,
+                  "y": 551.1699442889922,
+                  "zoom": -1.379779180440594
                 }
               }
             }
           },
           {
-            "id": "556d5ba772a833ad",
+            "id": "33638c71cec48b5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Thinora's Demiplane/14 - Raw Materials.md",
+                "file": "Locations/Thinora's Demiplane/13 - Museum.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/14 - Raw Materials.md",
+                "file": "Locations/Thinora's Demiplane/13 - Museum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/14 - Raw Materials.md",
+                "file": "Locations/Thinora's Demiplane/13 - Museum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/14 - Raw Materials.md"
+                "file": "Locations/Thinora's Demiplane/13 - Museum.md"
               }
             }
           },
@@ -182,9 +182,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "556d5ba772a833ad",
+  "active": "33638c71cec48b5d",
   "lastOpenFiles": [
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/14 - Raw Materials.md",
     "Session Notes/Session 52 - Ank'harel.md",
     "Locations/Ank'harel.md",
     "Names.md",
@@ -229,7 +230,6 @@
     "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1",
     "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
     "PCs/Tato.md",
-    "Organizations/Order of the Ascendant Dragon.md",
     "Untitled.canvas"
   ]
 }
