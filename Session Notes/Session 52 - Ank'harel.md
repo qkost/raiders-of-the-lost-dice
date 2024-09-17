@@ -38,7 +38,16 @@
 	* Tato convinced her to grant him her blessing
 	* She transformed into the great dragon Devo'ssa and challenged [[Tato]] to a duel
 	* Tato emerged victorious, and gained the ability to channel her lightning breath
-* J'mon 
+* J'mon then granted Tato more of her strength, transforming the [[Wraps of Dyamak]] in to the Mark of the Platinum Dragon
+* Bought a bunch of potions (I didn't write down)
+	* Potion of Speed
+	* Some number of potions of healing of various rarities
+	* Potion of heroism?
+* Rested in the Cerulean Palace
+* Utilized the Nexus Stone (icosohedron Kefra had) to teleport to the Foyer of Thinora's Demiplane
+	* The chandelier animated in the room and said: "Welcome my dear Kefra. Please take a seat and my assistant will be with you in a moment. Don't venture too far now, it can get a bit dangerous/"
+	* Opened the left door in the Foyer using fire spells
+	* Decided to 
 
 ## Prep
 ### 1. Review Characters
