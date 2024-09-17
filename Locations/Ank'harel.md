@@ -21,7 +21,6 @@ https://criticalrole.fandom.com/wiki/Ank'Harel
 		* Potion of random effects
 			* 3 potions of regular healing
 			* 2 potions of greater healing
-			* 
 * Sand-Herald District
 	* Cerulean Palace
 		* Gameshega
