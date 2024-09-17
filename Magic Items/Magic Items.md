@@ -8,7 +8,7 @@
 - [ ] [Boots of False Tracks](https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks)
 - [ ] [Cast-Off Armor, Breastplate](https://www.dndbeyond.com/magic-items/36575-cast-off-armor-breastplate)
 - [ ] [Walloping Ammunition](https://www.dndbeyond.com/magic-items/36839-walloping-ammunition)
-- [ ] [Emerald Pen](https://www.dndbeyond.com/magic-items/4047218-emerald-pen)
+- [x] [Emerald Pen](https://www.dndbeyond.com/magic-items/4047218-emerald-pen)
 - [x] Celebone
 - [x] Potion of Climbing (Kobolds)
 ### Uncommon

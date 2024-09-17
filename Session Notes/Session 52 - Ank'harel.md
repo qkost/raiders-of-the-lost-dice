@@ -52,7 +52,6 @@
 
 * Thinora has simulacrum
 * Thinora made simulacrum of shimmerwing
-* 
 
 ### 5. Fantastic Locations
 
