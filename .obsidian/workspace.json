@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "a4205273a6b786fb",
@@ -148,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session 53 - The Beginning of the End.md",
+                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session 53 - The Beginning of the End.md",
+                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session 53 - The Beginning of the End.md"
+                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md"
               }
             }
           },
@@ -221,10 +222,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8f90708a0685b11",
+  "active": "db3fdc623c70cd0a",
   "lastOpenFiles": [
-    "Session Notes/Session 52 - Ank'harel.md",
     "Session 53 - The Beginning of the End.md",
+    "Session Notes/Session 52 - Ank'harel.md",
     "Locations/Ank'harel.md",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "NPCs/Abbot Bok (Shimmerwing).md",
