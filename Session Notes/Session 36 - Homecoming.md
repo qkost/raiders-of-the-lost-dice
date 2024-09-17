@@ -13,7 +13,7 @@
 ## Notes
 
 * Met [[Chives]] in Cliffhaven; took donkeys up
-* Met with [[Abbot Bok]]
+* Met with [[Abbot Bok (Shimmerwing)]]
 	* Told him about pirates
 	* Vestiges
 	* Thinora coming in a few days 3 people
@@ -22,7 +22,7 @@
 	* Send off pearl of power
 	* Leave
 	* Stay and confront Thinora
-* Tato given pseudodragon familiar made from [[Abbot Bok]]'s breath.
+* Tato given pseudodragon familiar made from [[Abbot Bok (Shimmerwing)]]'s breath.
 	* Named Parsnip
 * Given quest to go to temple on top of the mountain
 	* Retrieve draconomicon and box on desk
@@ -40,17 +40,17 @@
 
 ### 3. Scenes
 
-* Ruta training with [[Abbot Bok]]
-* Meeting with [[Abbot Bok]]
+* Ruta training with [[Abbot Bok (Shimmerwing)]]
+* Meeting with [[Abbot Bok (Shimmerwing)]]
 	* Mention [[Lady Thinora Va'del, Archmage of Antiquity]] is coming
 * [[12 Shimmerwing Lair V2]]
 
 ### 4. Secrets and Clues
 
-* [[Lady Thinora Va'del, Archmage of Antiquity]] is due to meet with [[Abbot Bok]] in a few days
+* [[Lady Thinora Va'del, Archmage of Antiquity]] is due to meet with [[Abbot Bok (Shimmerwing)]] in a few days
 	* Her ruse is to use [[Brokenbank]] as an outpost for war with the [[Krynn Dynasty]]
 	* She tracked players to time her arrival with theirs
-* [[Abbot Bok]] has a "draconimicon" with detailed history of many notable dragons in his lair
+* [[Abbot Bok (Shimmerwing)]] has a "draconimicon" with detailed history of many notable dragons in his lair
 
 ### 5. Fantastic Locations
 

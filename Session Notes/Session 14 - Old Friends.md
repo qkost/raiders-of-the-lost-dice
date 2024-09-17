@@ -1,7 +1,7 @@
 
 ## Recap
 
-Welcome friends back to the world of Exandria! Last we left off our adventurers had an intense showdown with [[Tato]]'s longtime mentor and leader of the *Sanctuary of the Draconic Protector*, [[Abbot Bok]]. You fought across the boughs of a great tree trading many blows as his fists froze Tato and Kelward into unconsciousness. At the last possible moment, [[Ember]] cast a spell to put the master Monk to sleep and ending the fight.
+Welcome friends back to the world of Exandria! Last we left off our adventurers had an intense showdown with [[Tato]]'s longtime mentor and leader of the *Sanctuary of the Draconic Protector*, [[Abbot Bok (Shimmerwing)]]. You fought across the boughs of a great tree trading many blows as his fists froze Tato and Kelward into unconsciousness. At the last possible moment, [[Ember]] cast a spell to put the master Monk to sleep and ending the fight.
 
 After some shenanigans with a Fog Cloud spell attempting to prank the sleeping Abbot, a huge imposing form rose from the mists and you saw before you a massive silver dragon. The Abbot introduced his true from as Golos-bok'eir "Shimmerwing" and he provided you some wisdom in your quest, some helpful arcane items, and a flute made from his own scale that you can summon him a single time in a moment of great need.
 

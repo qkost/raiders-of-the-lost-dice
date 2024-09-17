@@ -30,6 +30,16 @@
 * Plane Shifted to Ank'Harel, the Jewel of Marquet
 
 ## Notes
+
+* Talked to Grand Maven Gameshega in the Cerulean Palace of [[Ank'harel]]
+	* [[Ember]] and [[Tato]] convinced her for an immediate audience with [[J'mon Sa Ord (Devo'ssa)]]
+	* Expressed urgency due to involvement of other dragons ([[Abbot Bok (Shimmerwing)]]) and extraplanar beings
+* Met J'mon in the Alluvium Gardens
+	* Tato convinced her to grant him her blessing
+	* She transformed into the great dragon Devo'ssa and challenged [[Tato]] to a duel
+	* Tato emerged victorious, and gained the ability to channel her lightning breath
+* J'mon 
+
 ## Prep
 ### 1. Review Characters
 

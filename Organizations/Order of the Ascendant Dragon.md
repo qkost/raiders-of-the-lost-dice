@@ -1,7 +1,7 @@
 ## Members 
 
 * [[Tato]] - PC
-* [[Abbot Bok]] - Leader
+* [[Abbot Bok (Shimmerwing)]] - Leader
 * [[Chives]] - Best friend and rival of Tato
 
 Other members

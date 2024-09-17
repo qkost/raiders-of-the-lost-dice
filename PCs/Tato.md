@@ -19,7 +19,7 @@
 ## Vignette
 
 * Does an X hit?
-* Sparring alongside [[Chives]] against [[Abbot Bok]]
+* Sparring alongside [[Chives]] against [[Abbot Bok (Shimmerwing)]]
 * Beautiful monastery of white granite overlooking a cliff side; a cool sea breeze 
 * Stone pillars
 * Statue of [[Bahamut, The Platinum Dragon]]

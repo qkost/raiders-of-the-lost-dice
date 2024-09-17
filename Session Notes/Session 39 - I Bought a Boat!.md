@@ -75,7 +75,7 @@
 * [[Dr. April Moors]] is a Plane Walker
 * [[Lady Thinora Va'del, Archmage of Antiquity]] -  has many people turned into jewelry that she wears
 	* [[Petyr (Pete) Archeron]]
-	* [[Abbot Bok]]
+	* [[Abbot Bok (Shimmerwing)]]
 * Plane of Fire
 	* Extremely hot -- resting not possible outside the City of Brass
 	* Portals go to random location

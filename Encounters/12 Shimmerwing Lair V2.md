@@ -121,7 +121,7 @@ Answer:
 	* Notable dragons
 		* Karkethzerethzeruth
 		* [[Zunda'i-Miir]] - lots of detail
-		* [[Abbot Bok]] - Golos-bok'eir
+		* [[Abbot Bok (Shimmerwing)]] - Golos-bok'eir
 		* Devo'ssa
 		* [Vorvexis](https://www.dndbeyond.com/sources/egtw/wildemount-gazetteer-blightshore#NewHaxon) - defender of New Haxon ([[Dwendalian Empire]]'s outpost on Blightshore)
 		* Chroma Conclave

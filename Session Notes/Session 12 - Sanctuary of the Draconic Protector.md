@@ -11,7 +11,7 @@ Welcome friends back to the world of Exandria! Last we left off our adventurers 
 	* Returned from the front between the [[Dwendalian Empire]] and the [[Krynn Dynasty]]
 	* Went to Talonstadt and took place in the battle
 	* Witness raising of dead in battle at Talonstadt
-* [[Abbot Bok]]
+* [[Abbot Bok (Shimmerwing)]]
 	* Challenge for training
 * History
 	* Long hand scrolls depicting history
@@ -41,4 +41,4 @@ Welcome friends back to the world of Exandria! Last we left off our adventurers 
 	* Cured necromantic curse
 	* Description of battle outside Talonstadt
 	* Necromancer raising bodies
-* Roll initiative with [[Abbot Bok]]
+* Roll initiative with [[Abbot Bok (Shimmerwing)]]

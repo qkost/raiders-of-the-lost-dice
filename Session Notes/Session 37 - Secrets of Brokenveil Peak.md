@@ -2,7 +2,7 @@
 ## Recap
 
 * Met [[Chives]] in Cliffhaven; took donkeys up
-* Met with [[Abbot Bok]]
+* Met with [[Abbot Bok (Shimmerwing)]]
 	* Told him about pirates
 	* Vestiges
 	* Thinora coming in a few days 3 people
@@ -11,7 +11,7 @@
 	* Send off pearl of power
 	* Leave
 	* Stay and confront Thinora
-* Tato given pseudodragon familiar made from [[Abbot Bok]]'s breath.
+* Tato given pseudodragon familiar made from [[Abbot Bok (Shimmerwing)]]'s breath.
 	* Named Parsnip
 * Given quest to go to temple on top of the mountain
 	* Retrieve draconomicon and box on desk

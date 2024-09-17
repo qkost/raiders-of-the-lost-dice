@@ -54,7 +54,7 @@
 * [[12 Shimmerwing Lair V2]]
 	* Fight
 	* Loot
-* Discussion with [[Abbot Bok]]
+* Discussion with [[Abbot Bok (Shimmerwing)]]
 
 #### 3.1. [[Lady Thinora Va'del, Archmage of Antiquity]]
 

@@ -6,7 +6,7 @@ You explored a prison where two people were help along with a pit filled with di
 
 You cautiously entered a large hall with your goal in sight, a small red sword prominently displayed; however, it turned out to be a trap. Appearing out of invisibility, an undead Illithid named [[Ungrudaal]] attempted to pierce your mental defenses while their minions ambushed you. You ultimately prevailed in the encounter as you killed the undead minions, but Ungradaal was *just* able to escape.
 
-This victory, however, came at a great cost as [[Ember]] lie dead as the battle subsided. Tato called upon the one favor of [[Abbot Bok]] and was able to channel his energy to bring her back from the other side.
+This victory, however, came at a great cost as [[Ember]] lie dead as the battle subsided. Tato called upon the one favor of [[Abbot Bok (Shimmerwing)]] and was able to channel his energy to bring her back from the other side.
 
 After some rest, you were able to gather an impressive haul and return back to the [[The Ill Hand]] and were able to retain a good portion of the magic items you acquired including the missing Blade of the Moonweaver.
 
