@@ -45,9 +45,15 @@
 	* Potion of heroism?
 * Rested in the Cerulean Palace
 * Utilized the Nexus Stone (icosohedron Kefra had) to teleport to the Foyer of Thinora's Demiplane
-	* The chandelier animated in the room and said: "Welcome my dear Kefra. Please take a seat and my assistant will be with you in a moment. Don't venture too far now, it can get a bit dangerous/"
+	* The chandelier animated in the room and said: "Welcome my dear Kefra. Please take a seat and my assistant will be with you in a moment. Don't venture too far now, it can get a bit dangerous."
 	* Opened the left door in the Foyer using fire spells
-	* Decided to 
+	* Decided to lay in wait and ambush the assistant
+* Waited over an hour, but eventually figures entered
+	* Two spellguard
+	* Thinora herself entered
+		* Ember noticed her garb was similar to the first time they met
+		* The robe and staff Thinora had in the vision where she True Polymorphed Shimmerwing were much fancier
+	* The players attacked -- roll initiative!
 
 ## Prep
 ### 1. Review Characters
