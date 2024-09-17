@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 52 - Ank'harel.md",
+                "file": "Locations/Ank'harel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 52 - Ank'harel.md",
+                "file": "Locations/Ank'harel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 52 - Ank'harel.md"
+                "file": "Locations/Ank'harel.md"
               }
             }
           },
@@ -178,8 +179,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16e629124691bd84",
+  "active": "a72b906e2a473872",
   "lastOpenFiles": [
+    "Session Notes/Session 52 - Ank'harel.md",
     "Locations/Ank'harel.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
@@ -198,7 +200,6 @@
     "Locations/Thinora's Demiplane/15 - Staircase.md",
     "Locations/Thinora's Demiplane/13 - Museum.md",
     "Locations/Thinora's Demiplane/14 - Raw Materials.md",
-    "Session Notes/Session 52 - Ank'harel.md",
     "Names.md",
     "Session Notes/Session 51 - Questions and Answers.md",
     "NPCs/J'mon Sa Ord (Devo'ssa).md",
