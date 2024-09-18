@@ -4,71 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "495aee00a25b8460",
+        "id": "6c61c1b726a138ba",
         "type": "tabs",
         "children": [
           {
-            "id": "16e629124691bd84",
+            "id": "709613570ba45536",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Session Notes/Session 52 - Ank'harel.md",
-                "mode": "source",
-                "source": false
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "viewState": {
+                  "x": 137.41438680180465,
+                  "y": -291.82106576007084,
+                  "zoom": -1.3352940720233153
+                }
               }
             }
           },
           {
-            "id": "365af59345c73731",
+            "id": "5d6de19381a51bcb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Abbot Bok (Shimmerwing).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db3fdc623c70cd0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "a4205273a6b786fb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1612ff7a67f98ad3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ank'harel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8f90708a0685b11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session 53 - The Beginning of the End.md",
+                "file": "Locations/Thinora's Demiplane/19 - Courtyard.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+                "file": "Locations/Thinora's Demiplane/19 - Courtyard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+                "file": "Locations/Thinora's Demiplane/19 - Courtyard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md"
+                "file": "Locations/Thinora's Demiplane/19 - Courtyard.md"
               }
             }
           },
@@ -222,14 +182,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db3fdc623c70cd0a",
+  "active": "5d6de19381a51bcb",
   "lastOpenFiles": [
-    "Session 53 - The Beginning of the End.md",
+    "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Winter_Night.jpg",
+    "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Winter_Day.jpg",
+    "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Spring.jpg",
+    "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Seaside_Night.jpg",
+    "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Seaside_Day.jpg",
+    "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Rain.jpg",
+    "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Original_Night.jpg",
+    "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Original_Day.jpg",
+    "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Massacre.jpg",
+    "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_LastStand_NoFire.jpg",
+    "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_LastStand.jpg",
+    "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)",
+    "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)",
+    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Session Notes/Session 53 - The Beginning of the End.md",
+    "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Session Notes/Session 52 - Ank'harel.md",
     "Locations/Ank'harel.md",
-    "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "NPCs/Abbot Bok (Shimmerwing).md",
-    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Magic Items/Magic Items.md",
     "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
     "Locations/Thinora's Demiplane/03 - Carving Farm.md",
@@ -249,28 +222,15 @@
     "Session Notes/Session 51 - Questions and Answers.md",
     "NPCs/J'mon Sa Ord (Devo'ssa).md",
     "NPCs/Akistos.md",
-    "NPCs/attachments/akistos_contract2.png",
-    "NPCs/attachments/akistos_contract.png",
     "NPCs/Malachai, The Barbed Ruin.md",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
-    "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless/GL_NymphFountain_Massacre.jpg",
-    "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless/GL_NymphFountain_Lava.jpg",
-    "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless/GL_NymphFountain_GlowingWaters.jpg",
-    "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless/GL_NymphFountain_Grass_Night.jpg",
-    "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless/GL_NymphFountain_Grass_Day.jpg",
-    "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless/GL_NymphFountain_Fountain.jpg",
-    "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless/GL_NymphFountain_Fog.jpg",
-    "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless/GL_NymphFountain_EntranceMural.jpg",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1",
-    "Gods/No Name.md",
     "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridless",
-    "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1/Gridded",
-    "Maps/Giant Kitchen [105x22] - $5 Rewards Pt. 1",
     "Untitled.canvas"
   ]
 }

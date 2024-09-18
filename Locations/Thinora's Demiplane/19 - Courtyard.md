@@ -1,4 +1,4 @@
-
+![[GL_GrandDuke'sPlaza_Winter_Night.jpg]]
 ## Description
 
 ## Map
