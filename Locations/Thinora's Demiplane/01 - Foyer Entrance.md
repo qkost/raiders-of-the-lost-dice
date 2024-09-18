@@ -20,6 +20,8 @@
 * [Thinora's](https://www.dndbeyond.com/monsters/3838148-lady-thinora-va-del-archmage-of-antiquity) simulacrum
 	* 150 hp
 * [2x Spellguard](https://www.dndbeyond.com/monsters/4485983-radlee-thugram)
+	* 1/day counterspell
+	* 
 
 ## Secrets
 
