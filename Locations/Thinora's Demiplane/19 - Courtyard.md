@@ -1,6 +1,12 @@
 ![[GL_GrandDuke'sPlaza_Winter_Night.jpg]]
 ## Description
 
+* Snowing
+* Large portion of the snow carved out and removed
+	* 95 cubic meters
+	* (20,000 lbs)
+* 
+
 ## Map
 
 ## Monsters
