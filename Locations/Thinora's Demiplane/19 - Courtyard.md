@@ -3,8 +3,10 @@
 
 * Snowing
 * Large portion of the snow carved out and removed
+	* Perfect hemisphere
 	* 95 cubic meters
-	* (20,000 lbs)
+	* 50 tons of snow
+* Statue of Vespin Chloras in center
 * 
 
 ## Map

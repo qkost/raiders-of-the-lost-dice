@@ -38,7 +38,8 @@
 		{"id":"39b20b2994a4415c","type":"text","text":"Snowglobe","x":1540,"y":-110,"width":216,"height":100},
 		{"id":"2d4d7aa87fa066df","type":"text","text":"Book on desk","x":680,"y":920,"width":200,"height":100},
 		{"id":"b91dfd93c7a3822e","type":"text","text":"Doorway","x":-70,"y":1150,"width":180,"height":50},
-		{"id":"d4fe536ac3fa2931","type":"text","text":"Picnic Table","x":753,"y":-670,"width":260,"height":102}
+		{"id":"d4fe536ac3fa2931","type":"text","text":"Picnic Table","x":753,"y":-670,"width":260,"height":102},
+		{"id":"9184d4b27e22562c","type":"text","text":"Upstairs/Main door","x":1005,"y":-418,"width":260,"height":73}
 	],
 	"edges":[
 		{"id":"2ea3919b1dd8f0d2","fromNode":"00028b1fddc2e2c9","fromSide":"left","toNode":"1c90e59abe5cd3f6","toSide":"right","fromEnd":"arrow"},
