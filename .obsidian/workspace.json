@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "4eca9eb308aed6be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prices.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "5d6de19381a51bcb",
             "type": "leaf",
             "state": {
@@ -34,7 +46,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Prices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Prices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
+                "file": "Prices.md"
               }
             }
           },
@@ -181,11 +194,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "709613570ba45536",
+  "active": "4eca9eb308aed6be",
   "lastOpenFiles": [
+    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Prices.md",
     "Pictures/sun_illustration.png",
     "Locations/Thinora's Demiplane/19 - Courtyard.md",
-    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Winter_Night.jpg",
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Winter_Day.jpg",
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Spring.jpg",
@@ -195,7 +209,6 @@
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Original_Night.jpg",
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Original_Day.jpg",
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Massacre.jpg",
-    "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_LastStand_NoFire.jpg",
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)",
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)",
     "Session Notes/Session 53 - The Beginning of the End.md",
@@ -221,7 +234,6 @@
     "Names.md",
     "Session Notes/Session 51 - Questions and Answers.md",
     "NPCs/J'mon Sa Ord (Devo'ssa).md",
-    "NPCs/Akistos.md",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
