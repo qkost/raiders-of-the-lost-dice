@@ -53,7 +53,7 @@ Her robes are exquisite royal blue and silver robes that shimmer as she walks. S
 		* Blue hair
 		* Wrapped arms/hands
 		* Meeting with [[Malachai, The Barbed Ruin]] to get vestige
-## Additional spells
+## Additional spells (OBE)
 * 1st level: [Sleep](https://www.dndbeyond.com/spells/sleep), [Shield](https://www.dndbeyond.com/spells/shield)
 * 2nd level: [Arcane Lock](https://www.dndbeyond.com/spells/arcane-lock)
 * 3rd level: [Magic Circle](https://www.dndbeyond.com/spells/magic-circle)
@@ -64,3 +64,13 @@ Her robes are exquisite royal blue and silver robes that shimmer as she walks. S
 * 9th level: [Gate](https://www.dndbeyond.com/spells/gate)
 
 
+## Battle Notes
+
+* Non-verbal spells
+	* Minor Illusion
+	* Counterspell
+	* Hypnotic Pattern
+	* Steel Wind Strike
+
+* Battle in Foyer
+	* 
