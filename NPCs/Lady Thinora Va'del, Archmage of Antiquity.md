@@ -73,4 +73,7 @@ Her robes are exquisite royal blue and silver robes that shimmer as she walks. S
 	* Steel Wind Strike
 
 * Battle in Foyer
-	* 
+	- Help action plane shift
+	- Time stop/forcecage/delayed blast fireball
+	- legendary action mind sliver, dinintegrate/plane shift (pile one attacks if disintegrate)
+	- warding bond
