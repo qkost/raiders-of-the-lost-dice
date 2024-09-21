@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+                "file": "Locations/Thinora's Demiplane/13 - Museum.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+                "file": "Locations/Thinora's Demiplane/13 - Museum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+                "file": "Locations/Thinora's Demiplane/13 - Museum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md"
+                "file": "Locations/Thinora's Demiplane/13 - Museum.md"
               }
             }
           },
@@ -196,6 +196,7 @@
   },
   "active": "4eca9eb308aed6be",
   "lastOpenFiles": [
+    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Prices.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Pictures/sun_illustration.png",
@@ -222,7 +223,6 @@
     "Locations/Thinora's Demiplane/11 - Great Library.md",
     "Locations/Thinora's Demiplane/08 - Binding Chamber.md",
     "Encounters/17 The Barbed Ruin.md",
-    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
     "Locations/Thinora's Demiplane/18 - Treasury.md",
     "().md",
