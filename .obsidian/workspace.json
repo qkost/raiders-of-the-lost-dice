@@ -15,27 +15,14 @@
               "state": {
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
-                  "x": -133.86839885103296,
-                  "y": -746.7730762816846,
+                  "x": 577.3013901957962,
+                  "y": -265.32189824858756,
                   "zoom": -1.379779180440594
                 }
               }
             }
-          },
-          {
-            "id": "d0a0974cb57daccd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/16 - Arcane Armory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/16 - Arcane Armory.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/16 - Arcane Armory.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/16 - Arcane Armory.md"
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
               }
             }
           },
@@ -182,9 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0a0974cb57daccd",
+  "active": "d48be37e5feb432c",
   "lastOpenFiles": [
+    "Locations/Thinora's Demiplane/16 - Arcane Armory.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/03 - Carving Farm.md",
     "Maps/arcane_armory.png",
     "Maps/arcane_armory.png.crdownload",
     "Names.md",
@@ -210,7 +199,6 @@
     "NPCs/Abbot Bok (Shimmerwing).md",
     "Magic Items/Magic Items.md",
     "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
-    "Locations/Thinora's Demiplane/03 - Carving Farm.md",
     "Locations/Thinora's Demiplane/11 - Great Library.md",
     "Locations/Thinora's Demiplane/08 - Binding Chamber.md",
     "Encounters/17 The Barbed Ruin.md",
@@ -222,7 +210,6 @@
     "Locations/Thinora's Demiplane/15 - Staircase.md",
     "Locations/Thinora's Demiplane/14 - Raw Materials.md",
     "Session Notes/Session 51 - Questions and Answers.md",
-    "NPCs/J'mon Sa Ord (Devo'ssa).md",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",

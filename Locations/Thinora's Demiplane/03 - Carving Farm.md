@@ -5,7 +5,8 @@
 
 * Come out of a salad (from [[19 - Courtyard]])
 * Rancid, moldy food
-* Portal to [[17 - Guest Quarters]] is at bottom of soup
+* Portal to [[17 - Guest Quarters]] is the lattice of the pastry
+* Portal to [[16 - Arcane Armory]] is at the bottom of the soup
 
 ## Map
 
