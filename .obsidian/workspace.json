@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7546b8e12fca8d9d",
+        "id": "0c9da260e0112c86",
         "type": "tabs",
         "children": [
           {
-            "id": "470bd4152a74a59c",
+            "id": "d48be37e5feb432c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Names.md",
-                "mode": "source",
-                "source": false
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "viewState": {
+                  "x": 584.3625230428029,
+                  "y": -771.7549523341247,
+                  "zoom": -1.379779180440594
+                }
               }
             }
           }
@@ -93,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Names.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Names.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Names.md"
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
               }
             }
           },
@@ -166,13 +169,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "470bd4152a74a59c",
+  "active": "d48be37e5feb432c",
   "lastOpenFiles": [
+    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Names.md",
     "Locations/Thinora's Demiplane/19 - Courtyard.md",
     "Locations/Thinora's Demiplane/13 - Museum.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Prices.md",
-    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Pictures/sun_illustration.png",
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Winter_Night.jpg",
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Winter_Day.jpg",
@@ -203,7 +207,6 @@
     "Locations/Thinora's Demiplane/05 - Clock Tower.md",
     "Locations/Thinora's Demiplane/15 - Staircase.md",
     "Locations/Thinora's Demiplane/14 - Raw Materials.md",
-    "Names.md",
     "Session Notes/Session 51 - Questions and Answers.md",
     "NPCs/J'mon Sa Ord (Devo'ssa).md",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
