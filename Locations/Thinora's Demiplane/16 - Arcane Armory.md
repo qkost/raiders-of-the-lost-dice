@@ -3,8 +3,9 @@
 
 * [Storm Giant](https://www.dndbeyond.com/monsters/17026-storm-giant) name Harrdiir
 	* Bound by Vespin to guard
-	* Not to allow anybody to take ars
-* 
+	* Magically bound to not to allow anybody to take arsenal
+		* Made deal to keep wife, Yimmra safe
+		* Still magically bound
 
 ## Map
 
@@ -13,6 +14,9 @@
 ## Secrets
 
 ## Loot
+
+* Crown of Whirling Comets
+* 
 
 ## Room Links
 
