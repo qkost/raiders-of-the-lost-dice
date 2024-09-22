@@ -6,6 +6,9 @@
 	* Magically bound to not to allow anybody to take arsenal
 		* Made deal to keep wife, Yimmra safe
 		* Still magically bound
+* Vault
+	* Tower
+	* Arcane Lock (DC 22)
 
 ## Map
 
@@ -15,8 +18,9 @@
 
 ## Loot
 
-* Crown of Whirling Comets
-* 
+* [Demonomicaon of Iggwilv](https://www.dndbeyond.com/magic-items/2407504-demonomicon-of-iggwilv)
+* [Reincarnation Dust](https://www.dndbeyond.com/magic-items/1434356-reincarnation-dust)
+* [Arcane Cannon](https://www.dndbeyond.com/magic-items/1434252-arcane-cannon)
 
 ## Room Links
 
