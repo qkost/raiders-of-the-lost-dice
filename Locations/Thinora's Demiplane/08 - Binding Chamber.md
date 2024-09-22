@@ -5,7 +5,7 @@
 * Bound Olothec in summoning circle, speaks to players
 * Teleportation circle underneath Olothec
 * Desk at back with papers
-* 10 chemical 
+* 10 chemical vats
 
 #### Potion Brewing
 **The instructions:**
@@ -29,13 +29,13 @@ Concoction complete! Now time to drink it down.
 
 1. Wormwood
 2. Knotgrass
-3. Pearl Dust
+3. Silver and Iron Powder
 4. Spider Ichor
 5. Moondew
 6. Shadowbloom leaves
 7. Pufferfish Powder
 8. Snake bile
-9. Honey water
+9. Unholy water
 10. Eyes of Frog
 ## Map
 
