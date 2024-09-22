@@ -14,10 +14,10 @@ For those who desire power or a bit of fun,
 An assortment lies before you, five you must shun.
 To start the brew, neither end you should pick
 Second inside, only one will do the trick
-You will not need any creatures of the land
-And only one plant will provide a helping hand
+You will not need any beasts of the land
+And only one human will provide a helping hand
 Three you desire, all in a line
-The last is a powder, grown in water brine
+The last is a powder, from pressure and time
 To make the elixir add the neighbors and stir well, clockwise
 Next, add the liquid and bubbles shall arise
 The last ingredient you must sprinkle, then mix it around
@@ -28,12 +28,12 @@ Concoction complete! Now time to drink it down.
 **The Ingredient List**:
 
 1. Bat guano
-2. Knotgrass
+2. Humanoid Tears
 3. Silver
-4. Humanoid blood
-5. Diamond dust
+4. Iron filing
+5. Humanoid blood
 6. Ink infused with precious gems
-7. Iron
+7. Diamond dust
 8. Snaketongue
 9. Unholy water
 10. Eyes of demons
