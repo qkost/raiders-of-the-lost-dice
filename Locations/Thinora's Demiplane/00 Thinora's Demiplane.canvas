@@ -40,7 +40,8 @@
 		{"id":"b91dfd93c7a3822e","type":"text","text":"Doorway","x":-70,"y":1150,"width":180,"height":50},
 		{"id":"d4fe536ac3fa2931","type":"text","text":"Picnic Table","x":753,"y":-670,"width":260,"height":102},
 		{"id":"9184d4b27e22562c","type":"text","text":"Upstairs/Main door","x":1005,"y":-418,"width":260,"height":73},
-		{"id":"e4b30e2cbaec40f1","type":"text","text":"Bottom of Soup/Green Portal","x":936,"y":-1165,"width":260,"height":102}
+		{"id":"e4b30e2cbaec40f1","type":"text","text":"Bottom of Soup/Green Portal","x":936,"y":-1165,"width":260,"height":102},
+		{"id":"70e8c0a560a4b422","type":"text","text":"Blue Portal/\nFront door","x":-351,"y":-1560,"width":260,"height":102}
 	],
 	"edges":[
 		{"id":"2ea3919b1dd8f0d2","fromNode":"00028b1fddc2e2c9","fromSide":"left","toNode":"1c90e59abe5cd3f6","toSide":"right","fromEnd":"arrow"},

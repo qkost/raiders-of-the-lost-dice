@@ -3,13 +3,13 @@
 
 * Vats of clones of [[Lady Thinora Va'del, Archmage of Antiquity]]
 * Every 3 years (labeled)
-* When d
+* When vats are destroyed, green oozes glowing with sparkling energy come out
 
 ## Map
 
 ## Monsters
 
-
+* [Arcane Amalgam](https://www.dndbeyond.com/monsters/4485774-arcane-amalgam) x 5
 
 ## Secrets
 

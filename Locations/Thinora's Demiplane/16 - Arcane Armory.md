@@ -1,8 +1,8 @@
 ![[arcane_armory.png]]
 ## Description
 
-* [Storm Giant](https://www.dndbeyond.com/monsters/17026-storm-giant) name Harrdiir
-	* Bound by Vespin to guard
+* [Storm Giants](https://www.dndbeyond.com/monsters/17026-storm-giant) name Harrdiir and Torune
+	* Shackled by chains of lightning (forbiddence)
 	* Magically bound to not to allow anybody to take arsenal
 		* Made deal to keep wife, Yimmra safe
 		* Still magically bound
