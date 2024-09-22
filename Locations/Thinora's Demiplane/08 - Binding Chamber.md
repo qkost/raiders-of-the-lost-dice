@@ -21,9 +21,9 @@ The last is a powder, from pressure and time
 To make the elixir add the neighbors and stir well, clockwise
 Next, add the liquid and bubbles shall arise
 The last ingredient you must sprinkle, then mix it around
-Concoction complete! Now time to drink it down.
+Concoction complete! Now drink it down.
 Once consumed, the circle you must enter
-And appear in the roo
+And appear in the chamber of the mage always remembered.
 
 
 
@@ -39,6 +39,14 @@ And appear in the roo
 8. Snaketongue
 9. Unholy water
 10. Eyes of demons
+
+Solution
+
+* Mix together
+	* (3) Iron filing
+	* (4) Ink infused with precious gems
+	* (5) Diamond dust
+* Stir in (9) Unholy Water
 ## Map
 
 ## Monsters
