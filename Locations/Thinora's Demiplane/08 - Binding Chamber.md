@@ -47,6 +47,7 @@ Solution
 	* (4) Ink infused with precious gems
 	* (5) Diamond dust
 * Stir in (9) Unholy Water
+* Sprinkle in (3) Powdered human bone
 ## Map
 
 ## Monsters
