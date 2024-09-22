@@ -10,8 +10,8 @@
 #### Potion Brewing
 **The instructions:**
 
-For those who desire power or a bit of fun,
-An assortment lies before you, five you must shun.
+For those who seek the room past the void,
+An assortment lies before you, five you must avoid.
 To start the brew, neither end you should pick
 Second inside, only one will do the trick
 You will not need any beasts of the land
@@ -29,9 +29,9 @@ Concoction complete! Now time to drink it down.
 
 1. Bat guano
 2. Humanoid Tears
-3. Silver
-4. Iron filing
-5. Humanoid blood
+3. Humanoid blood
+4. Spider Ichor
+5. Iron filing
 6. Ink infused with precious gems
 7. Diamond dust
 8. Snaketongue
