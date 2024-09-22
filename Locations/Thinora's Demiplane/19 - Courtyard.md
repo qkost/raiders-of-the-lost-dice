@@ -7,7 +7,8 @@
 	* 95 cubic meters
 	* 50 tons of snow
 * Statue of Vespin Chloras in center
-	* Skinny
+	* Skinny human
+	* Arms raised up
 * Top door into mansion [[09 - Master Bedroom]]
 * Left door to greenhouse - [[03 - Carving Farm]]
 
