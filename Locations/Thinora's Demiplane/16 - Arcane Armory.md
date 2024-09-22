@@ -1,4 +1,4 @@
-
+![[arcane_armory.png]]
 ## Description
 
 ## Map
