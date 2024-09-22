@@ -1,6 +1,11 @@
 ![[arcane_armory.png]]
 ## Description
 
+* [Storm Giant](https://www.dndbeyond.com/monsters/17026-storm-giant) name Harrdiir
+	* Bound by Vespin to guard
+	* Not to allow anybody to take ars
+* 
+
 ## Map
 
 ## Monsters
