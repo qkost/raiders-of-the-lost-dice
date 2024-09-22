@@ -15,14 +15,27 @@
               "state": {
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
-                  "x": 577.3013901957962,
-                  "y": -265.32189824858756,
+                  "x": -773.8051280327586,
+                  "y": -1154.1324754805223,
                   "zoom": -1.379779180440594
                 }
               }
             }
+          },
+          {
+            "id": "0da2bffb374c8a6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "file": "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
+                "file": "Locations/Thinora's Demiplane/10 - Fountain of Youth.md"
               }
             }
           },
@@ -169,10 +182,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d48be37e5feb432c",
+  "active": "0da2bffb374c8a6b",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/16 - Arcane Armory.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/16 - Arcane Armory.md",
     "Locations/Thinora's Demiplane/03 - Carving Farm.md",
     "Maps/arcane_armory.png",
     "Maps/arcane_armory.png.crdownload",

@@ -3,10 +3,13 @@
 
 * Vats of clones of [[Lady Thinora Va'del, Archmage of Antiquity]]
 * Every 3 years (labeled)
+* When d
 
 ## Map
 
 ## Monsters
+
+
 
 ## Secrets
 
