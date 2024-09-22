@@ -27,16 +27,16 @@ Concoction complete! Now time to drink it down.
 
 **The Ingredient List**:
 
-1. Wormwood
+1. Bat guano
 2. Knotgrass
-3. Silver and Iron Powder
-4. Spider Ichor
-5. Moondew
-6. Shadowbloom leaves
-7. Pufferfish Powder
-8. Snake bile
+3. Silver
+4. Humanoid blood
+5. Diamond dust
+6. Ink infused with precious gems
+7. Iron
+8. Snaketongue
 9. Unholy water
-10. Eyes of Frog
+10. Eyes of demons
 ## Map
 
 ## Monsters
