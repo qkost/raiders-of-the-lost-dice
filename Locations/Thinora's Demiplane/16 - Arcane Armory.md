@@ -5,9 +5,12 @@
 	* Shackled by chains of lightning (forbiddence)
 	* Magically bound to not to allow anybody to take arsenal
 		* Made deal to keep wife, Yimmra safe
-		* Still magically bound
+		* Still magically bound (Wish spell)
 * Vault
 	* Tower
+	* Under [Forbiddance](https://www.dndbeyond.com/spells/2113-forbiddance) spell
+		* No teleporting
+		* 5d10 radiant
 	* Arcane Lock (DC 22)
 
 ## Map
