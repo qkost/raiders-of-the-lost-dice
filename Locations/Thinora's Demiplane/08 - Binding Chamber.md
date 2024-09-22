@@ -22,6 +22,8 @@ To make the elixir add the neighbors and stir well, clockwise
 Next, add the liquid and bubbles shall arise
 The last ingredient you must sprinkle, then mix it around
 Concoction complete! Now time to drink it down.
+Once consumed, the circle you must enter
+And appear in the roo
 
 
 
@@ -29,7 +31,7 @@ Concoction complete! Now time to drink it down.
 
 1. Bat guano
 2. Humanoid Tears
-3. Humanoid blood
+3. Powdered human bone
 4. Spider Ichor
 5. Iron filing
 6. Ink infused with precious gems
