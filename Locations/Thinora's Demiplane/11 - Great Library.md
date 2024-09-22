@@ -3,13 +3,13 @@
 
 * Desk
 	* Veil Between worlds
-	* [[Petyr (Pete) Archeron]]'s journal
+	* [[Petyr (Pete) Archeron]]'s journal pages
 		* Ripped out pages
 		* Arms of Betrayers
  * Endless library pit
 	 * Ember - DC 18 Wisdom saving throw
 	 * Jump into pit
-	 * Dex save DC 10 or 1d6 bludgeoning damage each round
+	 * Dex save DC 14 or 1d6 bludgeoning damage each round
 ## Map
 
 ## Monsters

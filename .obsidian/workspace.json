@@ -16,19 +16,19 @@
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
                   "x": 1135.2311995423006,
-                  "y": 147.9209475760432,
+                  "y": -457.1104017432825,
                   "zoom": -1.379779180440594
                 }
               }
             }
           },
           {
-            "id": "c921e8c576ca88df",
+            "id": "d4d9a15cca0cec11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md",
+                "file": "Locations/Thinora's Demiplane/19 - Courtyard.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md",
+                "file": "Locations/Thinora's Demiplane/19 - Courtyard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md",
+                "file": "Locations/Thinora's Demiplane/19 - Courtyard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md"
+                "file": "Locations/Thinora's Demiplane/19 - Courtyard.md"
               }
             }
           },
@@ -182,9 +182,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c921e8c576ca88df",
+  "active": "d4d9a15cca0cec11",
   "lastOpenFiles": [
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/19 - Courtyard.md",
+    "Locations/Thinora's Demiplane/11 - Great Library.md",
+    "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md",
+    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Locations/Thinora's Demiplane/16 - Arcane Armory.md",
     "Locations/Thinora's Demiplane/08 - Binding Chamber.md",
     "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
@@ -192,9 +196,7 @@
     "Maps/arcane_armory.png",
     "Maps/arcane_armory.png.crdownload",
     "Names.md",
-    "Locations/Thinora's Demiplane/19 - Courtyard.md",
     "Locations/Thinora's Demiplane/13 - Museum.md",
-    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Prices.md",
     "Pictures/sun_illustration.png",
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Winter_Night.jpg",
@@ -214,7 +216,6 @@
     "NPCs/Abbot Bok (Shimmerwing).md",
     "Magic Items/Magic Items.md",
     "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
-    "Locations/Thinora's Demiplane/11 - Great Library.md",
     "Encounters/17 The Barbed Ruin.md",
     "Locations/Thinora's Demiplane/18 - Treasury.md",
     "().md",
@@ -222,7 +223,6 @@
     "Locations/Thinora's Demiplane/05 - Clock Tower.md",
     "Locations/Thinora's Demiplane/15 - Staircase.md",
     "Locations/Thinora's Demiplane/14 - Raw Materials.md",
-    "Session Notes/Session 51 - Questions and Answers.md",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
