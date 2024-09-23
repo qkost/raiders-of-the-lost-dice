@@ -10,7 +10,9 @@
 * How to remove chains
 	* Destroy them: AC 17, 50 hp
 	* Sacrifice blood: 4d10 damage
-* []
+* [Erinyes](https://www.dndbeyond.com/monsters/16858-erinyes) attack if they attempt to destroy chains
+	* Tisiphone - Vengeful destruction
+	* Alekto - Endless anger
 
 ## Map
 
