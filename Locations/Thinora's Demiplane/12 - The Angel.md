@@ -5,8 +5,12 @@
 *  Wings made out of finders
 * Two hangs covering eyes
 * Two hands covering chest
-	* Chains connected to hands that cover chest
-	* 
+	* Chains of blood connected to hands that cover chest
+	* Held by hands on the ground
+* How to remove chains
+	* Destroy them: AC 17, 50 hp
+	* Sacrifice blood: 4d10 damage
+* []
 
 ## Map
 
