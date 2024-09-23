@@ -2,7 +2,11 @@
 ## Description
 
 * Massive stone statue of an angel
-*  Wings made out of m
+*  Wings made out of finders
+* Two hangs covering eyes
+* Two hands covering chest
+	* Chains connected to hands that cover chest
+	* 
 
 ## Map
 
