@@ -19,6 +19,8 @@
 		* Spend hit tie
 * If flying
 	* Two dragon breaths
+	* DC 17 Dex
+	* 14d6 poison damage
 
 ## Map
 
