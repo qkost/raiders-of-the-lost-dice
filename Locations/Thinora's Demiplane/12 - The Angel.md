@@ -1,6 +1,9 @@
 ![[GL_WizardPrisonPart4_Original_Day.jpg]]
 ## Description
 
+* Massive stone statue of an angel
+*  Wings made out of m
+
 ## Map
 
 ## Monsters

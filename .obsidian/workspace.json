@@ -15,32 +15,32 @@
               "state": {
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
-                  "x": 352.46394981570415,
-                  "y": 49.424470016864575,
+                  "x": -530.136607615043,
+                  "y": 88.42390036040564,
                   "zoom": -1.379779180440594
                 }
               }
             }
           },
           {
-            "id": "84b81ed44cba9519",
+            "id": "e4844a92e908344f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
+                "file": "Locations/Thinora's Demiplane/12 - The Angel.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d4d9a15cca0cec11",
+            "id": "e22b9a0f788633cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Thinora's Demiplane/19 - Courtyard.md",
+                "file": "Locations/Thinora's Demiplane/12 - The Angel.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
+                "file": "Locations/Thinora's Demiplane/12 - The Angel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
+                "file": "Locations/Thinora's Demiplane/12 - The Angel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/09 - Master Bedroom.md"
+                "file": "Locations/Thinora's Demiplane/12 - The Angel.md"
               }
             }
           },
@@ -194,9 +194,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84b81ed44cba9519",
+  "active": "e4844a92e908344f",
   "lastOpenFiles": [
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/12 - The Angel.md",
     "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
     "Locations/Thinora's Demiplane/19 - Courtyard.md",
     "Locations/Thinora's Demiplane/11 - Great Library.md",
@@ -234,7 +235,6 @@
     "().md",
     "Locations/Thinora's Demiplane/05 - Clock Tower.md",
     "Locations/Thinora's Demiplane/15 - Staircase.md",
-    "Locations/Thinora's Demiplane/14 - Raw Materials.md",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
