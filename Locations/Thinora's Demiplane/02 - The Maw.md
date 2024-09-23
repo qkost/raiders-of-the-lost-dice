@@ -18,9 +18,10 @@
 		* 4d12 necrotic
 		* Spend hit tie
 * If flying
-	* Two dragon breaths
+	* Two dragon breaths (blood)
 	* DC 17 Dex
 	* 14d6 poison damage
+* Sigil at end - sending to Thinora
 
 ## Map
 

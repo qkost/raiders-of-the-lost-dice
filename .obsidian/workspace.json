@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "676c9e9ea4c1a81b",
+            "id": "70031d9261279543",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Thinora's Demiplane/02 - The Maw.md",
+                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/02 - The Maw.md",
+                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/02 - The Maw.md",
+                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/02 - The Maw.md"
+                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md"
               }
             }
           },
@@ -182,9 +182,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "676c9e9ea4c1a81b",
+  "active": "70031d9261279543",
   "lastOpenFiles": [
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/02 - The Maw.md",
     "Locations/Thinora's Demiplane/12 - The Angel.md",
     "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
     "Locations/Thinora's Demiplane/19 - Courtyard.md",
@@ -222,7 +223,6 @@
     "Locations/Thinora's Demiplane/18 - Treasury.md",
     "().md",
     "Locations/Thinora's Demiplane/05 - Clock Tower.md",
-    "Locations/Thinora's Demiplane/15 - Staircase.md",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
