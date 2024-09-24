@@ -19,7 +19,7 @@
 	* [[Kelward]] whistled and drew attention of wraith's
 	* Kelward then teleported in and switched places with Drow woman
 	* Kelward then flew over and opened cage for Arli ([[Order of the Ascendant Dragon]] scribe)
-* 
+* [[Ember]] concentrating on fly
 
 ## TODO
 
