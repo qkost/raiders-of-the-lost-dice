@@ -22,7 +22,7 @@
 
 ## TODO
 
-* Drow woman's name
+* Backstories for Drow
 * Statblocks for
 	* [Chives](https://www.dndbeyond.com/monsters/2560865-martial-arts-adept)
 	* [Arli](https://www.dndbeyond.com/monsters/16985-priest)
