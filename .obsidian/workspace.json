@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "8bbad030285f171a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/15 - Staircase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "cf5c8844214d37b7",
             "type": "leaf",
             "state": {
@@ -145,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/07 - Lake.md",
+                "file": "Locations/Thinora's Demiplane/15 - Staircase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/07 - Lake.md",
+                "file": "Locations/Thinora's Demiplane/15 - Staircase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/07 - Lake.md"
+                "file": "Locations/Thinora's Demiplane/15 - Staircase.md"
               }
             }
           },
@@ -218,7 +230,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf5c8844214d37b7",
+  "active": "8bbad030285f171a",
   "lastOpenFiles": [
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/07 - Lake.md",
