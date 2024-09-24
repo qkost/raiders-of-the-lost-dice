@@ -16,8 +16,8 @@
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
                   "x": -530.136607615043,
-                  "y": 88.42390036040564,
-                  "zoom": -1.379779180440594
+                  "y": 88.4239003604057,
+                  "zoom": -2.2131125137739276
                 }
               }
             }
@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md"
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
               }
             }
           },
@@ -206,10 +205,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70031d9261279543",
+  "active": "d48be37e5feb432c",
   "lastOpenFiles": [
-    "Session Notes/Session 53 - The Beginning of the End.md",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+    "Session Notes/Session 53 - The Beginning of the End.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/02 - The Maw.md",
