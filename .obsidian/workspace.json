@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "7b6073a6e7df61b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 53 - The Beginning of the End.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "70031d9261279543",
             "type": "leaf",
             "state": {
@@ -33,9 +45,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a7df46f948ac562",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,6 +208,9 @@
   },
   "active": "70031d9261279543",
   "lastOpenFiles": [
+    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
+    "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+    "Session Notes/Session 53 - The Beginning of the End.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/02 - The Maw.md",
     "Locations/Thinora's Demiplane/12 - The Angel.md",
@@ -191,7 +218,6 @@
     "Locations/Thinora's Demiplane/19 - Courtyard.md",
     "Locations/Thinora's Demiplane/11 - Great Library.md",
     "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md",
-    "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Locations/Thinora's Demiplane/16 - Arcane Armory.md",
     "Locations/Thinora's Demiplane/08 - Binding Chamber.md",
     "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
@@ -212,8 +238,6 @@
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Original_Day.jpg",
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)",
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)",
-    "Session Notes/Session 53 - The Beginning of the End.md",
-    "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Session Notes/Session 52 - Ank'harel.md",
     "Locations/Ank'harel.md",
     "NPCs/Abbot Bok (Shimmerwing).md",
