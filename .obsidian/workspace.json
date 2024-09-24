@@ -11,8 +11,12 @@
             "id": "d48be37e5feb432c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 52 - Ank'harel.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Notes/Session 52 - Ank'harel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Session Notes/Session 52 - Ank'harel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Session Notes/Session 52 - Ank'harel.md"
+              }
             }
           },
           {
@@ -160,6 +168,8 @@
   },
   "active": "d48be37e5feb432c",
   "lastOpenFiles": [
+    "Session Notes/Session 51 - Questions and Answers.md",
+    "Session Notes/Session 50 - The Devil You Know.md",
     "Session Notes/Session 54 - Cages.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/07 - Lake.md",
@@ -198,7 +208,6 @@
     "Locations/Ank'harel.md",
     "NPCs/Abbot Bok (Shimmerwing).md",
     "Magic Items/Magic Items.md",
-    "Encounters/17 The Barbed Ruin.md",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
