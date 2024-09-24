@@ -16,9 +16,21 @@
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
                   "x": 311.8962450624301,
-                  "y": -48.823650479796925,
+                  "y": -48.82365047979715,
                   "zoom": -2.2131125137739276
                 }
+              }
+            }
+          },
+          {
+            "id": "ffbf275a2a104830",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -157,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/15 - Staircase.md",
+                "file": "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/15 - Staircase.md",
+                "file": "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/15 - Staircase.md"
+                "file": "Locations/Thinora's Demiplane/17 - Guest Quarters.md"
               }
             }
           },
@@ -230,10 +242,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bbad030285f171a",
+  "active": "ffbf275a2a104830",
   "lastOpenFiles": [
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/07 - Lake.md",
+    "Locations/Thinora's Demiplane/15 - Staircase.md",
     "Session Notes/Session 53 - The Beginning of the End.md",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
@@ -270,7 +283,6 @@
     "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
     "Encounters/17 The Barbed Ruin.md",
     "Locations/Thinora's Demiplane/18 - Treasury.md",
-    "().md",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
