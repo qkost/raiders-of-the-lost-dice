@@ -13,6 +13,12 @@
 
  * [Wraiths](https://www.dndbeyond.com/monsters/4486049-wraith-mcdm) - One appears each time a sound is made more than a whisper
 
+NPCs
+ * [Chives](https://www.dndbeyond.com/monsters/2560865-martial-arts-adept)
+ * [Arli](https://www.dndbeyond.com/monsters/16985-priest)
+ * [Drow woman - Ilivarrra Theylas](https://www.dndbeyond.com/monsters/17135-drow-mage)
+ * [Drow man - K'yorl](https://www.dndbeyond.com/monsters/17134-drow-elite-warrior)
+
 ## Secrets
 
 ## Loot
