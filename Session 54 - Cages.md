@@ -16,8 +16,15 @@
 	* Dispelled door and it flipped back to [[01 - Foyer Entrance]]
 * Opened door to [[17 - Guest Quarters]]
 	* [[Kelward]] whistled and drew attention of wraith's
-	* Kelward then teleported in and switched ou
+	* Kelward then teleported in and switched places with Drow woman
+	* Kelward then flew over and opened cage for Arli ([[Order of the Ascendant Dragon]] scribe)
 * 
+
+## TODO
+
+* Drow woman's name
+* Statblocks for
+	* [Chives](https://www.dndbeyond.com/monsters/2560865-martial-arts-adept)
 
 ## Notes
 ## Prep
