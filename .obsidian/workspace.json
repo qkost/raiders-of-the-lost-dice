@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 53 - The Beginning of the End.md",
+                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 53 - The Beginning of the End.md",
+                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 53 - The Beginning of the End.md"
+                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md"
               }
             }
           },
@@ -206,11 +206,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b6073a6e7df61b2",
+  "active": "70031d9261279543",
   "lastOpenFiles": [
+    "Session Notes/Session 53 - The Beginning of the End.md",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
-    "Session Notes/Session 53 - The Beginning of the End.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/02 - The Maw.md",
     "Locations/Thinora's Demiplane/12 - The Angel.md",
