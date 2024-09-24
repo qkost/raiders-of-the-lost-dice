@@ -21,45 +21,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "0081dd648c8be90f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 54 - Cages.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38504a304ef5ee3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36ced073b0067035",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 53 - The Beginning of the End.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 54 - Cages.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 54 - Cages.md",
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 54 - Cages.md"
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas"
               }
             }
           },
@@ -206,18 +169,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0081dd648c8be90f",
+  "active": "d48be37e5feb432c",
   "lastOpenFiles": [
     "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
+    "Locations/Thinora's Demiplane/15 - Staircase.md",
     "Session Notes/Session 54 - Cages.md",
     "Session Notes/Session 53 - The Beginning of the End.md",
+    "Locations/Thinora's Demiplane/12 - The Angel.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/07 - Lake.md",
-    "Locations/Thinora's Demiplane/15 - Staircase.md",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Locations/Thinora's Demiplane/02 - The Maw.md",
-    "Locations/Thinora's Demiplane/12 - The Angel.md",
     "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
     "Locations/Thinora's Demiplane/19 - Courtyard.md",
     "Locations/Thinora's Demiplane/11 - Great Library.md",

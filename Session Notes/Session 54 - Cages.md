@@ -9,6 +9,7 @@
 * Interrogated the remaining Spellguard
 	* Gave some info on path
 	* Informed about Simulacrum
+	* Spellguard 79/130 hp
 * Went through [[07 - Lake]]
 	* Solved puzzle to go through to [[15 - Staircase]]
 		* Saw acid pouring out,
