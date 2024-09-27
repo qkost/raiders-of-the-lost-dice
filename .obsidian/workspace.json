@@ -23,6 +23,18 @@
             }
           },
           {
+            "id": "e01c2b5abdf02b12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "920fa15c5509708d",
             "type": "leaf",
             "state": {
@@ -47,7 +59,25 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "19e67ae1f613d916",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4212cd06ba16c3cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magic Items/Vestiges of Divergence/vestiges-journal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/01 - Foyer Entrance.md"
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md"
               }
             }
           },
@@ -194,11 +224,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "165a256e7191d33c",
+  "active": "e01c2b5abdf02b12",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
+    "Magic Items/Vestiges of Divergence/vestiges-journal.md",
+    "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
+    "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
     "Session Notes/Session 52 - Ank'harel.md",
     "Session Notes/Session 51 - Questions and Answers.md",
     "Session Notes/Session 50 - The Devil You Know.md",
@@ -234,7 +266,6 @@
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)",
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)",
     "Locations/Ank'harel.md",
-    "NPCs/Abbot Bok (Shimmerwing).md",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
