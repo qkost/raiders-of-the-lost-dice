@@ -15,10 +15,17 @@
 		* Condemner (in possession of Rin)
 		* Another item
 	* Destroying brazier (AC 17, 30 HP)
-		* Reduces size of Sun
-		* 
+		* Reduces size of Sun by 10 feet
+		* Reduces damage by 1d10
+		* Lowers DC by 1
 
 ## Map
+
+* Lair action
+	* Creatures within 60 feet of Sun
+	* DC 17 CON
+	* 4d10 radiant damage, save for half
+	* Fail save by 5 or more --> blinded
 
 ## Monsters
 
