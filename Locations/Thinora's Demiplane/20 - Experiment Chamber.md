@@ -29,7 +29,8 @@
 		* Reduced by 1d10 for each brazier destroyed
 	* Fail save by 5 or more --> blinded
 * Falling into Sun
-	* 18d10 fire damage
+	* Touch surface - 10d10 fire damage
+	* Fully submerged - 18d10 fire damage
 ## Monsters
 
 * Thinora and Simulacrum
