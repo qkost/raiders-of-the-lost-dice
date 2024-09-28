@@ -24,9 +24,12 @@
 * Lair action
 	* Creatures within 60 feet of Sun
 	* DC 17 CON
+		* Reduced by 2 for each brazier destroyed
 	* 4d10 radiant damage, save for half
+		* Reduced by 1d10 for each brazier destroyed
 	* Fail save by 5 or more --> blinded
-
+* Falling into Sun
+	* 18d10 fire damage
 ## Monsters
 
 * Thinora and Simulacrum
