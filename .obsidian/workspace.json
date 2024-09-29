@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
+                "file": "Session Notes/Session 54 - Cages.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "19e67ae1f613d916",
@@ -76,8 +75,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e72dcb2e3c7cacca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/12 - The Angel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
+                "file": "Locations/Thinora's Demiplane/12 - The Angel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
+                "file": "Locations/Thinora's Demiplane/12 - The Angel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md"
+                "file": "Locations/Thinora's Demiplane/12 - The Angel.md"
               }
             }
           },
@@ -224,17 +236,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e01c2b5abdf02b12",
+  "active": "e72dcb2e3c7cacca",
   "lastOpenFiles": [
-    "Magic Items/Vestiges of Divergence/vestiges-journal.md",
-    "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Session Notes/Session 54 - Cages.md",
+    "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
+    "Magic Items/Vestiges of Divergence/vestiges-journal.md",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
     "Session Notes/Session 52 - Ank'harel.md",
     "Session Notes/Session 51 - Questions and Answers.md",
     "Session Notes/Session 50 - The Devil You Know.md",
-    "Session Notes/Session 54 - Cages.md",
     "Locations/Thinora's Demiplane/07 - Lake.md",
     "Locations/Thinora's Demiplane/15 - Staircase.md",
     "Session Notes/Session 53 - The Beginning of the End.md",
@@ -265,7 +277,6 @@
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Original_Day.jpg",
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)",
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)",
-    "Locations/Ank'harel.md",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",

@@ -24,11 +24,16 @@
 ## TODO
 
 * Backstories for Drow
+	* Agent of "The Lens"
+	* Attempted assassination of Thinora/other important political figures
 * Statblocks for
 	* [Chives](https://www.dndbeyond.com/monsters/2560865-martial-arts-adept)
 	* [Arli](https://www.dndbeyond.com/monsters/16985-priest)
 	* [Drow woman - Ilivarrra Theylas](https://www.dndbeyond.com/monsters/17135-drow-mage)
 	* [Drow man - K'yorl](https://www.dndbeyond.com/monsters/17134-drow-elite-warrior)
+	* All of 3 levels of exhaustion
+		* -6 to all rolls
+		* -15 feet to movement speed
 
 ## Notes
 ## Prep
