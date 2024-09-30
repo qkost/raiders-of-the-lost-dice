@@ -14,7 +14,7 @@
 	* 2 unlit braziers
 		* Condemner (in possession of Rin)
 		* Another item
-	* Destroying brazier (AC 17, 30 HP)
+	* Destroying brazier (AC 17, 25 HP, immunity to psychic, poison, and radiant damage)
 		* Reduces size of Sun by 10 feet
 		* Reduces damage by 1d10
 		* Lowers DC by 1
@@ -22,7 +22,8 @@
 ## Map
 
 * Lair action
-	* Creatures within 60 feet of Sun
+	* 4 creatures within 60 feet of Sun
+		* Reduced by 1 for each brazier destroyed
 	* DC 17 CON
 		* Reduced by 2 for each brazier destroyed
 	* 4d10 radiant damage, save for half
@@ -33,14 +34,18 @@
 	* Fully submerged - 18d10 fire damage
 ## Monsters
 
-* Thinora
-	* Contingengy: Greater Invisibility
+* [Thinora](https://www.dndbeyond.com/monsters/3838148-lady-thinora-va-del-archmage-of-antiquity)
+	* Contingency: Greater Invisibility
 	* Warding bond
 	* Mirror Image
 	* Cast Shapechange when below 50 hp
 * [Shimmerwing Simulacrum](https://www.dndbeyond.com/monsters/16772-adult-silver-dragon)
 	* 171 HP
 * [Rin](https://www.dndbeyond.com/monsters/4423157-rin-monisk)
+
+
+
+
 * Both cast Shapechange, monster candidates
 	* Adult Red Dragon
 	* Ancient White Dragon
