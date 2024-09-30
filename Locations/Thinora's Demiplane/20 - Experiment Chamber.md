@@ -24,7 +24,7 @@
 * Lair action
 	* 4 creatures within 60 feet of Sun
 		* Reduced by 1 for each brazier destroyed
-	* DC 17 CON
+	* DC 17 Dex
 		* Reduced by 2 for each brazier destroyed
 	* 4d10 radiant damage, save for half
 		* Reduced by 1d10 for each brazier destroyed

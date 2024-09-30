@@ -2,7 +2,7 @@
 ## Description
 
 * Massive stone statue of an angel
-*  Wings made out of fingers
+* Wings made out of fingers
 * Two hands covering eyes
 * Two hands covering chest
 	* Chains of blood connected to hands that cover chest
