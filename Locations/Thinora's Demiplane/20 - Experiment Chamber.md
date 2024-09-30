@@ -33,7 +33,10 @@
 	* Fully submerged - 18d10 fire damage
 ## Monsters
 
-* Thinora and Simulacrum
+* Thinora
+* [Shimmerwing Simulacrum](https://www.dndbeyond.com/monsters/16772-adult-silver-dragon)
+	* 121 HP
+* [Rin](https://www.dndbeyond.com/monsters/4423157-rin-monisk)
 * Both cast Shapechange, monster candidates
 	* Adult Red Dragon
 	* Ancient White Dragon

@@ -15,10 +15,22 @@
               "state": {
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
-                  "x": -100,
-                  "y": -6,
+                  "x": -1042.1865817653227,
+                  "y": 64.47858678462313,
                   "zoom": -2.2131125137739276
                 }
+              }
+            }
+          },
+          {
+            "id": "c39401737affbc4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -58,7 +70,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "19e67ae1f613d916",
@@ -163,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/12 - The Angel.md",
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/12 - The Angel.md",
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/12 - The Angel.md"
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md"
               }
             }
           },
@@ -236,9 +249,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e72dcb2e3c7cacca",
+  "active": "c39401737affbc4b",
   "lastOpenFiles": [
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/12 - The Angel.md",
     "Session Notes/Session 54 - Cages.md",
     "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
     "Magic Items/Vestiges of Divergence/vestiges-journal.md",
@@ -250,7 +264,6 @@
     "Locations/Thinora's Demiplane/07 - Lake.md",
     "Locations/Thinora's Demiplane/15 - Staircase.md",
     "Session Notes/Session 53 - The Beginning of the End.md",
-    "Locations/Thinora's Demiplane/12 - The Angel.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Locations/Thinora's Demiplane/02 - The Maw.md",
     "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
