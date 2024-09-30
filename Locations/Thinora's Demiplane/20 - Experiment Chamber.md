@@ -34,8 +34,12 @@
 ## Monsters
 
 * Thinora
+	* Contingengy: Greater Invisibility
+	* Warding bond
+	* Mirror Image
+	* Cast Shapechange when below 50 hp
 * [Shimmerwing Simulacrum](https://www.dndbeyond.com/monsters/16772-adult-silver-dragon)
-	* 121 HP
+	* 171 HP
 * [Rin](https://www.dndbeyond.com/monsters/4423157-rin-monisk)
 * Both cast Shapechange, monster candidates
 	* Adult Red Dragon
