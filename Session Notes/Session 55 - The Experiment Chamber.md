@@ -21,18 +21,18 @@
 * Ended in the entrance to [[02 - The Maw]] with the force of blood fading into the bloody floor
 
 ## TODO
-* Finalize Thinora fight
-* Figure out how to make maze battle interesting
-* Finalize Thinora loot
-* Lair actions -- see Discord
-* Epilogue
-	* Nautiloid with [[Ungrudaal]]
-	* Quest for resurrection for [[Grogar, The Ironshell]]
-	* Individual characters
-		* Ember
-		* Kelward
-		* Shadowclaw
-		* Tato
+- [ ] Finalize Thinora fight
+- [ ] Figure out how to make maze battle interesting
+- [ ] Finalize Thinora loot
+- [ ] Lair actions -- see Discord
+- [ ] Epilogue
+	- [ ] Nautiloid with [[Ungrudaal]]
+	- [ ] Quest for resurrection for [[Grogar, The Ironshell]]
+	- [ ] Individual characters
+		- [ ] Ember
+		- [ ] Kelward
+		- [ ] Shadowclaw
+		- [ ] Tato
 
 ## Notes
 ## Prep
@@ -69,4 +69,4 @@
 
 ### 8. Select Magic Item Rewards
 
-* 
+* See [[20 - Experiment Chamber#Loot]]

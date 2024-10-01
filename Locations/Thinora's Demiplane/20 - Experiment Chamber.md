@@ -59,6 +59,17 @@
 
 ## Loot
 
+* On [[Lady Thinora Va'del, Archmage of Antiquity]]
+	* Jewelry
+		* Ring with [[Abbot Bok (Shimmerwing)]]
+		* Ring with [[Petyr (Pete) Archeron]]
+		* Ring with [[Lady Vess de Rogna, Archmage of Antiquity]]
+	* [Robe of the Archmagi](https://www.dndbeyond.com/magic-items/4742-robe-of-the-archmagi)
+	* [Winged Boots](https://www.dndbeyond.com/magic-items/4804-winged-boots)
+	* 
+* On Rin
+	* 
+
 ## Room Links
 
 *  [[02 - The Maw]]

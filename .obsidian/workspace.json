@@ -76,8 +76,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76a29bc4dd0beda2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 55 - The Experiment Chamber.md",
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 55 - The Experiment Chamber.md",
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 55 - The Experiment Chamber.md"
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md"
               }
             }
           },
@@ -224,17 +237,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c96dd252db1cb32",
+  "active": "76a29bc4dd0beda2",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/12 - The Angel.md",
+    "Session Notes/Session 55 - The Experiment Chamber.md",
+    "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Session Notes/Session 54 - Cages.md",
+    "Locations/Thinora's Demiplane/12 - The Angel.md",
     "NPCs/Grogar.md",
     "NPCs/Grogar, The Ironshell.md",
-    "Session Notes/Session 55 - The Experiment Chamber.md",
     "Locations/Thinora's Demiplane/02 - The Maw.md",
-    "Session Notes/Session 54 - Cages.md",
     "Session Notes/Session 09 - The Archmage of Antiquity.md",
-    "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
     "Locations/Thinora's Demiplane/15 - Staircase.md",
     "Locations/Thinora's Demiplane/05 - Clock Tower.md",
     "Locations/Thinora's Demiplane/07 - Lake.md",
