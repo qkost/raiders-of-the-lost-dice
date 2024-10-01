@@ -45,7 +45,16 @@
 	* Long debate on where to leave them
 		* Left them in [[07 - Lake]]
 		* Spellguard with them
-* 
+* Ilivarrra gave the party some information on what Thinora has been up to
+	* Studying the Sun
+	* 
+* Ascended [[15 - Staircase]]
+	* [[Shadowclaw]] got grappled
+	* [[Tato]] and [[Kelward]] flew by
+	* [[Ember]] threw up a wall of force preventing the elementals from flying by
+* Performed blood sacrifice in [[12 - The Angel]]
+	* Shadowclaw absorbed some of the blood into the shield
+* Ended in 
 ## Prep
 ### 1. Review Characters
 
