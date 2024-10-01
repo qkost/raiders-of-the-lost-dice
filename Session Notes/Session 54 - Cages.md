@@ -47,14 +47,14 @@
 		* Spellguard with them
 * Ilivarrra gave the party some information on what Thinora has been up to
 	* Studying the Sun
-	* 
+	* They were trying to assassinate her and got captured
 * Ascended [[15 - Staircase]]
 	* [[Shadowclaw]] got grappled
 	* [[Tato]] and [[Kelward]] flew by
 	* [[Ember]] threw up a wall of force preventing the elementals from flying by
 * Performed blood sacrifice in [[12 - The Angel]]
 	* Shadowclaw absorbed some of the blood into the shield
-* Ended in 
+* Ended in the entrance to [[02 - The Maw]] with the force of blood fading into the bloody floor
 ## Prep
 ### 1. Review Characters
 

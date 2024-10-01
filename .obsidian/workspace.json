@@ -47,6 +47,18 @@
             }
           },
           {
+            "id": "eaff2160457f364d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/02 - The Maw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6fe68f066401f2ac",
             "type": "leaf",
             "state": {
@@ -59,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7c8dc32d3783f122",
@@ -151,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 54 - Cages.md",
+                "file": "Locations/Thinora's Demiplane/02 - The Maw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 54 - Cages.md",
+                "file": "Locations/Thinora's Demiplane/02 - The Maw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 54 - Cages.md"
+                "file": "Locations/Thinora's Demiplane/02 - The Maw.md"
               }
             }
           },
@@ -224,7 +236,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94439598b6f840e4",
+  "active": "eaff2160457f364d",
   "lastOpenFiles": [
     "Session Notes/Session 55 - The Experiment Chamber.md",
     "Session Notes/Session 54 - Cages.md",
