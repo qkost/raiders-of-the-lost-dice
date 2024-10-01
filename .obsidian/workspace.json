@@ -23,18 +23,6 @@
             }
           },
           {
-            "id": "c39401737affbc4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e01c2b5abdf02b12",
             "type": "leaf",
             "state": {
@@ -58,24 +46,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "19e67ae1f613d916",
         "type": "tabs",
         "children": [
-          {
-            "id": "4212cd06ba16c3cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Magic Items/Vestiges of Divergence/vestiges-journal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "920fa15c5509708d",
             "type": "leaf",
@@ -123,9 +100,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c39401737affbc4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 200
   },
   "right": {
     "id": "c0b9a18b1f8d4adb",
@@ -199,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/02 - The Maw.md",
+                "file": "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/02 - The Maw.md",
+                "file": "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +227,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/02 - The Maw.md"
+                "file": "Locations/Thinora's Demiplane/17 - Guest Quarters.md"
               }
             }
           },
@@ -272,15 +260,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ad83309ce9c281f",
+  "active": "920fa15c5509708d",
   "lastOpenFiles": [
+    "Session Notes/Session 54 - Cages.md",
+    "Locations/Thinora's Demiplane/02 - The Maw.md",
     "Locations/Thinora's Demiplane/12 - The Angel.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/15 - Staircase.md",
     "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
     "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
-    "Locations/Thinora's Demiplane/02 - The Maw.md",
-    "Session Notes/Session 54 - Cages.md",
     "Magic Items/Vestiges of Divergence/vestiges-journal.md",
     "Locations/Thinora's Demiplane/01 - Foyer Entrance.md",
     "Session Notes/Session 52 - Ank'harel.md",
