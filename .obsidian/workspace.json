@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/15 - Staircase.md",
+                "file": "Session Notes/Session 54 - Cages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/15 - Staircase.md",
+                "file": "Session Notes/Session 54 - Cages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/15 - Staircase.md"
+                "file": "Session Notes/Session 54 - Cages.md"
               }
             }
           },
@@ -285,10 +285,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a28dacd89c615472",
+  "active": "e01c2b5abdf02b12",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/05 - Clock Tower.md",
     "Locations/Thinora's Demiplane/15 - Staircase.md",
+    "Locations/Thinora's Demiplane/05 - Clock Tower.md",
     "Session Notes/Session 54 - Cages.md",
     "Locations/Thinora's Demiplane/07 - Lake.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
