@@ -68,7 +68,8 @@
 	* [Winged Boots](https://www.dndbeyond.com/magic-items/4804-winged-boots)
 	* 
 * On Rin
-	* 
+	* [Condemner](https://www.dndbeyond.com/magic-items/7170925-condemner)
+	* [Flame Tongue Longsword](https://www.dndbeyond.com/magic-items/4895-flame-tongue-longsword)
 
 ## Room Links
 
