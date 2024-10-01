@@ -15,10 +15,22 @@
               "state": {
                 "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
                 "viewState": {
-                  "x": -1042.1865817653227,
-                  "y": 64.47858678462313,
+                  "x": -741.725536004014,
+                  "y": 103.89092274262828,
                   "zoom": -2.2131125137739276
                 }
+              }
+            }
+          },
+          {
+            "id": "38ae6a775f38705b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/07 - Lake.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -187,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 54 - Cages.md",
+                "file": "Locations/Thinora's Demiplane/07 - Lake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 54 - Cages.md",
+                "file": "Locations/Thinora's Demiplane/07 - Lake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,7 +239,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 54 - Cages.md"
+                "file": "Locations/Thinora's Demiplane/07 - Lake.md"
               }
             }
           },
@@ -260,13 +272,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e01c2b5abdf02b12",
+  "active": "38ae6a775f38705b",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
+    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Session Notes/Session 54 - Cages.md",
+    "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
     "Locations/Thinora's Demiplane/02 - The Maw.md",
     "Locations/Thinora's Demiplane/12 - The Angel.md",
-    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/15 - Staircase.md",
     "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
     "Magic Items/Vestiges of Divergence/vestiges-journal.md",
