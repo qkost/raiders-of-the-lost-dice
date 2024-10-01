@@ -28,18 +28,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Thinora's Demiplane/12 - The Angel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1858a43a935bc820",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Session Notes/Session 55 - The Experiment Chamber.md",
                 "mode": "source",
                 "source": false
@@ -71,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "7c8dc32d3783f122",
@@ -147,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 200
   },
   "right": {
     "id": "c0b9a18b1f8d4adb",
@@ -163,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/02 - The Maw.md",
+                "file": "Session Notes/Session 55 - The Experiment Chamber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/02 - The Maw.md",
+                "file": "Session Notes/Session 55 - The Experiment Chamber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/02 - The Maw.md"
+                "file": "Session Notes/Session 55 - The Experiment Chamber.md"
               }
             }
           },
@@ -236,16 +224,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eaff2160457f364d",
+  "active": "2c96dd252db1cb32",
   "lastOpenFiles": [
+    "Locations/Thinora's Demiplane/12 - The Angel.md",
+    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "NPCs/Grogar.md",
+    "NPCs/Grogar, The Ironshell.md",
     "Session Notes/Session 55 - The Experiment Chamber.md",
+    "Locations/Thinora's Demiplane/02 - The Maw.md",
     "Session Notes/Session 54 - Cages.md",
     "Session Notes/Session 09 - The Archmage of Antiquity.md",
-    "Locations/Thinora's Demiplane/12 - The Angel.md",
     "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
-    "Locations/Thinora's Demiplane/02 - The Maw.md",
     "Locations/Thinora's Demiplane/15 - Staircase.md",
-    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/05 - Clock Tower.md",
     "Locations/Thinora's Demiplane/07 - Lake.md",
     "Locations/Thinora's Demiplane/17 - Guest Quarters.md",
@@ -262,11 +252,8 @@
     "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md",
     "Locations/Thinora's Demiplane/16 - Arcane Armory.md",
     "Locations/Thinora's Demiplane/08 - Binding Chamber.md",
-    "Locations/Thinora's Demiplane/10 - Fountain of Youth.md",
-    "Locations/Thinora's Demiplane/03 - Carving Farm.md",
     "Maps/arcane_armory.png",
     "Maps/arcane_armory.png.crdownload",
-    "Names.md",
     "Pictures/sun_illustration.png",
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Winter_Night.jpg",
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Winter_Day.jpg",

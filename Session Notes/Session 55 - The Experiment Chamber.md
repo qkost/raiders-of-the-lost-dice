@@ -24,6 +24,15 @@
 * Finalize Thinora fight
 * Figure out how to make maze battle interesting
 * Finalize Thinora loot
+* Lair actions -- see Discord
+* Epilogue
+	* Nautiloid with [[Ungrudaal]]
+	* Quest for resurrection for [[Grogar, The Ironshell]]
+	* Individual characters
+		* Ember
+		* Kelward
+		* Shadowclaw
+		* Tato
 
 ## Notes
 ## Prep
