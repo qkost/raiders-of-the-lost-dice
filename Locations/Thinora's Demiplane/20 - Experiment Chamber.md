@@ -45,17 +45,12 @@
 	* 171 HP
 * [Rin](https://www.dndbeyond.com/monsters/4423157-rin-monisk)
 
+### Lair Actions
 
+* **Corona** - Thinora summons a radiant shield to surround them until the end of initiative count 20 of the next round. For the duration, a creature who hits the her with a melee attack must succeed on a DC 15 Wisdom saving throw or be dazed until the start of the creature’s next turn.
+* **Flare** - Thinora chooses two enemies they can see within 90 feet of the Sun. Each target must succeed on a DC 17 Constitution be blinded until initiative count 20 of the next round.
+* **Radii** - Thinora chooses two enemies they can see within 90 feet of the Sun. Each target must succeed on a DC 17 Constitution be blinded until initiative count 20 of the next round.
 
-
-* Both cast Shapechange, monster candidates
-	* Adult Red Dragon
-	* Ancient White Dragon
-	* Ancient Crystal Dragon
-	* Ancient Topaz Dragon
-* Thoughts
-	* Probably want one Dex and one Con dragonbreath
-	* Probably want one 
 
 ## Secrets
 
