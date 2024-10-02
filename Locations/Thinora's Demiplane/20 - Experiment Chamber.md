@@ -34,6 +34,8 @@
 	* Fully submerged - 18d10 fire damage
 ## Monsters
 
+[Link to DnDBeyond Encounter](https://www.dndbeyond.com/encounters/6ad7ae9a-109a-4e5a-87b1-a6fff1e0c573)
+
 * [Thinora](https://www.dndbeyond.com/monsters/3838148-lady-thinora-va-del-archmage-of-antiquity)
 	* Contingency: Greater Invisibility
 	* Warding bond

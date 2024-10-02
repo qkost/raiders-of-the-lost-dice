@@ -65,7 +65,7 @@
 
 ### 7. Choose Relevant Monsters
 
-* 
+* [Final battle with Thinora](https://www.dndbeyond.com/encounters/6ad7ae9a-109a-4e5a-87b1-a6fff1e0c573)
 
 ### 8. Select Magic Item Rewards
 
