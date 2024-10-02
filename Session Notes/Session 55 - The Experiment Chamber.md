@@ -22,9 +22,12 @@
 
 ## TODO
 - [ ] Finalize Thinora fight
+	- [ ] Stats
+	- [ ] Thinora taung
 - [ ] Figure out how to make maze battle interesting
-- [ ] Finalize Thinora loot
-- [ ] Lair actions -- see Discord
+- [x] Finalize Thinora loot
+- [x] Lair actions -- see Discord
+- [ ] Upgrade Honor's Last Stand
 - [ ] Epilogue
 	- [ ] Nautiloid with [[Ungrudaal]]
 	- [ ] Quest for resurrection for [[Grogar, The Ironshell]]
@@ -49,8 +52,12 @@
 
 ### 3. Scenes
 
-* 
-
+* Labyrinth
+* Bahamut Appearance
+	* Grant Tato one casting [Mass Heal](https://www.dndbeyond.com/spells/2182-mass-heal)
+	* Upgrade to [Honor's Last Stand (Awakened)](https://www.dndbeyond.com/homebrew/creations/view?entityTypeId=112130694&id=9107209)
+* Thinora
+	* Taunt
 ### 4. Secrets and Clues
 
 * 
@@ -70,4 +77,5 @@
 
 ### 8. Select Magic Item Rewards
 
+* [Honor's Last Stand (Awakened)](https://www.dndbeyond.com/homebrew/creations/view?entityTypeId=112130694&id=9107209)
 * See [[20 - Experiment Chamber#Loot]]
