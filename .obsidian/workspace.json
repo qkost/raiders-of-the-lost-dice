@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
+                "file": "Session Notes/Session 55 - The Experiment Chamber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
+                "file": "Session Notes/Session 55 - The Experiment Chamber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md"
+                "file": "Session Notes/Session 55 - The Experiment Chamber.md"
               }
             }
           },
@@ -237,10 +237,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76a29bc4dd0beda2",
+  "active": "2c96dd252db1cb32",
   "lastOpenFiles": [
-    "Session Notes/Session 55 - The Experiment Chamber.md",
     "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
+    "Session Notes/Session 55 - The Experiment Chamber.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Session Notes/Session 54 - Cages.md",
