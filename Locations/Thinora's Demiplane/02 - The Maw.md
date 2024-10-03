@@ -27,6 +27,10 @@
 
 ## Monsters
 
+* [Force of Blood](https://www.dndbeyond.com/monsters/4485842-force-of-blood)
+* [Gelatinous Cube](https://www.dndbeyond.com/monsters/16869-gelatinous-cube)
+* 
+
 ## Secrets
 
 ## Loot
