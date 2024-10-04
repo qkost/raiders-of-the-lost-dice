@@ -51,6 +51,14 @@ The recipient(s) agree to desecrate a three holy sites chosen by the scribe, cre
  ________
  ________
 
+THIRD PACT
+  
+The scribe, (signature burned away), agrees to grant the recipient the power to immediately cast the spell Mass Heal.  
+
+The recipient, agrees to immediately lock the claim and ownership of the everlasting soul of the recipient, invoking the laws of the pact primeval, under the control and dominance of the scribe for all of eternity, sending the soul of the recipient immediately upon death to the scribe to do with as they see fit.
+ ________
+
+
   
 DISPUTE RESOLUTION  
   
@@ -69,3 +77,5 @@ ________
  ________
 
 ![[akistos_contract2.png]]
+
+![[akistos_constract_third_pact.png]]

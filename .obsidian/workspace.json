@@ -11,14 +11,11 @@
             "id": "d48be37e5feb432c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
-                "viewState": {
-                  "x": -741.725536004014,
-                  "y": -435.1307308006791,
-                  "zoom": -2.2131125137739276
-                }
+                "file": "NPCs/Akistos.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -163,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
+                "file": "NPCs/Akistos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
+                "file": "NPCs/Akistos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md"
+                "file": "NPCs/Akistos.md"
               }
             }
           },
@@ -236,8 +233,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "76a29bc4dd0beda2",
+  "active": "d48be37e5feb432c",
   "lastOpenFiles": [
+    "NPCs/attachments/akistos_constract_third_pact.png",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
     "Locations/Thinora's Demiplane/02 - The Maw.md",
