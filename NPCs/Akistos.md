@@ -53,7 +53,7 @@ The recipient(s) agree to desecrate a three holy sites chosen by the scribe, cre
 
 THIRD PACT
   
-The scribe, (signature burned away), agrees to grant the recipient the power to immediately cast the spell Mass Heal.  
+The scribe, (signature burned away), will immediately cast the spell Mass Heal centered on a point of the recipient's choice.  
 
 The recipient, agrees to immediately lock the claim and ownership of the everlasting soul of the recipient, invoking the laws of the pact primeval, under the control and dominance of the scribe for all of eternity, sending the soul of the recipient immediately upon death to the scribe to do with as they see fit.
  ________
@@ -78,4 +78,4 @@ ________
 
 ![[akistos_contract2.png]]
 
-![[akistos_constract_third_pact2.png]]
+![[akistos_contract_thirc_pact3.png]]

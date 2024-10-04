@@ -21,13 +21,13 @@
 * Ended in the entrance to [[02 - The Maw]] with the force of blood fading into the bloody floor
 
 ## TODO
-- [ ] Finalize Thinora fight
-	- [ ] Stats
-	- [ ] Thinora taung
-- [ ] Figure out how to make maze battle interesting
+- [x] Finalize Thinora fight
+	- [x] Stats
+	- [x] Thinora taunt
+- [x] Figure out how to make maze battle interesting
 - [x] Finalize Thinora loot
 - [x] Lair actions -- see Discord
-- [ ] Upgrade Honor's Last Stand
+- [x] Upgrade Honor's Last Stand
 - [ ] Epilogue
 	- [ ] Nautiloid with [[Ungrudaal]]
 	- [ ] Quest for resurrection for [[Grogar, The Ironshell]]
@@ -42,6 +42,7 @@
 ### 1. Review Characters
 
 * [[Ember]] - 
+	* Ring
 * [[Kelward]] -
 * [[Shadowclaw]] - 
 * [[Tato]] - 
@@ -56,10 +57,12 @@
 * Bahamut Appearance
 	* Grant Tato one casting [Mass Heal](https://www.dndbeyond.com/spells/2182-mass-heal)
 	* Upgrade to [Honor's Last Stand (Awakened)](https://www.dndbeyond.com/homebrew/creations/view?entityTypeId=112130694&id=9107209)
-* Thinora
-	* Taunt
+* Thinora taunt
+	* Thank them for coming and bringing vestiges
+	* Kindly ask them to leave them and exit, they will be adequately compensated
+	* Weapon is lesser evil to end the war
 * [[Akistos]] new contract pact:
-![[akistos_constract_third_pact2.png]]
+![[akistos_contract_thirc_pact3.png]]
 ### 4. Secrets and Clues
 
 * 

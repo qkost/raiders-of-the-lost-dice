@@ -85,9 +85,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1db38d1b421a777a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Akistos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -236,9 +248,10 @@
   },
   "active": "2c96dd252db1cb32",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
-    "Session Notes/Session 55 - The Experiment Chamber.md",
     "NPCs/Akistos.md",
+    "Session Notes/Session 55 - The Experiment Chamber.md",
+    "NPCs/attachments/akistos_contract_thirc_pact3.png",
+    "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
     "NPCs/attachments/akistos_constract_third_pact2.png",
     "NPCs/attachments/akistos_constract_third_pact.png",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
@@ -264,7 +277,6 @@
     "Locations/Thinora's Demiplane/11 - Great Library.md",
     "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md",
     "Locations/Thinora's Demiplane/16 - Arcane Armory.md",
-    "Locations/Thinora's Demiplane/08 - Binding Chamber.md",
     "Maps/arcane_armory.png",
     "Maps/arcane_armory.png.crdownload",
     "Pictures/sun_illustration.png",
@@ -273,7 +285,6 @@
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Spring.jpg",
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Seaside_Night.jpg",
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Seaside_Day.jpg",
-    "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/GL_GrandDuke'sPlaza_Rain.jpg",
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)",
     "Maps/Grand Duke's Plaza [33x46] - $5 Rewards (Gridless)",
     "Maps/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/__MACOSX/Nymph Fountain [33x57] - $5 Rewards (Gridless) Part 1/Gridless",
