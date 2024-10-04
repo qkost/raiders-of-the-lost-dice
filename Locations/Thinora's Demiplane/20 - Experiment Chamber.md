@@ -21,14 +21,7 @@
 
 ## Map
 
-* Lair action
-	* 4 creatures within 60 feet of Sun
-		* Reduced by 1 for each brazier destroyed
-	* DC 17 Dex
-		* Reduced by 2 for each brazier destroyed
-	* 4d10 radiant damage, save for half
-		* Reduced by 1d10 for each brazier destroyed
-	* Fail save by 5 or more --> blinded
+* Lair action - see below
 * Falling into Sun
 	* Touch surface - 10d10 fire damage
 	* Fully submerged - 18d10 fire damage
@@ -64,7 +57,7 @@
 		* Ring with [[Lady Vess de Rogna, Archmage of Antiquity]]
 	* [Robe of the Archmagi](https://www.dndbeyond.com/magic-items/4742-robe-of-the-archmagi)
 	* [Winged Boots](https://www.dndbeyond.com/magic-items/4804-winged-boots)
-	* 
+	* [Grimoire Infinitus](https://www.dndbeyond.com/magic-items/9118081-grimoire-infinitus-rotld-dormant)
 * On Rin
 	* [Condemner](https://www.dndbeyond.com/magic-items/7170925-condemner)
 	* [Flame Tongue Longsword](https://www.dndbeyond.com/magic-items/4895-flame-tongue-longsword)
