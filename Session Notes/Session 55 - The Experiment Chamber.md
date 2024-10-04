@@ -42,10 +42,16 @@
 ### 1. Review Characters
 
 * [[Ember]] - 
-	* Ring
+	* Ring to bring back [[Petyr (Pete) Archeron]]
+	* He apologizes, he got in over his head
 * [[Kelward]] -
+	* Pirate crew
+	* Reflecting on pearl
 * [[Shadowclaw]] - 
+	* Cackling laughter, seems [[No Name]] is getting more crazy and jealous of [[Bahamut, The Platinum Dragon]]
 * [[Tato]] - 
+	* Ring to bring back [[Abbot Bok (Shimmerwing)]]
+	* Rank of Dragon, Shimmerwing considers him an equal
 
 ### 2. Strong Start
 
@@ -63,6 +69,11 @@
 	* Weapon is lesser evil to end the war
 * [[Akistos]] new contract pact:
 ![[akistos_contract_thirc_pact3.png]]
+* End with one of
+	* Kelward
+		* Reflecting on Pearl
+		* Nautiloid with [[Ungrudaal]] chasing down [[Kelward]]
+	* Whoever's soul [[Akistos]] owns ordering them to bring the a Tear of [[Desirat, The Twilight Phoenix]] to Mt. Mentiri
 ### 4. Secrets and Clues
 
 * 

@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "5e1b37980c601ede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gods/Desirat, The Twilight Phoenix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "eaff2160457f364d",
             "type": "leaf",
             "state": {
@@ -248,8 +260,10 @@
   },
   "active": "2c96dd252db1cb32",
   "lastOpenFiles": [
-    "NPCs/Akistos.md",
+    "Gods/Desirat, The Twilight Phoenix.md",
     "Session Notes/Session 55 - The Experiment Chamber.md",
+    "Gods/No Name.md",
+    "NPCs/Akistos.md",
     "NPCs/attachments/akistos_contract_thirc_pact3.png",
     "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
     "NPCs/attachments/akistos_constract_third_pact2.png",
@@ -276,7 +290,6 @@
     "Locations/Thinora's Demiplane/19 - Courtyard.md",
     "Locations/Thinora's Demiplane/11 - Great Library.md",
     "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md",
-    "Locations/Thinora's Demiplane/16 - Arcane Armory.md",
     "Maps/arcane_armory.png",
     "Maps/arcane_armory.png.crdownload",
     "Pictures/sun_illustration.png",
