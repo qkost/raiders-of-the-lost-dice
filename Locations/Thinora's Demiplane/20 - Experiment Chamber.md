@@ -44,6 +44,8 @@
 * [Shimmerwing Simulacrum](https://www.dndbeyond.com/monsters/16772-adult-silver-dragon)
 	* 171 HP
 * [Rin](https://www.dndbeyond.com/monsters/4423157-rin-monisk)
+* [Spellguard](https://www.dndbeyond.com/monsters/4485983-radlee-thugram)
+* [Devil Legate](https://www.dndbeyond.com/monsters/4485819-devil-legate)
 
 ### Lair Actions
 

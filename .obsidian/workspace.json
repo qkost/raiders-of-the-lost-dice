@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 55 - The Experiment Chamber.md",
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 55 - The Experiment Chamber.md",
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 55 - The Experiment Chamber.md"
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md"
               }
             }
           },
@@ -234,15 +234,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c96dd252db1cb32",
+  "active": "76a29bc4dd0beda2",
   "lastOpenFiles": [
+    "Session Notes/Session 55 - The Experiment Chamber.md",
     "NPCs/Akistos.md",
     "NPCs/attachments/akistos_constract_third_pact2.png",
     "NPCs/attachments/akistos_constract_third_pact.png",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
     "Locations/Thinora's Demiplane/02 - The Maw.md",
-    "Session Notes/Session 55 - The Experiment Chamber.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Session Notes/Session 54 - Cages.md",
     "Locations/Thinora's Demiplane/12 - The Angel.md",
