@@ -58,6 +58,8 @@
 	* Upgrade to [Honor's Last Stand (Awakened)](https://www.dndbeyond.com/homebrew/creations/view?entityTypeId=112130694&id=9107209)
 * Thinora
 	* Taunt
+* [[Akistos]] new contract pact:
+![[akistos_constract_third_pact2.png]]
 ### 4. Secrets and Clues
 
 * 

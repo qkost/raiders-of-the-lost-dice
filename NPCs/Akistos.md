@@ -78,4 +78,4 @@ ________
 
 ![[akistos_contract2.png]]
 
-![[akistos_constract_third_pact.png]]
+![[akistos_constract_third_pact2.png]]
