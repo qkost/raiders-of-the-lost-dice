@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d48be37e5feb432c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Akistos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2c96dd252db1cb32",
             "type": "leaf",
             "state": {
@@ -32,38 +20,17 @@
             }
           },
           {
-            "id": "5e1b37980c601ede",
+            "id": "823b5be6c2d21509",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Gods/Desirat, The Twilight Phoenix.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eaff2160457f364d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/02 - The Maw.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fe68f066401f2ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 09 - The Archmage of Antiquity.md",
-                "mode": "source",
-                "source": false
+                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+                "viewState": {
+                  "x": -100,
+                  "y": -6,
+                  "zoom": -2.838286781609495
+                }
               }
             }
           }
@@ -75,6 +42,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "1753083b890ec72b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/02 - The Maw.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "672d2df56cf9d7b3",
             "type": "leaf",
             "state": {
@@ -85,44 +64,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "94439598b6f840e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 54 - Cages.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76a29bc4dd0beda2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1db38d1b421a777a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Akistos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -271,18 +215,18 @@
   },
   "active": "672d2df56cf9d7b3",
   "lastOpenFiles": [
+    "Locations/Thinora's Demiplane/02 - The Maw.md",
+    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
+    "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
+    "Session Notes/Session 54 - Cages.md",
+    "NPCs/Akistos.md",
     "Session Notes/Session 55 - The Experiment Chamber.md",
     "Gods/Desirat, The Twilight Phoenix.md",
     "Gods/No Name.md",
-    "NPCs/Akistos.md",
     "NPCs/attachments/akistos_contract_thirc_pact3.png",
-    "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
     "NPCs/attachments/akistos_constract_third_pact2.png",
     "NPCs/attachments/akistos_constract_third_pact.png",
-    "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
-    "Locations/Thinora's Demiplane/02 - The Maw.md",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
-    "Session Notes/Session 54 - Cages.md",
     "Locations/Thinora's Demiplane/12 - The Angel.md",
     "NPCs/Grogar.md",
     "NPCs/Grogar, The Ironshell.md",
@@ -300,7 +244,6 @@
     "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
     "Locations/Thinora's Demiplane/19 - Courtyard.md",
     "Locations/Thinora's Demiplane/11 - Great Library.md",
-    "Locations/Thinora's Demiplane/06 - Temporal Isolation Chamber.md",
     "Maps/arcane_armory.png",
     "Maps/arcane_armory.png.crdownload",
     "Pictures/sun_illustration.png",
