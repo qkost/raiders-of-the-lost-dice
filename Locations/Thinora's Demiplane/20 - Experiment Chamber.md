@@ -49,7 +49,7 @@
 * **Radiant Bolt** - Thinora chooses two enemies they can see within 90 feet of the Sun. Each target must succeed on a DC 17 Dex saving throw or take 19 (3d12) radiant damage.
 
 
-* Destroying brazier (AC 17, 25 HP, immunity to psychic, poison, and radiant damage)
+* Destroying brazier (AC 17, 35 HP, immunity to psychic, poison, and radiant damage)
 
 ## Secrets
 
