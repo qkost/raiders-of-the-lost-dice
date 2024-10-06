@@ -4,18 +4,19 @@
 ## Description
 
 * Spiral staircase around the room
+	* 40 foot drop
 * Large pool in the middle
-* Silver dragon suspended in a ethereal cage above the pool
-* Sacrifice of magical items
-	* 3 lit braziers
+	* Silver dragon suspended in a ethereal cage above the pool
+	* 3 lit braziers around outside
 		* Hide of the Feral Guardian
 		* Agony
 		* Danoth's visor
 	* 3 unlit braziers
-	* Destroying brazier (AC 17, 25 HP, immunity to psychic, poison, and radiant damage)
-		* Reduces size of Sun by 10 feet
-		* Reduces damage by 1d10
-		* Lowers DC by 1
+* Perced on the opposite side of the spiral staircase is a silver dragon with a man mounted on it's back
+	* Rin
+	* Holding a crossbow with a sword on his back
+* On the opposite side of the pool is Thinora
+	* A tether between her and Shimmerwing, reminiscent of 
 
 ## Map
 
@@ -44,6 +45,9 @@
 * **Corona** - Thinora summons a radiant shield to surround them until the end of initiative count 20 of the next round. For the duration, a creature who hits the her with a melee attack must succeed on a DC 15 Wisdom saving throw or be dazed until the start of the creature’s next turn.
 * **Flare** - Thinora chooses two enemies they can see within 90 feet of the Sun. Each target must succeed on a DC 17 Constitution saving throw or be blinded until initiative count 20 of the next round.
 * **Radiant Bolt** - Thinora chooses two enemies they can see within 90 feet of the Sun. Each target must succeed on a DC 17 Dex saving throw or take 19 (3d12) radiant damage.
+
+
+* Destroying brazier (AC 17, 25 HP, immunity to psychic, poison, and radiant damage)
 
 ## Secrets
 
