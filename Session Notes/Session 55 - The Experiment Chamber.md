@@ -61,7 +61,8 @@
 
 * Labyrinth
 * Bahamut Appearance
-	* Grant Tato one casting [Mass Heal](https://www.dndbeyond.com/spells/2182-mass-heal)
+	* Tato is a true dragon
+	* Grant party short rest
 	* Upgrade to [Honor's Last Stand (Awakened)](https://www.dndbeyond.com/homebrew/creations/view?entityTypeId=112130694&id=9107209)
 * Thinora taunt
 	* Thank them for coming and bringing vestiges
