@@ -75,6 +75,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "672d2df56cf9d7b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "94439598b6f840e4",
             "type": "leaf",
             "state": {
@@ -110,8 +122,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 55 - The Experiment Chamber.md",
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 55 - The Experiment Chamber.md",
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 55 - The Experiment Chamber.md"
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md"
               }
             }
           },
@@ -258,10 +269,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c96dd252db1cb32",
+  "active": "672d2df56cf9d7b3",
   "lastOpenFiles": [
-    "Gods/Desirat, The Twilight Phoenix.md",
     "Session Notes/Session 55 - The Experiment Chamber.md",
+    "Gods/Desirat, The Twilight Phoenix.md",
     "Gods/No Name.md",
     "NPCs/Akistos.md",
     "NPCs/attachments/akistos_contract_thirc_pact3.png",
