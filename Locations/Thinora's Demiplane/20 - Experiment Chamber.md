@@ -5,6 +5,7 @@
 
 * Spiral staircase around the room
 	* 40 foot drop
+	* Decapitated statues of angels line the alcoves of the ground level
 * Large pool in the middle
 	* Silver dragon suspended in a ethereal cage above the pool
 	* 3 lit braziers around outside
@@ -16,7 +17,8 @@
 	* Rin
 	* Holding a crossbow with a sword on his back
 * On the opposite side of the pool is Thinora
-	* A tether between her and Shimmerwing, reminiscent of 
+	* Flying 10 feet above the ground
+	* A tether between her and Shimmerwing, reminiscent of the Warding Bond you saw earlier
 
 ## Map
 
