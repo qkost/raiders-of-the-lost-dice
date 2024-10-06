@@ -6,7 +6,7 @@
 * Spiral staircase around the room
 * Large pool in the middle
 * Sacrifice of magical items
-	* 4 lit braziers
+	* 3 lit braziers
 		* Hide of the Feral Guardian
 		* Agony
 		* Infiltrator's Key
