@@ -43,7 +43,7 @@
 * 
 * **Corona** - Thinora summons a radiant shield to surround them until the end of initiative count 20 of the next round. For the duration, a creature who hits the her with a melee attack must succeed on a DC 15 Wisdom saving throw or be dazed until the start of the creature’s next turn.
 * **Flare** - Thinora chooses two enemies they can see within 90 feet of the Sun. Each target must succeed on a DC 17 Constitution saving throw or be blinded until initiative count 20 of the next round.
-* **Radiant Bolt** - Thinora chooses two enemies they can see within 90 feet of the Sun. Each target must succeed on a DC 17 Dex saving throw or take 19 (3d12) necrotic damage as the lair absorbs a sliver of their soul.
+* **Radiant Bolt** - Thinora chooses two enemies they can see within 90 feet of the Sun. Each target must succeed on a DC 17 Dex saving throw or take 19 (3d12) radiant damage.
 
 ## Secrets
 
