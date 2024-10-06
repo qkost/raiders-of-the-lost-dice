@@ -64,7 +64,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 55 - The Experiment Chamber.md",
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 55 - The Experiment Chamber.md",
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 55 - The Experiment Chamber.md"
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md"
               }
             }
           },
@@ -211,10 +212,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c96dd252db1cb32",
+  "active": "672d2df56cf9d7b3",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/02 - The Maw.md",
     "Session Notes/Session 55 - The Experiment Chamber.md",
+    "Locations/Thinora's Demiplane/02 - The Maw.md",
     "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Session Notes/Session 54 - Cages.md",
