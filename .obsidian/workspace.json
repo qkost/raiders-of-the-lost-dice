@@ -6,6 +6,7 @@
       {
         "id": "0c9da260e0112c86",
         "type": "tabs",
+        "dimension": 48.15126050420168,
         "children": [
           {
             "id": "2c96dd252db1cb32",
@@ -18,40 +19,14 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "823b5be6c2d21509",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
-                "viewState": {
-                  "x": -100,
-                  "y": 825.3854489164088,
-                  "zoom": -2.838286781609495
-                }
-              }
-            }
           }
         ]
       },
       {
         "id": "7c8dc32d3783f122",
         "type": "tabs",
+        "dimension": 51.84873949579833,
         "children": [
-          {
-            "id": "1753083b890ec72b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Thinora's Demiplane/02 - The Maw.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "672d2df56cf9d7b3",
             "type": "leaf",
@@ -138,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 55 - The Experiment Chamber.md",
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 55 - The Experiment Chamber.md",
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 55 - The Experiment Chamber.md"
+                "file": "Locations/Thinora's Demiplane/20 - Experiment Chamber.md"
               }
             }
           },
@@ -211,7 +186,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2c96dd252db1cb32",
+  "active": "672d2df56cf9d7b3",
   "lastOpenFiles": [
     "Locations/Thinora's Demiplane/02 - The Maw.md",
     "Session Notes/Session 55 - The Experiment Chamber.md",
