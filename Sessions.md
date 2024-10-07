@@ -2,6 +2,6 @@
 
 ```dataview
 LIST
-FROM "Sessions Notes"
+FROM "Session Notes"
 ```
 
