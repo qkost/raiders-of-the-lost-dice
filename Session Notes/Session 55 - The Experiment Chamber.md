@@ -51,6 +51,11 @@
 	* [[Shadowclaw]]
 		* Spent time training militia in [[Talonstadt]]
 		* Able to form a strong defense and protect the innocent there
+		* Through deeds, gain influence with those in power in the [[Dwendalian Empire]] and perhaps can catch the ear of the right people to sue for peace
+		* Vestige awakened
+	* [[Ember]]
+		* Awakened [[Lady Thinora Va'del, Archmage of Antiquity]]
+		* 
 	* [[Kelward]]
 	* 
 ## Prep
