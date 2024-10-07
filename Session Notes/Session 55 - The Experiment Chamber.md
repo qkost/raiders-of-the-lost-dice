@@ -45,8 +45,19 @@
 * The final confrontation
 	* A moral debate
 		* Thinora argued ending the war with this weapon will save lifes
-		* The party argued 
-	* asdf
+		* The party argued that she was doing it for selfish reasons to gain power and for revenge
+	* Battle setup
+		* [[Lady Thinora Va'del, Archmage of Antiquity]] flying
+		* Rin Monish riding a simulacrum of [[Abbot Bok (Shimmerwing)]]
+		* [[Abbot Bok (Shimmerwing)]] force-caged in the center of a pool of blood
+		* Three glowing braziers
+	* Major events
+		* Tato turned into a Silver Dragon
+		* [[Kelward]] took potion of speed and oil of sharpness, did some crazy movement shenanigans
+		* [[Ember]] threw out a Finger of Death
+		* Thinora landed a chain lightning
+		
+		* Tato knocked Rin off of Dragon
 * Denouement
 	* [[Tato]]
 		* Recognized as an equal by [[Abbot Bok (Shimmerwing)]]
