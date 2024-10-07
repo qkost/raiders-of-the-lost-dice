@@ -6,3 +6,4 @@
 * Woships [[Kord, The Storm Lord]]
 * Massive anchor flail
 * From Bwalli
+* Has an ex-wife and a kid

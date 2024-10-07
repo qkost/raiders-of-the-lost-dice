@@ -38,6 +38,21 @@
 		- [ ] Tato
 
 ## Notes
+
+* The Maw
+	* [[Tato]] led off and ran into a Gelatinous Cube, was easily able to avoid getting sucked in
+	* After being slowed down by the cube [[Ember]] banished the blood elemental with clutch silvery barbs from [[Kelward]]
+* Denouement
+	* [[Tato]]
+		* Recognized as an equal by [[Abbot Bok (Shimmerwing)]]
+		* Spent time reaching out to [[Zunda'i-Miir]] and [[J'mon Sa Ord (Devo'ssa)]] to learn and expand the connections of the monastery
+		* Pursuing reviving [[Grogar, The Ironshell]], and gave [[Ember]] the vial of his ashes
+		* Tracked down [[Grogar, The Ironshell]]'s former family on the island of Bwalli
+	* [[Shadowclaw]]
+		* Spent time training militia in [[Talonstadt]]
+		* Able to form a strong defense and protect the innocent there
+	* [[Kelward]]
+	* 
 ## Prep
 ### 1. Review Characters
 
