@@ -70,8 +70,7 @@
 		* [[Kelward]] used Blades of the Moonweaver to take [[Abbot Bok (Shimmerwing)]] out of forcecage
 		* [[Kelward]] threw out a clutch Faerie Fire
 		* Thinora wore down [[Tato]]'s dragon form with repeated cantrips and lighting attacks
-		* [[Ember]] landed the killing blow with a Blight spell, knocking Thinora out of dragon form and the left over damage w
-
+		* [[Ember]] landed the killing blow with a Blight spell, knocking Thinora out of dragon form and the left over damage was enough
 * Denouement
 	* [[Tato]]
 		* Recognized as an equal by [[Abbot Bok (Shimmerwing)]]
