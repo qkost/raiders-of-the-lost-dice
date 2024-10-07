@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 55 - The Experiment Chamber.md",
+                "file": "NPCs/Grogar, The Ironshell.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 55 - The Experiment Chamber.md",
+                "file": "NPCs/Grogar, The Ironshell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 55 - The Experiment Chamber.md",
+                "file": "NPCs/Grogar, The Ironshell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 55 - The Experiment Chamber.md"
+                "file": "NPCs/Grogar, The Ironshell.md"
               }
             }
           },
@@ -188,8 +188,10 @@
   },
   "active": "2c96dd252db1cb32",
   "lastOpenFiles": [
-    "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
+    "NPCs/Grogar.md",
+    "NPCs/Grogar, The Ironshell.md",
     "Session Notes/Session 55 - The Experiment Chamber.md",
+    "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
     "Locations/Thinora's Demiplane/02 - The Maw.md",
     "Locations/Thinora's Demiplane/00 Thinora's Demiplane.canvas",
     "Session Notes/Session 54 - Cages.md",
@@ -201,8 +203,6 @@
     "NPCs/attachments/akistos_constract_third_pact.png",
     "NPCs/Lady Thinora Va'del, Archmage of Antiquity.md",
     "Locations/Thinora's Demiplane/12 - The Angel.md",
-    "NPCs/Grogar.md",
-    "NPCs/Grogar, The Ironshell.md",
     "Session Notes/Session 09 - The Archmage of Antiquity.md",
     "Locations/Thinora's Demiplane/15 - Staircase.md",
     "Locations/Thinora's Demiplane/05 - Clock Tower.md",
