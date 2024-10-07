@@ -42,6 +42,11 @@
 * The Maw
 	* [[Tato]] led off and ran into a Gelatinous Cube, was easily able to avoid getting sucked in
 	* After being slowed down by the cube [[Ember]] banished the blood elemental with clutch silvery barbs from [[Kelward]]
+* The final confrontation
+	* A moral debate
+		* Thinora argued ending the war with this weapon will save lifes
+		* The party argued 
+	* asdf
 * Denouement
 	* [[Tato]]
 		* Recognized as an equal by [[Abbot Bok (Shimmerwing)]]
@@ -64,7 +69,12 @@
 			* Returned to Rexxentrum with [[Ember]]
 		* Ember performs some research on how to revive [[Grogar, The Ironshell]]
 	* [[Kelward]]
-		* Take
+		* Takes some mixed lessons from this adventure
+		* Seeks to continue to gain power and influence in the hopes to prevent people like [[Lady Thinora Va'del, Archmage of Antiquity]] from being able to cause harm
+		* Sought to become the new Plank King and sail the seas
+		* Will seek out to free Marya from the pearl, but perhaps the victory may seem more hollow after all he has been through
+		* Bought an airship
+	* On another adventure, with all of the adventurers together again [[Ungrudaal]] apparated behind them in a Nautiloid ship
 ## Prep
 ### 1. Review Characters
 

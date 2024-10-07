@@ -38,8 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5004c3708c9a0949",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PCs/Kelward.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,9 +201,10 @@
   },
   "active": "0ac332f4646c8d72",
   "lastOpenFiles": [
+    "PCs/Kelward.md",
+    "Session Notes/Session 55 - The Experiment Chamber.md",
     "README.md",
     "Sessions.md",
-    "Session Notes/Session 55 - The Experiment Chamber.md",
     "NPCs/Grogar, The Ironshell.md",
     "NPCs/Grogar.md",
     "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
@@ -217,7 +231,6 @@
     "Session Notes/Session 50 - The Devil You Know.md",
     "Session Notes/Session 53 - The Beginning of the End.md",
     "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
-    "Locations/Thinora's Demiplane/19 - Courtyard.md",
     "Maps/arcane_armory.png",
     "Maps/arcane_armory.png.crdownload",
     "Pictures/sun_illustration.png",
