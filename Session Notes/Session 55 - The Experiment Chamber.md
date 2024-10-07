@@ -55,14 +55,23 @@
 			* Warding Bond with Shimmerwing (Shimmerwing took half of her damage)
 			* Legendary action spellcasting
 			* Magic Resistance and resistance to damage from spells
-	* Major events
+	* Major events - early battle
 		* Tato turned into a Silver Dragon
 		* [[Kelward]] took potion of speed and oil of sharpness, did some crazy movement shenanigans
-		* [[Ember]] threw out a Finger of Death
+		* [[Ember]] threw out a Bigby's hand and threw Thinora into the force cage
+		* Ember cast the 7th level spell Finger of Death
 		* Thinora landed some chain lightnings
 		* [[Tato]] knocked Rin off of Dragon
 		* [[Kelward]] threw out a T-Rex, which fought Rin the whole time
-		* 
+		* [[Shadowclaw]] landed a hit with the Blade of the Sentinel, coated with purple worm poison, and channeling the power of Honor's Last Stand. Nearly outright killed Thinora
+		* Good teamwork to take out braziers and remove sun damage that nearly killed [[Abbot Bok (Shimmerwing)]]
+	* [[Lady Thinora Va'del, Archmage of Antiquity]] cast Shapechange to turn into an Ancient Crystal Dragon
+		* [[Shadowclaw]] dispelled warding bond
+		* [[Kelward]] used Blades of the Moonweaver to take [[Abbot Bok (Shimmerwing)]] out of forcecage
+		* [[Kelward]] threw out a clutch Faerie Fire
+		* Thinora wore down [[Tato]]'s dragon form with repeated cantrips and lighting attacks
+		* [[Ember]] landed the killing blow with a Blight spell, knocking Thinora out of dragon form and the left over damage w
+
 * Denouement
 	* [[Tato]]
 		* Recognized as an equal by [[Abbot Bok (Shimmerwing)]]
