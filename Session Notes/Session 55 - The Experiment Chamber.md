@@ -54,10 +54,17 @@
 		* Through deeds, gain influence with those in power in the [[Dwendalian Empire]] and perhaps can catch the ear of the right people to sue for peace
 		* Vestige awakened
 	* [[Ember]]
-		* Awakened [[Lady Thinora Va'del, Archmage of Antiquity]]
-		* 
+		* Dispelled ring - [[Lady Vess de Rogna, Archmage of Antiquity]]
+			* [[Lady Thinora Va'del, Archmage of Antiquity]]'s old teacher
+			* Vess was interested in the icosahedron
+			* Offered to explore it with [[Ember]] and uncoveer it's secrets
+		* Dispelled ring - [[Petyr (Pete) Archeron]]
+			* Happy to see [[Ember]], but a cool meeting with [[Ember]] not accepting his hug
+			* Seemed happy to see Ember but equally interested in all the magical happenings she had learned
+			* Returned to Rexxentrum with [[Ember]]
+		* Ember performs some research on how to revive [[Grogar, The Ironshell]]
 	* [[Kelward]]
-	* 
+		* Take
 ## Prep
 ### 1. Review Characters
 

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sessions.md",
+                "file": "Session Notes/Session 55 - The Experiment Chamber.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sessions.md",
+                "file": "Session Notes/Session 55 - The Experiment Chamber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sessions.md",
+                "file": "Session Notes/Session 55 - The Experiment Chamber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sessions.md"
+                "file": "Session Notes/Session 55 - The Experiment Chamber.md"
               }
             }
           },
@@ -188,9 +188,10 @@
   },
   "active": "0ac332f4646c8d72",
   "lastOpenFiles": [
+    "README.md",
+    "Sessions.md",
     "Session Notes/Session 55 - The Experiment Chamber.md",
     "NPCs/Grogar, The Ironshell.md",
-    "Sessions.md",
     "NPCs/Grogar.md",
     "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
     "Locations/Thinora's Demiplane/02 - The Maw.md",
@@ -217,7 +218,6 @@
     "Session Notes/Session 53 - The Beginning of the End.md",
     "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
     "Locations/Thinora's Demiplane/19 - Courtyard.md",
-    "Locations/Thinora's Demiplane/11 - Great Library.md",
     "Maps/arcane_armory.png",
     "Maps/arcane_armory.png.crdownload",
     "Pictures/sun_illustration.png",
