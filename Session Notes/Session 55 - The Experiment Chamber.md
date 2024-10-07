@@ -50,14 +50,19 @@
 		* [[Lady Thinora Va'del, Archmage of Antiquity]] flying
 		* Rin Monish riding a simulacrum of [[Abbot Bok (Shimmerwing)]]
 		* [[Abbot Bok (Shimmerwing)]] force-caged in the center of a pool of blood
-		* Three glowing braziers
+		* Three glowing braziers that channeled the energy from the vestiges into a miniature Sun
+		* Thinora had defenses on defenses
+			* Warding Bond with Shimmerwing (Shimmerwing took half of her damage)
+			* Legendary action spellcasting
+			* Magic Resistance and resistance to damage from spells
 	* Major events
 		* Tato turned into a Silver Dragon
 		* [[Kelward]] took potion of speed and oil of sharpness, did some crazy movement shenanigans
 		* [[Ember]] threw out a Finger of Death
-		* Thinora landed a chain lightning
-		
-		* Tato knocked Rin off of Dragon
+		* Thinora landed some chain lightnings
+		* [[Tato]] knocked Rin off of Dragon
+		* [[Kelward]] threw out a T-Rex, which fought Rin the whole time
+		* 
 * Denouement
 	* [[Tato]]
 		* Recognized as an equal by [[Abbot Bok (Shimmerwing)]]
