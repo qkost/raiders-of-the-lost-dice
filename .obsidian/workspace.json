@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Names.md",
+                "file": "Magic Items/Magic Items.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Names"
+              "title": "Magic Items"
             }
           }
         ]
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Names.md",
+                "file": "Magic Items/Magic Items.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Names"
+              "title": "Backlinks for Magic Items"
             }
           },
           {
@@ -122,12 +122,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Names.md",
+                "file": "Magic Items/Magic Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Names"
+              "title": "Outgoing links from Magic Items"
             }
           },
           {
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Names.md"
+                "file": "Magic Items/Magic Items.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Names"
+              "title": "Outline of Magic Items"
             }
           },
           {
@@ -188,6 +188,7 @@
   },
   "active": "82e214e31928f721",
   "lastOpenFiles": [
+    "Names.md",
     "README.md",
     "Session Notes/Session 55 - The Experiment Chamber.md",
     "Locations/Thinora's Demiplane/20 - Experiment Chamber.md",
@@ -217,7 +218,6 @@
     "Session Notes/Session 51 - Questions and Answers.md",
     "Session Notes/Session 50 - The Devil You Know.md",
     "Session Notes/Session 53 - The Beginning of the End.md",
-    "Locations/Thinora's Demiplane/09 - Master Bedroom.md",
     "Maps/arcane_armory.png",
     "Maps/arcane_armory.png.crdownload",
     "Pictures/sun_illustration.png",
