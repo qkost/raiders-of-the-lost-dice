@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Akistos.md",
+                "file": "Encounters/16 Fireplane.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Akistos"
+              "title": "16 Fireplane"
             }
           },
           {
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pact",
+                "query": "contract",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,8 +210,8 @@
   },
   "active": "013737ea7f80c980",
   "lastOpenFiles": [
-    "NPCs/Malachai, The Barbed Ruin.md",
     "NPCs/Akistos.md",
+    "NPCs/Malachai, The Barbed Ruin.md",
     "Session Notes/Session 55 - The Experiment Chamber.md",
     "Encounters/16 Fireplane.md",
     "Magic Items/Magic Items.md",
